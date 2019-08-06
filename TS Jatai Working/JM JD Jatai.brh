@@ -156,11 +156,11 @@ viqyUyA#nupUqrvam dAntiq  dAntya#nupUqrvam viqyUya# |
 
 2. teq | mA | A | sthAqt |
 2J -  teq mA mA te#  teq mA |
-2G - teq mA mA te#  teq mA &&sthA$t  sthAqdA mA te#  teq mA &&sthA$t |
+2G - teq mA mA te#  teq mA &&sthA$th sthAqdA mA te#  teq mA &&sthA$t |
 
-3. mA | A | sthAqt 
-3J - mA &&sthA$t sthAqdA mA mA &&sthA$t |
-3G - mA &&mA mA&&sthA$th sthAqdA mA mA &&sthA$t |
+3. mA | A | sthAqt |  indra#sya |
+3J - mA &&sthA$t sthAqdA mA mA &&sthA$t | 
+3G - mA &&sthA$t sthAqdA mA mA &&sthAqdindraqsyendra#sya sthAqdA mA mA &&sthAqdindra#sya |
 
 4. A | sthAqt | indra#sya |
 4J - A sthA$th sthAqdA sthA$t |
@@ -194,13 +194,13 @@ bAqhuByAqmudut bAqhuByA$m bAqhuByAqmut |
 2J. saqjoSha#soq mo mo saqjoSha#soq saqjoSha#soq mo |
 2G. saqjoSha#soq mo mo saqjoSha#soq saqjoSha#soq mo ShUNo# naqs su mo saqjoSha#soq mo ShU Na#H |
 
-3. mo (pg) | su | naqH |
-3J. mo ShUNo nas su mo mo ShU NaH
-3G. mo ShU Shu mo mo ShUNo nas su mo mo ShU NaH |
+3. mo (pg) | su | naqH | iqndraq |
+3J. mo ShUNo# naqs su mo mo ShU Na#H |
+3G. mo ShUNo# naqs su mo mo ShU Na# indrENdra  naqs su mo mo ShU Na# indra   |
 
 4. su | naqH | iqndraq |
 4J. ShU No# naqs su ShU Na#H |
-4G. ShU No# naqs su ShU Na#  indra indra no naqs su ShU Na#  indra |
+4G. ShU No# naqs su ShU Na# indra indra no naqs su ShU Na#  indra |
 
 5. naqH | iqndraq | pRuqthsu# |
 5J. naq  iqndreqndraq noq noq  iqndraq |
@@ -251,9 +251,9 @@ deqvAstvastu# deva deqvAstu# |
 3J - aqjara#m  kRuqtvA  kRuqtvA &jara#maqjara#m kRuqtvA |
 3G - aqjara#m  kRuqtvA  kRuqtvA &jara#maqjara#m kRuqtvA &&dha#tte dhatteq A kRuqtvA &jara#maqjara#m kRuqtvA &&dha#tte ||
 
-4. kRuqtvA | A | dhaqtteq | ?
+4. kRuqtvA | A | dhaqtteq | atho$ (pg)
 4J - kRuqtvA &&dha#tte dhattaq A  kRuqtvA kRuqtvA &&dha#tte |
-4G. kRuqtvA &&kRuqtvA kRuqtvA &&dha#tte dhattaq A  kRuqtvA kRuqtvA &&dha#tte |
+4G. kRuqtvA &&dha#tte dhattaq A  kRuqtvA kRuqtvA &&dhaqtte &tho&tho# dhattaq A  kRuqtvA kRuqtvA &&dhaqtte &tho$  |
 
 5. A | dhaqtteq | atho$ (pg) | 
 5J-  A  dha#tte dhattaq Adha#tte | 
@@ -286,7 +286,7 @@ deqvAstvastu# deva deqvAstu# |
 1J - maiqtram kaqroti# kaqroti# maiqtram maiqtram kaqroti# 
 1G - maiqtram kaqroti# kaqroti# maiqtram maiqtram kaqroti# vAruqNyA vA#ruqNyA  kaqroti# maiqtram maiqtram kaqroti# vAruqNyA |
 
-2. kaqroti# | vAqruqNyA | RuqcA
+2. kaqroti# | vAqruqNyA | RuqcA |
 2J - kaqroti# vAruqNyA vA#ruqNyA  kaqroti#  kaqroti# vAruqNyA |
 2G - kaqroti# vAruqNyA vA#ruqNyA  kaqroti#  kaqroti# vAruqNyar.car.cA vA#ruqNyA  kaqroti#  kaqroti# vAruqNyar.cA |
 
@@ -294,9 +294,10 @@ deqvAstvastu# deva deqvAstu# |
 3J -  vAruqNyar.car.cA vA#ruqNyA vAruqNyar.cA | 
 3G - vAruqNyar.car.cA vA#ruqNyA vAruqNyar.cA &&sA#dayati sAdayaqtya.rcA vA#ruqNyA vAruqNyar.cA &&sA#dayati |
 
-4. RuqcA | A | sAqdaqyaqtiq | (RuqcA &&sA#dayati sAdayatyA? RuqcAr.cA &&sA#dayati )
+4. RuqcA | A | sAqdaqyaqtiq | svayA$ |
+(RuqcA &&sA#dayati sAdayatyA? RuqcAr.cA &&sA#dayati )
 4J - RuqcA &&sA#dayati sAdayatyAr.ca.rcA &&sA#dayati |
-4G -RuqcA ar.carcA  &&sA#dayati sAqdaqyaqtyAr.ca.rcA &&sA#dayati |?
+4G - RuqcA &&sA#dayati sAdayatyAr.ca.rcA &&sA#dayatiq svayAq svayA# sAdayatyAr.ca.rcA &&sA#dayatiq svayA$ |
 
 5. A | sAqdaqyaqtiq | svayA$ |
 5J - A sA#dayati sAdayaqtyA sA#dayati |
@@ -1348,13 +1349,13 @@ saqmathsva SvAqn prace#tasaqH prace#taqso &SvA$nth saqmathsu# |
 2J. kaqroti# vAruqNyA vA#ruqNyA kaqroti# kaqroti# vAruqNyA |
 2G. kaqroti# vAruqNyA vA#ruqNyA kaqroti# kaqroti# vAruqNyar.car.cA vA#ruqNyA kaqroti# kaqroti# vAruqNyar.cA |
 
-3. vAqruqNyA | RuqcA | A | sAqdaqyaqtiq | chk
+3. vAqruqNyA | RuqcA | A | sAqdaqyaqtiq | 
 3J. vAqruqNyarcarcA vA#ruqNyA vA#ruqNyarcA |
 3G. vAqruqNyarcarcA  vAqruqNyarcA &&sA#dayati sAdayaqtyArcA vA#ruqNyA vA#ruqNyarcA &&sAqdaqyaqtiq |
 
-4. RuqcA | A | sAqdaqyaqtiq | chk
+4. RuqcA | A | sAqdaqyaqtiq | svayA$ |
 4J. RuqcA &&sA#dayati sAdayaqtyArcarcA &&sA#dayati |
-4G. ?? repeat
+4G.RuqcA &&sA#dayati sAdayatyAr.ca.rcA &&sA#dayatiq svayAq svayA# sAdayatyAr.ca.rcA &&sA#dayatiq svayA$ |
 
 5. A | sAqdaqyaqtiq | svayA$ |
 5J. A sA#dayati sAdayaqtyA sA#dayati |
@@ -2070,10 +2071,26 @@ saqmathsva SvAqn prace#tasaqH prace#taqso &SvA$nth saqmathsu# |
 
 7.  niKA#tam |
 -----------------------------end of line in sheet 631 below new ones------------------
+
 3.2.5.1 - BakSha# | A | iqhiq | mAq | A | viqSaq | dIqrGAqyuqtvAya# | (mA &&vi#Sa viqSA mA mA &&vi#Sa ||) 
-
-
------------------------
+1. BakSha# | A | iqhiq |
+1J. BakShA BakShaq BakShA |
+1G. BakShA BakShaq BakShehIqhyA BakShaq BakShEhi# |
+2.  A | iqhiq | mAq |
+2J. ehIhyehi# |
+2G. ehIhyehi# mA mEqhyehi# mA |
+3. iqhiq | mAq | A | viqSaq |
+3j. iqhiq mAq mAq iqhIqhiq mAq |  
+3G. iqhiq mAq mAq iqhIqhiq mA vi#Sa viqSA mA# ihIhiq mA vi#Sa |
+4. mAq | A | viqSaq | dIqrGAqyuqtvAya# 
+4J. mA vi#Sa viqSA mAq mA vi#Sa |
+4G.  mA vi#Sa viqSA mAq mA vi#Sa dIrGAyuqtvAya# dIrGAyuqtvAya# viqSA mAq mA vi#Sa dIrGAyuqtvAya# |
+5. A | viqSaq | dIqrGAqyuqtvAya# 
+5J. A vi#Sa viqSA vi#Sa |
+5G.  A vi#Sa viqSA vi#Sa dIrGAyuqtvAya# dIrGAyuqtvAya# viqSA vi#Sa dIrGAyuqtvAya# |
+6. viqSaq | dIqrGAqyuqtvAya# 
+viqSaq dIqrGAqyuqtvAya# dIrGAyuqtvAya# viSa viSa dIrGAyuqtvAya# ||
+-----------------------------------------------------
 6.1.6.7 
 
 6.1.6.7	vaqdaqntiq | akU#TayA |	
