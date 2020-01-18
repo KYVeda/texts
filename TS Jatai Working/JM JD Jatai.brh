@@ -1,6 +1,7 @@
 <lang=eng> jatA maNi jatA darpaNam & Gana darpaNam examples for jata & Gana input
-<lang=def>
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(PS 8.8)<lang=eng>
+<lang=eng>
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(PS 8.8)(JM3)(GD 14)<lang=def>
+
 
 2.5.1.2 saqm~Mvaqthsaqram | aqbiqBaqH | tam | BUqtAni# | aqBi | aqkroqSaqnn |
 
@@ -196,7 +197,7 @@ Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 7. aqham
 7. aqhamityaqham
 ------------------------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = same )<lang=eng>
+<lang=eng>(Rule Dvipadam Condition = same )(JM14)(JD 8)<lang=eng>
 2.3.7.4 anna$m | aqdanti# | aqdanti# | uq | eqva | aqsyaq | maqnuqShyA$H |
 
 1. anna$m | aqdanti# | aqdanti# |
@@ -3661,7 +3662,7 @@ pauqShNyeqtenaiqtena# pauqShNI pauqShNyeqtenaq sA saitena# pauqShNI pauqShNyeqte
 ((pauShNyetenaitenapauShNIpauShNyetenasAsaitenapauShNIpauShNyetenasA))
 ---------------------------------------
 <lang=eng>(Rule Visarga Sandhi Condition =  letters = saH )<lang=eng>
-2.4.12.3	viShNva#nusthitaH | saH | aqbraqvIqt 
+2.4.12.3	viShNva#nusthitaH | saH | aqbraqvIqt |
 Ga. viShNva#nusthitaqH sa sa viShNva#nusthitoq viShNva#nusthitaH so$&bravIdabravIqth sa viShNva#nusthitoq viShNva#nusthitaH so$&bravIt |
 
 ((viShNvanusthitassasaviShNvanusthitoviShNvanusthitassobrAvIdabrAvItsa viShNvanusthitoviShNvanusthitassobrAvIt))
