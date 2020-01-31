@@ -169,7 +169,7 @@ Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 
 ((prahArhAHpraprahArAvamAva(gm)hAHpraprahArAvam))
 ---------------------
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(PS 8.8)<lang=def>
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 3)(PS 8.8)<lang=def>
 
 3.3.9.1 padams  - maqhiqmne | uqta | cakShu#She | teq | maru#tAm | piqtaqH | aqham |
 
@@ -199,7 +199,7 @@ Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 7. aqham
 7. aqhamityaqham
 ------------------------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = same )(JM14)(JD 8)(GD 46)(GD 49)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)(GD 46)(GD 49)<lang=def>
 2.3.7.4 anna$m | aqdanti# | aqdanti# | uq | eqva | aqsyaq | maqnuqShyA$H |
 
 1. anna$m | aqdanti# | aqdanti# |
@@ -228,7 +228,7 @@ Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 7. maqnuqShyA$H
 7. maqnuqShyA$ iti# manuqShyA$H |
 ---------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = same )(JM14)(JD 8)
+<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)
 (Rule Consonant Sandhi Condition = s to Sh; Word = mahi (after) )(JM14)(JD 8)<lang=def>
 3.2.8.2 - bRuhaqspata#ye | mahi# | sat | dyuqmat | nama#H | nama#H |
 
@@ -977,6 +977,13 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 
 6. yaqcCaqtiq |
 -------------------
+<lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = n )(PS 7.4,7.5)(JD 20)(GD 37)<lang=def>
+
+7.5.9.3 pra | aqnyaH | Saq(gm)qsaqtiq | 
+ja. prAnyo$ nyaH pra prAnyaH  |
+Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sati |
+
+----------
 <lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)<lang=eng>
 
 7.5.1.5  gauH | triqShTuk | Ayu#H | jaga#tI | yat | eqte | stomA$H | Bava#nti |
@@ -1250,7 +1257,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 6. suqvIrya$m
 -------------------------
-<lang=eng>(Rule Pragraha Condition = Yes SNO letters = aqddhvaqryoq (pg)(JM 34)(JD 29)(GD 56)(Words after addhvaryo elides as per PS 12.8)but check self elision during reverse order<lang=def>
+<lang=eng>(Rule Pragraha Condition = Yes SNO letters = aqddhvaqryoq (pg)(JM 34)(JD 29)(GD 56)(Words after addhvaryo,ayo,krato elides as per PS 12.8 in ArSheyam pragraha)but check self elision during reverse order<lang=def>
 
 2.5.9.6 -  jaqnaqyeqt | GRuqtava#tIm | aqddhvaqryoq (pg) | sruca$m | A | aqsyaqsvaq | iti# |
 
@@ -1334,36 +1341,40 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 6. yat |
 --------------------------
-<lang=eng>(Rule Vowel Sandhi Condition = ai letters =  )(JM 31)(JD50)(GD 18)(PS 5.19 Check)<lang=def>
-Pending
+<lang=eng>(Rule Vowel Sandhi Condition = ai letters =  )(JM 31)(JD50)(GD 18)(PS 5.19 Check)
+(Rule Swara Sandhi Condition =  letters =  )praSliShta<lang=def>
+
 7.5.8.4 - Uqhaqtiq | diqkShu | eqva | prati# | tiqShThaqntiq | ekai#kayA | astu#tayA | saqmAya#nti |
+1. Uqhaqtiq | diqkShu | eqva |
+1ja.  Uqhaqtiq diqkShu diqkShU#hatyUhati diqkShu |
+1.Ga. Uqhaqtiq diqkShu diqkShU#hatyUhati diqkShve#vaiva diqkShU#hatyUhati diqkShve#va |
+2. diqkShu | eqva | prati# |
+2J. diqkShve#vaiva diqkShu diqkShve#va |
+2G - diqkShve#vaiva diqkShu diqkShve#vaq pratiq pratyeqva diqkShu diqkShve#vaq prati# |
 
-1. diqkShu | eqva | prati# |
-1J. diqkShve#vaiqva diqkShu diqkShve#va |
-1G - diqkShve#vaiqva diqkShu diqkShve#vaq pratiq pratyeqva diqkShu diqkShve#vaq prati# |
+3. eqva | prati# | tiqShThaqntiq
+3J. eqva pratiq pratyeqvaiva prati# |
+3G. eqva pratiq pratyeqvaiva prati# tiShThanti tiShThantiq pratyeqvaiva prati# tiShThanti |
 
-2. eqva | prati# | tiqShThaqntiq
-2J. eqva pratiq pratyeqvaiva prati# |
-2G. eqva pratiq pratyeqvaiva prati# tiShThanti tiShThantiq pratyeqvaiva prati# tiShThanti |
+4. prati# | tiqShThaqntiq | ekai#kayA |
+4J. prati# tiShThanti tiShThantiq pratiq prati#tiShThanti |
+4G. prati# tiShThanti tiShThantiq pratiq prati#tiShThaqntyekai#kaqyaikai#kayA tiShThantiq pratiq prati#tiShThaqntyekai#kayA |
 
-3. prati# | tiqShThaqntiq | ekai#kayA |
-3J. prati# tiShThanti tiShThantiq pratiq prati#tiShThanti |
-3G. prati# tiShThanti tiShThantiq pratiq prati#tiShThaqntyekai#kaqyaikai#kayA tiShThantiq pratiq prati#tiShThaqntyekai#kayA |
+5. tiqShThaqntiq | ekai#kayA | astu#tayA |
+5J - tiShThaqntyekai#kaqyaikai#kayA tiShThantiq tiShThaqntyekai#kayA |
+5G - tiShThaqntyekai#kaqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#taqyA &stu#taqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#tayA |
 
-4. tiqShThaqntiq | ekai#kayA | astu#tayA |
-4J - tiShThaqntyekai#kaqyaikai#kayA tiShThantiq tiShThaqntyekai#kayA |
-4G - tiShThaqntyekai#kaqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#taqyA &stu#taqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#tayA |
+6.  ekai#kayA | astu#tayA | saqmAya#nti |
+6J. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA |
+6G. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti saqmAyaqntya,stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti |
 
-5.  ekai#kayA | astu#tayA | saqmAya#nti |
-5J. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA |
-5G. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti saqmAyaqntya,stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti |
+7. astu#tayA | saqmAya#nti |
+7. astu#tayA saqmAya#nti saqmAyaqntyastu#taqyA &stu#tayA |
 
-6. astu#tayA | saqmAya#nti |
-6. astu#tayA saqmAya#nti saqmAyaqntyastu#taqyA &stu#tayA |
-
-7. saqmAya#nti
+8. saqmAya#nti
 -------------------------
 <lang=eng>(Rule avagraha Condition = Yes RNE letters = naH, agnayaH )(JM 25) JD 28)(GD 56)(PS 12.7 word agnayaH elides and (PS 12.8) letter following also elides)
+(Read rule dvipadam with 'a' for elision if one elides another does not JM 25)
 (Rule avagraha Condition = No RNE SE letters = agnayaH papra#yaH )<lang=def>
 
 1.7.7.2 - iqndriqyAvA#n | paqtaqtrI | te | naqH | aqgnaya#H | papra#yaH | pAqraqyaqntuq |
@@ -1392,7 +1403,7 @@ Pending
 
 7. pAqraqyaqntuq
 -------------------------------------------
-<lang=eng>(Rule avagraha Condition = Yes SNE letters = agnayaH,aqnvata#pyaqnta)(JM 16) (JD3)(JD 31)(GD 56)<lang=eng>
+<lang=eng>(Rule avagraha Condition = Yes SNE letters = agnayaH,aqnvata#pyaqnta)(JM 16) (JD3)(JD 31)(GD 56)(PS 12-8)<lang=eng>
 
 3.2.8.3 - AqnRuqhuH | yAn | aqgnaya#H | aqnvata#pyaqnta | dhiShNi#yAH | iqyam |
 1. AqnRuqhuH | yAn | aqgnaya#H | (JD 31)
@@ -1618,7 +1629,9 @@ Pending
 --------------------------------------------
 <lang=eng>(Rule avagraha Condition = No  letters = rathaH, anu)(PS 11.5)
 (Rule avagraha Condition = No RNE letters = anu, gAvaH)(JM 21) (JD30)(GD 55)
-(Rule avagraha Condition = Yes letters = gAvaH,anu)(JM 22)(JD 30)(GD 55)<lang=def>
+(if u kara becomes va kara, after a no lopa decider is ka varga)
+(Rule avagraha Condition = Yes letters = gAvaH,anu)(JM 22)(JD 30)(GD 55)
+( similar condition it elides if the mantra has elision in SamhitA)<lang=def>
 
 
 4.6.7.3 - ratha#H | anu# | marya#H | aqrvaqnn | anu# | gAva#H | anu# | Baga#H | 
@@ -1755,7 +1768,7 @@ reference to be added from vyaakyaanam in JM(JD 36)<lang=def>
 
 6. A |
 --------------------------
-<lang=eng>(Rule avagraha Condition =  letters = )(JM 18, JD 29)(GD 56)<lang=eng>
+<lang=eng>(Rule avagraha Condition = A kara vilome lopa  letters = )(JM 18, JD 29)(GD 56)<lang=eng>
 
 4.6.6.5 - upa# | jiqGnaqteq | aSvA#jani | prace#tasaH | aSvAn# | saqmathsu# |
 
@@ -1891,6 +1904,18 @@ saqmathsva SvAqn prace#tasaqH prace#taqso &SvA$nth saqmathsu# |
 
 6. svAhA$ |
 ----------------------------------------------------------------
+<lang=eng>(Rule Vowel Sandhi Condition =  letters = becomes )(GD 65)<lang=def>
+6.3.1.2 - Aqhaq | agnI$t | aqgnIn | (GD 65)
+
+
+
+-----------------------------------
+<lang=eng>(Rule Consonant Condition = Swarabhakti  letters = n.h)(GD 65)<lang=def>
+1.5.4.4 eqtAn | homAn# | aqjuqhaqvuqH |(GD 65)
+
+
+
+-------------
 <lang=eng>(Rule Vowel Sandhi Condition = Ru letters =pra becomes prA )(JM 56)(GD 52)<lang=def>
 
 6.5.3.2 - yata#H | RuqtUqnAm | muKa$m | RuqtunA$ | pra | iqShyaq | 
@@ -2713,7 +2738,7 @@ vasaqtu nu nu vasaqtuvasaqtu nu ||
 varu#Naqstu tu varu#Noq varu#Naqstu ||
 varu#Naqstu tuvaru#Noqvaru#Naq stvena#meqnam varu#Noq varu#Naqstvena$m ||
 -----------------------------------
-<lang=eng>(Rule Consonant sandhi Condition = t to c  letters =   )(JM 20)<lang=def>
+<lang=eng>(Rule Consonant sandhi Condition = t to C  letters = S after t   )(JM 20)<lang=def>
 
 4.3.13.8	Snatha#t | vRuqtram |
 Snatha#d vRuqtram ~MvRuqtrag(gg) SnathaqcCnatha#d vRuqtram ||
@@ -2745,12 +2770,12 @@ aqbrUqtAq(gm)q sarveq sarve$ &brUtAmabrUtAq(gm)q sarve$ |
 punaqretyetyaq punaqH punaqretya# ||
 ----------------
 4.3.13.4 viqdvAn | RuqtUn | Ruqtuqpaqteq | (JD 23)
-Pending
+Ga. viqdvA(gm) RuqtU(gm) RuqtUn viqdvAn viqdvA(gm) RuqtU(gm)r. Ru#tupata Rutupata RuqtUn viqdvAn viqdvA(gm) RuqtU(gm)r. Ru#tupate |
 
 --------------
-3.2.8.5 aqnyAn | adha#rAn | saqpatnAn# || (JD 23)
-Pending
-
+3.2.8.5 aqnyAn | adha#rAn | saqpatnAn# || 
+<lang=eng>(Rule n to gm Condition = adha#rAN previous n becomes gm  letters =   )(PS 7.16)(PS 9.24)(JD 23)?<lang=def> 
+aqnyA(gm) adha#rA nadha#rAn aqnyA(gm) aqnyA(gm) adha#rAnth saqpatnA#nth saqpatnA(gm)# adha#rAn aqnyA(gm) aqnyA(gm) adha#rAnth saqpatnA#n || ??
 -----------
 <lang=eng>(Rule Vowel Elongation Condition =   letters =tapatA   )(GD 28) (PS 3.8) (PS 3.12)<lang=def>
 
@@ -2782,7 +2807,7 @@ aqgneq saqmidha#H saqmidhoq&gne &gne# saqmidha#H ||
 1.1.14.4	tvam | aqgneq | 
 tvama#gne agneqtvam tvama#gne ||
 --------------
-<lang=eng>(Rule avagraha  sandhi Condition =    letters =   )<lang=eng>
+<lang=eng>(Rule avagraha  sandhi Condition =    letters =   )(GD 31)<lang=eng>
 
 1.3.14.4	AqyuqrdAH | aqgneq |	 
 AqyuqrdA a#gne agna AyuqrdA A#yuqrdA a#gne ||
@@ -2791,8 +2816,9 @@ AqyuqrdA a#gne agna AyuqrdA A#yuqrdA a#gne ||
 
 5.4.7.4	janmann# | aqgneq | iti# | vaika#~gkatIm | A |	(Pending)
 1. janmann# | aqgneq | iti# |
-1.ja.
-1Ga
+1.ja. janma#nnagne agneq janmaqnjanma#nnagne ||
+1Ga janma#nnagne agneq janmaqnjanma#nnagnaq itItya#gne janmaqnjanma#nnagnaq iti# | 
+
 janma#nnagne agneq janmaqnjanma#nnagne ||
 
 2. aqgneq | iti# | vaika#~gkatIm |  
@@ -2922,18 +2948,20 @@ ja. aqsyaq sUda#dohasaqH sUda#dohaso asyAsyaq sUda#dohasaH |
 ((arAtIyatassahasvasahasvArAtIyatorAtIyatassahasva pRutanAH pRutanAssahasvArAtIyatorAtIyatassahasvapRutanAH |))
 ----------------------------------
 <lang=eng>(Rule Consonant sandhi Condition = n to gm   letters = sapatnAn )(PS 9.22) 
-Rule = n in sapatnAn becomes (gm) when followed by indro me.. here it is IndraH)(JM 57)(GD 44)<lang=def>
+Rule = n in sapatnAn becomes (gm) when followed by indro me.. here it is IndraH)(JM 57)(GD 44)
+Rule = atha elongates to athA before sapatnAn
+Rule = n before atha does not become (gm) retains n (PS 9.24)<lang=def>
 
 1.1.13.11.6.4.2 atha# | saqpatnAn# | indra#H |
 1. atha# | saqpatnAn# |
-1ja. athA# saqpatnA#nth saqpatnAqn athaq? athA# saqpatnAn# |	
-AthA sapatnAnth sapatnAnathAthA sapatnAn |
+1ja. athA# saqpatnA#nth saqpatnAq nathAthA# saqpatnAn# |	
+athA sapatnAnth sapatnAnathAthA sapatnAn |
 1Ga.  athA# saqpatnA#nth saqpatnAqn athaq? athA# saqpatnAq(gm)q? indraq indra#H saqpatnAqn athaq? athA# saqpatnAq(gm)q indra#H |
 ((athAsapatnAnthsapatnA(gm)^^athAthAsapatnA(gm)  indra^^indras sapatnA(gm)^^athAthAsapatnA(gm)^^indraH))
 --------------------
 <lang=eng>(Rule Swara Bhakti Condition =   letters =   )(JM 57)(PS 9.22)<lang=def>
 
-1.3.12.1	 Apa#H | haqviShmAn# |
+1.3.12.1	 Apa#H | haqviShmAn# | (PS 9.21 vowel after  haqviShmAn# becomes (gm)
 Apo#haqviShmA#n. haqviShmAqnApaq Apo#haqviShmA#n ||
 ----------------------------
 <lang=eng>(Rule Consonant sandhi Condition = n retained   letters = before atha   )(JM 43)(PS 9.24)<lang=def>
@@ -2946,7 +2974,7 @@ viqdvAnathAtha# viqdhvAnviqdvAnatha# ||
 6.1.6.7	vaqdaqntiq | akU#TayA |	
 vaqdaqntyakU#TaqyA &kU#TayA vadanti vadaqntyakU#TayA ||
 ----------------------------------
-<lang=eng>(Rule Consonant sandhi Condition = T to N   letters =   )(JM 8)(GD 38)<lang=def>
+<lang=eng>(Rule Consonant sandhi Condition = T to N   letters =   )(JM 8)(JD 22)(GD 38)<lang=def>
 
 4.6.1.3 5.4.5.1 nRuqShade$ | vaT | aqPsuqShade$ |
 nRuqShadeqvaD vaNNRuqShade# nRuShadeq vaT ||
@@ -3005,7 +3033,7 @@ tetetetetetevAcaMvAcaMtetetetevAcam
 
 upaSaya upaSaya upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai BrAtRuvyApanuttyA upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai |
 ------------------------------------------
-<lang=eng>(Rule Vowel Sandhi Condition =  letters =  )(GD 26)(GD 53)<lang=def>
+<lang=eng>(Rule Vowel Sandhi Condition =  letters =  )(GD 26)(GD47)(GD 53)<lang=def>
 
 6.1.4.6 deqvaH | A | martye#Shu | A | iti# | Aqhaq | deqvaH |
 1. deqvaH | A | martye#Shu |
@@ -3286,7 +3314,12 @@ Ga. ape# teqtApApeqtetItI# tApApeq teti# |
 
 ----------------
 <lang=eng>(Rule Vowel  Sandhi Condition =Continuous    letters =  )(GD 53)<lang=def>
-6.6.2.3	gAqtum | iqtaq | iti# | Aqhaq | (Pending)
+6.6.2.3	gAqtum | iqtaq | iti# | Aqhaq | 
+1. gAqtum | iqtaq | iti# |
+1ja. gAqtumi#teta gAqtum gAqtumi#ta |
+1Ga. gAqtumi#teta gAqtum gAqtumiqtetItI#ta gAqtum gAqtumiqteti# |
+2. iqtaq | iti# | Aqhaq |
+2ja. iqtetItI#teqteti# | 
 Ga. iqtetItI#teqtetyA# hAqheitI# teqtetyA#ha | 
 ----------------------
 <lang=eng>(Rule Vowel  Sandhi Condition =Continuous    letters =  )(GD 53)<lang=def>
@@ -3448,7 +3481,8 @@ Ga. aqcCAqvAqkaqsAqmam Bava#tiq Bavaqtya#cCAvAkasAqma ma#cCAvAkasAqmam BavaqtyaS
 
 ((acCAvAkasAmaM BavatiBavatyacCAvAkasAmamacCAvAkasAmaM BavatyaSva-syASvasyaBavatyacCAvAkasAma macCAvAkasAmaMBavatyaSvasya)) 
 -----------------------------
-5.4.12.3 - vai | aSva#H | aya#taH | apra#tiShThitaH | parA$m |
+5.4.12.3 - vai | aSva#H | aya#taH | apra#tiShThitaH | parA$m | (GD 75)
+
 
 
 
@@ -3656,11 +3690,14 @@ Ga. RuSher#.RuSheqr vai vA RuSher#.RuSheqr. RuSher#.RuSheqrvA eqtA eqtA vA RuShe
 
 ((RuSher^^RuShervaivA^^RuSher^^RuSher^^RuSher^^RuShervA^^etA^^etAvA^^RuSher^^RuSher^^RuSher RuShervA^^etAH))
 ---------------------
-<lang=eng>(Rule Visarga Sandhi  Condition = visargam before 'r' letters = )(GD 93)<lang=eng>
+<lang=eng>(Rule Visarga Sandhi  Condition = visargam before 'r' letters = )(GD 65)(GD 93)<lang=eng>
 
-4.6.5.2	ruqkmaH | aqntaH | vi | (why not A as in antA before 'r')
-Ga. ruqkmo aqnta raqntA ruqkmo? ruqkmo aqntar vi vya#ntA ruqkmo ?ruqkmo aqntar vi |
+4.6.5.2	kShAma# | ruqkmaH | aqntaH | vi | (GD 65) (GD 93) (PS 8.8) 
+1Ga. kShAma# ruqkmo ruqkmaH kShAmaq kShAma# ruqkmo aqntaraqntA ruqkmaH kShAmaq kShAma# ruqkmo aqntaH |
 
+2Ga. ruqkmo aqnta raqntA ruqkmo ruqkmo aqntar vi vya#ntA ruqkmo ruqkmo aqntar vi |
+
+(rukmo^^anta rantArukmorukmo^^antarvivyantArukmorukmo^^antarvi)
 
 ((rukmo^^anta rantArukmorukmo^^antarvivyantArukmorukmo^^antarvi)) 
 -----------------------
@@ -3771,9 +3808,9 @@ Ga. iqhyehIqhyA ro#ha roqhyehIqhyA ro#ha |
 4. A | roqhaq | iti# |
 Ga. A ro#ha roqhA roqhetIti#  roqhA roqheti# |
 ------------------
-2.4.7.2  - aqvRuqShAqt | iti# | SruqtaH | (GD 14)
-(Pending)
-
+<lang=eng>(Rule Visargam  Condition = r when followed by iti letters = SruqtaH iti)(JM 3)(GD 14) (PS 8-12)(SruqtaH visargam is not = r as per PS 8)<lang=def>
+2.4.7.2  - aqvRuqShAqt | iti# | SruqtaH | 
+Ga. aqvRuqShAqditItya#vRuShadavRuShaqditi# SruqtaH Sruqtaritya#vRuShadavRuShaqditi# SruqtaH |
 -----------
 4.3.3.2 - saH | uq | eqkaqviq(gm)qSava#rtaniH | (GD 46) (GD74)
 
