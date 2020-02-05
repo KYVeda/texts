@@ -1,4 +1,4 @@
-
+<lang=eng> ddh replacements done; but check once<lang=def>
 kRuShNa yajurvedIya rudra Gana pAThaH (pada sahita)
 
 rudra Gana pAThaH - gaNapati stuti
@@ -25,13 +25,13 @@ gaqNapa#tiqmiti# gaqNa -- paqtiqm |
 5. haqvAqmaqheq | kaqvim | kaqvIqnAm |
 haqvAqmaqheq kaqvim kaqvi(gm) ha#vAmahe havAmahe kaqvim ka#vIqnAm ka#vIqnAm kaqvi(gm) ha#vAmahe havAmahe kaqvim ka#vIqnAm |
 
-6. kaqvim | kaqvIqnAm | uqpaqmaSra#vastamam |
+6. kaqvim | kaqvIqnAm | uqpaqmaSra#vastamam ||
 kaqvim ka#vIqnAm ka#vIqnAm kaqvim kaqvim ka#vIqnA mu#paqmaSra#vastama mupaqmaSra#vastamam kavIqnAm kaqvim kaqvim ka#vIqnA mu#paqmaSra#vastamam |
 
-7. kaqvIqnAm | uqpaqmaSra#vastamam |
+7. kaqvIqnAm | uqpaqmaSra#vastamam ||
 kaqvIqnA mu#paqmaSra#vastama mupaqmaSra#vastamam kavIqnAm ka#vIqnA mu#paqmaSra#vastamam |
 
-8. uqpaqmaSra#vastamam |
+8. uqpaqmaSra#vastamam ||
 uqpaqmaSra#vastamaq mityu#paqmaSra#vaH -- taqmaqm |
 
 9. jyeqShThaqrAja$m | brahma#NAm | braqhmaqNaqH |
@@ -45,7 +45,7 @@ brahma#NAm brahmaNo brahmaNoq brahma#NAqm brahma#NAm brahmaNaspate pate brahmaNo
 brahmaNaspate |
  
 12. braqhmaqNaqH | paqteq | A |
-braqhmaqNaqspaqteq paqteq braqhmaqNoq braqhmaqNaqspaqtaq Apa#te brahmaNo brahmaNaspataq A |
+braqhmaqNaqspaqteq paqteq braqhmaqNoq braqhmaqNaqspaqtaq A pa#te brahmaNo brahmaNaspataq A |
 
 13. paqteq | A | naqH |
 paqtaq A pa#te pataq A no#naq Apa#te pataq Ana#H |
@@ -54,21 +54,21 @@ paqtaq A pa#te pataq A no#naq Apa#te pataq Ana#H |
 Ano#naq Ana#H SRuqNvan CRuqNvan naq Ana#H SRuqNvann |
 
 15. naqH | SRuqNvann | UqtiBi#H | 
-naqH SRuqNvan CRuqNvan no#naH SRuqNvan nUqtiBi#rUqtiBi#H SRuqNvan no#naH SRuqNvan nUqtiBiH# |
+naqH SRuqNvan CRuqNvan no# naH SRuqNvan nUqtiBi#rUqtiBi#H SRuqNvan no# naH SRuqNvan nUqtiBiH# |
 
 16. SRuqNvann | UqtiBi#H | sIqdaq |
 SRuqNvan nUqtiBi# rUqtiBi#H SRuqNvan CRuqNvan nUqtiBi#H sIda sIdoqtiBi#H SRuqNvan CRuqNvan nUqtiBI#H sIda |
 
-17. UqtiBi#H | sIqdaq | sAda#nam |
+17. UqtiBi#H | sIqdaq | sAda#nam ||
 UqtiBi#H sIda sIdoqtiBi# rUqtiBi#H sIdaq sAda#naq(gm)q sAda#na(gm) sIdoqtiBi# rUqtiBi#H sIdaqH sAda#nam |
 
 18. UqtiBi#H |
 UqtiBiqrityUqti -- BiqH |
 
-19. sIqdaq | sAda#nam |
+19. sIqdaq | sAda#nam ||
 sIqdaq sAda#naq(gm)q sAda#na(gm) sIda sIdaq sAda#nam |
 
-20. sAda#nam |
+20. sAda#nam ||
 sAda#naqmitiq sAda#nam |
 
 SrI mahAgaNapataye namaH
@@ -96,13 +96,13 @@ uqto te# ta uqto uqto taq iSha#vaq iSha#ve ta uqto uqto taq iSha#ve |
 6. uqto | 
 uqto ityuqto | 
  
-7. teq | iSha#ve | nama#H | 
+7. teq | iSha#ve | nama#H || 
 taq iSha#vaq iSha#ve te taq iSha#veq namoq namaq iSha#ve te taq iSha#veq nama#H | 
  
-8. iSha#ve | nama#H | 
+8. iSha#ve | nama#H || 
 iSha#veq namoq namaq iSha#vaq iSha#veq nama#H | 
  
-9. nama#H | 
+9. nama#H || 
 namaq itiq nama#H | 
  
 10. nama#H | teq | aqstuq | 
@@ -123,13 +123,13 @@ bAqhuByA# muqtota bAqhuByA$M bAqhuByA# muqtate# ta uqta bAqhuByA$M bAqhuByA# muq
 15. bAqhuByA$m | 
 bAqhuByAqmiti# bAqhu - ByAqm | 
  
-16. uqta | teq | nama#H | 
+16. uqta | teq | nama#H || 
 uqtate# ta uqtotateq namoq nama#sta uqtotateq nama#H | 
  
-17. teq | nama#H | 
+17. teq | nama#H || 
 teq namoq nama#ste teq nama#H | 
  
-18. nama#H | 
+18. nama#H || 
 namaq itiq nama#H | 
  
 19. yA | teq | iShu#H | 
@@ -150,13 +150,13 @@ Siqvataqmeti# Siqva - taqmAq |
 24. Siqvam | baqBUva# | teq | 
 SiqvaM baqBUva# baqBUva# Siqva(gm) SiqvaM baqBUva# te te baqBUva# Siqva(gm) SiqvaM baqBUva# te | 
  
-25. baqBUva# | teq | dhanu#H | 
+25. baqBUva# | teq | dhanu#H || 
 baqBUva# te te baqBUva# baqBUva# teq dhanuqr dhanu#ste baqBUva# baqBUva# teq dhanu#H | 
  
-26. teq | dhanu#H | 
+26. teq | dhanu#H || 
 teq dhanuqr dhanu#ste teq dhanu#H | 
  
-27. dhanu#H | 
+27. dhanu#H || 
 dhanuqritiq dhanu#H | 
  
 28. SiqvA | SaqraqvyA$ | yA | 
@@ -174,13 +174,13 @@ tavaq tayAq tayAq tavaq tavaq tayA# no naq stayAq tavaq tavaq tayA# naH |
 32. tayA$ | naqH | ruqdraq | 
 tayA# no naq stayAq tayA# no rudra rudra naq stayAq tayA# no rudra | 
  
-33. naqH | ruqdraq | mRuqDaqyaq | 
+33. naqH | ruqdraq | mRuqDaqyaq || 
  noq ruqdraq ruqdraq noq noq ruqdraq mRuqDaqyaq mRuqDaqyaq ruqdraq noq noq ruqdraq mRuqDaqyaq | 
  
-34. ruqdraq | mRuqDaqyaq | 
+34. ruqdraq | mRuqDaqyaq || 
 ruqdraq mRuqDaqyaq mRuqDaqyaq ruqdraq ruqdraq mRuqDaqyaq | 
  
-35. mRuqDaqyaq | 
+35. mRuqDaqyaq || 
 mRuqDaqyeti# mRuDaya | 
  
 36. yA | teq | ruqdraq | 
@@ -195,13 +195,13 @@ ruqdraq SiqvA SiqvA ru#dra rudra SiqvA taqnU staqnUH SiqvA ru#dra rudra SiqvA ta
 39. SiqvA | taqnUH | aGo#rA | 
 SiqvA taqnU staqnUH SiqvA SiqvA taqnU raGoqrA &Go#rA taqnUH SiqvA SiqvA taqnU raGo#rA | 
  
-40. taqnUH | aGo#rA | apA#pakASinI | 
+40. taqnUH | aGo#rA | apA#pakASinI || 
 taqnU raGoqrA &Go#rA taqnU staqnU raGoqrA &pA#pakASiq nyapA#pakASiq nyaGo#rA taqnU staqnU raGoqrA &pA#pakASinI | 
  
-41. aGo#rA | apA#pakASinI | 
+41. aGo#rA | apA#pakASinI || 
 aGoqrA &pA#pakASiq nyapA#pakASiq nyaGoqrA &GoqrA &pA#pakASinI | 
  
-42. apA#pakASinI | 
+42. apA#pakASinI || 
 apA#pAkASiqnItyapA#pa - kAqSiqnIq | 
  
 43. tayA$ | naqH | taqnuvA$ | 
@@ -219,20 +219,20 @@ Santa#mayAq giri#Santaq giri#Santaq Santa#mayAq Santa#mayAq giri#SantAq Bya#Bi g
 47. Santa#mayA | 
 Santa#maqyetiq SaM - taqmaqyAq | 
  
-48. giri#Santa | aqBi | cAqkaqSIqhiq | 
+48. giri#Santa | aqBi | cAqkaqSIqhiq || 
 giri#SantAq Bya#Bi giri#Santaq giri#SantAqBi cA#kaSIhi cAkaSI hyaqBi giri#Santaq giri#SantAq BicA#kaSIhi | 
  
 49. giri#Santa | 
 giri#Saqntetiq giri# - Saqntaq | 
  
-50. aqBi | cAqkaqSIqhiq | 
+50. aqBi | cAqkaqSIqhiq || 
 aqBi cA#kaSIhi cAkaSI hyaqBya#Bi cA#kaSIhi | 
  
-51. cAqkaqSIqhiq | 
+51. cAqkaqSIqhiq || 
 cAqkaqSIqhIti# cAkaSIhi | 
  
 52. yAm | iShu$m | giqriqSaqntaq | 
-yA miShuq miShuqM ~MyAM ~MyA miShu#M giriSanta giriSaq nteShuqM ~MyAM ~MyA miShu#M giriSanta | 
+yA miShuq miShuqM ~MyAM ~MyA miShu#M giriSanta giriSaqnteShuqM ~MyAM ~MyA miShu#M giriSanta | 
  
 53. iShu$m | giqriqSaqntaq | haste$ | 
 iShu#M giriSanta giriSaqnte ShuqmiShu#M giriSantaq hasteq haste# giriSaqnte ShuqmiShu#M giriSantaq haste$ | 
@@ -243,13 +243,13 @@ giqriqSaqntaq hasteq haste# giriSanta giriSantaq hasteq biBa#r.Shiq biBa#r.Shiq 
 55. giqriqSaqntaq | 
 giqriqSaqnteti# giri - Saqntaq | 
  
-56. haste$ | biBa#r.Shi | asta#ve | 
+56. haste$ | biBa#r.Shi | asta#ve || 
 hasteq biBa#r.Shiq biBa#r.Shiq hasteq hasteq biBaqr.Shyasta#veq asta#veq biBa#r.Shiq hasteq hasteq biBaqr.Shyasta#ve | 
  
-57. biBa#r.Shi | asta#ve | 
+57. biBa#r.Shi | asta#ve || 
 biBaqr.Shyasta#veq asta#veq biBa#r.Shiq biBaqr.Shyasta#ve | 
  
-58. asta#ve | 
+58. asta#ve || 
 asta#vaq ityasta#ve | 
  
 59. SiqvAm | giqriqtraq | tAm | 
@@ -270,13 +270,13 @@ kuqruq mA mA ku#ru kuruq mA hi(gm)#sIr hi(gm)sIqr mA ku#ru kuruq mA hi(gm)#sIH |
 64. mA | hiq(gm)qsIqH | puru#Sham | 
 mA hi(gm)#sIr hi(gm)sIqr mA mA hi(gm)#sIqH puru#ShaqM puru#Sha(gm) hi(gm)sIqr mA mA hi(gm)#sIqH puru#Sham | 
  
-65. hiq(gm)qsIqH | puru#Sham | jaga#t | 
+65. hiq(gm)qsIqH | puru#Sham | jaga#t || 
 hiq(gm)qsIqH puru#Shaqm puru#Sha(gm) hi(gm)sIr hi(gm)sIqH puru#ShaqM jagaqj jagaqt puru#Sha(gm) hi(gm)sIr hi(gm)sIqH puru#ShaqM jaga#t | 
  
-66. puru#Sham | jaga#t | 
+66. puru#Sham | jaga#t || 
 puru#ShaqM jagaqj jagaqt puru#ShaqM puru#ShaqM jaga#t | 
  
-67. jaga#t | 
+67. jaga#t || 
 jagaqditiq jaga#t | 
  
 68. Siqvena# | vaca#sA | tvAq | 
@@ -288,13 +288,13 @@ vaca#sA tvA tvAq vaca#sAq vaca#sA tvAq giri#Saq giri#Sa tvAq vaca#sAq vaca#sA tv
 70. tvAq | giri#Sa | acCa# | 
 tvAq giri#Saq giri#SatvA tvAq giriqSAcCAcCaq giri#SatvA tvAq giriqSAcCa# | 
  
-71. giri#Sa | acCa# | vaqdAqmaqsiq | 
+71. giri#Sa | acCa# | vaqdAqmaqsiq || 
 giriqSAcCAcCaq giri#Saq giriqSAcCA# vadAmasi vadAmaqsyacCaq giri#Saq giriqSAcCA# vadAmasi | 
  
-72. acCa# | vaqdAqmaqsiq | 
+72. acCa# | vaqdAqmaqsiq || 
 acCA# vadAmasi vadAmaqsyacCAcCA# vadAmasi | 
  
-73. vaqdAqmaqsiq | 
+73. vaqdAqmaqsiq || 
 vaqdAqmaqsIti# vadAmasi | 
 
 74. yathA$ | naqH | sarva$m | 
@@ -310,22 +310,22 @@ sarvaq midith sarvaq(gm)q sarvaq mij jagaqj jagaqdith sarvaq(gm)q sarvaq mij jag
 ij jagaqj jagaqdidij jaga#da yaqkShma ma#yaqkShmaM jagaqdidij jaga#da yaqkShmam | 
  
 78. jaga#t | aqyaqkShmam | suqmanA$H | 
-jaga#da yaqkShma ma#yaqkShmaM jagaqj jaga#da yaqkShma(gm) suqmanA$H suqmanA# ayaqkShmaM jagaqj jaga#da yaqkShma(gm) suqmanA$ | 
+jaga#da yaqkShma ma#yaqkShmaM jagaqj jaga#da yaqkShma(gm) suqmanA$H suqmanA# ayaqkShmaM jagaqj jaga#da yaqkShma(gm) suqmanA$H | 
  
-79. aqyaqkShmam | suqmanA$H | asa#t | 
+79. aqyaqkShmam | suqmanA$H | asa#t || 
 aqyaqkShma(gm) suqmanA$H suqmanA# ayaqkShma ma#yaqkShma(gm) suqmanAq asaqdasa#th suqmanA# ayaqkShma ma#yaqkShma(gm) suqmanAq asa#t | 
  
-80. suqmanA$H | asa#t | 
+80. suqmanA$H | asa#t || 
 suqmanAq asaqdasa#th suqmanA$H suqmanAq asa#t | 
  
 81. suqmanA$H | 
 suqmanAq iti# su - manA$H | 
  
-82. asa#t | 
+82. asa#t || 
 asaqdityasa#t | 
  
-83. adhi | aqvoqcaqt | aqdhiqvaqktA | 
-adhya# voca davocaq dadhyadhya# voca dadhivaqktA &dhi#vaqktA &?vo#caq dadhyadhya# voca dadhivaqktA | 
+83. adhi# | aqvoqcaqt | aqdhiqvaqktA | 
+adhya# voca davocaq dadhyadhya# voca dadhivaqktA &dhi#vaqktA &vo#caq dadhyadhya# voca dadhivaqktA | 
  
 84. aqvoqcaqt | aqdhiqvaqktA | praqthaqmaH | 
 aqvoqcaq daqdhiqvaqktA &dhi#vaqktA vo#ca davoca dadhivaqktA pra#thaqmaH pra#thaqmo a#dhi vaqktA vo#ca davoca dadhivaqktA pra#thaqmaH | 
@@ -336,13 +336,13 @@ aqdhiqvaqktA pra#thaqmaH pra#thaqmo a#dhivaqktA &dhi#vaqktA pra#thaqmo daivyoq d
 86. aqdhiqvaqktA | 
 aqdhiqvaqktetya#dhi - vaqktA | 
  
-87. praqthaqmaH | daivya#H | BiqShak | 
+87. praqthaqmaH | daivya#H | BiqShak || 
 praqthaqmo daivyoq daivya#H prathaqmaH pra#thaqmo daivyo# BiqShag BiqShag daivya#H prathaqmaH pra#thaqmo daivyo# BiqShak | 
  
-88. daivya#H | BiqShak | 
+88. daivya#H | BiqShak || 
 daivyo# BiqShag BiqShag daivyoq daivyo# BiqShak | 
  
-89. BiqShak | 
+89. BiqShak || 
 BiqShagiti# BiqShak | 
  
 90. ahIn# | caq | sarvAn# | 
@@ -357,18 +357,18 @@ sarvA$n jaqmBaya#n jaqmBayaqn thsarvAqn thsarvA$n jaqmBayaqn thsarvAqH sarvA# ja
 93. jaqMBayann# | sarvA$H | caq | 
 jaqmBayaqn thsarvAqH sarvA# jaqmBaya#n jaqmBayaqn thsarvA$Sca caq sarvA# jaqmBaya#n jaqmBayaqn thsarvA$Sca | 
  
-94. sarvA$H | caq | yAqtuqdhAqnya#H | 
+94. sarvA$H | caq | yAqtuqdhAqnya#H || 
 sarvA$Sca caq sarvAqH sarvA$Sca yAtudhAqnyo# yAtudhAqnya#Scaq sarvAqH sarvA$Sca yAtudhAqnya#H | 
  
-95. caq | yAqtuqdhAqnya#H | 
+95. caq | yAqtuqdhAqnya#H || 
 caq yAqtuqdhAqnyo# yAtudhAqnya#Sca ca yAtudhAqnya#H | 
  
-96. yAqtuqdhAqnya#H | 
+96. yAqtuqdhAqnya#H || 
 yAqtuqdhAqnya# iti# yAtu - dhAqnya#H | 
  
 97. aqsau | yaH | tAqmraH | 
 aqsau yo yo aqsA vaqsau yastAqmra stAqmro yo aqsA vaqsau ya stAqmraH | 
- 
+
 98. yaH | tAqmraH | aqruqNaH | 
 ya stAqmra stAqmro yo ya stAqmro a#ruqNo a#ruqNa stAqmro yo ya stAqmro a#ruqNaH | 
  
@@ -378,13 +378,13 @@ tAqmro a#ruqNo a#ruqNa stAqmra stAqmro a#ruqNa uqtotAruqNa stAqmra stAqmro a#ruq
 100. aqruqNaH | uqta | baqBruH | 
 aqruqNa uqtotAruqNo a#ruqNa uqta baqBrur baqBru ruqtAruqNo a#ruqNa uqta baqBruH | 
  
-101. uqta | baqBruH | suqmaq~ggala#H | 
+101. uqta | baqBruH | suqmaq~ggala#H || 
 uqta baqBrur baqBru ruqtota baqBruH su#maq~ggala#H sumaq~ggalo# baqBruruqtota baqBruH su#maq~ggala#H | 
  
-102. baqBruH | suqmaq~ggala#H | 
+102. baqBruH | suqmaq~ggala#H || 
 baqBruH su#maq~ggala#H sumaq~ggalo# baqBrur baqBruH su#maq~ggala#H | 
  
-103. suqmaq~ggala#H | 
+103. suqmaq~ggala#H || 
 suqmaq~ggalaq iti# su - maq~ggala#H | 
  
 104. ye | caq | iqmAm | 
@@ -409,7 +409,7 @@ diqkShu SriqtAH SriqtA diqkShu diqkShu SriqtAH sa#hasraqSaH sa#hasraqSaH SriqtA 
 SriqtAH sa#hasraqSaH sa#hasraqSaH SriqtAH SriqtAH sa#hasraqSo&vAva# sahasraqSaH SriqtAH SriqtAH sa#hasraqSo&va# | 
  
 111. saqhaqsraqSaH | ava# | eqShAqm | 
-saqhaqsraqSo&vAva# sahasraqH sa#hasraqSo &vai#ShAmeShAq ma#va sahasraqH sa#hasraqSo &vai#ShAm | 
+saqhaqsraqSo&vAva# sahasraqSaH sa#hasraqSo &vai#ShAmeShAq ma#va sahasraqSaH sa#hasraqSo &vai#ShAm | 
  
 112. saqhaqsraqSaH | 
 saqhaqsraqSa iti# sahasra - SaH | 
@@ -417,14 +417,14 @@ saqhaqsraqSa iti# sahasra - SaH |
 113. ava# | eqShAqm | heDa#H | 
 avai#ShAmeShAq mavA vai#ShAq(gm)q heDoq heDa# eShAq mavA vai#ShAq(gm)q heDa#H | 
  
-114. eqShAqm | heDa#H | Iqmaqheq | 
+114. eqShAqm | heDa#H | Iqmaqheq || 
 eqShAq(gm)q heDoq heDa# eShA meShAq(gm)q heDa# Imaha Imaheq heDa# eShA meShAq(gm)q heDa# Imahe | 
  
-115. heDa#H | Iqmaqheq | 
+115. heDa#H | Iqmaqheq || 
 heDa# Imaha Imaheq heDoq heDa# Imahe | 
  
-116. Iqmaqheq | 
-Iqmaqhaq itI# mahe | 
+116. Iqmaqheq || 
+Iqmaqhaq itI#mahe | 
  
 117. aqsau | yaH | aqvaqsarpa#ti | 
 aqsauyo yo aqsA vaqsau yo# &vaqsarpa#tya vaqsarpa#tiqyo aqsA vaqsau yo# &vaqsarpa#ti | 
@@ -432,19 +432,19 @@ aqsauyo yo aqsA vaqsau yo# &vaqsarpa#tya vaqsarpa#tiqyo aqsA vaqsau yo# &vaqsarp
 118. yaH | aqvaqsarpa#ti | nIla#grIvaH | 
 yo# &vaqsarpa#tya vaqsarpa#tiq yA yo# &vaqsarpa#tiq nIla#grIvoq nIla#grIvo &vaqsarpa#tiq yA yo# &vaqsarpa#tiq nIla#grIvaH | 
  
-119. aqvaqsarpa#ti | nIla#grIvaH | viloqhitaH | 
+119. aqvaqsarpa#ti | nIla#grIvaH | vilo#hitaH || 
 aqvaqsarpa#tiq nIla#grIvoq nIla#grIvo &vaqsarpa#tya vaqsarpa#tiq nIla#grIvoq vilo#hitoq vilo#hitoq nIla#grIvo &vaqsarpa#tya vaqsarpa#tiq nIla#grIvoq vilo#hitaH | 
  
 120. aqvaqsarpa#ti | 
 aqvaqsarpaqtItya#va - sarpa#ti | 
  
-121. nIla#grIvaH | viloqhitaH | 
+121. nIla#grIvaH | vilo#hitaH || 
 nIla#grIvoq vilo#hitoq vilo#hitoq nIla#grIvoq nIla#grIvoq vilo#hitaH | 
  
 122. nIla#grIvaH | 
 nIla#grIvaq itiq nIla# - grIqvaqH | 
  
-123. viloqhitaH | 
+123. vilo#hitaH || 
 vilo#hitaq itiq vi - loqhiqtaqH | 
  
 124. uqta | eqnaqm | goqpAH | 
@@ -459,13 +459,13 @@ goqpA a#dRuSan-nadRuSan goqpA goqpA a#dRuSaqn-nadRu#Saqn nadRu#San-nadRuSan goqp
 127. goqpAH | 
 goqpA iti# go - pAH | 
  
-128. aqdRuqSaqnn | adRu#Sann | uqdaqhAqrya#H | 
+128. aqdRuqSaqnn | adRu#Sann | uqdaqhAqrya#H || 
 aqdRuqSaqn nadRu#Saqn nadRu#San nadRuSan nadRuSaqn nadRu#San nudahAqrya# udahAqryo# adRu#San nadRuSan nadRuSaqn nadRu#San nudahAqrya#H | 
  
-129. adRu#Sann | uqdaqhAqrya#H | 
+129. adRu#Sann | uqdaqhAqrya#H || 
 adRu#San nudahAqrya# udahAqryo# adRu#Saqn nadRu#San nudahAqrya#H | 
  
-130. uqdaqhAqrya#H | 
+130. uqdaqhAqrya#H || 
 uqdaqhAqrya# ityu#da - hAqrya#H | 
  
 131. uqta | eqnaqm | viSvA$ | 
@@ -483,13 +483,13 @@ BUqtAniq sa sa BUqtAni# BUqtAniq sa dRuqShTo dRuqShTaH sa BUqtAni# BUqtAniq sa d
 135. saH | dRuqShTaH | mRuqDaqyAqtiq | 
 sa dRuqShTo dRuqShTaH sa sa dRuqShTo mRu#DayAti mRuDayAti dRuqShTaH sa sa dRuqShTo mRu#DayAti | 
  
-136. dRuqShTaH | mRuqDaqyAqtiq | naqH | 
+136. dRuqShTaH | mRuqDaqyAqtiq | naqH || 
 dRuqShTo mRu#DayAti mRuDayAti dRuqShTo dRuqShTo mRu#DayAti no no mRuDayAti dRuqShTo dRuqShTo mRu#DayAti naH | 
  
-137. mRuqDaqyAqtiq | naqH | 
+137. mRuqDaqyAqtiq | naqH || 
 mRuqDaqyAqtiq noq noq mRuqDaqyAqtiq mRuqDaqyAqtiq naqH | 
  
-138. naqH | 
+138. naqH || 
 naq iti# naH | 
  
 139. nama#H | aqstuq | nIla#grIvAya | 
@@ -498,19 +498,19 @@ namo# astvastuq namoq namo# astuq nIla#grIvAyaq nIla#grIvAyAstuq namoq namo# ast
 140. aqstuq | nIla#grIvAya | saqhaqsrAqkShAya# | 
 aqstuq nIla#grIvAyaq nIla#grIvAyA stva stuq nIla#grIvAya sahasrAqkShAya# sahasrAqkShAyaq nIla#grIvAyA stva stuq nIla#grIvAya sahasrAqkShAya# | 
  
-141. nIla#grIvAya | saqhaqsrAqkShAya# | mIqDhuShe$ | 
+141. nIla#grIvAya | saqhaqsrAqkShAya# | mIqDhuShe$ || 
 nIla#grIvAya sahasrAqkShAya# sahasrAqkShAyaq nIla#grIvAyaq nIla#grIvAya sahasrAqkShAya# mIqDhuShe# mIqDhuShe# sahasrAqkShAyaq nIla#grIvAyaq nIla#grIvAya sahasrAqkShAya# mIqDhuShe$ | 
  
 142. nIla#grIvAya | 
 nIla#grIvAqyetiq nIla# - grIqvAqyaq | 
  
-143. saqhaqsrAqkShAya# | mIqDhuShe$ | 
+143. saqhaqsrAqkShAya# | mIqDhuShe$ || 
 saqhaqsrAqkShAya# mIqDhuShe# mIqDhuShe# sahasrAqkShAya# sahasrAqkShAya# mIqDhuShe$ | 
  
 144. saqhaqsrAqkShAya# | 
 saqhaqsrAqkShAyeti# sahasra - aqkShAya# | 
  
-145. mIqDhuShe$ | 
+145. mIqDhuShe$ || 
 mIqDhuShaq iti# mIqDhuShe$ | 
  
 146. atho$ | ye | aqsyaq | 
@@ -531,13 +531,13 @@ satvA#noqha maqha(gm) satvA#naqH satvA#noq&haM teByaq steByoq&ha(gm) satvA#naqH 
 151. aqham | teBya#H | aqkaqraqm | 
 aqhaM teByaq steByoq &hamaqhaM teByo# &karamakaraqn teByoq &hamaqhaM teByo# &karam | 
  
-152. teBya#H | aqkaqraqm | nama#H | 
+152. teBya#H | aqkaqraqm | nama#H || 
 teByo# &karamakaraqn teByaq steByo# &karaqn namoq namo# karaqn teByaq steByo# karaqn nama#H | 
  
-153. aqkaqraqm | nama#H | 
+153. aqkaqraqm | nama#H || 
 aqkaqraqn namoq namo# &karamakaraqn nama#H | 
  
-154. nama#H | 
+154. nama#H || 
 namaq itiq nama#H | 
  
 155. pra | muq~jcaq | dhanva#naH | 
@@ -552,13 +552,13 @@ dhanva#naqstvaM tvaM dhanva#noq dhanva#naqstva muqBayo# ruqBayoqstvaM dhanva#noq
 158. tvam | uqBayo$H | Artni#yoH | 
 tva muqBayo# ruqBayoqstvaM tva muqBayoq rArtni#yoq rArtni#yo ruqBayoqstvaM tva muqBayoq rArtni#yoH | 
  
-159. uqBayo$H | Artni#yoH | jyAm | 
+159. uqBayo$H | Artni#yoH | jyAm || 
 uqBayoq rArtni#yoq rArtni#yo ruqBayo# ruqBayoq rArtni#yoqr jyAM jyA mArtni#yo ruqBayo# ruqBayoq rArtni#yoqr jyAm | 
  
-160. Artni#yoH | jyAm | 
+160. Artni#yoH | jyAm || 
 Artni#yoqr jyAM jyA mArtni#yoq rArtni#yoqr jyAm | 
  
-161. jyAm | 
+161. jyAm || 
 jyAmitiq jyAm | 
  
 162. yAH | caq | teq | 
@@ -579,16 +579,16 @@ iSha#vaqH parAq pareSha#vaq iSha#vaqH parAq tAstAH pareSha#vaq iSha#vaqH parAq t
 167. parA$ | tAH | BaqgaqvaqH | 
 parAq tAstAH parAq parAq tA Ba#gavo BagavaqstAH parAq parAq tA Ba#gavaH | 
  
-168. tAH | BaqgaqvaqH | vaqpaq | 
+168. tAH | BaqgaqvaqH | vaqpaq || 
 tA Ba#gavo Bagavaq stAstA Ba#gavo vapa vapa Bagavaq stAstA Ba#gavo vapa | 
  
-169. BaqgaqvaqH | vaqpaq | 
+169. BaqgaqvaqH | vaqpaq || 
 Baqgaqvoq vaqpaq vaqpaq Baqgaqvoq Baqgaqvoq vaqpaq | 
  
 170. BaqgaqvaqH | 
 Baqgaqvaq iti# Baga - vaqH | 
  
-171. vaqpaq | 
+171. vaqpaq || 
 vaqpeti# vapa | 
 
 172. aqvaqtatya# | dhanu#H | tvam | 
@@ -600,16 +600,16 @@ aqvaqtatyetya#va - tatya# |
 174. dhanu#H | tvam | saha#srAkSha | 
 dhanuqstvaM tvaM dhanuqr dhanuqstva(gm) saha#srAkShaq saha#srAkShaqtvaM dhanuqr dhanuqstva(gm) saha#srAkSha | 
  
-175. tvam | saha#srAkSha | Sate#Shudhe | 
+175. tvam | saha#srAkSha | Sate#Shudhe || 
 tva(gm) saha#srAkShaq saha#srAkShaq tvaM tva(gm) saha#srAkShaq Sate#Shudheq Sate#Shudheq saha#srAkShaq tvaM tva(gm) saha#srAkShaq Sate#Shudhe | 
  
-176. saha#srAkSha | Sate#Shudhe | 
+176. saha#srAkSha | Sate#Shudhe || 
 saha#srAkShaq Sate#Shudheq Sate#Shudheq saha#srAkShaq saha#srAkShaq Sate#Shudhe | 
  
 177. saha#srAkSha | 
 saha#srAqkShetiq saha#sra - aqkShaq | 
  
-178. Sate#Shudhe | 
+178. Sate#Shudhe || 
 Sate#Shudhaq itiq Sata# - iqShuqdheq | 
  
 179. niqSIrya# | SaqlyAnA$m | muKA$ | 
@@ -627,20 +627,20 @@ muKA# SiqvaH Siqvo muKAq muKA# Siqvo no# naH Siqvo muKAq muKA# Siqvo na#H |
 183. SiqvaH | naqH | suqmanA$H | 
 Siqvo no# naH SiqvaH Siqvo na#H suqmanA$H suqmanA# naH SiqvaH Siqvo na#H suqmanA$H | 
  
-184. naqH | suqmanA$H | Baqvaq | 
+184. naqH | suqmanA$H | Baqvaq || 
 naqH suqmanA$H suqmanA# no naH suqmanA# Bava Bava suqmanA# no naH suqmanA# Bava | 
  
-185. suqmanA$H | Baqvaq | 
+185. suqmanA$H | Baqvaq || 
 suqmanA# Bava Bava suqmanA$H suqmanA# Bava | 
  
 186. suqmanA$H | 
 suqmanAq iti# su - manA$H | 
  
-187. Baqvaq | 
+187. Baqvaq || 
 Baqveti# Bava | 
  
 188. vijya$m | dhanu#H | kaqpaqrdina#H | 
-vijyaqM dhanuqr dhanuqr vijyaqM ~M?vijyaqM dhanu#H kapaqrdina#H kapaqrdinoq dhanuqr vijyaqM ~M?vijyaqM dhanu#H kapaqrdina#H | 
+vijyaqM dhanuqr dhanuqr vijyaqM ~MvijyaqM dhanu#H kapaqrdina#H kapaqrdinoq dhanuqr vijyaqM ~MvijyaqM dhanu#H kapaqrdina#H | 
  
 189. vijya$m | 
 vijyaq mitiq vi - jyaqmq | 
@@ -651,19 +651,19 @@ dhanu#H kapaqrdina#H kapaqrdinoq dhanuqr dhanu#H kapaqrdinoq viSa#lyoq viSa#lyaH
 191. kaqpaqrdina#H | viSa#lyaH | bANa#vAn | 
 kaqpaqrdinoq viSa#lyoq viSa#lyaH kapaqrdina#H kapaqrdinoq viSa#lyoq bANa#vAqn bANa#vAqnq. viSa#lyaH kapaqrdina#H kapaqrdinoq viSa#lyoq bANa#vAn | 
  
-192. viSa#lyaH | bANa#vAn | uqta | 
+192. viSa#lyaH | bANa#vAn | uqta || 
 viSa#lyoq bANa#vAqn bANa#vAqnq. viSa#lyoq viSa#lyoq bANa#vA(gm) uqtota bANa#vAqnq. viSa#lyoq viSa#lyoq bANa#vA(gm) uqta | 
  
 193. viSa#lyaH | 
 viSa#lyaq itiq vi - SaqlyaqH | 
  
-194. bANa#vAn | uqta | 
+194. bANa#vAn | uqta || 
 bANa#vA(gm) uqtota bANa#vAqn bANa#vA(gm) uqta | 
  
 195. bANa#vAn | 
 bANa#vAqnitiq bANa# - vAqn | 
  
-196. uqta | 
+196. uqta || 
 uqtetyuqta | 
  
 197. ane#Sann | aqsyaq | iSha#vaH | 
@@ -675,13 +675,13 @@ aqsyeSha#vaq iSha#vo asyAqsyeSha#va AqBu rAqBu riSha#vo asyAqsyeSha#va AqBuH |
 199. iSha#vaH | AqBuH | aqsyaq | 
 iSha#va AqBurAqBu riSha#vaq iSha#va AqBu ra#syAsyAqBu riSha#vaq iSha#va AqBu ra#sya | 
  
-200. AqBuH | aqsyaq | niqShaq~ggathi#H | 
+200. AqBuH | aqsyaq | niqShaq~ggathi#H || 
 AqBu ra#syAsyAqBu rAqBu ra#sya niShaq~ggathi#r niShaq~ggathi# rasyAqBu rAqBu ra#sya niShaq~ggathi#H | 
  
-201. aqsyaq | niqShaq~ggathi#H | 
+201. aqsyaq | niqShaq~ggathi#H || 
 aqsyaq niqShaq~ggathi#r niShaq~ggathi# rasyAsya niShaq~ggathi#H | 
  
-202. niqShaq~ggathi#H | 
+202. niqShaq~ggathi#H || 
 niqShaq~ggathiq riti# niShaq~ggathi#H | 
  
 203. yA | teq | heqtiH | 
@@ -702,13 +702,13 @@ mIqDhuqShTameti# mIDhuH - taqmaq |
 208. haste$ | baqBUva# | teq | 
 haste# baqBUva# baqBUvaq hasteq haste# baqBUva# te te baqBUvaq hasteq haste# baqBUva# te | 
  
-209. baqBUva# | teq | dhanu#H | 
+209. baqBUva# | teq | dhanu#H || 
 baqBUva# te te baqBUva# baqBUva# teq dhanuqr dhanu# ste baqBUva# baqBUva# teq dhanu#H | 
  
-210. teq | dhanu#H | 
+210. teq | dhanu#H || 
 teq dhanuqr dhanu# ste teq dhanu#H | 
  
-211. dhanu#H | 
+211. dhanu#H || 
 dhanuq ritiq dhanu#H | 
  
 212. tayA$ | aqsmAn | viqSvata#H | 
@@ -723,13 +723,13 @@ viqSvataq stvaM tvaM ~MviqSvato# viqSvataq stva ma#yaqkShmayA# &yaqkShmayAq tvaM
 215. tvam | aqyaqkShmayA$ | pari# | 
 tva ma#yaqkShmayA# &yaqkShmayAq tvaM tva ma#yaqkShmayAq pariq parya# yaqkShmayAq tvaM tva ma#yaqkShmayAq pari# | 
  
-216. aqyaqkShmayA$ | pari# | Buqjaq | 
+216. aqyaqkShmayA$ | pari# | Buqjaq || 
 aqyaqkShmayAq pariq parya# yaqkShmayA# &yaqkShmayAq pari#bBuja Bujaq parya# yaqkShmayA# &yaqkShmayAq pari#bBuja | 
  
-217. pari# | Buqjaq | 
+217. pari# | Buqjaq || 
 pari#bBuja Bujaq pariq pari#bBuja | 
  
-218. Buqjaq | 
+218. Buqjaq || 
 Buqjeti# Buja | 
  
 219. nama#H | teq | aqstuq | 
@@ -741,20 +741,20 @@ teq aqstvaqstuq teq teq aqstvA yu#dhAqyA yu#dhAyAstu te te aqstvAyu#dhAya |
 221. aqstuq | Ayu#dhAya | anA#tatAya | 
 aqstvAyu#dhAqyA yu#dhAyA stvaq stvA yu#dhAqyA nA#tatAqyA nA#tatAqyA yu#dhAyA stvaq stvA yu#dhAqyA nA#tatAya | 
  
-222. Ayu#dhAya | anA#tatAya | dhRuqShNave$ | 
+222. Ayu#dhAya | anA#tatAya | dhRuqShNave$ || 
 Ayu#dhAqyA nA#tatAqyA nA#tatAqyA yu#dhAqyA yu#dhAqyA nA#tatAya dhRuqShNave# dhRuqShNave &nA#tatAqyA yu#dhAqyA yu#dhAqyA nA#tatAya dhRuqShNave$ | 
  
-223. anA#tatAya | dhRuqShNave$ | 
+223. anA#tatAya | dhRuqShNave$ || 
 anA#tatAya dhRuqShNave# dhRuqShNave &nA#tatAqyA nA#tatAya dhRuqShNave$ | 
  
 224. anA#tatAya | 
 anA#tatAqyetyanA$ - taqtAqyaq | 
  
-225. dhRuqShNave$ | 
+225. dhRuqShNave$ || 
 dhRuqShNavaq iti# dhRuqShNave$ | 
  
 226. uqBAByA$m | uqta | teq | 
-uqBAByA# muqtoto BAByA# muqBAByA# muqtate# ta uqto BAByA# muqBAByA# muqtate$ | 
+uqBAByA# muqtoto BAByA# muqBAByA# muqtate# ta uqto BAByA# muqBAByA# muqta te$ | 
  
 227. uqta | teq | nama#H | 
 uqta te#ta uqto tateq namoq nama#sta uqto tateq nama#H | 
@@ -765,16 +765,16 @@ teq namoq nama#ste teq namo# bAqhuByA$M bAqhuByAqM nama#ste teq namo# bAqhuByA$m
 229. nama#H | bAqhuByA$m | tava# | 
 namo# bAqhuByA$M bAqhuByAqM namoq namo# bAqhuByAqM tavaq tava# bAqhuByAqM namoq namo# bAqhuByAqM tava# | 
  
-230. bAqhuByA$m | tava# | dhanva#ne | 
+230. bAqhuByA$m | tava# | dhanva#ne || 
 bAqhuByAqM tavaq tava# bAqhuByA$M bAqhuByAqM tavaq dhanva#neq dhanva#neq tava# bAqhuByA$M bAqhuByAqM tavaq dhanva#ne | 
  
 231. bAqhuByA$m | 
 bAqhuByAqmiti# bAqhu - ByAqm | 
  
-232. tava# | dhanva#ne | 
+232. tava# | dhanva#ne || 
 tavaq dhanva#neq dhanva#neq tavaq tavaq dhanva#ne | 
  
-233. dhanva#ne | 
+233. dhanva#ne || 
 dhanva#naq itiq dhanva#ne | 
  
 234. pari# | teq | dhanva#naH | 
@@ -789,13 +789,13 @@ dhanva#no heqtir. heqtir dhanva#noq dhanva#no heqti raqsmA naqsmAn. heqtir dhanv
 237. heqtiH | aqsmAn | vRuqNaqktuq | 
 heqti raqsmA naqsmAn. heqtir. heqti raqsmAn. vRu#Naktu vRuNak tvaqsmAn. heqtir. heqti raqsmAn. vRu#Naktu | 
  
-238. aqsmAn | vRuqNaqktuq | viqSvata#H | 
+238. aqsmAn | vRuqNaqktuq | viqSvata#H || 
 aqsmAn. vRu#Naktu vRuNa ktvaqsmA naqsmAn. vRu#Naktu viqSvato# viqSvato# vRuNa ktvaqsmA naqsmAn. vRu#Naktu viqSvata#H | 
  
-239. vRuqNaqktuq | viqSvata#H | 
+239. vRuqNaqktuq | viqSvata#H || 
 vRuqNaqktuq viqSvato# viqSvato# vRuNaktu vRuNaktu viqSvata#H | 
  
-240. viqSvata#H | 
+240. viqSvata#H || 
 viqSvataq iti# viqSvata#H | 
  
 241. athoq | yaH | iqShuqdhi | 
@@ -822,13 +822,13 @@ Aqre aqsma daqsma dAqra Aqre aqsmanni nya#sma dAqra Aqre aqsmanni |
 248. aqsmat | ni | dheqhiq | 
 aqsmanni nya#sma daqsman nidhe#hidhehiq nya#sma daqsman nidhe#hi | 
  
-249. ni | dheqhiq | tam | 
+249. ni | dheqhiq | tam || 
 nidhe#hidhehiq ni ni dhe#hiq taM taM dhe#hiq ni ni dhe#hiq tam | 
  
-250. dheqhiq | tam | 
+250. dheqhiq | tam || 
 dheqhiq taM taM dhe#hi dhehiq tam | 
  
-251. tam | 
+251. tam || 
 tamitiq taM | 
 +++++++++++++++++++++++++
  2nd anuvaakam - Ganam - namo hiraNyabAhave 
@@ -1104,13 +1104,13 @@ kRuqthsnaqvIqtAyeti# kRuthsna - vIqtAya# |
 88. dhAva#te | sattva#nAm | pata#ye | 
 dhAva#teq sattva#nAq(gm)q sattva#nAqM dhAva#teq dhAva#teq sattva#nAqM pata#yeq pata#yeq sattva#nAqM dhAva#teq dhAva#teq sattva#nAqM pata#ye | 
 
-89. sattva#nAm | pata#ye | nama#H | 
+89. sattva#nAm | pata#ye | nama#H || 
 sattva#nAqM pata#yeq pata#yeq sattva#nAq(gm)q sattva#nAqM pata#yeq namoq namaqspata#yeq sattva#nAq(gm)q sattva#nAqM pata#yeq nama#H | 
 
-90. pata#ye | nama#H | 
+90. pata#ye | nama#H || 
 pata#yeq namoq namaqspata#yeq pata#yeq nama#H | 
  
-91. nama#H | 
+91. nama#H || 
 namaq itiq nama#H | 
 +++++++++++++++++++++++
  
@@ -1313,7 +1313,7 @@ namaq iShu#madByaq iShu#madByoq namoq namaq iShu#madByo dhanvAqviByo# dhanvAqviB
 65. iShu#madByaH | dhaqnvAqviBya#H | caq | 
 iShu#madByo dhanvAqviByo# dhanvAqviByaq iShu#madByaq iShu#madByo dhanvAqviBya#Sca ca dhanvAqviByaq iShu#madByaq iShu#madByo dhanvAqviBya#Sca | 
  
-66. dhaqnvAqviBya#H | 
+66. iShu#madByaH |
 iShu#madByaq itIShu#mat - ByaqH | 
  
 67. dhaqnvAqviBya#H | caq | vaqH | 
@@ -1380,20 +1380,20 @@ voq namoq namo# vo voq namoq nama#H |
 87. nama#H | nama#H |
 namoq nama#H | 
  
-88. nama#H | asya#dByaH | vidhya#dByaH |
-namo &syaqdByo &sya#dByoq namoq namo &sya#dByoq vidhya#dByoq vidhyaqdByo &sya#dByoq namoq namo &sya#dByoq vidhya#dByaH | 
+88. nama#H | asya#dByaH | viddhya#dByaH |
+namo &syaqdByo &sya#dByoq namoq namo &sya#dByoq viddhya#dByoq viddhyaqdByo &sya#dByoq namoq namo &sya#dByoq viddhya#dByaH | 
  
-89. asya#dByaH | vidhya#dByaH | caq | 
-asya#dByoq vidhya#dByoq vidhyaqdByo &syaqdByo &sya#dByoq vidhya#dByaSca caq vidhyaqdByo &syaqdByo &sya#dByoq vidhya#dByaSca | 
+89. asya#dByaH | viddhya#dByaH | caq | 
+asya#dByoq viddhya#dByoq viddhyaqdByo &syaqdByo &sya#dByoq viddhya#dByaSca caq viddhyaqdByo &syaqdByo &sya#dByoq viddhya#dByaSca | 
  
 90. asya#dByaH | 
 asya#dByaq ityasya#t - ByaqH | 
  
-91. vidhya#dByaH | caq | vaqH | 
-vidhya#dByaSca caq vidhya#dByoq vidhya#dByaSca vo vaScaq vidhya#dByoq vidhya#dByaSca vaH | 
+91. viddhya#dByaH | caq | vaqH | 
+viddhya#dByaSca caq viddhya#dByoq viddhya#dByaSca vo vaScaq viddhya#dByoq viddhya#dByaSca vaH | 
  
-92. vidhya#dByaH | 
-vidhya#dByaq itiq vidhya#t - ByaqH | 
+92. viddhya#dByaH | 
+viddhya#dByaq itiq viddhya#t - ByaqH | 
  
 93. caq | vaqH | nama#H | 
 caq voq vaqScaq caq voq namoq namo# vaSca ca voq nama#H | 
@@ -1503,32 +1503,32 @@ aSva#patiByaScaq cA Sva#patiqByo &Sva#patiByaSca vo vaqScA Sva#patiqByo &Sva#pat
 128. aSva#patiByaH | 
 aSva#patiByaq ityaSva#pati - ByaqH | 
  
-129. caq | vaqH | nama#H | 
+129. caq | vaqH | nama#H || 
 caq voq vaqScaq caq voq namoq namo# vaSca ca voq nama#H | 
  
-130. vaqH | nama#H | 
+130. vaqH | nama#H || 
 voq namoq namo# vo voq namoq nama#H | 
  
-131. nama#H | 
+131. nama#H || 
  namaq itiq nama#H | 
 3rd ends
 -------------------------------
 anuvaakam 4 - Ganam - nama AvyAdhinIByaH
 =========================================
-1. nama#H | AqvyAqdhinI$ByaH | viqvidhya#ntIByaH | 
-nama# AvyAqdhinI$Bya AvyAqdhinI$Byoq namoq nama# AvyAqdhinI$Byo viqvidhya#ntIByo viqvidhya#ntIBya AvyAqdhinI$Byoq namoq nama# AvyAqdhinI$Byo viqvidhya#ntIByaH | 
+1. nama#H | AqvyAqdhinI$ByaH | viqviddhya#ntIByaH | 
+nama# AvyAqdhinI$Bya AvyAqdhinI$Byoq namoq nama# AvyAqdhinI$Byo viqviddhya#ntIByo viqviddhya#ntIBya AvyAqdhinI$Byoq namoq nama# AvyAqdhinI$Byo viqviddhya#ntIByaH | 
  
-2. AqvyAqdhinI$ByaH | viqvidhya#ntIByaH | caq | 
-AqvyAqdhinI$Byo viqvidhya#ntIByo viqvidhya#ntIBya AvyAqdhinI$Bya AvyAqdhinI$Byo viqvidhya#ntIByaSca ca viqvidhya#ntIBya AvyAqdhinI$Bya AvyAqdhinI$Byo viqvidhya#ntIByaSca | 
+2. AqvyAqdhinI$ByaH | viqviddhya#ntIByaH | caq | 
+AqvyAqdhinI$Byo viqviddhya#ntIByo viqviddhya#ntIBya AvyAqdhinI$Bya AvyAqdhinI$Byo viqviddhya#ntIByaSca ca viqviddhya#ntIBya AvyAqdhinI$Bya AvyAqdhinI$Byo viqviddhya#ntIByaSca | 
  
 3. AqvyAqdhinI$ByaH | 
 AqvyAqdhinI$Byaq ityA$ - vyAqdhinI$ByaH | 
  
-4. viqvidhya#ntIByaH | caq | vaqH | 
-viqvidhya#ntIByaSca ca viqvidhya#ntIByo viqvidhya#ntIByaSca vo vaSca viqvidhya#ntIByo viqvidhya#ntIByaSca vaH | 
+4. viqviddhya#ntIByaH | caq | vaqH | 
+viqviddhya#ntIByaSca ca viqviddhya#ntIByo viqviddhya#ntIByaSca vo vaSca viqviddhya#ntIByo viqviddhya#ntIByaSca vaH | 
  
-5. viqvidhya#ntIByaH | 
-viqvidhya#ntIByaq iti# vi - vidhya#ntIByaH | 
+5. viqviddhya#ntIByaH | 
+viqviddhya#ntIByaq iti# vi - viddhya#ntIByaH | 
  
 6. caq | vaqH | nama#H | 
 caq voq vaqScaq caq voq namoq namo# vaSca ca voq nama#H |
@@ -1876,13 +1876,13 @@ Svapa#tiByaSca caq Svapa#tiByaqH Svapa#tiByaSca vo vaScaq Svapa#tiByaqH Svapa#ti
 120. Svapa#tiByaH | 
 Svapa#tiByaq itiq Svapa#ti - ByaqH | 
  
-121. caq | vaqH | nama#H | 
+121. caq | vaqH | nama#H || 
 caq voq vaqScaq caq voq namoq namo# vaSca ca voq nama#H | 
  
-122. vaqH | nama#H | 
+122. vaqH | nama#H || 
 voq namoq namo# vo voq namoq nama#H | 
  
-123. nama#H | 
+123. nama#H || 
 namaq itiq nama#H |
 4th ends
 --------------------------
@@ -2054,17 +2054,17 @@ caq namoq nama#Sca caq namo# vRuqddhAya# vRuqddhAyaq nama#Sca caq namo# vRuqddhA
 55. nama#H | vRuqddhAya# | caq | 
 namo# vRuqddhAya# vRuqddhAyaq namoq namo# vRuqddhAya# ca ca vRuqddhAyaq namoq namo# vRuqddhAya# ca | 
  
-56. vRuqddhAya# | caq | saqm~MvRuddhva#ne | 
-vRuqddhAya# ca ca vRuqddhAya# vRuqddhAya# ca saqm~MvRuddhva#ne saqm~MvRuddhva#ne ca vRuqddhAya# vRuqddhAya# ca saqm~MvRuddhva#ne | 
+56. vRuqddhAya# | caq | saqm~MvRud^dhva#ne | 
+vRuqddhAya# ca ca vRuqddhAya# vRuqddhAya# ca saqm~MvRud^dhva#ne saqm~MvRud^dhva#ne ca vRuqddhAya# vRuqddhAya# ca saqm~MvRud^dhva#ne | 
  
-57. caq | saqm~MvRuddhva#ne | caq | 
-caq saqm~MvRuddhva#ne saqm~MvRuddhva#ne ca ca saqm~MvRuddhva#ne ca ca saqm~MvRuddhva#ne ca ca saqm~MvRuddhva#ne ca | 
+57. caq | saqm~MvRud^dhva#ne | caq | 
+caq saqm~MvRud^dhva#ne saqm~MvRud^dhva#ne ca ca saqm~MvRud^dhva#ne ca ca saqm~MvRud^dhva#ne ca ca saqm~MvRud^dhva#ne ca | 
  
-58. saqm~MvRuddhva#ne | caq | nama#H | 
-saqm~MvRuddhva#ne ca ca saqm~MvRuddhva#ne saqm~MvRuddhva#ne ca namoq nama#Sca saqm~MvRuddhva#ne saqm~MvRuddhva#ne caq nama# |
+58. saqm~MvRud^dhva#ne | caq | nama#H | 
+saqm~MvRud^dhva#ne ca ca saqm~MvRud^dhva#ne saqm~MvRud^dhva#ne ca namoq nama#Sca saqm~MvRud^dhva#ne saqm~MvRud^dhva#ne caq nama# |
 
-59. saqm~MvRuddhva#ne | 
-saqm~MvRuddhva#naq iti# sam - vRuddhva#ne | 
+59. saqm~MvRud^dhva#ne | 
+saqm~MvRud^dhva#naq iti# sam - vRud^dhva#ne | 
  
 60. caq | nama#H | agri#yAya | 
 caq namoq nama#Sca caq namoq agri#yAq yAgri#yAyaq nama#Sca caq namoq agri#yAya | 
@@ -2117,16 +2117,16 @@ caq namoq nama#Sca caq nama# UqrmyA# yoqrmyA#yaq nama#Sca caq nama# UqrmyA#ya |
 76. nama#H | UqrmyA#ya | caq | 
 nama# UqrmyA# yoqrmyA#yaq namoq nama# UqrmyA#ya ca coqrmyA#yaq namoq nama# UqrmyA#ya ca | 
  
-77. UqrmyA#ya | caq | aqvaqsvaqnyAya# | 
+77. UqrmyA#ya | caq | aqvaqsvaqnyA#ya | 
 UqrmyA#ya ca coqrmyA# yoqrmyA#ya cA vasvaqnyA#yA vasvaqnyA#ya coqrmyA# yoqrmyA#ya cA vasvaqnyA#ya | 
  
-78. caq | aqvaqsvaqnyAya# | caq | 
+78. caq | aqvaqsvaqnyA#ya | caq | 
 cAq vaqsvaqnyA#yA vasvaqnyA#ya ca cA vasvaqnyA#ya ca cA vasvaqnyA#ya ca cA vasvaqnyA#ya ca | 
  
-79. aqvaqsvaqnyAya# | caq | nama#H | 
+79. aqvaqsvaqnyA#ya | caq | nama#H | 
 aqvaqsvaqnyA#ya ca cA vasvaqnyA#yA vasvaqnyA#ya caq namoq nama#ScA vasvaqnyA#yA vasvaqnyA#ya caq nama#H | 
  
-80. aqvaqsvaqnyAya# | 
+80. aqvaqsvaqnyA#ya | 
 aqvaqsvaqnyA#yetya#va - svaqnyA#ya | 
  
 81. caq | nama#H | sroqtaqsyA#ya | 
@@ -2138,13 +2138,13 @@ nama#H srotaqsyA#ya srotaqsyA#yaq namoq nama#H srotaqsyA#ya ca ca srotaqsyA#yaq 
 83. sroqtaqsyA#ya | caq | dvIpyA#ya | 
 sroqtaqsyA#ya ca ca srotaqsyA#ya srotaqsyA#ya caqq dvIpyA#yaq dvIpyA#ya ca srotaqsyA#ya srotaqsyA#ya caq dvIpyA#ya | 
  
-84. caq | dvIpyA#ya | caq | 
+84. caq | dvIpyA#ya | caq || 
 caq dvIpyA#yaq dvIpyA#ya ca caq dvIpyA#ya ca caq dvIpyA#ya ca caq dvIpyA#ya ca |
  
-85. dvIpyA#ya | caq | 
+85. dvIpyA#ya | caq || 
 dvIpyA#ya ca caq dvIpyA#yaq dvIpyA#ya ca | 
  
-86. caq | 
+86. caq || 
 ceti# ca | 
 5th ends
 --------------------------
@@ -2184,14 +2184,14 @@ aqpaqraqjAya# ca cA paraqjAyA# paraqjAya# caq namoq nama#ScA paraqjAyA# paraqjAy
 11. aqpaqraqjAya# | 
 aqpaqraqjAyetya#para - jAya# | 
  
-12. caq | nama#H | maqdhyaqmAya# | 
-caq namoq nama#Sca caq namo# madhyaqmAya# madhyaqmAyaq nama#Sca caq namo# madhyaqmAya# | 
+12. caq | nama#H | maqddhyaqmAya# | 
+caq namoq nama#Sca caq namo# maddhyaqmAya# maddhyaqmAyaq nama#Sca caq namo# maddhyaqmAya# | 
  
-13. nama#H | maqdhyaqmAya# | caq | 
-namo# madhyaqmAya# madhyaqmAyaq namoq namo# madhyaqmAya# ca ca madhyaqmAyaq namoq namo# madhyaqmAya# ca | 
+13. nama#H | maqddhyaqmAya# | caq | 
+namo# maddhyaqmAya# maddhyaqmAyaq namoq namo# maddhyaqmAya# ca ca maddhyaqmAyaq namoq namo# maddhyaqmAya# ca | 
  
-14. maqdhyaqmAya# | caq | aqpaqgaqlBAya# | 
-maqdhyaqmAya# ca ca madhyaqmAya# madhyaqmAya# cA pagaqlBAyA# pagaqlBAya# ca madhyaqmAya# madhyaqmAya# cA pagaqlBAya# | 
+14. maqddhyaqmAya# | caq | aqpaqgaqlBAya# |  
+maqddhyaqmAya# ca ca maddhyaqmAya# maddhyaqmAya# cA pagaqlBAyA# pagaqlBAya# ca maddhyaqmAya# maddhyaqmAya# cA pagaqlBAya# | 
  
 15. caq | aqpaqgaqlBAya# | caq | 
 cAq paqgaqlBAyA# pagaqlBAya# ca cA pagaqlBAya# ca cA pagaqlBAya# ca cA pagaqlBAya# ca | 
@@ -2208,14 +2208,14 @@ caq namoq nama#Sca caq namo# jaGaqnyA#ya jaGaqnyA#yaq nama#Sca caq namo# jaGaqny
 19. nama#H | jaqGaqnyA#ya | caq | 
 namo# jaGaqnyA#ya jaGaqnyA#yaq namoq namo# jaGaqnyA#ya ca ca jaGaqnyA#yaq namoq namo# jaGaqnyA#ya ca | 
  
-20. jaqGaqnyA#ya | caq | budhni#yAya | 
-jaqGaqnyA#ya ca ca jaGaqnyA#ya jaGaqnyA#ya caq budhni#yAyaq budhni#yAya ca jaGaqnyA#ya jaGaqnyA#ya caq budhni#yAya | 
+20. jaqGaqnyA#ya | caq | bud^dhni#yAya | 
+jaqGaqnyA#ya ca ca jaGaqnyA#ya jaGaqnyA#ya caq bud^dhni#yAyaq bud^dhni#yAya ca jaGaqnyA#ya jaGaqnyA#ya caq bud^dhni#yAya | 
  
-21. caq | budhni#yAya | caq | 
-caq budhni#yAyaq budhni#yAya ca caq budhni#yAya ca caq budhni#yAya ca caq budhni#yAya ca | 
+21. caq | bud^dhni#yAya | caq | 
+caq bud^dhni#yAyaq bud^dhni#yAya ca caq bud^dhni#yAya ca caq bud^dhni#yAya ca caq bud^dhni#yAya ca | 
  
-22. budhni#yAya | caq | nama#H | 
-budhni#yAya ca caq budhni#yAyaq budhni#yAya caq namoq nama#Scaq budhni#yAyaq budhni#yAya caq nama#H | 
+22. buddhni#yAya | caq | nama#H |   
+bud^dhni#yAya ca caq bud^dhni#yAyaq bud^dhni#yAya caq namoq nama#Scaq bud^dhni#yAyaq bud^dhni#yAya caq nama#H | 
  
 23. caq | nama#H | soqByA#ya | 
 caq namoq nama#Sca caq nama#H soqByA#ya soqByA#yaq nama#Sca caq nama#H soqByA#ya | 
@@ -2629,14 +2629,14 @@ viqdyuqtyA#ya ca ca vidyuqtyA#ya vidyuqtyA#ya caq namoq nama#Sca vidyuqtyA#ya vi
 73. viqdyuqtyA#ya | 
 viqdyuqtyA#yeti# vi - dyuqtyA#ya | 
 
-74. caq | nama#H | IqdhriyA#ya | 
-caq namoq nama#Sca caq nama# IqdhriyA# yeqdhriyA#yaq nama#Sca caq nama# IqdhriyA#ya | 
+74. caq | nama#H | Iqd^dhriyA#ya | 
+caq namoq nama#Sca caq nama# Iqd^dhriyA# yeqd^dhriyA#yaq nama#Sca caq nama# Iqd^dhriyA#ya | 
  
-75. nama#H | IqdhriyA#ya | caq | 
-nama# IqdhriyA# yeqdhriyA#yaq namoq nama# IqdhriyA#ya ca ceqdhriyA#yaq namoq nama# IqdhriyA#ya ca | 
+75. nama#H | Iqd^dhriyA#ya | caq |  
+nama# Iqd^dhriyA# yeqd^dhriyA#yaq namoq nama# Iqd^dhriyA#ya ca ceqd^dhriyA#yaq namoq nama# Iqd^dhriyA#ya ca | 
  
-76. IqdhriyA#ya | caq | AqtaqpyA#ya | 
-IqdhriyA#ya ca ceqdhriyA# yeqdhriyA#ya cA taqpyA#yA taqpyA#ya ceqdhriyA# yeqdhriyA#ya cA taqpyA#ya | 
+76. Iqd^dhriyA#ya | caq | AqtaqpyA#ya | 
+Iqd^dhriyA#ya ca ceqd^dhriyA# yeqd^dhriyA#ya cA taqpyA#yA taqpyA#ya ceqd^dhriyA# yeqd^dhriyA#ya cA taqpyA#ya | 
  
 77. caq | AqtaqpyA#ya | caq | 
 cAq taqpyA#yA taqpyA#ya ca cA taqpyA#ya ca cA taqpyA#ya ca cA taqpyA#ya ca | 
@@ -2671,16 +2671,16 @@ namo# vAstaqvyA#ya vAstaqvyA#yaq namoq namo# vAstaqvyA#ya ca ca vAstaqvyA#yaq na
 87. vAqstaqvyA#ya | caq | vAqstuqpAya# | 
 vAqstaqvyA#ya ca ca vAstaqvyA#ya vAstaqvyA#ya ca vAstuqpAya# vAstuqpAya# ca vAstaqvyA#ya vAstaqvyA#ya ca vAstuqpAya# | 
  
-88. caq | vAqstuqpAya# | caq | 
+88. caq | vAqstuqpAya# | caq || 
 caq vAqstuqpAya# vAstuqpAya# ca ca vAstuqpAya# ca ca vAstuqpAya# ca ca vAstuqpAya# ca | 
  
-89. vAqstuqpAya# | caq | 
+89. vAqstuqpAya# | caq || 
 vAqstuqpAya# ca ca vAstuqpAya# vAstuqpAya# ca | 
  
 90. vAqstuqpAya# | 
 vAqstuqpAyeti# vAstu - pAya# | 
  
-91. caq | 
+91. caq || 
 ceti# ca | 
 7 ends
 ----------------------------------
@@ -2958,18 +2958,18 @@ nama#H sikaqtyA#ya sikaqtyA#yaq namoq nama#H sikaqtyA#ya ca ca sikaqtyA#yaq namo
 90. siqkaqtyA#ya | caq | praqvAqhyA#ya | 
 siqkaqtyA#ya ca ca sikaqtyA#ya sikaqtyA#ya ca pravAqhyA#ya pravAqhyA#ya ca sikaqtyA#ya sikaqtyA#ya ca pravAqhyA#ya | 
  
-91. caq | praqvAqhyA#ya | caq | 
+91. caq | praqvAqhyA#ya | caq || 
 caq praqvAqhyA#ya pravAqhyA#ya ca ca pravAqhyA#ya ca ca pravAqhyA#ya ca ca pravAqhyA#ya ca | 
  
-92. praqvAqhyA#ya | caq | 
+92. praqvAqhyA#ya | caq || 
 praqvAqhyA#ya ca ca pravAqhyA#ya pravAqhyA#ya ca | 
  
 93. praqvAqhyA#ya | 
 praqvAqhyA#yeti# pra - vAqhyA#ya | 
  
-94. caq | 
+94. caq || 
 ceti# ca |
-8ends 
+8 anuvaakam ends 
 ---------------------------------
  
 anuvaakam 9 - Ganam - nama iriNyAya ca 
@@ -3247,16 +3247,16 @@ viqciqnvaqtkeByaq iti# vi - ciqnvaqtkeBya#H |
 91. nama#H | Aqniqrq.haqteBya#H | nama#H | 
 nama# Anir.haqteBya# Anir.haqteByoq namoq nama# Anir.haqteByoq namoq nama# Anir.haqteByoq namoq nama# Anir.haqteByoq nama# | 
  
-92. Aqniqrq.haqteBya#H | nama#H | AqmIqvaqtkeBya#H | 
+92. Aqniqrq.haqteBya#H | nama#H | AqmIqvaqtkeBya#H || 
 Aqniqrq.haqteByoq namoq nama# Anir.haqteBya# Anir.haqteByoq nama# AmIvaqtkeBya# AmIvaqtkeByoq nama# Anir.haqteBya# Anir.haqteByoq nama# AmIvaqtkeBya#H | 
  
 93. Aqniqrq.haqteBya#H | 
 Aqniqr.qhaqteByaq ityA# niH - haqteBya#H | 
  
-94. nama#H | AqmIqvaqtkeBya#H | 
+94. nama#H | AqmIqvaqtkeBya#H || 
 nama# AmIvaqtkeBya# AmIvaqtkeByoq namoq nama# AmIvaqtkeBya#H | 
  
-95. AqmIqvaqtkeBya#H | 
+95. AqmIqvaqtkeBya#H || 
 AqmIqvaqtkeByaq ityA$ - mIqvaqtkeBya#H | 
 9 ends
 -------------------------------
@@ -3269,13 +3269,13 @@ drApeq andha#soq andha#soq drApeq drApeq andha#saspate paqte &ndha#soq drApeq dr
 2. andha#saH | paqteq | dari#drat | 
 andha#saspate paqte &ndha#soq andha#saspateq dari#draqd dari#drat paqte &ndha#soq andha#saspateq dari#drat | 
  
-3. paqteq | dari#drat | nIla#lohita | 
+3. paqteq | dari#drat | nIla#lohita || 
 paqteq dari#draqd dari#drat pate pateq dari#draqn nIla#lohitaq nIla#lohitaq dari#drat pate pateq dari#draqn nIla#lohita | 
  
-4. dari#drat | nIla#lohita | 
+4. dari#drat | nIla#lohita || 
 dari#draqn nIla#lohitaq nIla#lohitaq dari#draqd dari#draqn nIla#lohita | 
  
-5. nIla#lohita | 
+5. nIla#lohita || 
 nIla#lohiqtetiq nIla# - loqhiqtaq | 
  
 6. eqShAm | puru#ShANAm | eqShAm | 
@@ -3311,13 +3311,13 @@ mo itiq mo |
 16. eqShAqm | kim | caqna | 
 eqShAqM kiM kime#ShA meShAqM ki~jcaqna caqna kime#ShA meShAqM ki~jcaqna | 
  
-17. kim | caqna | Aqmaqmaqt | 
+17. kim | caqna | Aqmaqmaqt || 
 ki~jcaqna caqna kiM ki~jcaqnA ma#madA mamac caqna kiM ki~jcaqnA ma#mat | 
  
-18. caqna | Aqmaqmaqt | 
+18. caqna | Aqmaqmaqt || 
 caqnA ma#madA mamac caqna caqnA ma#mat | 
  
-19. Aqmaqmaqt | 
+19. Aqmaqmaqt || 
 Aqmaqmaq dityA# mamat | 
  
 20. yA | teq | ruqdraq | 
@@ -3332,13 +3332,13 @@ ruqdraq SiqvA SiqvA ru#dra rudra SiqvA taqnU staqnUH SiqvA ru#dra rudra SiqvA ta
 23. SiqvA | taqnUH | SiqvA | 
 SiqvA taqnU staqnUH SiqvA shiqvA taqnUH shiqvA SiqvA taqnUH SiqvA SiqvA taqnUH SiqvA | 
  
-24. taqnUH | SiqvA | viqSvAha#BeShajI | 
+24. taqnUH | SiqvA | viqSvAha#BeShajI || 
 taqnUH SiqvA SiqvA taqnU staqnUH SiqvA viqSvAha#BeShajI viqSvAha#BeShajI SiqvA taqnU staqnUH SiqvA viqSvAha#BeShajI | 
  
-25. SiqvA | viqSvAha#BeShajI | 
+25. SiqvA | viqSvAha#BeShajI || 
 SiqvA viqSvAha#BeShajI viqSvAha#BeShajI SiqvA SiqvA viqSvAha#BeShajI | 
  
-26. viqSvAha#BeShajI | 
+26. viqSvAha#BeShajI || 
 viqSvAha#BeShaqjIti# viqSvAha# - BeqShaqjIq | 
  
 27. SiqvA | ruqdrasya# | BeqShaqjI | 
@@ -3353,13 +3353,13 @@ BeqShaqjI tayAq tayA# BeShaqjI Be#ShaqjI tayA# no naqstayA# BeShaqjI Be#ShaqjI t
 30. tayA$ | naqH | mRuqDaq | 
 tayA# no naqstayAq tayA# no mRuDa mRuDA naqstayAq tayA# no mRuDa | 
  
-31. naqH | mRuqDaq | jIqvase$ | 
+31. naqH | mRuqDaq | jIqvase$ || 
 noq mRuqDaq mRuqDAq noq noq mRuqDaq jIqvase# jIqvase# mRuDA no no mRuDa jIqvase$ | 
  
-32. mRuqDaq | jIqvase$ | 
+32. mRuqDaq | jIqvase$ || 
 mRuqDaq jIqvase# jIqvase# mRuDa mRuDa jIqvase$ | 
  
-33. jIqvase$ | 
+33. jIqvase$ || 
 jIqvasaq iti# jIqvase$ | 
 
 34. iqmAm | ruqdrAya# | taqvase$ | 
@@ -3382,13 +3382,13 @@ kShaqyadvI#rAyaq pra pra kShaqyadvI#rAya kShaqyadvI#rAyaq pra Ba#rAmahe BarAmahe
 39. kShaqyadvI#rAya | 
 kShaqyadvI#rAqyeti# kShaqyat - vIqrAqyaq | 
  
-40. pra | BaqrAqmaqheq | maqtim | 
+40. pra | BaqrAqmaqheq | maqtim || 
 pra Ba#rAmahe BarAmaheq pra pra Ba#rAmahe maqtiM maqtiM Ba#rAmaheq pra pra Ba#rAmahe maqtim | 
  
-41. BaqrAqmaqheq | maqtim | 
+41. BaqrAqmaqheq | maqtim || 
 BaqrAqmaqheq maqtiM maqtiM Ba#rAmahe BarAmahe maqtim | 
  
-42. maqtim | 
+42. maqtim || 
 maqti miti# maqtim | 
  
 43. yathA$ | naqH | Sam | 
@@ -3421,13 +3421,13 @@ viSva#M puqShTaM puqShTaM ~MviSvaqM ~MviSva#M puqShTaM grAmeq grAme# puqShTaM ~M
 52. puqShTam | grAme$ | aqsminn | 
 puqShTaM grAmeq grAme# puqShTaM puqShTaM grAme# aqsmin naqsmin grAme# puqShTaM puqShTaM grAme# aqsminn | 
  
-53. grAme$ | aqsminn | anA#turam | 
+53. grAme$ | aqsminn | anA#turam || 
 grAme# aqsmin naqsmin grAmeq grAme# aqsmin nanA#turaq manA#tura maqsmin grAmeq grAme# aqsmin nanA#turam | 
  
-54. aqsminn | anA#turam | 
+54. aqsminn | anA#turam || 
 aqsmin nanA#turaq manA#tura maqsmin naqsmin nanA#turam | 
  
-55. anA#turam | 
+55. anA#turam || 
 anA#turaq mityanA$ - tuqraqm | 
  
 56. mRuqDa | naqH | ruqdraq | 
@@ -3457,17 +3457,17 @@ kShaqyadvI#rAyaq nama#sAq nama#sA kShaqyadvI#rAya kShaqyadvI#rAyaq nama#sA vidhe
 64. kShaqyadvI#rAya | 
 kShaqyadvI#rAqyeti# kShaqyat - vIqrAqyaq | 
  
-65. nama#sA | viqdheqmaq | teq | 
+65. nama#sA | viqdheqmaq | teq || 
 nama#sA vidhema vidhemaq nama#sAq nama#sA vidhema te te vidhemaq nama#sAq nama#sA vidhema te | 
  
-66. viqdheqmaq | teq | 
+66. viqdheqmaq | teq || 
 viqdheqmaq teq teq viqdheqmaq viqdheqmaq teq | 
  
-67. teq | 
+67. teq || 
 taq iti# te | 
  
 68. yat | Sam | caq | 
-yacCa(gm) SaM ~Myad ya cCa~jca# caq SaM ~Myad ya cCa~jca# | 
+yacCa(gm) SaM ~Myad yacCa~jca# caq SaM ~Myad yacCa~jca# | 
  
 69. Sam | caq | yoH | 
 Sa~jca# caq Sa(gm) Sa~jcaq yor yoScaq Sa(gm) Sa~jcaq yoH | 
@@ -3499,13 +3499,13 @@ tada#SyAmA SyAmaq tat tada#SyAmaq tavaq tavA$SyAmaq tat tada#SyAmaq tava# |
 78. aqSyAqmaq | tava# | ruqdraq | 
 aqSyAqmaq tavaq tavA$SyAmA SyAmaq tava# rudra rudraq tavA$SyAmA SyAmaq tava# rudra | 
  
-79. tava# | ruqdraq | praNI#tau | 
+79. tava# | ruqdraq | praNI#tau || 
 tava# rudra rudraq tavaq tava# rudraq praNI#tauq praNI#tau rudraq tavaq tava# rudraq praNI#tau | 
  
-80. ruqdraq | praNI#tau | 
+80. ruqdraq | praNI#tau || 
 ruqdraq praNI#tauq praNI#tau rudra rudraq praNI#tau | 
  
-81. praNI#tau | 
+81. praNI#tau || 
 praNI#tAqvitiq pra - nIqtauq | 
  
 82. mA | naqH | maqhAnta$m | 
@@ -3515,7 +3515,7 @@ mA no# noq mA mA no# maqhAnta#M maqhAnta#M noq mA mA no# maqhAnta$m |
 noq maqhAnta#M maqhAnta#M no no maqhAnta# muqtota maqhAnta#M no no maqhAnta# muqta | 
  
 84. maqhAnta$m | uqta | mA | 
-maqhAnta# muqtota maqhAnta#M maqhAnta# muqtamA mota maqhAnta#M maqhAnta# muqtamA | 
+maqhAnta# muqtota maqhAnta#M maqhAnta# muqta mA mota maqhAnta#M maqhAnta# muqta mA | 
  
 85. uqta | mA | naqH | 
 uqta mA motota mA no# noq mo tota mA na#H | 
@@ -3524,10 +3524,10 @@ uqta mA motota mA no# noq mo tota mA na#H |
 mA no# noq mA mA no# arBaqka ma#rBaqkaM noq mA mA no# arBaqkam | 
  
 87. naqH | aqrBaqkam | mA | 
-noq aqrBaqka ma#rBaqkaM no# no arBaqkaM mA mArBaqkaM no# no arBaqkaM mA | 
+noq aqrBaqka ma#rBaqkaM no# no arBaqkaM mA mA&rBaqkaM no# no arBaqkaM mA | 
 
 88. aqrBaqkam | mA | naqH | 
-aqrBaqkaM mA mArBaqka ma#rBaqkaM mA no# noq mArBaqka ma#rBaqkaM mA na#H | 
+aqrBaqkaM mA mA&rBaqka ma#rBaqkaM mA no# noq mA&rBaqka ma#rBaqkaM mA na#H | 
  
 89. mA | naqH | ukSha#ntam | 
 mA no# noq mA mA naq ukSha#ntaq mukSha#ntaM noq mA mA naq ukSha#ntam | 
@@ -3541,13 +3541,13 @@ ukSha#nta muqto tokSha#ntaq mukSha#nta muqtamA mo tokSha#ntaq mukSha#nta muqtamA
 92. uqta | mA | naqH | 
 uqtamA motota mA no# noq mo tota mA na#H | 
  
-93. mA | naqH | uqkShiqtam | 
+93. mA | naqH | uqkShiqtam || 
 mA no# noq mA mAna# ukShiqta mu#kShiqtaM noq mA mA na# ukShiqtam | 
  
-94. naqH | uqkShiqtam | 
+94. naqH | uqkShiqtam || 
 naq uqkShiqta mu#kShiqtaM no# na ukShiqtam | 
  
-95. uqkShiqtam | 
+95. uqkShiqtam || 
 uqkShiqtamityu# kShiqtam | 
  
 96. mA | naqH | vaqdhIqH | 
@@ -3580,13 +3580,13 @@ mA no# noq mA mA na# staqnuva# staqnuvo# noq mA mA na# staqnuva#H |
 105. naqH | taqnuva#H | ruqdraq | 
 naq staqnuva# staqnuvo# no na staqnuvo# rudra rudra taqnuvo# no na staqnuvo# rudra | 
  
-106. taqnuva#H | ruqdraq | rIqriqShaqH | 
+106. taqnuva#H | ruqdraq | rIqriqShaqH || 
 taqnuvo# rudra rudra taqnuva# staqnuvo# rudra rIriSho rIriSho rudra taqnuva# staqnuvo# rudra rIriShaH | 
  
-107. ruqdraq | rIqriqShaqH | 
+107. ruqdraq | rIqriqShaqH || 
 ruqdraq rIqriqShoq rIqriqShoq ruqdraq ruqdraq rIqriqShaqH | 
  
-108. rIqriqShaqH | 
+108. rIqriqShaqH || 
 rIqriqShaqH iti# rIriShaH | 
 
 109. mA | naqH | toqke | 
@@ -3622,13 +3622,13 @@ goShuq mA mA goShuq goShuq mA no# noq mA goShuq goShuq mA na#H |
 119. mA | naqH | aSve#Shu | 
 mA no# noq mA mA noq aSveq ShvaSve#Shu noq mA mA noq aSve#Shu | 
  
-120. naqH | aSve#Shu | rIqriqShaqH | 
+120. naqH | aSve#Shu | rIqriqShaqH || 
 noq aSveq ShvaSve#Shu no noq aSve#Shu rIriSho rIriShoq aSve#Shu no noq aSve#Shu rIriShaH | 
  
-121. aSve#Shu | rIqriqShaqH | 
+121. aSve#Shu | rIqriqShaqH || 
 aSve#Shu rIriSho rIriShoq aSveqShvaSve#Shu rIriShaH | 
  
-122. rIqriqShaqH | 
+122. rIqriqShaqH || 
 rIqriqShaq iti# rIriShaH | 
  
 123. vIqrAn | mA | naqH | 
@@ -3652,13 +3652,13 @@ vaqdhIqr. haqviShma#nto haqviShma#nto vadhIr vadhIr. haqviShma#ntoq nama#sAq nam
 129. haqviShma#ntaH | nama#sA | viqdheqmaq | 
 haqviShma#ntoq nama#sAq nama#sA haqviShma#nto haqviShma#ntoq nama#sA vidhema vidhemaq nama#sA haqviShma#nto haqviShma#ntoq nama#sA vidhema | 
  
-130. nama#sA | viqdheqmaq | teq | 
+130. nama#sA | viqdheqmaq | teq || 
 nama#sA vidhema vidhemaq nama#sAq nama#sA vidhema te te vidhemaq nama#sAq nama#sA vidhema te | 
  
-131. viqdheqmaq | teq | 
+131. viqdheqmaq | teq || 
 viqdheqmaq teq teq viqdheqmaq viqdheqmaq teq | 
  
-132. teq | 
+132. teq || 
 taq iti# te | 
  
 133. AqrAt | teq | goqGne | 
@@ -3692,16 +3692,16 @@ kShaqyadvI#rAqyeti# kShaqyat - vIqrAqyaq |
 142. suqmnam | aqsme | teq | 
 suqmna maqsme aqsme suqmna(gm) suqmna maqsme te# te aqsme suqmna(gm) suqmna maqsme te$ | 
  
-143. aqsme | teq | aqstuq | 
+143. aqsme | teq | aqstuq || 
 aqsme te# te aqsme aqsme te# astvastu te aqsme aqsme te# astu | 
  
 144. aqsme | 
 aqsme ityaqsme | 
  
-145. teq | aqstuq | 
+145. teq | aqstuq || 
 teq aqstvaqstuq teq teq aqstuq | 
  
-146. aqstuq | 
+146. aqstuq || 
 aqstvitya#stu | 
  
 147. rakSha# | caq | naqH | 
@@ -3734,13 +3734,13 @@ caq noq naqScaq caq naqH Sarmaq Sarma# naSca ca naqH Sarma# |
 156. naqH | Sarma# | yaqcCaq | 
 naqH Sarmaq Sarma# no naqH Sarma# yacCa yacCaq Sarma# no naqH Sarma# yacCa | 
 
-157. Sarma# | yaqcCaq | dviqbar.hA$ | 
-Sarma# yacCa yacCaq Sarmaq Sarma# yacCa dviqbar.hA$ dviqbar.hA# yacCaq Sarmaq Sarma# yacCa dviqbar.hA$ | 
+157. Sarma# | yaqcCaq | dviqbar.hA$H || 
+Sarma# yacCa yacCaq Sarmaq Sarma# yacCa dviqbar.hA$ dviqbar.hA# yacCaq Sarmaq Sarma# yacCa dviqbar.hA$H | 
  
-158. yaqcCaq | dviqbar.hA$ | 
+158. yaqcCaq | dviqbar.hA$H || 
 yaqcCaq dviqbar.hA$ dviqbar.hA# yacCa yacCa dviqbar.hA$H | 
  
-159. dviqbar.hA$ | 
+159. dviqbar.hA$H || 
 dviqbar.hAq iti# dvi - bar.hA$H | 
  
 160. stuqhi | Sruqtam | gaqrttaqsada$m | 
@@ -3765,13 +3765,13 @@ mRuqgaM na na mRuqgaM mRuqgaM na BIqmaM BIqmaM na mRuqgaM mRuqgaM na BIqmam |
 166. na | BIqmam | uqpaqhaqtnum | 
 na BIqmaM BIqmaM na na BIqma mu#pahaqtnu mu#pahaqtnuM BIqmaM na na BIqma mu#pahaqtnum | 
  
-167. BIqmam | uqpaqhaqtnum | uqgram | 
+167. BIqmam | uqpaqhaqtnum | uqgram || 
 BIqma mu#pahaqtnu mu#pahaqtnuM BIqmaM BIqma mu#pahaqtnu muqgra muqgra mu#pahaqtnuM BIqmaM BIqma mu#pahaqtnu muqgram | 
  
-168. uqpaqhaqtnum | uqgram | 
+168. uqpaqhaqtnum | uqgram || 
 uqpaqhatnu muqgra muqgra mu#pahaqtnu mu#pahaqtnu muqgram | 
  
-169. uqgram | 
+169. uqgram || 
 uqgramityuqgram | 
  
 170. mRuqDa | jaqriqtre | ruqdraq | 
@@ -3795,13 +3795,13 @@ teq aqsma daqsmat te# te aqsmanni nya#smat te# te aqsmanni |
 176. aqsmat | ni | vaqpaqntuq | 
 aqsmanninya#sma daqsmanni va#pantu vapantuqnya#sma daqsmanni va#pantu | 
  
-177. ni | vaqpaqntuq | senA$H | 
+177. ni | vaqpaqntuq | senA$H || 
 niva#pantu vapantuq ni niva#pantuq senAqH senA# vapantuq ni niva#pantuq senA$H | 
 
-178. vaqpaqntuq | senA$H | 
+178. vaqpaqntuq | senA$H || 
 vaqpaqntuq senAqH senA# vapantu vapantuq senA$H | 
  
-179. senA$H | 
+179. senA$H || 
 senAq itiq senA$H | 
  
 180. pari# | naqH | ruqdrasya# | 
@@ -3822,16 +3822,16 @@ vRuqNaqktuq pariq pari# vRuNaktu vRuNaktuq pari# tveqShasya# tveqShasyaq pari# v
 185. pari# | tveqShasya# | duqrmaqtiH | 
 pari# tveqShasya# tveqShasyaq pariq pari# tveqShasya# durmaqtir du#rmaqti stveqShasyaq pariq pari# tveqShasya# durmaqtiH | 
  
-186. tveqShasya# | duqrmaqtiH | aqGAqyoH | 
+186. tveqShasya# | duqrmaqtiH | aqGAqyoH || 
 tveqShasya# durmaqtir du#rmaqti stveqShasya# tveqShasya# durmaqti ra#GAqyo ra#GAqyor du#rmaqti stveqShasya# tveqShasya# durmaqti ra#GAqyoH | 
  
-187. duqrmaqtiH | aqGAqyoH | 
+187. duqrmaqtiH | aqGAqyoH || 
 duqrmaqti ra#GAqyo ra#GAqyor du#rmaqtir du#rmaqti ra#GAqyoH | 
  
 188. duqrmaqtiH | 
 duqrmaqtiriti# duH - maqtiH | 
  
-189. aqGAqyoH | 
+189. aqGAqyoH || 
 aqGAqyo ritya#Ga - yoH | 
  
 190. ava# | sthiqrA | maqGava#dByaH | 
@@ -3853,13 +3853,13 @@ taqnuqShvaq mIDhvoq mIDhva# stanuShva tanuShvaq mIDhva# stoqkAya# toqkAyaq mIDhv
 195. mIDhva#H | toqkAya# | tana#yAya | 
 mIDhva# stoqkAya# toqkAyaq mIDhvoq mIDhva# stoqkAyaq tana#yAyaq tana#yAya toqkAyaq mIDhvoq mIDhva# stoqkAyaq tana#yAya | 
  
-196. toqkAya# | tana#yAya | mRuqDaqyaq | 
+196. toqkAya# | tana#yAya | mRuqDaqyaq || 
 toqkAyaq tana#yAyaq tana#yAya toqkAya# toqkAyaq tana#yAya mRuDaya mRuDayaq tana#yAya toqkAya# toqkAyaq tana#yAya mRuDaya | 
  
-197. tana#yAya | mRuqDaqyaq | 
+197. tana#yAya | mRuqDaqyaq || 
 tana#yAya mRuDaya mRuDayaq tana#yAyaq tana#yAya mRuDaya | 
  
-198. mRuqDaqyaq | 
+198. mRuqDaqyaq || 
 mRuqDayeti# mRuDaya | 
 
 199. mIDhu#ShTama | Siva#tama | SiqvaH | 
@@ -3874,19 +3874,19 @@ Siva#tama SiqvaH SiqvaH Siva#tamaq Siva#tama Siqvo no# naH SiqvaH Siva#tamaq Siv
 202. Siva#tama | 
 Siva#taqmetiq Siva# - taqmaq | 
  
-203. SiqvaH | naqH | suqmanA$ | 
+203. SiqvaH | naqH | suqmanA$H | 
 Siqvo no# naH SiqvaH Siqvo na#H suqmanA$H suqmanA# naH Siqva Siqvo na#H suqmanA$H | 
  
-204. naqH | suqmanA$ | Bava | 
+204. naqH | suqmanA$H | Bava || 
 naqH suqmanA$H suqmanA# no naH suqmanA# Bava Bava suqmanA# no naH suqmanA# Bava | 
  
-205. suqmanA$ | Bava | 
+205. suqmanA$H | Bava || 
 suqmanA# Bava Bava suqmanA$H suqmanA# Bava | 
  
-206. suqmanA$ | 
+206. suqmanA$H |
 suqmanAq iti# su - manA$H | 
  
-207. Bava | 
+207. Bava || 
 Baqveti# Bava | 
  
 208. paqraqme | vRuqkShe | Ayu#dham | 
@@ -3919,13 +3919,13 @@ caqraq pinA#kaqM pinA#ka~jcara caraq pinA#kaqM biBraqd biBraqt pinA#ka~jcara car
 217. pinA#kam | biBra#t | A |
 pinA#kaqM biBraqd biBraqt pinA#kaqM pinA#kaqM biBraqdA biBraqt pinA#kaqM pinA#kaqM biBraqdA | 
  
-218. biBra#t | A | gaqhiq | 
+218. biBra#t | A | gaqhiq || 
 biBraqdA biBraqd biBraqdA ga#hi gaqhyA biBraqd biBraqdA ga#hi | 
  
-219. A | gaqhiq | 
+219. A | gaqhiq || 
 Aga#hi gaqhyA ga#hi | 
  
-220. gaqhiq | 
+220. gaqhiq || 
 gaqhIti# gahi | 
  
 221. viki#rida | vilo#hita | nama#H | 
@@ -3943,13 +3943,13 @@ vilo#hiqtetiq vi - loqhiqtaq |
 225. nama#H | teq | aqstuq | 
 nama#ste teq namoq nama#ste astvastu teq namoq nama#ste astu | 
  
-226. teq | aqstuq | BaqgaqvaqH | 
+226. teq | aqstuq | BaqgaqvaqH || 
 teq aqstvaqstuq teq teq aqstuq Baqgaqvoq Baqgaqvoq aqstuq teq teq aqstuq BaqgaqvaqH | 
  
-227. aqstuq | BaqgaqvaqH | 
+227. aqstuq | BaqgaqvaqH || 
 aqstuq Baqgaqvoq Baqgaqvoq aqstvaqstuq BaqgaqvaqH | 
  
-228. BaqgaqvaqH | 
+228. BaqgaqvaqH || 
 Baqgaqvaq iti# Baga - vaqH | 
  
 229. yAH | teq | saqhasra$m | 
@@ -3970,13 +3970,13 @@ aqnya maqsma daqsma daqnya maqnya maqsman ninya#sma daqnya maqnya maqsmanni |
 234. aqsmat | ni | vaqpaqntuq | 
 aqsman ninya#sma daqsman niva#pantu vapanuqnya#sma daqsman niva#pantu | 
  
-235. ni | vaqpaqntuq | tAH | 
+235. ni | vaqpaqntuq | tAH || 
 niva#pantu vapantuq ni ni va#pantuq tAstA va#pantuq ni ni va#pantuq tAH | 
  
-236. vaqpaqntuq | tAH | 
+236. vaqpaqntuq | tAH || 
 vaqpaqntuq tAstA va#pantu vapantuq tAH | 
  
-237. tAH | 
+237. tAH || 
 tA itiq tAH | 
  
 238. saqhasrA#Ni | saqhaqsraqdhA | bAqhuqvoH | 
@@ -3988,13 +3988,13 @@ saqhaqsraqdhA bA#huqvor bA#huqvoH sa#hasraqdhA sa#hasraqdhA bA#huqvo stavaq tava
 240. saqhaqsraqdhA | 
 saqhaqsraqdheti# sahasra - dhA | 
  
-241. bAqhuqvoH | tava# | heqtaya#H | 
+241. bAqhuqvoH | tava# | heqtaya#H || 
 bAqhuqvo stavaq tava# bAhuqvor bA#huqvo stava# heqtayo# heqtayaqstava# bAhuqvor bA#huqvo stava# heqtaya#H | 
  
-242. tava# | heqtaya#H | 
+242. tava# | heqtaya#H || 
 tava# heqtayo# heqtayaqstavaq tava# heqtaya#H | 
  
-243. heqtaya#H | 
+243. heqtaya#H || 
 heqtayaq iti# heqtaya#H | 
  
 244. tAsA$m | ISA#naH | BaqgaqvaqH | 
@@ -4009,13 +4009,13 @@ BaqgaqvaqH paqrAqcInA# parAqcInA# Bagavo BagavaH parAqcInAq muKAq muKA# parAqcIn
 247. BaqgaqvaqH | 
 Baqgaqvaq iti# Baga - vaqH | 
  
-248. paqrAqcInA$ | muKA$ | kRuqdhiq | 
+248. paqrAqcInA$ | muKA$ | kRuqdhiq || 
 paqrAqcInAq muKAq muKA# parAqcInA# parAqcInAq muKA# kRudhi kRudhiq muKA# parAqcInA# parAqcInAq muKA# kRudhi | 
  
-249. muKA$ | kRuqdhiq | 
+249. muKA$ | kRuqdhiq || 
 muKA# kRudhi kRudhi muKAq muKA# kRudhi | 
  
-250. kRuqdhiq | 
+250. kRuqdhiq || 
 kRuqdhIti# kRudhi | 
 10 ends
 --------------------------
@@ -4033,13 +4033,13 @@ saqhaqsraqSa iti# sahasra - SaH |
 4. ye | ruqdrAH | adhi# | 
 ye ruqdrA ruqdrA ye ye ruqdrA adhyadhi# ruqdrA ye ye ruqdrA adhi# | 
  
-5. ruqdrAH | adhi# | BUmyA$m | 
+5. ruqdrAH | adhi# | BUmyA$m || 
 ruqdrA adhyadhi# ruqdrA ruqdrA adhiq BUmyAqM BUmyAq madhi# ruqdrA ruqdrA adhiq BUmyA$m | 
  
-6. adhi# | BUmyA$m | 
+6. adhi# | BUmyA$m || 
 adhiq BUmyAqM BUmyAq madhyadhiq BUmyA$m | 
  
-7. BUmyA$m | 
+7. BUmyA$m || 
 BUmyAq mitiq BUmyA$m | 
  
 8. teShA$m | saqhaqsraqyoqjaqne | ava# | 
@@ -4051,13 +4051,13 @@ saqhaqsraqyoqjaqne &vA va# sahasrayojaqne sa#hasrayojaqne &vaq dhanvA#niq dhanvA
 10. saqhaqsraqyoqjaqne | 
 saqhaqsraqyoqjaqna iti# sahasra - yoqjaqne | 
  
-11. ava# | dhanvA#ni | taqnmaqsiq | 
+11. ava# | dhanvA#ni | taqnmaqsiq || 
 avaq dhanvA#niq dhanvAqnyavAvaq dhanvA#ni tanmasi tanmasiq dhanvAqnyavAvaq dhanvA#ni tanmasi | 
  
-12. dhanvA#ni | taqnmaqsiq | 
+12. dhanvA#ni | taqnmaqsiq || 
 dhanvA#ni tanmasi tanmasiq dhanvA#niq dhanvA#ni tanmasi | 
  
-13. taqnmaqsiq | 
+13. taqnmaqsiq || 
 taqnmaqsIti# tanmasi | 
  
 14. aqsminn | maqhaqti | aqrNaqve | 
@@ -4069,13 +4069,13 @@ maqhatya#rNaqve$&rNaqve ma#haqti ma#haqtya#rNaqve$ &ntari#kSheq &ntari#kShe&rNaq
 16. aqrNaqve | aqntari#kShe | BaqvAH | 
 aqrNaqve$ &ntari#kSheq &ntari#kShe &rNaqve$ &rNaqve$ &ntari#kShe BaqvA BaqvA aqntari#kShe&rNaqve$ &rNaqve$ &ntari#kShe BaqvAH | 
  
-17. aqntari#kShe | BaqvAH | adhi# | 
+17. aqntari#kShe | BaqvAH | adhi# || 
 aqntari#kShe BaqvA BaqvA aqntari#kSheq &ntari#kShe BaqvA adhyadhi# BaqvA aqntari#kSheq &ntari#kShe BaqvA adhi# | 
  
-18. BaqvAH | adhi# | 
+18. BaqvAH | adhi# || 
 BaqvAH adhyadhi# BaqvA BaqvA adhi# | 
  
-19. adhi# | 
+19. adhi# || 
 aqdhItyadhi# | 
  
 20. nIla#grIvAH | SiqtiqkaNThA$H | SaqrvAH | 
@@ -4090,13 +4090,13 @@ SiqtiqkaNThA$H SaqrvAH SaqrvAH SitiqkaNThA$H SitiqkaNThA$H SaqrvA aqdho#&dhaH Sa
 23. SiqtiqkaNThA$H | 
 SiqtiqkaNThAq iti# Siti - kaNThA$H | 
  
-24. SaqrvAH | aqdhaH | kShaqmAqcaqrAH | 
+24. SaqrvAH | aqdhaH | kShaqmAqcaqrAH || 
 SaqrvA aqdho#&dhaH SaqrvAH SaqrvA aqdhaH kSha#mAcaqrAH kSha#mAcaqrA aqdhaH SaqrvAH SaqrvA aqdhaH kSha#mAcaqrAH | 
  
-25. aqdhaH | kShaqmAqcaqrAH | 
+25. aqdhaH | kShaqmAqcaqrAH || 
 aqdhaH kSha#mAcaqrAH kSha#mAcaqrA aqdho#&dhaH kSha#mAcaqrAH | 
  
-26. kShaqmAqcaqrAH | 
+26. kShaqmAqcaqrAH || 
 kShaqmAqcaqrA iti# kShamAcaqrAH | 
  
 27. nIla#grIvAH | SiqtiqkaNThA$H | diva$m | 
@@ -4111,13 +4111,13 @@ SiqtiqkaNThAq divaqM diva(gm)# SitiqkaNThA$H SitiqkaNThAq diva(gm)# ruqdrA ruqdr
 30. SiqtiqkaNThA$H | 
 SiqtiqkaNThAq iti# Siti - kaNThA$H | 
  
-31. diva$m | ruqdrAH | upa#SritAH | 
+31. diva$m | ruqdrAH | upa#SritAH || 
 diva(gm)# ruqdrA ruqdrA divaqM diva(gm)# ruqdrA upa#SritAq upa#SritA ruqdrA diqvaM diva(gm)# ruqdrA upa#SritAH | 
  
-32. ruqdrAH | upa#SritAH | 
+32. ruqdrAH | upa#SritAH || 
 ruqdrA upa#SritAq upa#SritA ruqdrA ruqdrA upa#SritAH | 
  
-33. upa#SritAH | 
+33. upa#SritAH || 
 upa#SritAq ityupa# - SriqtAqH | 
  
 34. ye | vRuqkSheShu# | saqspi~jja#rAH | 
@@ -4126,16 +4126,16 @@ ye vRuqkSheShu# vRuqkSheShuq ye ye vRuqkSheShu# saqspi~jja#rAH saqspi~jja#rA vRu
 35. vRuqkSheShu# | saqspi~jja#rAH | nIla#grIvAH | 
 vRuqkSheShu# saqspi~jja#rAH saqspi~jja#rA vRuqkSheShu# vRuqkSheShu# saqspi~jja#rAq nIla#grIvAq nIla#grIvAH saqspi~jja#rA vRuqkSheShu# vRuqkSheShu# saqspi~jja#rAq nIla#grIvAH | 
  
-36. saqspi~jja#rAH | nIla#grIvAH | vilo#hitAH |
+36. saqspi~jja#rAH | nIla#grIvAH | vilo#hitAH ||
 saqspi~jja#rAq nIla#grIvAq nIla#grIvAH saqspi~jja#rAH saqspi#~jjarAq nIla#grIvAq vilo#hitAq vilo#hitAq nIla#grIvAH saqspi~jja#rAH saqspi~jja#rAq nIla#grIvAq vilo#hitAH | 
  
-37. nIla#grIvAH | vilo#hitAH | 
+37. nIla#grIvAH | vilo#hitAH || 
 nIla#grIvAq vilo#hitAq vilo#hitAq nIla#grIvAq nIla#grIvAq vilo#hitAH | 
  
 38. nIla#grIvAH | 
 nIla#grIvAq itiq nIla# - grIqvAqH | 
  
-39. vilo#hitAH | 
+39. vilo#hitAH || 
 vilo#hitAq itiq vi - loqhiqtAqH | 
  
 40. ye | BUqtAnA$m | adhi#patayaH |
@@ -4145,40 +4145,40 @@ ye BUqtAnA$M BUqtAnAqM ~Mye ye BUqtAnAq &madhi#pataqyo &dhi#patayo BUqtAnAqM ~My
 BUqtAnAq madhi#pataqyo &dhi#patayo BUqtAnA$M BUqtAnAq madhi#patayo viSiqKAso# viSiqKAso &dhi#patayo BUqtAnA$M BUqtAnAq madhi#patayo 
 viSiqKAsa#H | 
  
-42. adhi#patayaH | viqSiqKAsa#H | kaqpaqrdina#H | 
+42. adhi#patayaH | viqSiqKAsa#H | kaqpaqrdina#H || 
 adhi#patayo viSiqKAso# viSiqKAso &dhi#pataqyo &dhi#patayo viSiqKAsa#H kapaqrdina#H kapaqrdino# viSiqKAso &dhi#pataqyo &dhi#patayo viSiqKasa#H kapaqrdina#H | 
  
 43. adhi#patayaH | 
 adhi#patayaq ityadhi# - paqtaqyaqH | 
  
-44. viqSiqKAsa#H | kaqpaqrdina#H | 
+44. viqSiqKAsa#H | kaqpaqrdina#H || 
 viqSiqKAsa#H kapaqrdina#H kapaqrdino# viSiqKAso# viSiqKAsa#H kapaqrdina#H | 
  
 45. viqSiqKasa#H | 
 viqSiqKAsaq iti# vi SiqKAsa#H | 
  
-46. kaqpaqrdina#H | 
+46. kaqpaqrdina#H || 
 kaqpaqrdinaq iti# kapaqrdina#H | 
  
 47. ye | anne#Shu | viqviddhya#nti |
 ye anneqShvanne#Shuq ye ye anne#Shu viqviddhya#nti viqviddhyaqnne#Shuq ye ye anne#Shu viqviddhya#nti | 
 
-48. anne#Shu | viqviddhya#nti | pAtre#Shu | 
+48. anne#Shu | viqviddhya#nti | pAtre#Shu |  
 anne#Shu viqviddhya#nti viqviddhyaqnya nneqShvanne#Shu viqviddhya#ntiq pAtre#Shuq pAtre#Shu viqviddhyaqnya nneqShvanne#Shu viqviddhya#ntiq pAtre#Shu | 
  
 49. viqviddhya#nti | pAtre#Shu | piba#taH | 
 viqviddhya#ntiq pAtre#Shuq pAtre#Shu viqviddhya#nti viqviddhya#ntiq pAtre#Shuq piba#taqH piba#taqH pAtre#Shu viqviddhya#nti viqviddhya#ntiq pAtre#Shuq piba#taH | 
  
 50. viqviddhya#nti | 
-viqvidhyaqntIti# vi - vidhya#nti | 
+viqviddhyaqntIti# vi - viddhya#nti | 
 
-51. pAtre#Shu | piba#taH | janAn# | 
+51. pAtre#Shu | piba#taH | janAn# || 
 pAtre#Shuq piba#taqH piba#taqH pAtre#Shuq pAtre#Shuq piba#toq janAqn janAqn piba#taqH pAtre#Shuq pAtre#Shuq piba#toq janAn# | 
  
-52. piba#taH | janAn# | 
+52. piba#taH | janAn# || 
 piba#toq janAqn janAqn piba#taqH piba#toq janAn# | 
  
-53. janAn# | 
+53. janAn# || 
 janAqnitiq janAn# | 
  
 54. ye | paqthAm | paqthiqrakSha#yaH | 
@@ -4187,16 +4187,16 @@ ye paqthAM paqthAM ~Mye ye paqthAM pa#thiqrakSha#yaH pathiqrakSha#yaH paqthAM ~M
 55. paqthAm | paqthiqrakSha#yaH | aiqlaqbRuqdAH | 
 paqthAM pa#thiqrakSha#yaH pathiqrakSha#yaH paqthAM paqthAM pa#thiqrakSha#ya ailabRuqdA ai#labRuqdAH pa#thiqrakSha#yaH paqthAM paqthAM pa#thiqrakSha#ya ailabRuqdAH | 
  
-56. paqthiqrakSha#yaH | aiqlaqbRuqdAH | yaqvyudha#H | 
+56. paqthiqrakSha#yaH | aiqlaqbRuqdAH | yaqvyudha#H || 
 paqthiqrakSha#ya ailabRuqdA ai#labRuqdAH pa#thiqrakSha#yaH pathiqrakSha#ya ailabRuqdA yaqvyudho# yaqvyudha# ailabRuqdAH pa#thiqrakSha#yaH pathiqrakSha#ya ailabRuqdA yaqvyudha#H | 
  
 57. paqthiqrakSha#yaH | 
 paqthiqrakSha#yaq iti# pathi - rakSha#yaH | 
  
-58. aiqlaqbRuqdAH | yaqvyudha#H | 
+58. aiqlaqbRuqdAH | yaqvyudha#H || 
 aiqlaqbRuqdA yaqvyudho# yaqvyudha# ailabRuqdA ai#labRuqdAH yaqvyudha#H | 
  
-59. yaqvyudha#H | 
+59. yaqvyudha#H || 
 yaqvyudhaq iti# yaqvyudha#H | 
  
 60. ye | tIqrtthAni# | praqcaraqnti |
@@ -4205,22 +4205,22 @@ ye tIqrtthAni# tIqrtthAniq ye ye tIqrtthAni# praqcara#nti praqcara#nti tIqrtthAn
 61. tIqrtthAni# | praqcaraqnti | sRuqkAva#ntaH | 
 tIqrtthAni# praqcara#nti praqcara#nti tIqrtthAni# tIqrtthAni# praqcara#nti sRuqkAva#ntaH sRuqkAva#ntaH praqcara#nti tIqrtthAni# tIqrtthAni# praqcara#nti sRuqkAva#ntaH | 
  
-62. praqcaraqnti | sRuqkAva#ntaH | niqShaq~ggiNa#H | 
+62. praqcaraqnti | sRuqkAva#ntaH | niqShaq~ggiNa#H || 
 praqcara#nti sRuqkAva#ntaH sRuqkAva#ntaH praqcara#nti praqcara#nti sRuqkAva#nto niShaq~ggiNo# niShaq~ggiNa#H sRuqkAva#ntaH praqcara#nti praqcara#nti sRuqkAva#nto niShaq~ggiNa#H | 
  
 63. praqcara#nti | 
 praqcaraqntIti# pra - cara#nti | 
  
-64. sRuqkAva#ntaH | niqShaq~ggiNa#H | 
+64. sRuqkAva#ntaH | niqShaq~ggiNa#H || 
 sRuqkAva#nto niShaq~ggiNo# niShaq~ggiNa#H sRuqkAva#ntaH sRuqkAva#nto niShaq~ggiNa#H | 
  
 65. sRuqkAva#ntaH | 
 sRuqkAva#ntaq iti# sRuqkA - vaqntaqH | 
  
-66. niqShaq~ggiNa#H | 
+66. niqShaq~ggiNa#H || 
 niqShaq~ggiNaq iti# ni - saq~ggina#H | 
  
-67. ya | eqtAva#ntaH | caq | 
+67. ye | etAva#ntaH | caq | 
 ya eqtAva#nta eqtAva#ntoq ye ya eqtAva#ntaSca caiqtAva#ntoq ye ya eqtAva#ntaSca | 
  
 68. eqtAva#ntaH | caq | BUyA(gm)#saH | 
@@ -4235,13 +4235,13 @@ BUyA(gm)#saSca caq BUyA(gm)#soq BUyA(gm)#saScaq diSoq diSa#Scaq BUyA(gm)#soq BUy
 71. caq | diSa#H | ruqdrAH | 
 caq diSoq diSa#Sca caq diSo# ruqdrA ruqdrA diSa#Sca caq diSo# ruqdrAH | 
  
-72. diSa#H | ruqdrAH | viqtaqsthiqre | 
+72. diSa#H | ruqdrAH | viqtaqsthiqre || 
 diSo# ruqdrA ruqdrA diSoq diSo# ruqdrA vi#tasthiqre vi#tasthiqre ruqdrA diSoq diSo# ruqdrA vi#tasthiqre | 
  
-73. ruqdrAH | viqtaqsthiqre | 
+73. ruqdrAH | viqtaqsthiqre || 
 ruqdrA vi#tasthiqre vi#tasthiqre ruqdrA ruqdrA vi#tasthiqre | 
  
-74. viqtaqsthiqre | 
+74. viqtaqsthiqre || 
 viqtaqsthiqra iti# vi - taqsthiqre | 
  
 75. teShA$m | saqhaqsraqyoqjaqne | ava# | 
@@ -4253,13 +4253,13 @@ saqhaqsraqyoqjaqne &vAva# sahasrayojaqne sa#hasrayojaqne &vaq dhanvA#niq dhanvAq
 77. saqhaqsraqyoqjaqne | 
 saqhaqsraqyoqjaqna iti# sahasra - yoqjaqne | 
  
-78. ava# | dhanvA#ni | taqnmaqsiq | 
+78. ava# | dhanvA#ni | taqnmaqsiq || 
 avaq dhanvA#niq dhanvAqnyavAvaq dhanvA#ni tanmasi tanmasiq dhanvAqnyavAvaq dhanvA#ni tanmasi | 
  
-79. dhanvA#ni | taqnmaqsiq | 
+79. dhanvA#ni | taqnmaqsiq || 
 dhanvA#ni tanmasi tanmasiq dhanvA#niq dhanvA#ni tanmasi | 
  
-80. taqnmaqsiq | 
+80. taqnmaqsiq || 
 taqnmaqsIti# tanmasi | 
  
 81. nama#H | ruqdreBya#H | ye | 
@@ -4325,14 +4325,14 @@ praqtIcIqr daSaq daSa# praqtIcI$H praqtIcIqr daSodI#cIq rudI#cIqr daSa# praqtIcI
 101. daSa# | udI#cIH | daSa# | 
 daSodI#cIq rudI#cIqr daSaq daSodI#cIqr daSaq daSodI#cIqr daSaq daSodI#cIqr daSa# | 
  
-102. udI#cIH | daSa# | UqrdhvAH | 
-udI#cIqr daSaq daSodI#cIq rudI#cIqr daSoqrdhvA UqrdhvA daSodI#cIq rudI#cIqr daSoqrdhvAH | 
+102. udI#cIH | daSa# | UqrddhvAH |   
+udI#cIqr daSaq daSodI#cIq rudI#cIqr daSoqrddhvA UqrddhvA daSodI#cIq rudI#cIqr daSoqrddhvAH | 
  
-103. daSa# | UqrdhvAH | teBya#H | 
-daSoqrdhvA UqrdhvA daSaq daSoqrdhvA steByaq steBya# UqrdhvA daSaq daSoqrdhvA steBya#H | 
+103. daSa# | UqrddhvAH | teBya#H | 
+daSoqrddhvA UqrddhvA daSaq daSoqrddhvA steByaq steBya# UqrddhvA daSaq daSoqrddhvA steBya#H | 
  
-104. UqrdhvAH | teBya#H | nama#H | 
-UqrdhvA steByaq steBya# UqrdhvA UqrdhvA steByoq namoq namaq steBya# UqrdhvA UqrdhvA steByoq nama#H | 
+104. UqrddhvAH | teBya#H | nama#H | 
+UqrddhvA steByaq steBya# UqrddhvA UqrddhvA steByoq namoq namaq steBya# UqrddhvA UqrddhvA steByoq nama#H | 
  
 105. teBya#H | nama#H | te | 
 teByoq namoq namaq steByaq steByoq namaq ste te namaq steByaq steByoq namaqste | 
@@ -4343,13 +4343,14 @@ namaqste te namoq namaqste no# naqste namoq namaqste na#H |
 107. te | naqH | mRuqDaqyaqntuq | 
 te no# naqste te no# mRuDayantu mRuDayantu naqste te no# mRuDayantu | 
  
-108. naqH | mRuqDaqyaqntuq | teq | 
+108. naqH | mRuqDaqyaqntuq | te | 
 noq mRuqDaqyaqntuq mRuqDaqyaqntuq noq noq mRuqDaqyaqntuq te te mRu#Dayantu no no mRuDayantuq te | 
  
-109. mRuqDaqyaqntuq | teq | yam | 
+109. mRuqDaqyaqntuq | te | yam |
+
 mRuqDaqyaqntuq te te mRu#Dayantu mRuDayantuq te yaM ~MyaM te mRu#Dayantu mRuDayantuq te yam | 
  
-110. teq | yam | dviqShmaH | 
+110. te | yam | dviqShmaH |
 te yaM ~Myante teyaM dviqShmo dviqShmo yaM te te yaM dviqShmaH | 
  
 111. yam | dviqShmaH | yaH | 
@@ -4373,13 +4374,13 @@ dveShTiq taM taM dveShTiq dveShTiq taM ~Mvo# vaq staM dveShTiq dveShTiq taM ~Mva
 117. tam | vaqH | jaMBe$ | 
 taM ~Mvo# vaq staM taM ~Mvoq jamBeq jamBe# vaq staM taM voq jamBe$ | 
  
-118. vaqH | jaMBe$ | daqdhAqmiq | 
+118. vaqH | jaMBe$ | daqdhAqmiq || 
 voq jamBeq jamBe# vo voq jamBe# dadhAmi dadhAmiq jamBe# vo voq jamBe# dadhAmi | 
  
-119. jaMBe$ | daqdhAqmiq | 
+119. jaMBe$ | daqdhAqmiq || 
 jamBe# dadhAmi dadhAmiq jamBeq jamBe# dadhAmi | 
  
-120. daqdhAqmiq | 
+120. daqdhAqmiq || 
 daqdhAqmIti# dadhAmi | 
 11 ends
 -------------------------------------
@@ -4391,17 +4392,17 @@ trya#MbakaM ~MyajAmahe yajAmaheq trya#MbakaqM trya#MbakaM ~MyajAmahe sugaqndhi(g
 2. trya#Mbakam | 
 trya#Mbakaq mitiq tri - aqMbaqkaqmq | 
  
-3. yaqjAqmaqheq | suqgaqndhim | puqShTiqvardha#nam |
-yaqjAqmaqheq suqgaqndhi(gm) su#gaqndhiM ~Mya#jAmahe yajAmahe sugaqndhiM pu#ShTiqvardha#naM puShTiqvardha#na(gm) sugaqndhiM ~Mya#jAmahe yajAmahe sugaqndhiM pu#ShTiqvardha#nam | 
+3. yaqjAqmaqheq | suqgaqndhim | puqShTiqvarddha#nam ||
+yaqjAqmaqheq suqgaqndhi(gm) su#gaqndhiM ~Mya#jAmahe yajAmahe sugaqndhiM pu#ShTiqvarddha#naM puShTiqvarddha#na(gm) sugaqndhiM ~Mya#jAmahe yajAmahe sugaqndhiM pu#ShTiqvarddha#nam | 
  
-4. suqgaqndhim | puqShTiqvardha#nam | 
-suqgaqndhim pu#ShTiqvardha#naM puShTiqvardha#na(gm) sugaqndhi(gm) su#gaqndhiM pu#ShTiqvardha#nam | 
+4. suqgaqndhim | puqShTiqvarddha#nam || 
+suqgaqndhim pu#ShTiqvarddha#naM puShTiqvarddha#na(gm) sugaqndhi(gm) su#gaqndhiM pu#ShTiqvarddha#nam | 
  
 5. suqgaqndhim | 
 suqgaqndhi miti# su - gaqndhim | 
  
-6. puqShTiqvardha#nam | 
-puqShTiqvardha#naq miti# puShTi - vardha#nam | 
+6. puqShTiqvarddha#nam || 
+puqShTiqvarddha#naq miti# puShTi - varddha#nam | 
  
 7. uqrvAqruqkam | iqvaq | bandha#nAt |
 uqrvAqruqka mi#vevorvA ruqka mu#rvA ruqkami#vaq bandha#nAqd bandha#nA divorvA ruqka mu#rvA ruqkami#vaq bandha#nAt | 
@@ -4415,13 +4416,13 @@ bandha#nAn mRuqtyor mRuqtyor bandha#nAqd bandha#nAn mRuqtyor mu#kShIya mukShIya 
 10. mRuqtyoH | muqkShIqyaq | mA |
 mRuqtyor mu#kShIya mukShIya mRuqtyor mRuqtyor mu#kShIyaq mA mA mu#kShIya mRuqtyor mRuqtyor mu#kShIyaq mA | 
  
-11. muqkShIqyaq | mA | aqmRutA$t |
+11. muqkShIqyaq | mA | aqmRutA$t ||
 muqkShIqyaq mA mA mu#kShIya mukShIyaq mAmRutA# daqmRutAqn mA mu#kShIya mukShIyaq mAmRutA$t | 
  
-12. mA | aqmRutA$t | 
+12. mA | aqmRutA$t || 
 mAmRutA# daqmRutAqn mA mAmRutA$t | 
  
-13. aqmRutA$t | 
+13. aqmRutA$t || 
 aqmRutAqdit tyaqmRutA$t | 
  
 14. yaH | ruqdra H | aqgnau |
@@ -4437,7 +4438,7 @@ aqgnau yo yo$&gnA vaqgnau yo aqPsva#Psu yo$&gnA vaqgnau yo aqPsu |
 yo aqPsva#Psu yo yo aqPsu yo yo aqPsu yo yo aqPsu yaH | 
  
 18. aqPsu | yaH | oSha#dhIShu |
-aqPsu yo yo$(2) oqPsva#Psu ya oSha#dhIqShvoSha#dhIShuq yo$ (2) oqPsva#Psu ya oSha#dhIShu | 
+aqPsu yo yo$&(1q) Psva#Psu ya oSha#dhIqShvoSha#dhIShuq yo$&(1q) Psva#Psu ya oSha#dhIShu | 
  
 19. aqPsu | 
 aqPsvitya#p - su | 
@@ -4469,13 +4470,13 @@ AqviqveSetyA$ - viqveSa# |
 28. tasmai$ | ruqdrAya# | nama#H |
 tasmai# ruqdrAya# ruqdrAya# tasmaiq tasmai# ruqdrAyaq namoq namo# ruqdrAyaq tasmaiq tasmai# ruqdrAyaq nama#H | 
  
-29. ruqdrAya# | nama#H | aqstuq |
+29. ruqdrAya# | nama#H | aqstuq ||
 ruqdrAyaq namoq namo# ruqdrAya# ruqdrAyaq namo# astvastuq namo# ruqdrAya# ruqdrAyaq namo# astu | 
  
-30. nama#H | aqstuq | 
+30. nama#H | aqstuq || 
 namo# astvastuq namoq namo# astu | 
  
-31. aqstuq | 
+31. aqstuq || 
 aqstvitya#stu | 
  ends
 ---------------------
@@ -4508,13 +4509,13 @@ suqdhanveti# suq - dhanvA$ |
 9. yaH | viSva#sya | kShaya#ti |
 yo viSva#syaq viSva#syaq yo yo viSva#syaq kShaya#tiq kShaya#tiq viSva#syaq yo yo viSva#syaq kShaya#ti | 
  
-10. viSva#sya | kShaya#ti | BeqShaqjasya# |
+10. viSva#sya | kShaya#ti | BeqShaqjasya# ||
 viSva#syaq kShaya#tiq kShaya#tiq viSva#syaq viSva#syaq kShaya#ti BeShaqjasya# BeShaqjasyaq kShaya#tiq viSva#syaq viSva#syaq kShaya#ti BeShaqjasya# | 
  
-11. kShaya#ti | BeqShaqjasya# | 
+11. kShaya#ti | BeqShaqjasya# || 
 kShaya#ti BeShaqjasya# BeShaqjasyaq kShaya#tiq kShaya#ti BeShaqjasya# | 
  
-12. BeqShaqjasya# |
+12. BeqShaqjasya# ||
 BeqShaqjasyeti# BeqShaqjasya#
  
 13. yakShva# | maqhe | sauqmaqnaqsAya# |
@@ -4535,13 +4536,13 @@ namo$Bir deqvaM deqvaM namo$Biqr namo$Bir deqva masu#raq masu#raM deqvaM namo$Bi
 18. namo#BiH | 
 namo$Biqritiq nama#H - BiH |
  
-19. deqvam | asu#ram | duqvaqsyaq |
+19. deqvam | asu#ram | duqvaqsyaq ||
 deqva masu#raq masu#raM deqvaM deqva masu#raM duvasya duvaqsyA su#raM deqvaM deqva masu#raM duvasya | 
  
-20. asu#ram | duqvaqsyaq | 
+20. asu#ram | duqvaqsyaq || 
 asu#raM duvasya duvaqsyA su#raq masu#raM duvasya | 
  
-21. duqvaqsyaq | 
+21. duqvaqsyaq || 
 duqvasyeti# duvasya |
  
 22. aqyam | meq | hastaH# |
@@ -4559,13 +4560,13 @@ Baga#vA naqya maqyaM Baga#vAqn Baga#vA naqyaM me$ meqyaM Baga#vAqn Baga#vA naqya
 26. Baga#vAn | 
 Baga#vAqnitiq Baga# - vAn |
  
-27. aqyam | meq | Baga#vattaraH |
+27. aqyam | meq | Baga#vattaraH ||
 aqyaM me$ meqya maqyaM meq Baga#vattaroq Baga#vattaro meqya maqyaM meq Baga#vattaraH | 
  
-28. meq | Baga#vattaraH | 
+28. meq | Baga#vattaraH || 
 meq Baga#vattaroq Baga#vattaro me meq Baga#vattaraH | 
  
-29. Baga#vattaraH | 
+29. Baga#vattaraH || 
 Baga#vattaraq itiq Baga#vat - taraH | 
  
 30. aqyam | meq | viqSvaBe#ShajaH |
@@ -4574,17 +4575,17 @@ aqyaM me$ meqya maqyaM me$ viqSvaBe$Shajo viqSvaBe$Shajo meqya maqyaM me$ viqSva
 31. meq | viqSvaBe#ShajaH | aqyam |
 meq viqSvaBe$Shajo viqSvaBe$Shajo me me viqSvaBe$Shajoqya maqyaM viqSvaBe$Shajo me me viqSvaBe$Shajoqyam | 
  
-32. viqSvaBe#ShajaH | aqyam | SiqvA#BimarSanaH |
+32. viqSvaBe#ShajaH | aqyam | SiqvA#BimarSanaH ||
 viqSvaBe$Shajoqya maqyaM viqSvaBe$Shajo viqSvaBe$ShajoqyaM SiqvABi#marSanaH SiqvABi#mar.SanoqyaM viqSvaBe$Shajo viqSvaBe$ShajoqyaM 
 SiqvABi#marSanaH | 
  
 33. viqSvaBe#ShajaH | 
 viqSvaBe$Shajaq iti# viqSva - Be$ShajaH | 
  
-34. aqyam | SiqvA#BimarSanaH | 
+34. aqyam | SiqvA#BimarSanaH || 
 aqyaM SiqvABi#marSanaH SiqvABi#marSa noqya maqyaM SiqvABi#marSanaH | 
  
-35. SiqvA#BimarSanaH | 
+35. SiqvA#BimarSanaH || 
 SiqvABi#marSanaq iti# Siqva - a#BimarSanaH | 
 ==============================
 
