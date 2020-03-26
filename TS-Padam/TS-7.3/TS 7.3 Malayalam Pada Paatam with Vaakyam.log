@@ -1,0 +1,13 @@
+%%[ ProductName: Distiller ]%%
+Calibri not found, using Courier.
+Calibri-Bold not found, using Courier.
+%%[ Error: invalidfont; OffendingCommand: xshow ]%%
+
+Stack:
+[224 224 224 80 141 151 161 148 142 244 120 80 74 0]
+(	
+)
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+%%[ Warning: PostScript error. No PDF file produced. ] %%
