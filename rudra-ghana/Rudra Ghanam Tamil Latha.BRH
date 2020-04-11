@@ -1430,7 +1430,7 @@ visRu/jad3B4ya+H |
 105. jAg3ra+d3B4yaH | ca/ | va/H | 
  jAg3ra+d3B4yaSca ca/ jAg3ra+d3B4yO/ jAg3ra+d3B4yaSca vO vaSca/ jAg3ra+d3B4yO/ jAg3ra+d3B4yaSca vaH | 
  
-106. jAg3ra+d3B4ya/ | 
+106. jAg3ra+d3B4yaH | 
  jAg3ra+d3B4ya/ iti/ jAg3ra+t - B4ya/H | 
  
 107. ca/ | va/H | ~nama+H | 
@@ -3478,10 +3478,10 @@ kSha/yad3vI+rAya/ pra |
  ca/ manu/r manu+Sca ca/ manu+rA ya/ja A+ya/jE manu+Sca ca/ manu+rA ya/jE | 
 
 73. manu+H | A/ya/jE | pi/tA | 
- manu+rA ya/ja A+ya/jE manu/r manu+rAya/jE pi/tA pi/tA ya/jE manu/r manu+rAya/jE pi/tA | 
+ manu+rA ya/ja A+ya/jE manu/r manu+rAya/jE pi/tA pi/tA &&ya/jE manu/r manu+rAya/jE pi/tA | 
  
 74. A/ya/jE | pi/tA | tat | 
- A/ya/jE pi/tA pi/tA ya/ja A+ya/jE pi/tA tat tat pi/tA ya/ja A+ya/jE pi/tA tat | 
+ A/ya/jE pi/tA pi/tA &&ya/ja A+ya/jE pi/tA tat tat pi/tA &&ya/ja A+ya/jE pi/tA tat | 
  
 75. A/ya/jE | 
  A/ya/ja ityA% - ya/jE | 
@@ -3873,16 +3873,16 @@ stanuShva/ mIDh4va+H |
 203. Si/vaH | ~na/H | su/manA%H | 
  Si/vO ~nO+ ~naH Si/vaH Si/vO ~na+H su/manA%H su/manA+ ~naH Si/va Si/vO ~na+H su/manA%H | 
  
-204. ~na/H | su/manA%H | Ba4va || 
+204. ~na/H | su/manA%H | Baq4vaq || 
  ~na/H su/manA%H su/manA+ ~nO ~naH su/manA+ Ba4va Ba4va su/manA+ ~nO ~naH su/manA+ Ba4va | 
  
-205. su/manA%H | Ba4va || 
+205. su/manA%H | Baq4vaq || 
  su/manA+ Ba4va Ba4va su/manA%H su/manA+ Ba4va | 
  
 206. su/manA%H | 
  su/manA/ iti+ su - manA%H | 
  
-207. Ba4va || 
+207. Baq4vaq || 
  Ba/4vEti+ Ba4va | 
  
 208. pa/ra/mE | vRu/kShE | Ayu+dha4m | 
@@ -4060,7 +4060,7 @@ stanuShva/ mIDh4va+H |
  a/smin ma+ha/ti ma+ha/tya+smin ~na/smin ma+ha/tya+rNa/vE%&rNa/vE ma+ha/tya+smin ~na/smin ma+ha/tya+rNa/vE | 
  
 15. ma/ha/ti | a/rNa/vE | a/~ntari+kShE | 
- ma/hatya+rNa/vE%&rNa/vE ma+ha/ti ma+ha/tya+rNa/vE% &~ntari+kShE/ &~ntari+kShE&rNa/vE ma+ha/ti ma+ha/tya+rNa/vE% &~ntari+kShE | 
+ ma/ha/tya+rNa/vE%&rNa/vE ma+ha/ti ma+ha/tya+rNa/vE% &~ntari+kShE/ &~ntari+kShE&rNa/vE ma+ha/ti ma+ha/tya+rNa/vE% &~ntari+kShE | 
  
 16. a/rNa/vE | a/~ntari+kShE | Ba/4vAH | 
  a/rNa/vE% &~ntari+kShE/ &~ntari+kShE&rNa/vE% rNa/vE% &~ntari+kShE Ba/4vA Ba/4vA a/~ntari+kShE&rNa/vE% &rNa/vE% &~ntari+kShE Ba/4vAH | 
@@ -4189,7 +4189,7 @@ stanuShva/ mIDh4va+H |
  pa/thi/2rakSha+ya/ iti+ pathi2 - rakSha+yaH | 
  
 58. ai/la/b3Ru/dA3H | ya/vyudha+4H || 
- ai/la/b3Ru/dA ya/vyudhO+ ya/vyudha+4 ailab3Ru/dA3 ai+lab3Ru/dA3H ya/vyudha+4H | 
+ ai/la/b3Ru/dA ya/vyudhO+ ya/vyudha+4 ailab3Ru/dA3 ai+lab3Ru/dA3 ya/vyudha+4H | 
  
 59. ya/vyudha+4H || 
  ya/vyudha/4 iti+ ya/vyudha+4H | 
@@ -4540,7 +4540,7 @@ Ga4nam - tamuShTuhi yaH SviShuH
  du/3vasyEti+ du3vasya |
  
 22. a/yam | mE/ | hastaH+ |
- a/yaM mE% mE/ya ma/yaM mE/ hastO/ hastO% mE/ya ma/yaM mE/ hasta+H | 
+ a/yaM mE% mE/&ya ma/yaM mE/ hastO/ hastO% mE/&ya ma/yaM mE/ hasta+H | 
  
 23. mE/ | hastaH+ | Ba4ga+3vAn |
  mE/ hastO/ hastO% mE mE/ hastO/ Ba4ga+3vA/n Ba4ga+3vA/n. hastO% mE mE/ hastO/ Ba4ga+3vAn | 
@@ -4549,13 +4549,13 @@ Ga4nam - tamuShTuhi yaH SviShuH
  hastO/ Ba4ga+3vA/n Ba4ga+3vA/n. hastO/ hastO/ Ba4ga+3vA ~na/ya ma/yaM Ba4ga+3vA/n. hastO/ hastO/ Ba4ga+3vA ~na/yam | 
  
 25. Ba4ga+3vAn | a/yam | mE/ |
- Ba4ga+3vA ~na/ya ma/yaM Ba4ga+3vA/n Ba4ga+3vA ~na/yaM mE% mE/yaM Ba4ga+3vA/n Ba4ga+3vA ~na/yaM mE% | 
+ Ba4ga+3vA ~na/ya ma/yaM Ba4ga+3vA/n Ba4ga+3vA ~na/yaM mE% mE/&yaM Ba4ga+3vA/n Ba4ga+3vA ~na/yaM mE% | 
  
 26. Ba4ga+3vAn | 
  Ba4ga+3vA/niti/ Ba4ga+3 - vAn |
  
 27. a/yam | mE/ | Ba4ga+3vattaraH ||
- a/yaM mE% mE/ya ma/yaM mE/ Ba4ga+3vattarO/ Ba4ga+3vattarO mE/ya ma/yaM mE/ Ba4ga+3vattaraH | 
+ a/yaM mE% mE/&ya ma/yaM mE/ Ba4ga+3vattarO/ Ba4ga+3vattarO mE/&ya ma/yaM mE/ Ba4ga+3vattaraH | 
  
 28. mE/ | Ba4ga+3vattaraH || 
  mE/ Ba4ga+3vattarO/ Ba4ga+3vattarO mE mE/ Ba4ga+3vattaraH | 
@@ -4564,7 +4564,7 @@ Ga4nam - tamuShTuhi yaH SviShuH
  Ba4ga+3vattara/ iti/ Ba4ga+3vat - taraH | 
  
 30. a/yam | mE/ | vi/SvaBE+4ShajaH |
- a/yaM mE% mE/ya ma/yaM mE% vi/SvaBE%4ShajO vi/SvaBE%4ShajO mE/ya ma/yaM mE% vi/SvaBE%4ShajaH | 
+ a/yaM mE% mE/&ya ma/yaM mE% vi/SvaBE%4ShajO vi/SvaBE%4ShajO mE/&ya ma/yaM mE% vi/SvaBE%4ShajaH | 
  
 31. mE/ | vi/SvaBE+4ShajaH | a/yam |
  mE/ vi/SvaBE%4ShajO vi/SvaBE%4ShajO mE mE vi/SvaBE%4ShajO/ya ma/yaM vi/SvaBE%4ShajO mE mE vi/SvaBE%4ShajO/yam | 
