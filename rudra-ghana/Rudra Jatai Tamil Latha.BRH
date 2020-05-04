@@ -200,7 +200,7 @@ ta/nU raGO/4rA &GO+4rA ta/nU sta/nU raGO+4rA |
 aGO/4rA &pA+pakASi/ ~nyapA+pakASi/ ~nyaGO/4rA &GO/4rA &pA+pakASinI | 
  
 42. apA+pakASinI || 
-apA+pAkASi/nItyapA+pa - kA/Si/nI/ | 
+apA+pakASi/nItyapA+pa - kA/Si/nI/ | 
  
 43. tayA% | ~na/H | 
  tayA+ ~nO ~na/ stayA/ tayA+ ~naH | 
@@ -254,13 +254,13 @@ asta+va/ ityasta+vE |
 Si/vA~g gi+3ritra gi3ritra Si/vA(gm) Si/vA~g gi+3ritra | 
  
 60. gi/3ri/tra/ | tAm | 
-gi/3ri/tra/ tAn tA~g gi+3ritra gi3ritra/ tAm | 
+gi/3ri/tra/ tA~n tA~g gi+3ritra gi3ritra/ tAm | 
  
 61. gi/3ri/tra/ | 
 gi/3ri/trEti+ gi3ri - tra/ | 
  
 62. tAm | ku/ru/ | 
-tA~g ku+ru kuru/ tAn tA~g ku+ru | 
+tA~g ku+ru kuru/ tA~n tA~g ku+ru | 
  
 63. ku/ru/ | mA | 
 ku/ru/ mA mA ku+ru kuru/ mA | 
@@ -299,7 +299,7 @@ va/dA/3ma/sIti+ vadA3masi |
 yathA+2 ~nO ~nO/ yathA/2 yathA+2 ~naH | 
  
 75. ~na/H | sarva%m | 
-~na/H sarva/(gm)/ sarva+nnO ~na/H sarva%m |
+~na/H sarva/(gm)/ sarva+~n~nO ~na/H sarva%m |
  
 76. sarva%m | it | 
 sarva/ midi3th2 sarva/(gm)/ sarva/mit |  
@@ -422,13 +422,13 @@ E/ShA/(gm)/ hEDO/3 hEDa+3 EShA mEShA/(gm)/ hEDa+3H |
 hEDa+3 Imaha ImahE/ hEDO/3 hEDa+3 ImahE | 
  
 116. I/ma/hE/ || 
-I/ma/ha/ itI+ mahE | 
+I/ma/ha/ itI+mahE | 
  
 117. a/sau | yaH | 
 a/sau yO yO a/sA va/sau yaH | 
  
 118. yaH | a/va/sarpa+ti | 
-yO+ &va/sarpa+tya va/sarpa+ti/ yA yO+ &va/sarpa+ti | 
+yO+ &va/sarpa+tya va/sarpa+ti/ yO yO+ &va/sarpa+ti | 
  
 119. a/va/sarpa+ti | ~nIla+g3rIvaH | 
 a/va/sarpa+ti/ ~nIla+g3rIvO/ ~nIla+g3rIvO &va/sarpa+tya va/sarpa+ti/ ~nIla+g3rIvaH | 
@@ -479,7 +479,7 @@ viSvA+ BU/tAni+ BU/tAni/ viSvA/ viSvA+ BU/tAni+ |
 BU/tAni/ sa sa BU/tAni+ BU/tAni/ saH |  
  
 135. saH | d3Ru/ShTaH | 
-sa d3Ru/ShTO d3Ru/ShTaH sa sa d3Ru/ShTaH | 
+sa d3Ru/ShTO d3Ru/ShTassa sa d3Ru/ShTaH | 
  
 136. d3Ru/ShTaH | mRu/Da/3yA/ti/ | 
 d3Ru/ShTO mRu+Da3yAti mRuDa3yAti d3Ru/ShTO d3Ru/ShTO mRu+Da3yAti | 
@@ -533,7 +533,7 @@ a/ha~n tEB4ya/ stEB4yO/ &hama/ha~n tEB4ya+H |
 tEB4yO+ &karamakara/n tEB4ya/ stEB4yO+ &karam | 
  
 153. a/ka/ra/m | ~nama+H || 
-a/ka/ra/n ~namO/ ~namO+ &karamakara/n ~nama+H | 
+a/ka/ra/~n ~namO/ ~namO+ &karamakara/~n ~nama+H | 
  
 154. ~nama+H || 
 ~nama/ iti/ ~nama+H | 
@@ -596,10 +596,10 @@ a/va/tatya/ dha4nu/r dha4nu+ rava/tatyA+ va/tatya/ dha4nu+H |
  a/va/tatyEtya+va - tatya+ | 
  
 174. dha4nu+H | tvam | 
-dha4nu/stvan tvan dha4nu/r dha4nu/stvam |  
+dha4nu/stva~n tva~n dha4nu/r dha4nu/stvam |  
  
 175. tvam | saha+srAkSha | 
- tva(gm) saha+srAkSha/ saha+srAkSha/ tvan tva(gm) saha+srAkSha | 
+ tva(gm) saha+srAkSha/ saha+srAkSha/ tva~n tva(gm) saha+srAkSha | 
  
 176. saha+srAkSha | SatE+ShudhE4 || 
  saha+srAkSha/ SatE+ShudhE/4 SatE+ShudhE/4 saha+srAkSha/ saha+srAkSha/ SatE+ShudhE4 | 
@@ -611,7 +611,7 @@ dha4nu/stvan tvan dha4nu/r dha4nu/stvam |
  SatE+Shudha/4 iti/ Sata+ - i/Shu/dhE/4 | 
  
 179. ~ni/SIrya+ | Sa/lyAnA%m | 
- ~ni/SIrya+ Sa/lyAnA(gm)+ Sa/lyAnA%n ~ni/SIrya+ ~ni/SIrya+ Sa/lyAnA%m | 
+ ~ni/SIrya+ Sa/lyAnA(gm)+ Sa/lyAnA%~n ~ni/SIrya+ ~ni/SIrya+ Sa/lyAnA%m | 
  
 180. ~ni/Sirya+ | 
  ~ni/SIryEti+ ~ni - SIrya+ | 
@@ -638,7 +638,7 @@ dha4nu/stvan tvan dha4nu/r dha4nu/stvam |
  Ba/4vEti+ Ba4va | 
  
 188. vijya%m | dha4nu+H | 
- vijya/n dha4nu/r dha4nu/r vijya/m ~Mvijya/n dha4nu+H | 
+ vijya/~n dha4nu/r dha4nu/r vijya/m ~Mvijya/~n dha4nu+H | 
  
 189. vijya%m | 
  vijya/ miti/ vi - jya/m/ | 
@@ -695,7 +695,7 @@ dha4nu/stvan tvan dha4nu/r dha4nu/stvam |
  mI/Dhu/4ShTa/ma/ hastE/ hastE+ mIDhu4ShTama mIDhu4ShTama/ hastE% | 
  
 207. mI/Dhu/4ShTa/ma/ | 
- mI/Dhu/4ShTamEti+ mIDhu4H - ta/ma/ | 
+ mI/Dhu/4ShTa/mEti+ mIDhu4H - ta/ma/ | 
  
 208. hastE% | ba/3BU4va+ | 
  hastE+ ba/3BU4va+ ba/3BU4va/ hastE/ hastE+ ba/3BU4va+ | 
@@ -716,10 +716,10 @@ dha4nu/stvan tvan dha4nu/r dha4nu/stvam |
  a/smAn. vi/SvatO+ vi/SvatO+ a/smA ~na/smAn. vi/Svata/H | 
  
 214. vi/Svata+H | tvam | 
- vi/Svata/ stvan tvam ~Mvi/SvatO+ vi/Svata/ stvam | 
+ vi/Svata/ stva~n tvam ~Mvi/SvatO+ vi/Svata/ stvam | 
  
 215. tvam | a/ya/kShmayA% | 
- tva ma+ya/kShmayA+ &ya/kShmayA/ tvan tva ma+ya/kShmayA% | 
+ tva ma+ya/kShmayA+ &ya/kShmayA/ tva~n tva ma+ya/kShmayA% | 
  
 216. a/ya/kShmayA% | pari+ | 
  a/ya/kShmayA/ pari/ parya+ ya/kShmayA+ &ya/kShmayA/ pari+ | 
@@ -764,7 +764,7 @@ dha4nu/stvan tvan dha4nu/r dha4nu/stvam |
  ~namO+ bA/3huB4yA%m bA/3huB4yA/m ~namO/ ~namO+ bA/3huB4yA%m | 
  
 230. bA/3huB4yA%m | tava+ | 
- bA/3huB4yA/n tava/ tava+ bA/3huB4yA%m bA/3huB4yA/n tava+ | 
+ bA/3huB4yA/~n tava/ tava+ bA/3huB4yA%m bA/3huB4yA/~n tava+ | 
  
 231. bA/3huB4yA%m | 
  bA/3huB4yA/miti+ bA/3hu - B4yA/m | 
@@ -797,7 +797,7 @@ dha4nu/stvan tvan dha4nu/r dha4nu/stvam |
  vi/Svata/ iti+ vi/Svata+H | 
  
 241. athO/2 | yaH |
- athO/2 yO yOthO/2 athO/2 yaH | 
+ athO/2 yO yO &thO/2 athO/2 yaH | 
  
 242. athO%2 | 
  athO/2 ityathO%2 | 
@@ -824,7 +824,7 @@ dha4nu/stvan tvan dha4nu/r dha4nu/stvam |
  ~nidhE+4hi dhE4hi/ ~ni ~nidhE+4hi | 
  
 250. dhE/4hi/ | tam || 
- dhE/4hi/ tan tan dhE+4hi dhE4hi/ tam | 
+ dhE/4hi/ ta~n ta~n dhE+4hi dhE4hi/ tam | 
  
 251. tam || 
  tamiti/ tam | 
@@ -1215,7 +1215,7 @@ hira+NyabA3havE sEnA/nyE+ sEnA/nyE+ hira+NyabA3havE/ hira+NyabA3havE sEnA/nyE% |
  pa/ri/ca/rAyEti+ pari - ca/rAya+ | 
  
 36. ara+NyAnAm | pata+yE | 
- ara+NyAnA/m pata+yE/ pata/yE ra+NyAnA/ - mara+NyAnA/m pata+yE | 
+ ara+NyAnA/m pata+yE/ pata/yE &ra+NyAnA/ - mara+NyAnA/m pata+yE | 
  
 37. pata+yE | ~nama+H | 
  pata+yE/ ~namO/ ~nama/spata+yE/ pata+yE/ ~nama+H | 
@@ -1317,7 +1317,7 @@ hira+NyabA3havE sEnA/nyE+ sEnA/nyE+ hira+NyabA3havE/ hira+NyabA3havE sEnA/nyE% |
  ca/ vO/ va/Sca/ ca/ va/H | 
  
 70. va/H | ~nama+H | 
- vO/ ~namO/ ~namO+ vO vO/ ~namO/ ~nama+H | 
+ vO/ ~namO/ ~namO+ vO vO/ ~nama+H | 
  
 71. ~nama+H | ~nama+H | 
  ~namO/ ~nama+H | 
@@ -1331,7 +1331,7 @@ hira+NyabA3havE sEnA/nyE+ sEnA/nyE+ hira+NyabA3havE/ hira+NyabA3havE sEnA/nyE% |
 74. A/ta/nvA/nEB4ya+H | 
  A/ta/nvA/nEB4ya/ ityA% - ta/nvA/nEB4ya+H | 
  
-75. pra/ti/da3dhA+4nEB4yaH | ca/ | 
+75. pra/ti/da3dhA+4nEB4yaH |  
  pra/ti/da3dhA+4nEB4yaSca ca prati/da3dhA+4nEB4yaH prati/da3dhA+4nEB4yaSca | 
  
 76. pra/ti/da3dhA+4nEB4yaH | 
@@ -2203,7 +2203,7 @@ tRu/(gm)/ha/tIB4ya+Sca ca tRu(gm)ha/tIB4ya+ stRu(gm)ha/tIB4ya+Sca |
 21. ca/ | bu3d3dh4ni+yAya | 
  ca/ bu3d3dh4ni+yAya/ bu3d3dh4ni+yAya ca ca/ bu3d3dh4ni+yAya | 
  
-22. bu3dh4ni+yAya | ca/ | 
+22. bu3d3dh4ni+yAya | ca/ | 
  bu3d3dh4ni+yAya ca ca/ bu3d3dh4ni+yAya/ bu3d3dh4ni+yAya ca | 
  
 23. ca/ | ~nama+H | 
@@ -2485,7 +2485,7 @@ tRu/(gm)/ha/tIB4ya+Sca ca tRu(gm)ha/tIB4ya+ stRu(gm)ha/tIB4ya+Sca |
  tI/kShNESha+va/ iti+ tI/kShNa - i/Sha/vE/ | 
  
 29. ca/ | A/yu/dhi4nE% |  
- cA/ yu/dhi4na+ Ayu/dhi4nE+ ca cA yu/dhi4nE% | 
+ cA/yu/dhi4na+ Ayu/dhi4nE+ ca cAyu/dhi4nE% | 
  
 30. A/yu/dhi4nE% | ca/ | 
  A/yu/dhi4nE+ ca cA yu/dhi4na+ Ayu/dhi4nE+ ca | 
@@ -2512,7 +2512,7 @@ tRu/(gm)/ha/tIB4ya+Sca ca tRu(gm)ha/tIB4ya+ stRu(gm)ha/tIB4ya+Sca |
  su/dha4nva+na/ iti+ su - dha4nva+nE | 
  
 38. ca/ | ~nama+H | 
- ca/ ~namO/ ~nama+Sca ca/ ~nama/H | 
+ ca/ ~namO/ ~nama+Sca ca/ ~nama+H | 
  
 39. ~nama+H | srutyA+ya | 
  ~nama/H srutyA+ya/ srutyA+ya/ ~namO/ ~nama/H srutyA+ya | 
@@ -3003,7 +3003,7 @@ tRu/(gm)/ha/tIB4ya+Sca ca tRu(gm)ha/tIB4ya+ stRu(gm)ha/tIB4ya+Sca |
  ka/pa/rdi3nE+ ca ca kapa/rdi3nE+ kapa/rdi3nE+ ca | 
  
 14. ca/ | pu/la/stayE% | 
- ca/ pu/la/stayE+ pula/stayE+ ca ca pu/lastayE% | 
+ ca/ pu/la/stayE+ pula/stayE+ ca ca pula/stayE% | 
  
 15. pu/la/stayE% | ca/ | 
  pu/la/stayE+ ca ca pula/stayE+ pula/stayE+ ca | 
@@ -3382,7 +3382,7 @@ tRu/(gm)/ha/tIB4ya+Sca ca tRu(gm)ha/tIB4ya+ stRu(gm)ha/tIB4ya+Sca |
  yathA+2 ~nO ~nO/ yathA/2 yathA+2 ~naH | 
  
 44. ~na/H | Sam | 
- ~na/H Sa(gm) SannO+ ~na/H Sam | 
+ ~na/H Sa(gm) Sa~n~nO+ ~na/H Sam | 
  
 45. Sam | asa+t | 
  Samasa/da sa/cCa2(gm) Samasa+t | 
@@ -4051,7 +4051,7 @@ tRu/(gm)/ha/tIB4ya+Sca ca tRu(gm)ha/tIB4ya+ stRu(gm)ha/tIB4ya+Sca |
  ma/ha/tya+rNa/vE%&rNa/vE ma+ha/ti ma+ha/tya+rNa/vE |  
  
 16. a/rNa/vE | a/~ntari+kShE | 
- a/rNa/vE% &~ntari+kShE/ &~ntari+kShE&rNa/vE% rNa/vE% &~ntari+kShE | 
+ a/rNa/vE% &~ntari+kShE/ &~ntari+kShE&rNa/vE% &rNa/vE% &~ntari+kShE | 
  
 17. a/~ntari+kShE | Ba/4vAH | 
  a/~ntari+kShE Ba/4vA Ba/4vA a/~ntari+kShE/ &~ntari+kShE Ba/4vA | 
