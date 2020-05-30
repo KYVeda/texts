@@ -1,0 +1,671 @@
+<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)(GD 46)(GD 49)(Raja Excel)<lang=def>
+2.3.7.4 anna$m | aqdanti# | aqdanti# | uq | eqva | aqsyaq | maqnuqShyA$H |
+
+1. anna$m | aqdanti# | aqdanti# |
+1j. anna# maqdantyaqdan tyannaqmanna# maqdanti# |
+1G. anna#maqdantyaqdan tyannaqmanna# maqdantyaqdanti# |
+
+2. aqdanti# | aqdanti# | uq | 
+2j. aqdantyaqdanti# |  
+2G. aqdantyaqdantyu# vuvaqdantyaqdantyu# |  
+
+3.  aqdanti# | uq | eqva |
+3J -  aqdantyu# vuvaqdantyaqdantyu# | 
+3G - aqdantyu# vuvaqdantyaqdantyu# veqvaivo dantyaqdantyu# veva | rule ? u apRukta+a =vu?
+      (adantyu      vuvadantya    dantyuvevaivodantyadantyuveva )
+4. uq | eqva | aqsyaq |
+4J - uq veqvaiva# vuveqva | 
+4G - uq veqvaiva# vuveqvAsyA$syaiva vuveqvAsya# | 
+(u vevaiva vuvevAsyAsyaiva vuvevAsya |)
+5. eqva | aqsyaq | maqnuqShyA$H |
+5J - eqvAsyA$syaivaiqvAsya# | 
+5G - eqvAsyA$syaivaiqvAsya# manuqShyA# manuqShyA# asyaivaivAsya# manuqShyA$H | 
+
+6. aqsyaq | maqnuqShyA$H |
+6J - aqsyaq maqnuqShyA# manuqShyA# asyAsya manuqShyA$H | 
+
+7. maqnuqShyA$H
+7. maqnuqShyA$ iti# manuqShyA$H |
+---------------------------------------------------------------
+<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)
+(Rule Consonant Sandhi Condition = s to Sh; Word = mahi (after) )(JM14)(JD 8)(Raja Excel)<lang=def>
+3.2.8.2 - bRuhaqspata#ye | mahi# | sat | dyuqmat | nama#H | nama#H |
+
+1. bRuhaqspata#ye | mahi# | sat | (PS 6.2)
+1J.  bRuhaqspata#yeq mahiq mahiq bRuhaqspata#yeq bRuhaqspata#yeq mahi# |
+1G. bRuhaqspata#yeq mahiq mahiq bRuhaqspata#yeq bRuhaqspata#yeq mahiq Shath san mahiq bRuhaqspata#yeq bRuhaqspata#yeq mahiq Shat ||
+
+2. mahi# | sat | dyuqmat |
+2J. mahiq Shath san mahiq mahiq Shat |
+2G. mahiq Shath san mahiq mahiq Shad dyuqmad dyuqmath san mahiq mahiq Shad dyuqmat |
+
+3. sat | dyuqmat | nama#H |
+3j.   sad dyuqmad dyuqmath sath saddyuqmat |
+3G. sad dyuqmaddyuqmath sath saddyuqman namoq namo# dyuqmath sath saddyuqman nama#H |
+4. dyuqmat | nama#H | nama#H |
+4j -   dyuqman namoq namo# dyuqmaddyuqman nama#H |
+4G - dyuqman namoq namo# dyuqmaddyuqman namoq nama#H |
+
+5. nama#H | nama#H
+namoq nama#H
+6. nama#H | 
+--------------------------------------------------------------------------------------
+<lang=eng>(Rule Dvipadam Condition = same )(Raja Excel)<lang=def>
+7.4.1.3 padam: catu#rvi(gm)SatiH | aqrdhaqmAqsAH | saqm~MvaqthsaqraH | saqm~MvaqthsaqraH | suqvaqrgaH | loqkaH |
+
+1. catu#rvi(gm)SatiH | aqrddhaqmAqsAH | saqm~MvaqthsaqraH |
+1j. catu#rvi(gm)SatirarddhamAqsA a#rddhamAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)Sati-rarddhamAqsAH |
+1G. catu#rvi(gm)SatirarddhamAqsA a#rddhamAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)Sati rarddhamAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)SatirarddhamAqsAH sa#M~MvathsaqraH |
+2. aqrddhaqmAqsAH | saqm~MvaqthsaqraH | saqm~MvaqthsaqraH |
+2ja. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsAH sa#M~MvathsaqraH |
+2Ga. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsAH sa#M~MvathsaqraH sa#m~MvathsaqraH |
+3. saqm~MvaqthsaqraH | saqm~MvaqthsaqraH |
+3J. saqm~MvaqthsaqraH sa#M~MvathsaqraH | (DP)
+3G. saqm~MvaqthsaqraH sa#M~MvathsaqraH | (DP)
+4. saqm~MvaqthsaqraH | suqvaqrgaH | loqkaH |
+4ja. saqm~MvaqthsaqraH su#vaqrgaH su#vaqrgaH sa#M~MvathsaqraH sa#M~MvathsaqraH suvaqrgaH |
+4Ga. saqm~MvaqthsaqraH su#vaqrgaH su#vaqrgaH sa#M~MvathsaqraH sa#M~MvathsaqraH suvaqrgo loqko loqkaH su#vaqrgaH sa#M~MvathsaqraH sa#M~MvathsaqraH suvaqrgo loqkaH |
+5.  suqvaqrgaH | loqkaH |
+5J. suqvaqrgo loqko loqkaH su#vaqrgaH suvaqrgo loqkaH |
+6. loqkaH |
+-----------------------
+<lang=eng>(Rule Dvipadam Condition = not same )(GD24)(Raja Excel)<lang=def>
+1.3.3.1 - pAqhi | mAq | aqgneq | piqpRuqhi | mAq | mA | mAq | hiq(gm)qsIqH |
+
+1.  pAqhi | mAq | aqgneq |
+1J.  pAqhi mA# mA pAqhi pAqhi mA$ |
+1G. pAqhi mA# mA pAqhi pAqhi mA$ &gne agne mA pAqhi pAqhi mA$ &gne | 
+
+2.  mAq | aqgneq | piqpRuqhi | 
+2J.  mAq &gneq aqgneq mAq mAq &gneq |
+2G. mAq &gneq aqgneq mAq mAq &gneq piqpRuqhi pi#pRuqhya#gne mA mA &gne pipRuqhi |
+
+3. aqgneq | piqpRuqhi | mAq |
+3J.  aqgneq piqpRuqhi pi#pRuqhya#gne &gne pipRuqhi |
+3G. aqgneq piqpRuqhi pi#pRuqhya#gne &gne pipRuqhi mA# mA pipRuqhya#gne &gne pipRuqhi mA$ | 
+
+4.  piqpRuqhi | mAq | mA |
+4J.  piqpRuqhi mA# mA pipRuqhi pi#pRuqhi mA$ |
+4G. piqpRuqhi mA# mA pipRuqhi pi#pRuqhi mAq mA mA mA# pipRuqhi pi#pRuqhi mAq mA |
+
+5. mAq | mA | mAq |
+5J.  mAq mA mA mA# mAq mA |
+5G. mAq mA mA mA# mAq mA mA# mA mA mA# mAq mA mA$ |
+
+6.  mA | mAq | hiq(gm)qsIqH |
+6J. mA mA# mAq mA mA mA$ |
+6G. mA mA# mAq mA mA mA# hi(gm)sIr. hi(gm)sIr mAq mA mA mA# hi(gm)sIH |
+
+7. mAq | hiq(gm)qsIqH |
+7. mAq hiq(gm)qsIqr. hiq(gm)qsIqr mAq mAq hiq(gm)qsIqH |
+
+8. hiq(gm)qsIqH |
+-----------------------------------------------------------
+<lang=eng>(Rule Dvipadam Condition = as one )(JM 9)(GD 17)(Raja Excel)<lang=def>
+
+1.5.6.4  dAqSuShe$ | upo#pa | it | nu | maqGaqvaqnn |
+1. dAqSuShe$ | upo#pa | it |
+1J - dAqSuSheq upoqpopo#pa dAqSuShe$ dAqSuSheq upo#pa |
+1G - dAqSuSheq upoqpopo#pa dAqSuShe$ dAqSuSheq upoqped idupo#pa dAqSuShe# dAqSuSheq upoqpet |
+
+2. upo#pa | it | nu |
+2J -  upoqpe didupo#popoqped |
+2G - upoqpe didupo#popoqpennu nvidupo#popoqpennu | 
+(upopodidupopopopennu nvidupopopopennu |)
+3.  it | nu | maqGaqvaqnn 
+3J - innunvidinnu |
+3G - innunvidinnu ma#Gavan maGavaqnnvidinnu ma#Gavann |
+
+4.  nu | maqGaqvaqnn |
+4J - nu ma#Gavann maGavaqnnu nu ma#Gavann maqGaqvaqnn |
+
+5.  maqGaqvaqnn 
+-----------------------------------------------------------
+<lang=eng>(Rule Dvipadam Condition = as one )(GD 18)(Excel)<lang=def>
+1.8.21.1 yathA$ | dAnti# | aqnuqpUqrvam | viqyUya# | iqheha# | eqShAqm | kRuqNuqtaq |
+
+1. yathA$ | dAnti# | aqnuqpUqrvam |
+1J -  yathAq dAntiq dAntiq yathAq yathAq dAnti# |
+1G - yathAq dAntiq dAntiq yathAq yathAq dAntya#nupUqrvama#nupUqrvam dAntiq yathAq yathAq dAntya#nupUqrvam |
+
+2. dAnti# | aqnuqpUqrvam | viqyUya# |
+2ja-  dAntya#nupUqrvama#nupUqrvam dAntiq dAntya#nupUqrvam |
+2Ga - dAntya#nupUqrvama#nupUqrvam dAntiq dAntya#nupUqrvam ~MviqyUya# viqyUyA#nupUqrvam dAntiq dAntya#nupUqrvam ~MviqyUya# |
+
+3. aqnuqpUqrvam | viqyUya# | iqheha# |
+3J -  aqnuqpUqrvam ~MviqyUya# viqyUyA#nupUqrvama#nupUqrvam ~MviqyUya# |
+3G - aqnuqpUqrvam ~MviqyUya# viqyUyA#nupUqrvama#nupUqrvam ~MviqyUyeqheheqheha# viqyUyA#nupUqrvama#nupUqrvam ~MviqyUyeqheha# |
+
+4. viqyUya# | iqheha# | eqShAqm |
+4J - viqyUyeqheheqheha# viqyUyeqheha# |
+4G - viqyUyeqheheqheha# viqyUyeqhehai#ShAm eShAmiqheha# viqyUya# viqyUyeqhehai#ShAm |
+
+5. iqheha# | eqShAqm | kRuqNuqtaq |
+5J - iqhehai#ShA meShAmiqheheqhehai#ShAm |
+5G - iqhehai#ShA meShAmiqheheqhehai#ShAm kRuNuta kRuNutaiShA miqheheqhehai#ShAm kRuNuta | 
+
+6. eqShAqm | kRuqNuqtaq |
+6J - eqShAqm kRuqNuqtaq kRuqNuqtaiqShAq meqShAqm kRuqNuqtaq
+7.  kRuqNuqtaq ||
+--------------------------------------------------
+<lang=eng>(Rule Dvipadam Condition = Different )(JM 14)(GD 24)(Raja Excel)<lang=def>
+
+4.6.2.2	aqsUrtA$ | sUrtA$ | raja#saH | viqmAne$ | ye |
+1.	aqsUrtA$ | sUrtA$ | raja#saH |
+1J.  aqsUrtAq sUrtAq sUrtAq &sUrtAq &sUrtAq sUrtA$ |
+1G. aqsUrtAq sUrtAq sUrtAq &sUrtAq &sUrtAq sUrtAqraja#soq raja#saqH sUrtAq &sUrtAq &sUrtAq sUrtAq raja#saH |
+2. sUrtA$ | raja#saH | viqmAne$ |
+2J. sUrtAqraja#soq raja#saqH sUrtAq sUrtAq raja#saH |
+2G. sUrtAqraja#soq raja#saqH sUrtAq sUrtAq raja#so viqmAne$ viqmAneq raja#saqH sUrtAq sUrtAq raja#so viqmAne$ |
+3. raja#saH | viqmAne$ | ye |
+3J. raja#so viqmAne$ viqmAneq raja#soq raja#so viqmAne$ |
+3G. raja#so viqmAne$ viqmAneq raja#soq raja#so viqmAneq ye ye viqmAneq raja#soq raja#so viqmAneq ye |
+4. viqmAne$ | ye |
+4J.  viqmAneq ye ye viqmAne$ viqmAneq ye  |
+5. ya itiq ye
+
+--------------------------------------------
+<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(Raja Excel)(GD 24)<lang=def>
+
+5.3.12.2  pAqpmAna$m | taqraqtiq | tara#ti | braqhmaqhaqtyAm | yaH |
+1. pAqpmAna$m | taqraqtiq | tara#ti |
+1J. pAqpmAna$m tarati tarati  pAqpmAna$m pAqpmAna$m tarati |
+1G. pAqpmAna$m tarati tarati pAqpmAna$m pAqpmAna$m taratiq tara#tiq tara#ti tarati pAqpmAna$m pAqpmAna$m taratiq tara#ti |
+2.  taqraqtiq | tara#tiq |  braqhmaqhaqtyAm |
+2J. taratiq tara#tiq tara#ti tarati taratiq tara#tiq |
+2G.taratiq tara#tiq tara#ti tarati taratiq tara#ti brahmahaqtyAm bra#hmahaqtyAm tara#ti tarati taratiq tara#ti brahmahaqtyAm |
+((taratitaratitaratitaratitaratitarati brAhRuhatyAMbrAhRuhatyAMtaratitaratitaratitaratibrAhRuhatyAm ))
+3. tara#ti | braqhmaqhaqtyAm | yaH |
+3J. tara#ti brahmahaqtyAm bra#hmahaqtyAm tara#tiq tara#ti brahmahaqtyAm |
+3G. tara#ti brahmahaqtyAm bra#hmahaqtyAm tara#tiq tara#ti brahmahaqtyAm yo yo bra#hmahaqtyAm tara#tiq tara#ti brahmahaqtyAm yaH |
+4. braqhmaqhaqtyAm | yaH |
+brahmahaqtyAm yo yo bra#hmahaqtyAm bra#hmahaqtyAm yaH |
+5 yaH |
+---------
+<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(GD 24)(Raja Excel)<lang=def>
+
+1.8.14.1 te | teq | vAca$m | suqvaqntAqm | te | teq |
+1. te | teq | vAca$m
+1J.  te te# teq te te te$ |
+1G. te te# teq te te teq vAcaqm vAca#m teq te te teq vAca$m |
+2. teq | vAca$m | suqvaqntAqm |
+2J. teq vAcaqm ~MvAca$m te teq vAca$m |
+2G. teq vAcaqm ~MvAca#m te teq vAca(gm)# suvantA(gm) suvantAqm ~MvAca#m te teq vAca(gm)# suvantAm |
+3. vAca$m | suqvaqntAqm | te |
+3J. vAca(gm)# suvantA(gm) suvantAqm ~MvAcaqm ~MvAca(gm)#  suvantAm |
+3G. vAca(gm)# suvantA(gm) suvantAqm ~MvAcaqm ~MvAca(gm)#  suvantAqm te  te su#vantAqm ~MvAcaqm ~MvAca(gm)#  suvantAqm te |
+4. suqvaqntAqm | te | teq |
+4J. suvantAqm te  te su#vantAm suvantAqm te |
+4G.  suvantAqm te  te su#vantAm suvantAqm te te#  teq  te su#vantAm suvantAqm te te$ |
+5.  te | teq |
+5J. te  te# teq te te te$ |
+6  teq |
+ta iti# te
+tetetetetetevAcaMvAcaMtetetetevAcam
+---------------------
+6.6.4.4  daqkShiqNaqtaH | uqpaqSaqyaH | uqpaqSaye$ | BrAtRu#vyApanuttyai | sarve$ | vai |(GD 24)(Raja Excel) (GD 74)
+1. daqkShiqNaqtaH | uqpaqSaqyaH | uqpaqSaye$ |
+1J.  daqkShiqNaqta u#paSaqya  u#paSaqyo da#kShiNaqto da#kShiNaqta u#paSaqyaH |
+1G. daqkShiqNaqta u#paSaqya  u#paSaqyo da#kShiNaqto da#kShiNaqta u#paSaqya u#paqSaye$ upaqSaye$ upaSaqyo da#kShiNaqto da#kShiNaqta u#paSaqya u#paqSaye$ |
+
+2. uqpaqSaqyaH | uqpaqSaye$ | BrAtRu#vyApanuttyai |
+2J. uqpaqSaqya u#paqSaya# upaqSaya# upaSaqya u#paSaqya u#paqSaye$ |
+2G. uqpaqSaqya u#paqSaya# upaqSaya# upaSaqya u#paSaqya u#paqSayeq BrAtRu#vyApanuttyaiq BrAtRu#vyApanuttyA upaqSaya# upaSaqya u#paSaqya u#paqSayeq BrAtRu#vyApanuttyai |
+3.uqpaqSaye$ | BrAtRu#vyApanuttyai | sarve$ |
+3J. uqpaqSayeq BrAtRu#vyApanuttyaiq BrAtRu#vyApanuttyA upaqSaya# upaqSayeq BrAtRu#vyApanuttyai |
+3G. uqpaqSayeq BrAtRu#vyApanuttyaiq BrAtRu#vyApanuttyA upaqSaya# upaqSayeq BrAtRu#vyApanuttyaiq sarveq sarveq BrAtRu#vyApanuttyA upaqSaya# upaqSayeq BrAtRu#vyApanuttyaiq sarve$ |
+4. BrAtRu#vyApanuttyai | sarve$ | vai |
+4J. BrAtRu#vyApanuttyaiq sarveq sarveq BrAtRu#vyApanuttyaiq BrAtRu#vyApanuttyaiq sarve$ |
+4G. BrAtRu#vyApanuttyaiq sarveq sarveq BrAtRu#vyApanuttyaiq BrAtRu#vyApanuttyaiq sarveq  vai   vai sarveq BrAtRu#vyApanuttyaiq BrAtRu#vyApanuttyaiq sarveq vai |
+5. sarve$ | vai |
+5J. sarveq vai vai sarveq sarveq vai |
+6. vai |
+vA itiq vai
+upaSaya upaSaya upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai BrAtRuvyApanuttyA upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai |
+------------------------------------------
+
+<lang=eng>(Rule trikramam Condition = normal )(JM 5)(JD 5)(Raja Excel) <lang=def>
+1.1.2.2. saH | teq | mA | A | sthAqt | indra#sya | tvAq | bAqhuByA$m | ut |
+
+1. saH | teq | mA |
+1J - sa te# teq sa sa te$ |
+1G - sa te# teq sa sa teq mA mA teq sa sa teq mA |
+
+2. teq | mA | A | sthAqt |
+2J -  teq mA mA te# teq mA |
+2G - teq mA mA te# teq mA &&sthA$th sthAqdA mA te# teq mA &&sthA$t |
+
+3. mA | A | sthAqt | indra#sya |
+3J - mA &&sthA$th sthAqdA mA mA &&sthA$t | 
+3G - mA &&sthA$th sthAqdA mA mA &&sthAqdindraqsyendra#sya sthAqdA mA mA &&sthAqdindra#sya |
+
+4. A | sthAqt | indra#sya |
+4J - A sthA$th sthAqdA sthA$t |
+4G - A sthA$th sthAqdA sthAqdindraqsyendra#sya sthAqdA sthAqdindra#sya |
+
+5. sthAqt | indra#sya | tvAq |
+5J -  sthAqdindraqsyendra#sya sthAth sthAqdindra#sya |
+5G - sthAqdindraqsyendra#sya sthAth sthAqdindra#sya tvAq tvendra#sya sthAth sthAqdindra#sya tvA | 
+
+6. indra#sya | tvAq | bAqhuByA$m |
+6J -  indra#sya tvAq tvendraqsyendra#sya tvA |
+6G - indra#sya tvAq tvendraqsyendra#sya tvA bAqhuByA$m bAqhuByAqm tvendraqsyendra#sya tvA bAqhuByA$m |
+
+7. tvAq | bAqhuByA$m | ut |
+7J - tvAq bAqhuByA$m bAqhuByA$m tvA tvA bAqhuByA$m |
+7G - tvAq bAqhuByA$m bAqhuByA$m tvA tvA bAqhuByAqmudud bAqhuByA$m tvA tvA bAqhuByAqmut |
+
+8.  bAqhuByA$m | ut |
+bAqhuByAqmudut bAqhuByA$m bAqhuByAqmut |
+
+9.  ut |
+------------------------------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(GD 52)(Excel)(Raja Excel)<lang=def>
+6.1.11.2 - maiqtram | kaqroti# | vAqruqNyA | RuqcA | A | sAqdaqyaqtiq | svayA$ | eqva | eqnaqm | 
+
+1. maiqtram | kaqroti# | vAqruqNyA |
+1J. maiqtram kaqroti# kaqroti# maiqtram maiqtram kaqroti# |
+1G. maiqtram kaqroti# kaqroti# maiqtram maiqtram kaqroti# vAruqNyA vA#ruqNyA kaqroti# maiqtram maiqtram kaqroti# vAruqNyA |
+
+2. kaqroti# | vAqruqNyA | RuqcA |
+2J. kaqroti# vAruqNyA vA#ruqNyA kaqroti# kaqroti# vAruqNyA |
+2G. kaqroti# vAruqNyA vA#ruqNyA kaqroti# kaqroti# vAruqNyarcarcA vA#ruqNyA kaqroti# kaqroti# vAruqNyarcA |
+
+3. vAqruqNyA | RuqcA | A | sAqdaqyaqtiq | 
+3J. vAqruqNyarcarcA vA#ruqNyA vA#ruqNyarcA |
+3G. vAqruqNyarcarcA vA#ruqNyA vAqruqNyarcA &&sA#dayati sAdayaqtyArcA vA#ruqNyA vA#ruqNyarcA &&sA#dayati |
+
+4. RuqcA | A | sAqdaqyaqtiq | svayA$ |
+4J. RuqcA &&sA#dayati sAdayaqtyArcarcA &&sA#dayati |
+4G.RuqcA &&sA#dayati sAdayatyArcarcA &&sA#dayatiq svayAq svayA# sAdayatyArcarcA &&sA#dayatiq svayA$ |
+
+5. A | sAqdaqyaqtiq | svayA$ |
+5J. A sA#dayati sAdayaqtyA sA#dayati |
+5G. A sA#dayati sAdayaqtyA sA#dayatiq svayAq svayA# sAdayaqtyA sA#dayatiq svayA$ |
+
+6. sAqdaqyaqtiq | svayA$ | eqva |
+6J. sAqdaqyaqtiq svayAq svayA# sAdayaqti sAdayatiq svayA$ |
+6G. sAqdaqyaqtiq svayAq svayA# sAdayaqti sAdayatiq svayaiqvaiva svayA# sAdayati sAdayatiq svayaiqva |
+
+7. svayA$ | eqva | eqnaqm |
+7J. svayaiqvaiva svayAq svayaiqva |
+7G. svayaiqvaiva svayAq svayaiqvaina# menameqva svayAq svayaiqvaina$m |
+
+8.  eqva | eqnaqm |
+8J. eqvaina# menameqvaivaina$m |
+      
+
+9.  eqnaqm |
+----------------
+<lang=eng>(Rule trikramam Condition = normal )(Excel)(Raja Excel)<lang=def>
+1.5.4.1 eqva | eqnaqm | aqjara$m | kRuqtvA | A | dhaqtteq | athoq iti# | pUqtam | eqva | pRuqthiqvIm | aqnnAdya$m |
+
+1. eqva | eqnaqm | aqjara$m |
+1J - eqvaina# menameqvaivaina$m |
+1G - eqvaina#menameqvaivaina# maqjara# maqjara# menameqvaivaina# maqjara$m |
+
+2. eqnaqm | aqjara$m | kRuqtvA |
+2J -  eqnaqmaqjara# maqjara#menamenamaqjara$m |
+2G - eqnaqmaqjara# maqjara#meNamenamaqjara#m kRuqtvA kRuqtvA &jara#meNa, menamaqjara#m kRuqtvA ||
+
+3.     aqjara$m | kRuqtvA | A | dhaqtteq
+3J -  aqjara#m kRuqtvA kRuqtvA &jara#maqjara#m kRuqtvA |
+3G - aqjara#m kRuqtvA kRuqtvA &jara#maqjara#m kRuqtvA &&dha#tte dhattaq A kRuqtvA &jara#maqjara#m kRuqtvA &&dha#tte ||
+
+4. kRuqtvA | A | dhaqtteq | atho$ (pg) |
+4J - kRuqtvA &&dha#tte dhattaq A kRuqtvA kRuqtvA &&dha#tte |
+4G. kRuqtvA &&dha#tte dhattaq A kRuqtvA kRuqtvA &&dhaqtte &thoq atho# dhattaq A kRuqtvA kRuqtvA &&dhaqtte &tho$ |
+
+5. A | dhaqtteq | atho$ (pg) | 
+5J-  A dha#tte dhattaq Adha#tte | 
+5G - A dha#tteq dhattaq Adhaqtte &thoq athoq Adhattaq Adha#tteq &tho$ ||
+
+6. dhaqtteq | atho$ (pg) | pUqtam |
+6J - dhaqtte &thoq atho# dhatte dhaqtte &tho$ |
+6G - dhaqtte &thoq atho# dhatte dhaqtte &tho# pUqtam pUqtamatho# dhatte dhaqtte &tho# pUqtam |
+
+7. atho$ (pg) | pUqtam | eqva |
+7J - atho# pUqtam pUqtamathoq atho# pUqtam |
+7G - atho$ pUqtam pUqtamathoq atho# pUqtameqvaiva pUqtamathoq atho# pUqtam eqva |
+
+8.  pUqtam | eqva | pRuqthiqvIm |
+8J - pUqtameqvaiva pUqtam pUqtameqva |
+8G - pUqtameqvaiva pUqtam pUqtameqva pRu#thiqvIm pRu#thiqvImeqva pUqtam pUqtameqva pRu#thiqvIm |
+
+9. eqva | pRuqthiqvIm | aqnnAdya$m |
+9J - eqva pRu#thiqvIm pRu#thiqvImeqvaiva pRu#thiqvIm |
+9G - eqva pRu#thiqvIm pRu#thiqvImeqvaiva pRu#thiqvImaqnnAdya# maqnnAdya#m pRuthiqvIm eqvaiva pRu#thiqvImaqnnAdya$m |
+ 
+10.    pRuqthiqvIm | aqnnAdya$m |
+10J - pRu#thiqvImaqnnAdya# maqnnAdya#m pRuthiqvIm pRu#thiqvImaqnnAdya$m |
+
+11. aqnnAdya$m |
+-----------------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(JM 4)(JM 5)(GD 53)(Raja Excel)<lang=def>
+3.2.5.1 - BakSha# | A | iqhiq | mAq | A | viqSaq | dIqrGAqyuqtvAya# | (mA &&vi#Sa viqSA mA mA &&vi#Sa ||) 
+1. BakSha# | A | iqhiq |
+1J. BakShA BakShaq BakShA |
+1G. BakShA BakShaq BakShehIqhyA BakShaq BakShehi# |
+(BakShABakShaBakShe hIhrABakShaBakShehi)
+
+2.  A | iqhiq | mAq |
+2J. ehIhyehi# |
+2G. ehIhyehi# mA meqhyehi# mA |
+3. iqhiq | mAq | A | viqSaq |
+3j. iqhiq mAq mAq iqhIqhiq mAq |  
+3G. iqhiq mAq mAq iqhIqhiq mA &&vi#Sa viqSA mA# ihIhiq mA &&vi#Sa |
+4. mAq | A | viqSaq | dIqrGAqyuqtvAya# 
+4J. mA &&vi#Sa viqSA mAq mA &&vi#Sa |
+4G.  mA &&vi#Sa viqSA mAq mA &&vi#Sa dIrGAyuqtvAya# dIrGAyuqtvAya# viqSA mAq mA &&vi#Sa dIrGAyuqtvAya# |
+5. A | viqSaq | dIqrGAqyuqtvAya# |
+5J. A vi#Sa viqSA vi#Sa |
+5G.  A vi#Sa viqSA vi#Sa dIrGAyuqtvAya# dIrGAyuqtvAya# viqSA vi#Sa dIrGAyuqtvAya# |
+6. viqSaq | dIqrGAqyuqtvAya# |
+viqSaq dIqrGAqyuqtvAya# dIrGAyuqtvAya# viSa viSa dIrGAyuqtvAya# ||
+-----------------------------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+1.5.6.3	padams - maqdhuqkRuta#H | syoqnAH | mA | A | viqSaqtaq | irA$H | mada#H ||
+
+1.  maqdhuqkRuta#H | syoqnAH | mA | 
+1J. maqdhuqkRuta#H syoqnAH syoqnA ma#dhuqkRuto# madhuqkRuta#H syoqnAH |
+1G. maqdhuqkRuta#H syoqnAH syoqnA ma#dhuqkRuto# madhuqkRuta#H syoqnA mA mA syoqnA ma#dhuqkRuto# madhuqkRuta#H syoqnAH mA ||
+2. syoqnAH | mA | A | viqSaqtaq |	
+2J. syoqnA mA mA syoqnAH syoqnA mA |
+2G. syoqnA mA mA syoqnAH syoqnA mA &&vi#Sata viSaqtA mA syoqnAH syoqnA mA &&vi#Sata ||
+3.  mA | A | viqSaqtaq | irA$H |
+3J. mA &&vi#Sata viSaqtA mA mA &&vi#Sata ||
+3G.  mA &&vi#Sata viSaqtA mA mA &&vi#SaterAq irA# viSaqtA mA mA &&vi#SaqterA$H ||
+4.  A | viqSaqtaq | irA$H |
+4J. A vi#Sata viSaqtA &&vi#Sata ||
+4G. A vi#Sata viSaqtA &&vi#SaqterAq irA# viSaqtA &&vi#SaqterA$H ||
+5. viqSaqtaq | irA$H | mada#H ||
+5J. viqSaqterAq irA# viSata viSaqterA$H ||
+5G. viqSaqterAq irA# viSata viSaqterAq madoq madaq irA# viSata viSaqterAq mada#H |
+6. irA$H | mada#H |
+6 irAq madoq madaq irAq irAq mada#H |
+------------------------------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+7.1.7.3	padams- ekA$ | mAq | BUqtA | A | viqSaq | mA | saqhasra$m |
+1. ekA$ | mAq | BUqtA |
+1J. ekA$ mA mAq ekaikA$ mA |
+1G. ekA$ mA mAq ekaikA$ mA BUqtA BUqtA mAq ekaikA$ mA BUqtA |
+2. mAq | BUqtA | A | viqSaq |
+2J. mAq BUqtA BUqtA mA# BUqtA mA# BUqtA |
+2G. mAq BUqtA BUqtA mA# mA BUqtA &&vi#Sa viqSA BUqtA mA# mA BUqtA &&vi#Sa | 
+3. BUqtA | A | viqSaq | mA |
+3ja. BUqtA &&vi#Sa viqSA BUqtA BUqtA &&vi#Sa |
+3Ga.  BUqtA &&vi#Sa viqSA BUqtA BUqtA &&vi#Saq mA mA viqSA BUqtA BUqtA &&vi#Saq mA ||
+4. A | viqSaq | mA | 
+4J. A vi#Sa viqSA &&vi#Sa |
+4G. A vi#Sa viqSA &&vi#Saq mA mA viqSA  &&vi#Saq mA |
+5. viqSaq | mA | saqhasra$m |
+5J. viqSaq mA mA vi#Sa viSaq mA |
+5G. viqSaq mA mA vi#Sa viSaq mA saqhasra(gm)# saqhasraqm mA mA vi#Sa viSaq mA saqhasra$m |
+6. mA | saqhasra$m |
+6. mA saqhasra(gm)# saqhasraqm mA mA saqhasra$m |
+--------------------------------------	
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+1.3.8.1	padams - yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq | uro$ (pg) | aqntaqriqkShaq |
+
+1. yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq |
+1J.  yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA ||
+1G. yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata viSaqtA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata |
+2. priqyaqdhA | A | viqSaqtaq | uro$ (pg)	|
+2J. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Sata	|
+2G. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Saqtoroq uro# viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Saqtoro$ |
+3.  A | viqSaqtaq | uro$ (pg) |
+3J. A vi#Sata viSaqtA &&vi#Sata |
+3G. A vi#Sata viSaqtA &&vi#Saqtoroq uro# viSaqtA &&vi#Saqtoro$ ||
+4. viqSaqtaq | uro$ (pg) | aqntaqriqkShaq |
+4J. viqSaqtoroq uro# viSata viSaqtoro$ |
+4G. viqSaqtoroq uro# viSata viSaqtoro# antarikShAntariqkShoro# viSata viSaqtoro# antarikSha |
+-----------------------------------------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+6.3.8.2 padam -yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq | iti# | Aqhaq |
+
+1.yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq |
+1J. yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA |
+1G. yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata viSaqtA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata ||
+2. priqyaqdhA | A | viqSaqtaq | iti# |
+2J. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Sata ||
+2G. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#SaqtetIti# viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Saqteti# ||
+3.  A | viqSaqtaq | iti# |
+3J.  A vi#Sata viSaqtA &&vi#Sata |
+3G. A vi#Sata viSaqtA &&vi#SaqtetIti# viSaqtA &&vi#Saqteti# ||
+4. viqSaqtaq | iti# | Aqhaq |
+4J. viqSaqtetIti# viSata viSaqteti# |
+4Ga. viqSaqtetIti# viSata viSaqtetyA#hAqheti# viSata viSaqtetyA#ha |
+5. iti# | Aqhaq |
+ityA#hAqhetItyA#ha ||
+------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(GD 25)(No Excel)<lang=def>
+2.3.14.4	aqryaqmA | A | yAqtiq | vRuqShaqBaH | tuvi#ShmAn |
+
+1. aqryaqmA | A | yAqtiq | vRuqShaqBaH |
+1J. aqryaqmA &&yA#ti yAqtyA &ryaqmA &ryaqmA &&yA#ti |
+1G. aqryaqmA &&yA#ti yAqtyA &ryaqmA &ryaqmA &&yA#ti vRuShaqBo vRu#ShaqBo yAqtyA &ryaqmA &ryaqmA &&yA#ti vRuShaqBaH ||
+(aryamAyAtiyAtyaryamAryamAyAtivRuShaBovRuShaBoyAtyAryamAryamAyAtivRuShaBaH ||)
+2. A | yAqtiq | vRuqShaqBaH |
+2J. A yA#ti yAqtyA &&yA#ti |
+2G. A yA#ti yAqtyA &&yA#ti vRuShaqBo vRu#ShaqBo yAqtyA &&yA#ti vRuShaqBaH |
+3. yAqtiq | vRuqShaqBaH | tuvi#ShmAn |
+3J. yAqtiq vRuqShaqBo vRu#ShaqBo yA#ti yAti vRuShaqBaH |
+3G. yAqtiq vRuqShaqBo vRu#ShaqBo yA#ti yAti vRuShaqBastuvi#ShmAqn tuvi#ShmAn. vRuShaqBo yA#ti yAti vRuShaqBastuvi#ShmAn |
+4. vRuqShaqBaH | tuvi#ShmAn |
+4.vRuqShaqBastuvi#ShmAqn? tuvi#ShmAn. vRuShaqBo vRu#ShaqBastuvi#ShmAqn ||
+-----------------------------
+<lang=eng>(Rule trikramam Condition = normal )(GD 26)(No Excel)<lang=def>
+1.5.1.2	padams -  iti# | tam | pUqShA | A | aqdhaqttaq | tena# | 
+1. iti# | tam | pUqShA |
+1J. itiqtan tamitIti# tam |
+1G. itiqtan tamitIti# tam pUqShA pUqShA tamitIti# tam pUqShA ||
+2.  tam | pUqShA | A | aqdhaqttaq |	
+2J. tam pUqShA pUqShA tan tam pUqShA |
+2G. tam pUqShA pUqShA tan tam pUqShA &&*dha#qttAdhaqttA pUqShA tan tam pUqShA &&*dha#tta |
+(taMpUShApUShA taMtaMpUShAdhattAdhattApUShAtaMtaMpUShAdhatta ||)
+3. pUqShA | A | aqdhaqttaq | tena# |
+3J. pUqShA &dha#ttAdhattA pUqShA pUqShA &dha#tta |
+3G. pUqShA &dha#ttA dhaqttA pUqShA pUqShA &dha#ttaq tenaq tenA#dhaqttA &&pUqShA pUqShA &dha#ttaq tena# ||
+4. A | aqdhaqttaq | tena# | 
+4J. A &dha#ttAdhaqttA &dha#tta |
+4G.  A &dha#ttAdhaqttA &dha#tta tenaq tenA#dhaqttA &dha#tta tena# |
+5. aqdhaqttaq | tena# | 
+5J.  aqdhaqttaq tenaq tenA#dhattAdhattaq tena#
+------------------------------------------	
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+4.1.11.3	padam - svata#vasaH | maqhiqtvaqnnA | A | nAka$m | taqsthuH | 
+
+1.svata#vasaH | maqhiqtvaqnnA | A | nAka$m |
+1J.svata#vaso mahitvaqnnA ma#hitvaqnnA svata#vasaqH svata#vaso mahitvaqnnA |
+ 1G.svata#vasoq ma#hitvaqnnA ma#hitvaqnnA svata#vasaqH svata#vaso mahitvaqnnA &&nAkaqm nAkaqmA ma#hitvaqnnA svata#vasaqH svata#vaso mahitvaqnnA &&nAka$m ||
+
+2.  maqhiqtvaqnnA | A | nAka$m | taqsthuH |
+2J.maqhiqtvaqnnA &&nAkaqn nAkaqmA ma#hitvaqnnA ma#hitvaqnnA&&nAka$m |
+2J.maqhiqtvaqnnA &&nAkaqm nAkaqmA ma#hitvaqnnA ma#hitvaqnnA &&nAka$m taqsthu staqsthur nAkaqmA ma#hitvaqnnA ma#hitvaqnnA &&nAka$m taqsthuH | ??
+
+3. A | nAka$m | taqsthuH |
+3J. A nAkaqm nAkaqmA nAka$m |
+3Ga. A nAkaqm nAkaqmA nAka$m taqsthu staqsthur nAkaqmA nAka$m taqsthuH |
+4. nAka$m | taqsthuH |
+4J nAka#m taqsthu staqsthur nAkaqm nAka#m taqsthuH |
+----------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+1.6.6.1	padams - teq | mA | A | vRuqkShiq | suqBUH | aqsiq |
+
+1. teq | mA | A | vRuqkShiq |
+1ja.  teq mA mA te# teq mA |
+1.Ga. teq mA mA te# teq mA &&vRu#kShi vRuqkShyA mA te# teq mA &&vRu#kShi |
+
+2. mA | A | vRuqkShiq | suqBUH |
+2ja. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi |
+2Ga. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi suqBUH suqBUr. vRuqkShyA mA mA &&vRu#kShi |
+3. A | vRuqkShiq | suqBUH |
+3ja. A vRu#kShi vRuqkShyA vRu#kShi |
+3ga. A vRu#kShi vRuqkShyA vRu#kShi suqBUH suqBUr. vRuqkShyA vRu#kShi suqBUH |
+4. vRuqkShiq | suqBUH | aqsiq |
+4j. vRuqkShiq suqBUH suqBUr. vRu#kShi vRukShi suqBUH
+4Ga. vRuqkShiq suqBUH suqBUr. vRu#kShi vRukShi suqBUra#syasi suqBUr. vRu#kShi vRukShi suqBUra#si | 
+5. suqBUH | aqsiq |
+suqBUra#syasi suqBUH suqBUra#si |
+--------------------
+1.7.6.1	padams - teq | mA | A | vRuqkShiq | iti# | Aqhaq |
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+
+1. teq | mA | A | vRuqkShiq |
+1ja. teq mA mA te# teq mA |
+1Ga. teq mA mA te# teq mA &&vRu#kShi vRuqkShyA mA te# teq mA &&vRu#kShi |
+2. mA | A | vRuqkShiq | iti# |	
+2ja. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi |
+2Ga. mA&&vRu#kShi vRuqkShyA mA mA &&vRuqkShItIti# vRuqkShyA mA mA &&vRuqkShIti# |
+3. A | vRuqkShiq | iti# |
+3ja.  A vRu#kShi vRuqkShyA vRu#kShi |
+3Ga. A vRu#kShi vRuqkShyA vRuqkShItIti# vRuqkShyA vRuqkShIti# |
+4.  vRuqkShiq | iti# | Aqhaq |
+4ja. vRuqkShItIti# vRuqkShIti# |
+4Ga.  vRuqkShItIti# vRuqkShItyA#hAqheti# vRukShi vRuqkShItyA#ha |
+-------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+1.5.11.1	padam - vaiqSvAqnaqraH | naqH | UqtyA | A | pra | yAqtuq | paqrAqvata#H ||
+1. vaiqSvAqnaqraH | naqH | UqtyA |
+1ja.  vaiqSvAqnaqro no# no vaiSvAnaqro vai$SvAnaqro na#H |
+1Ga. vaiqSvAqnaqro no# na vaiSvAnaqro vai$SvAnaqro na# UqtyotyA no vaiSvAnaqro 
+vai$SvAnaqro na# UqtyotyA |
+2. naqH | UqtyA | A | pra |
+2ja. naq UqtyotyA no# na UqtyA |
+2Ga. na UqtyotyA no# na UqtyA &&pra prA UqtyA no# na UqtyA &&pra |
+3. UqtyA | A | pra | yAqtuq |
+3ja. UqtyA &&pra protyoqtyA &&pra |
+3.Ga. UqtyA &&pra protyoqtyA &&pra yA#tu yAtuq protyoqtyA &&pra yA#tu |
+4.  A | pra | yAqtuq | 
+4ja. A pra prA pra |
+4Ga. A pra prA pra yA#tu yAtuq prA pra yA#tu |
+5. pra | yAqtuq | paqrAqvata#H ||
+5ja. pra yA#tu yAtuq pra pra yA#tu |
+5Ga. pra yA#tu yAtuq pra pra yA#tu parAqvata#H parAqvato# yAtuq pra pra yA#tu parAqvata#H 
+6.  yAqtuq | paqrAqvata#H ||
+6ja. yAqtuq paqrAqvata#H parAqvato# yAtu yAtu parAqvata#H |
+------------------------------------------
+7.1.5.1	padam - vaqrAqhaH | BUqtvA | A | aqhaqraqt | tAm | viqSvaka#rmA |
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+1. vaqrAqhaH | BUqtvA | A | aqhaqraqt |
+1ja. vaqrAqho BUqtvA BUqtvA va#rAqho va#rAqho BUqtvA |
+1Ga. vaqrAqho BUqtvA BUqtvA va#rAqho va#rAqho BUqtvA &&ha#radaharadA BUqtvA va#rAqho va#rAqho BUqtvA &&ha#rat |
+2. BUqtvA | A | aqhaqraqt | tAm |
+2ja. BUtvA&&ha#radaharaqdA BUqtvA,BUqtvA&&ha#rat |
+2Ga. BUtvA&&ha#radaharaqdABUqtvA,BUqtvA&&ha#rat tAm tA maha#raqdABUqtvA, BUqtvA&&ha#rat tAm |
+3. A | aqhaqraqt | tAm |
+3ja. A &ha#radaharaqdA *ha#rat |
+3Ga. A &ha#radaharaqdA *ha#raqt tAm tAma#haraqdA *ha#raqt tAm | 
+4. aqhaqraqt | tAm | viqSvaka#rmA |
+4ja. aqhaqraqt tAm tAma#haradaharaqt tAm |
+4Ga. aqhaqraqt tAm tAma#haradaharaqt tAm viqSvaka#rmA viqSvaka#rmAq tAma#haradaharaqt tAm viqSvaka#rmA |
+5.  tAm | viqSvaka#rmA |
+5ja. tAm viqSvaka#rmA viqSvaka#rmAq tAm tam viqSvaka#rmA |
+------------------------------
+7.1.7.4	padam - suqSevA$ | BUqtA | A | viqSaqtiq | na | eqnaqm |
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+1. suqSevA$ | BUqtA | A | viqSaqtiq |
+1ja. suqSevA# BUqtA BUqtA suqSevA# suqSevA# BUqtA |
+2Ga.  suqSevA# BUqtA BUqtA suqSevA# suqSevA# BUqtA &&vi#Sati viSaqtyA BUqtA suqSevA# suqSevA# BUqtA &&vi#Sati |
+2. BUqtA | A | viqSaqtiq | na |
+2ja. BUqtA &&vi#Sati viSaqtyA BUqtA BUqtA &&vi#Sati |
+2Ga. BUqtA &&vi#Sati viSaqtyA BUqtA BUqtA &&vi#Satiq na na vi#SaqtyA BUqtA BUqtA &&vi#Satiq |
+3. A | viqSaqtiq | na |
+3ja. A vi#Sati viSaqtyA vi#Sati |
+3Ga. A vi#Sati viSaqtyA vi#Satiq na na vi#SaqtyA vi#Satiq na |
+4. viqSaqtiq | na | eqnaqm |
+4j. viqSaqtiq na na vi#Sati viSatiq na |
+4Ga. viqSaqtiq na na vi#Sati viSatiq naina#menaqn na vi#Sati viSatiq naina$m |
+5. na | eqnaqm |
+5ja. naina#menaqn na naina$m |
+---------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(GD 26)(No Excel)<lang=def>
+5.7.10.1	padam - Aqsyaqt | saH | daqkShiqNA | A | aqvaqrtaqtaq | tasmai$ | vRuqShNim |
+1.  Aqsyaqt | saH | daqkShiqNA |
+1ja. Aqsyaqth sa sa a#sya dasyaqth saH |
+1Ga. Aqsyaqth sa sa a#sya dasyaqth sa da#kShiqNA da#kShiqNA sa a#sya dasyaqth sa da#kShiqNA |
+2.saH | daqkShiqNA | A | aqvaqrtaqtaq |
+2ja. sa da#kShiqNA da#kShiqNA sa sa da#kShiqNA |
+2Ga. sa da#kShiqNA da#kShiqNA sa sa da#kShiqNA &&va#rtatAvartaqtA da#kShiqNA sa sa da#kShiqNA &&va#rtata |
+(sadakShiNAdakShiNAsasadakShiNAvarta tAvartatAdakShiNAsasadakShiNAvartata |)
+3. daqkShiqNA | A | aqvaqrtaqtaq | tasmai$ |
+3ja. daqkShiqNA &&va#rtatAvartaqtA da#kShiqNA da#kShiqNA &&va#rtata |
+3Ga. daqkShiqNA &&va#rtatAvartaqtA da#kShiqNA da#kShiqNA &&va#rtataq tasmaiq tasmA# avartatAvartaqtA da#kShiqNA da#kShiqNA &&va#rtata |
+
+4. A | aqvaqrtaqtaq | tasmai$ |
+4ja. A &va#rtatAvartaqtA *va#rtata | 
+5. aqvaqrtaqtaq | tasmai$ | vRuqShNim |
+5ja. aqvaqrtaqtaq tasmaiq tasmA# avartatAvartaqta tasmai$ |
+5Ga. aqvaqrtaqtaq tasmaiq tasmA# avartatAvartaqta tasmai# vRuqShNim vRuqShNim tasmA# avartatAvartaqta tasmai# vRuqShNim |
+6. tasmai$ | vRuqShNim |
+6ja. tasmai# vRuqShNim vRuqShNim tasmA# tasmai# vRuqShNim |
+----------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+5.1.8.1	padam - niqraqvaqdAya# | medhya$m | kRuqtvA | A | haqraqtiq | eka#vi(gm)SatiH | Baqvaqntiq |
+1. niqraqvaqdAya# | medhya$m | kRuqtvA |
+1ja. niqraqvaqdAyaq medhyaqm medhya#m niravaqdAya#  niravaqdAyaq medhya$m |
+2Ga. niqraqvaqdAyaq medhyaqm medhya#m niravaqdAya#  niravaqdAyaq medhya$m kRuqtvA kRuqtvA medhya#m niravaqdAya# niravaqdAyaq medhya$m kRuqtvA |
+2. medhya$m | kRuqtvA | A | haqraqtiq |
+2ja. medhya#m kRuqtvA kRuqtvA medhyaqm medhya#m kRuqtvA |
+2Ga. medhya#m kRuqtvA kRuqtvA medhyaqm medhya#m kRuqtvA &&ha#rati haraqtyA kRuqtvA medhyaqm medhya#m kRuqtvA &&ha#rati |
+3.  kRuqtvA | A | haqraqtiq | eka#vi(gm)SatiH |
+3ja. kRuqtvA &&ha#rati haraqtyA kRuqtvA kRuqtvA &&ha#rati |	
+3Ga. kRuqtvA &&ha#rati haraqtyA kRuqtvA kRuqtvA &&ha#raqtyeka#vi(gm)Satiq reka#vi(gm)Satir. haraqtyA kRuqtvA kRuqtvA &&ha#raqtyeka#vi(gm)SatiH |
+4. A | haqraqtiq | eka#vi(gm)SatiH |
+4ja. Aha#rati haraqtyA ha#rati |
+4Ga. Aha#rati haraqtyA ha#raqtyeka#vi(gm)Satiq reka#vi(gm)Satir. haraqtyA ha#raqtyeka#vi(gm)SatiH |
+5. haqraqtiq | eka#vi(gm)SatiH | Baqvaqntiq |
+5ja. haqraqtyeka#vi(gm)Satiq reka#vi(gm)Satir. harati haraqtyeka#vi(gm)SatiH |
+5Ga. haqraqtyeka#vi(gm)Satiq reka#vi(gm)Satir. harati haraqtyeka#vi(gm)Satir. Bavanti Bavaqntyeka#vi(gm)Satiq reka#vi(gm)Satir. harati haraqtyeka#vi(gm)Satir. Bavanti |
+
+6. eka#vi(gm)SatiH | Baqvaqntiq |
+6ja. eka#vi(gm)Satir. Bavanti Bavaqntyeka#vi(gm)Satiq reka#vi(gm)Satir Bavanti |
+--------------------------------------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+6.3.7.5	eqva | eqnaqm | vaSe$ | kRuqtvA | A | laqBaqteq || 
+1.  eqva | eqnaqm | vaSe$ |
+1ja. eqvaina#mena meqvaivaina$m |
+1Ga. eqvaina#mena meqvaivaina$m vaSeq vaSa# enameqvaivainaqm vaSe$ |
+2. eqnaqm | vaSe$ | kRuqtvA |
+2ja. eqnaqm vaSeq vaSa# enamenaqm vaSe$ |
+2Ga. eqnaqm vaSeq vaSa# enamenaqm vaSe# kRuqtvA kRuqtvA vaSa# enamenaqm vaSe# kRuqtvA |
+3. vaSe$ | kRuqtvA | A | laqBaqteq ||
+3ja. vaSe# kRuqtvA kRuqtvA vaSeq vaSe# kRuqtvA ||
+3Ga. vaSe# kRuqtvA kRuqtvA vaSeq vaSe# kRuqtvA &&la#Bate laBataq A kRuqtvA vaSeq vaSe# kRuqtvA &&la#Bate |
+4.  kRuqtvA | A | laqBaqteq ||
+4ja. kRuqtvA &&la#Bate laBataq A kRuqtvA kRuqtvA &&la#Bate |	
+---------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+7.5.8.5	Baqvaqntiq | AqsaqndIm | uqdgAqtA | A | roqhaqtiq | sAmrA$jyam |
+1. Baqvaqntiq | AqsaqndIm | uqdgAqtA |
+1ja. BaqvaqntyAqsaqndI mA#saqndIm Ba#vanti BavantyAqsaqndIm |
+1Ga. BaqvaqntyAqsaqndI mA#saqndIm Ba#vanti BavantyAsaqndImu#dgAqtodgAqtA &&saqndIm Ba#vanti BavantyAsaqndImu#dgAqtA |
+2. AqsaqndIm | uqdgAqtA | A | roqhaqtiq |
+2ja.  AqsaqndImu#dgAqtodgAqtA &&saqndImA#saqndI mu#dgAqtA |
+2Ga. AqsaqndImu#dgAqtodgAqtA &&saqndImA#saqndI mu#dgAqtA &&ro#hati rohaqtyoqdgAqtA &&saqndI mA#saqndI mu#dgAqtA &&ro#hati |
+3. uqdgAqtA | A | roqhaqtiq | sAmrA$jyam |
+3ja. uqdgAqtA &&ro#hati rohaqtyodgAqtodgAqtA &&ro#hati |
+3Ga. uqdgAqtA &&ro#hati rohaqtyodgAqtodgAqtA &&ro#hatiq sAmrA$jyaq(gm)q sAmrA$jya(gm) rohaqtyodgAqtodgAqtA &&ro#hatiq sAmrA$jyam |
+4. A | roqhaqtiq | sAmrA$jyam |
+4ja. Aro#hati rohaqtyA ro#hati |
+4Ga. Aro#hati rohaqtyA ro#hati sAmrA$jyaq(gm)q sAmrA$jya(gm) rohaqtyA ro#hatiq sAmrA$jyam |
+5. roqhaqtiq | sAmrA$jyam |
+5ja. roqhaqtiq sAmrA$jyaq(gm)q sAmrA$jya(gm) rohati rohatiq sAmrA$jyam |
+-----------------------------------
+<lang=eng>(Rule trikramam Condition = normal )(No Excel)<lang=def>
+2.5.3.5 padam - tat | sendra$m | daqdhnA | A | taqnaqktiq | seqndraqtvAya# |
+1. tat | sendra$m | daqdhnA |
+1ja.  tath sendraq(gm)q sendraqm tat tat sendra$m |
+1Ga. tath sendraq(gm)q sendraqm tat tath sendra$m daqdhnA daqdhnA sendraqm tat tath sendra$m daqdhnA |
+2. sendra$m | daqdhnA | A | taqnaqktiq |
+2ja. sendra#m daqdhnA daqdhnA sendraq(gm)q sendra#m daqdhnA |
+2Ga. sendra#m daqdhnA daqdhnA sendraq(gm)q sendra#m daqdhnA &&ta#nakti tanaqktyA daqdhnA sendraq(gm)q sendra#m daqdhnA &&ta#nakti |
+3. daqdhnA | A | taqnaqktiq | seqndraqtvAya# |
+3ja. daqdhnA &&ta#nakti tanaqktyA daqdhnA daqdhnA &&ta#nakti |
+3Ga. daqdhnA &&ta#nakti tanaqktyA daqdhnA daqdhnA &&ta#nakti sendraqtvAya# sendraqtvAya# tanaqktyA daqdhnA daqdhnA &&ta#nakti sendraqtvAya# |
+4. A | taqnaqktiq | seqndraqtvAya# |
+4ja. Ata#nakti sendraqtvAya# sendraqtvAya# tanaqktyA &&ta#nakti sendraqtvAya# | 
+5. taqnaqktiq | seqndraqtvAya# |
+5. taqnaqktiq seqndraqtvAya# sendraqtvAya# tanakti tanakti sendraqtvAya# |
+--------------------------------------------------------------
+

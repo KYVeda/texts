@@ -21,7 +21,7 @@
 4G - BUqtAnyaqBya#Bi BUqtAni# BUqtAnyaqBya#kroSannakroSannaqBi BUqtAni# BUqtAnyaqBya#kroSann |
 
 5.  aqBi | aqkroqSaqnn | 
-aqBya#kroSannakroSannaqByaBya#kroSann |?
+aqBya#kroSannakroSannaqByaBya#kroSann |
 
 6. aqkroqSaqnn ||
 aqkroqSaqnnitya#kroSann ||
@@ -30,12 +30,12 @@ aqkroqSaqnnitya#kroSann ||
 1.1.4.1 - mA | hvAqH | miqtrasya# | tvAq | cakShu#ShA | pra | IqkSheq | mA | BeH | mA |
 
 1. mA | hvAqH | miqtrasya# |
-1J. mA hvA$r. hvAqr mA mA hvA$H |
-1G. mA hvA$r. hvAqr mA mA hvA$r miqtrasya# miqtrasya# hvAqr mA mA hvA$r miqtrasya# |
+1J. mA hvA#r. hvAqr mA mA hvA$H |
+1G. mA hvA#r. hvAqr mA mA hvA$r miqtrasya# miqtrasya# hvAqr mA mA hvA$r miqtrasya# |
 
 2. hvAqH | miqtrasya# | tvAq |
-2J. hvAqr miqtrasya# miqtrasya# hvAqr hvA$r miqtrasya# |?
-2G. hvAqr miqtrasya# miqtrasya# hvAqr hvA$r miqtrasya# tvA tvA miqtrasya# hvAqr hvA$r miqtrasya# tvA | ?
+2J. hvAqr miqtrasya# miqtrasya# hvAr. hvAr miqtrasya# | 
+2G. hvAqr miqtrasya# miqtrasya# hvAr. hvAr miqtrasya# tvA tvA miqtrasya# hvAr. hvAr miqtrasya# tvA | 
 
 3. miqtrasya# | tvAq | cakShu#ShA |
 3J. miqtrasya# tvA tvA miqtrasya# miqtrasya# tvA |
@@ -66,15 +66,15 @@ aqkroqSaqnnitya#kroSann ||
 
 10.  mA |
 -----------------------------------------------
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(GD 88) (PS 8.8)<lang=def>
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(GD 88) (PS 8.8)(No Excel)<lang=def>
 
-1.1.3.1	 mA | hvAqH | vasU#nAm |
+1.1.3.1	 mA | hvAqH | vasU#nAm | 
 Ga. mA hvA#r.? hvAqr mA mA hvAqr vasU#nAqm vasU#nA(gm) hvAqr mA mA hvAqr vasU#nAqm
 
 ((mAhvAhrvArmAmAhvArvasUnAMvasUnA(gm)hvArmAmAhvA rvasUnAm))
 --------------------
 
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 27)(JD 95)(PS 8.8)(Excel)<lang=def>
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 27)(JD 95)(PS 8.8)(Excel)(Rule lopa of s on separation from sthAnAt & ut)(PS 5.14) <lang=def>
 4.1.2.4 - aqgnim | suva#H | ruhA#NAH | adhi# | nAke$ | tAsA$m | sthAnA$t | ut | jiqhaqtAqm | oSha#dhayaH |
 1. aqgnim | suva#H | ruhA#NAH |
 1J.  aqgni(gm) suvaqH suva#raqgni maqgni(gm) suva#H |
@@ -90,23 +90,23 @@ Ga. mA hvA#r.? hvAqr mA mA hvAqr vasU#nAqm vasU#nA(gm) hvAqr mA mA hvAqr vasU#nA
 
 4. adhi# | nAke$ | tAsA$m |
 4J- adhiq nAkeq nAkaq adhyadhiq nAke$ |
-4G - adhiq nAkeq nAkaq adhyadhiq nAkeq tAsAqn tAsAqn nAkaq adhyadhiq nAkeq tAsA$m |
+4G - adhiq nAkeq nAkaq adhyadhiq nAkeq tAsAqm tAsAqm nAkaq adhyadhiq nAkeq tAsA$m |
 
 5. nAke$ | tAsA$m | sthAnA$t |
-5J-nAkeq tAsAqn tAsAqn nAkeq nAkeq tAsA$m |
-5G- nAkeq tAsAqn tAsAqn nAkeq nAkeq tAsAq(gg)q sthAnAqth sthAnAqt tAsAqn nAkeq nAkeq tAsAq(gg)q sthAnA$t |
+5J-nAkeq tAsAqm tAsAqm nAkeq nAkeq tAsA$m |
+5G- nAkeq tAsAqm tAsAqm nAkeq nAkeq tAsAq(gg)q sthAnAqth sthAnAqt tAsAqm nAkeq nAkeq tAsAq(gg)q sthAnA$t |
 
 6. tAsA$m | sthAnA$t | ut |
 6J. tAsAq(gg)q sthAnAqth sthAnAqt tAsAqm tAsAq(gg)q sthAnA$t |
 6G. tAsAq(gg)q sthAnAqth sthAnAqt tAsAqm tAsAq(gg)q sthAnAqdudutthA$t tAsAqm tAsAq(gg)q sthAnAqdut |
 
 
-7. sthAnA$t | ut | jiqhaqtAqm | (PS 5.14)(JM 27)(JD 95) (sthAnAqdudutthAnA$th sthAnAqdut )
+7. sthAnA$t | ut | jiqhaqtAqm | (PS 5.14)(JM 27)(JD 95) (sthAnAqdudutthAnAqth sthAnAqdut )
 7J- sthAnAqdudutthAnAqth sthAnAqdut |
 7G- sthAnAqdudutthAnAqth sthAnAqdujji#hatAm jihatAqm utthAnAqth sthAnAqduj-ji#hatAm |
 
 8. ut | jiqhaqtAqm | oSha#dhayaH |
-8J- ujji#hatAm jihatAq mudujji#hatAqm |
+8J- ujji#hatAm jihatAq mudujji#hatAm |
 8G-ujji#hatAm jihatAq mudujji#hatAqmoSha#dhayaq oSha#dhayo jihatAqmuduj-ji#hatAqm oSha#dhayaH |
 
 9.  jiqhaqtAqm | oSha#dhayaH |
@@ -119,8 +119,8 @@ Ga. mA hvA#r.? hvAqr mA mA hvAqr vasU#nAqm vasU#nA(gm) hvAqr mA mA hvAqr vasU#nA
 3.3.8.3 - naqShTam | A | kRuqdhiq | puna#H | naqH | raqyim |
 
 1. naqShTam | A | kRuqdhiq |
-1J. naqShTamA naqShTannaqShTamA |
-1G. naqShTamA naqShTannaqShTamA kRu#dhi kRuqdhyA naqShTannaqShTamA kRu#dhi |
+1J. naqShTamA naqShTam naqShTamA |
+1G. naqShTamA naqShTam naqShTamA kRu#dhi kRuqdhyA naqShTam naqShTamA kRu#dhi |
 
 2.  A | kRuqdhiq | puna#H | (PS 8.25)(JM 39)(JD 26)(GD 39)
 2J. A kRu#dhi kRuqdhyA kRu#dhi |
@@ -132,7 +132,7 @@ Ga. mA hvA#r.? hvAqr mA mA hvAqr vasU#nAqm vasU#nA(gm) hvAqr mA mA hvAqr vasU#nA
 (kRudhipunaH punaskRudhikRudhipunarnonaH punaskRudhikRudhipunarnaH |)
 4. puna#H | naqH | raqyim |
 4J. puna#r no naqH punaqH puna#r naH |
-4G. puna#r no naqH punaqH puna#r no raqyi(gm) raqyin naqH punaqH puna#r no raqyim |
+4G. puna#r no naqH punaqH puna#r no raqyi(gm) raqyim naqH punaqH puna#r no raqyim |
 
 5.  naqH | raqyim |
 5. no raqyi(gm) raqyim no# no raqyim |
@@ -168,13 +168,13 @@ Ga. mA hvA#r.? hvAqr mA mA hvAqr vasU#nAqm vasU#nA(gm) hvAqr mA mA hvAqr vasU#nA
 
 7. aSva#H |
 -------------------------------------------
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is r )(GD 81)(PS 8.8)(Excel)<lang=def>
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is r )(GD 81)(PS 8.8)(No Excel)<lang=def>
 2.5.2.3	pra | hAqH | Aqvam |
 Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 
 ((prahArhAHpraprahArAvamAva(gm)hAHpraprahArAvam))
----------------------
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 3)(PS 8.8)<lang=def>
+---------------------------------------------------------------
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 3)(PS 8.8)(Excel)<lang=def>
 
 3.3.9.1 padams  - maqhiqmne | uqta | cakShu#She | teq | maru#tAm | piqtaqH | aqham |
 
@@ -188,7 +188,7 @@ Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 
 3. cakShu#She | teq | maru#tAm |
 3J -  cakShu#She te teq cakShu#Sheq cakShu#She te | 
-3G - cakShu#She te teq cakShu#Sheq cakShu#Sheq maru#tAqm maru#tAm teq cakShu#Sheq cakShu#She teq maru#tAm |
+3G - cakShu#She te teq cakShu#Sheq cakShu#She teq maru#tAqm maru#tAm teq cakShu#Sheq cakShu#She teq maru#tAm |
 
  4. teq | maru#tAm | piqtaqH | (JM 3)
 4J - teq  maru#tAqm maru#tAm te teq maru#tAqm |
@@ -199,615 +199,23 @@ Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 5G - maru#tAm pitaH pitaqr maru#tAqm maru#tAm pitaraqha maqham pitaqr maru#tAqm maru#tAm pitaraqham |
 
 6. piqtaqH | aqham |
-6J. pitaraqhamaqham pitaH pitaraqham |
+6J. piqtaqraqhamaqham pitaH pitaraqham |
 
 7. aqham
 7. aqhamityaqham
 ------------------------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)(GD 46)(GD 49)(Excel)<lang=def>
-2.3.7.4 anna$m | aqdanti# | aqdanti# | uq | eqva | aqsyaq | maqnuqShyA$H |
 
-1. anna$m | aqdanti# | aqdanti# |
-1j. anna#maqdantyaqdantyannaqmanna#maqdanti# |
-1G. anna#maqdantyaqdantyannaqmanna#maqdantyaqdanti# |
-
-2. aqdanti# | aqdanti# | uq | 
-2j. aqdantyaqdanti# |  
-2G. aqdantyaqdantyu# vuvaqdantyaqdantyu# |?  
-
-3.  aqdanti# | uq | eqva |
-3J -  aqdantyu# vuvaqdantyaqdantyu# | 
-3G - aqdantyu# vuvaqdantyaqdantyu# veqvaivo dantyaqdantyu# veva | rule ? u apRukta+a =vu?
-(adantyuvuvadantya dantyuvevaivodantyadantyuveva )
-4. uq | eqva | aqsyaq |
-4J - uq veqvaiva# vuveqva | 
-4G - uq veqvaiva# vuveqvAsyA$syaiva vuveqvAsya# |? 
-(uvevaivavuvevAsyAsyaivavuvevAsya |)
-5. eqva | aqsyaq | maqnuqShyA$H |
-5J - eqvAsyA$syaivaiqvAsya# | 
-5G - eqvAsyA$syaivaiqvAsya# manuqShyA# manuqShyA# asyaivaivAsya manuqShyA$H | 
-
-6. aqsyaq | maqnuqShyA$H |
-6J - aqsyaq maqnuqShyA# manuqShyA# asyAsya manuqShyA$H | 
-
-7. maqnuqShyA$H
-7. maqnuqShyA$ iti# manuqShyA$H |
----------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)
-(Rule Consonant Sandhi Condition = s to Sh; Word = mahi (after) )(JM14)(JD 8)(Excel)<lang=def>
-3.2.8.2 - bRuhaqspata#ye | mahi# | sat | dyuqmat | nama#H | nama#H |
-
-1. bRuhaqspata#ye | mahi# | sat | (PS 6.2)
-1J.  bRuhaqspata#yeq mahiq mahiq bRuhaqspata#yeq bRuhaqspata#yeq mahi# |
-1G. bRuhaqspata#yeq mahiq mahiq bRuhaqspata#yeq bRuhaqspata#yeq mahiq Shath san mahiq bRuhaqspata#yeq bRuhaqspata#yeq mahiq Shat ||
-
-2. mahi# | sat | dyuqmat |
-2J. mahiq Shath san mahiq mahiq Shat |
-2G. mahiq Shath san mahiq mahiq Shad dyuqmad dyuqmath san mahiq mahiq Shad dyuqmat |
-
-3. sat | dyuqmat | nama#H |
-3j. sad dyuqmaddyuqmath sath saddyuqmat |
-3G. sad dyuqmaddyuqmath sath saddyuqman namoq namo# dyuqmath sath saddyuqman nama#H |
-4. dyuqmat | nama#H | nama#H |
-4j - dyuqman namoq namo# dyuqmaddyuqman nama#H |
-4G - dyuqman namoq namo# dyuqmaddyuqman namoq nama#H |
-
-5. nama#H | nama#H
-namoq nama#H
-6. nama#H | 
---------------------------------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = same )<lang=def>
-7.4.1.3 padam: catu#rvi(gm)SatiH | aqrdhaqmAqsAH | saqm~MvaqthsaqraH | saqm~MvaqthsaqraH | suqvaqrgaH | loqkaH |
-
-1. catu#rvi(gm)SatiH | aqrddhaqmAqsAH | saqm~MvaqthsaqraH |
-1j. catu#rvi(gm)SatirarddhamAqsA a#rddhamAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)Sati-rarddhamAqsAH |
-1G. catu#rvi(gm)SatirarddhamAqsA a#rddhamAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)Sati rarddhamAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)SatirarddhamAqsAH sa#M~MvathsaqraH |
-2. aqrddhaqmAqsAH | saqm~MvaqthsaqraH | saqm~MvaqthsaqraH |
-2ja. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsAH sa#M~MvathsaqraH |
-2Ga. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsAH sa#M~MvathsaqraH sa#m~MvathsaqraH |
-3. saqm~MvaqthsaqraH | saqm~MvaqthsaqraH |
-3J. saqm~MvaqthsaqraH sa#M~MvathsaqraH | (DP)
-3G. saqm~MvaqthsaqraH sa#M~MvathsaqraH | (DP)
-4. saqm~MvaqthsaqraH | suqvaqrgaH | loqkaH |
-4ja. saqm~MvaqthsaqraH su#vaqrgaH su#vaqrgaH sa#M~MvathsaqraH sa#M~MvathsaqraH suvaqrgaH |
-4Ga. saqm~MvaqthsaqraH su#vaqrgaH su#vaqrgaH sa#M~MvathsaqraH sa#M~MvathsaqraH suvaqrgo loqko loqkaH su#vaqrgaH sa#M~MvathsaqraH sa#M~MvathsaqraH suvaqrgo loqkaH |
-5.  suqvaqrgaH | loqkaH |
-5J. suqvaqrgo loqko loqkaH su#vaqrgaH suvaqrgo loqkaH |
-6. loqkaH |
------------------------
-<lang=eng>(Rule Dvipadam Condition = not same )(GD24)(Excel)<lang=def>
-1.3.3.1 - pAqhi | mAq | aqgneq | piqpRuqhi | mAq | mA | mAq | hiq(gm)qsIqH |
-
-1.  pAqhi | mAq | aqgneq |
-1J. pAqhi mA# mA pAqhi pAqhi mA$ |
-1G. pAqhi mA# mA pAqhi pAqhi mA$ &gne &gne? mA pAqhi pAqhi mA$ &gne | 
-
-2.  mAq | aqgneq | piqpRuqhi |? 
-2J. mAq &gneq aqgneq mAq mAq &gneq |
-2G. mAq &gneq aqgneq mAq mAq &gneq piqpRuqhi pi#pRuqhyagne# mA mA &gne pipRuqhi |
-
-3. aqgneq | piqpRuqhi | mAq |
-3J. aqgneq piqpRuqhi pi#pRuqhyagne# &gne pipRuqhi |
-3G. aqgneq piqpRuqhi pi#pRuqhyagne# &gne pipRuqhi mA# mA pipRuqhyagne# &gne pipRuqhi mA$ | 
-
-4.  piqpRuqhi | mAq | mA |
-4J. piqpRuqhi mA# mA pipRuqhi pi#pRuqhi mA$ |
-4G. piqpRuqhi mA# mA pipRuqhi pi#pRuqhi mAq mA mA mA# pipRuqhi pi#pRuqhi mAq mA |
-
-5. mAq | mA | mAq |
-5J. mAq mA mA mA# mAq mA |
-5G. mAq mA mA mA# mAq mA mA# mA mA mA# mAq mA mA$ |
-
-6.  mA | mAq | hiq(gm)qsIqH |
-6J. mA mA# mAq mA mA mA$ |
-6G. mA mA# mAq mA mA mA# hi(gm)sIr. hi(gm)sIr mAq mA mA mA# hi(gm)sIH |
-
-7. mAq | hiq(gm)qsIqH |
-7. mAq hiq(gm)qsIqr. hiq(gm)qsIqr mAq mAq hiq(gm)qsIqH |
-
-8. hiq(gm)qsIqH |
------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = as one )(JM 9)(GD 17)(Excel)<lang=def>
-
-1.5.6.4  dAqSuShe$ | upo#pa | it | nu | maqGaqvaqnn |
-1. dAqSuShe$ | upo#pa | it |
-1J - dAqSuSheq upoqpopo#pa dAqSuShe$ dAqSuSheq upo#pa |
-1G - dAqSuSheq upoqpopo#pa dAqSuShe$ dAqSuSheq upoqped idupo#pa dAqSuShe# dAqSuSheq upoqpet |
-
-2. upo#pa | it | nu |
-2J - upoqped idupo#popoqped |
-2G - upoqpe didupo#popoqpennu nvidupo#popoqpennu | 
-(upopodidupopopopennu nvidupopopopennu |)
-3.  it | nu | maqGaqvaqnn 
-3J - innunvidinnu |
-3G - innunvidinnu ma#Gavan maGavaqnnvidinnu ma#Gavann |
-
-4.  nu | maqGaqvaqnn |
-4J - nu ma#Gavann maGavaqnnu nu ma#Gavann maqGaqvaqnn |
-
-5.  maqGaqvaqnn 
------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = as one )(GD 18)(Excel)<lang=def>
-1.8.21.1 yathA$ | dAnti# | aqnuqpUqrvam | viqyUya# | iqheha# | eqShAqm | kRuqNuqtaq |
-
-1. yathA$ | dAnti# | aqnuqpUqrvam |
-1J - yathAq dAntiq dAntiq yathAq yathAq dAnti# |
-1G - yathAq dAntiq dAntiq yathAq yathAq dAntya#nupUqrvama#nupUqrvam dAntiq yathAq yathAq dAntya#nupUqrvam |
-
-2. dAnti# | aqnuqpUqrvam | viqyUya# |
-2ja-  dAntya#nupUqrvama#nupUqrvam dAntiq dAntya#nupUqrvam |
-2Ga - dAntya#nupUqrvama#nupUqrvam dAntiq dAntya#nupUqrvam ~MviqyUya# viqyUyA#nupUqrvam dAntiq dAntya#nupUqrvam ~MviqyUya# |
-
-3. aqnuqpUqrvam | viqyUya# | iqheha# |
-3J - aqnuqpUqrvam ~MviqyUya# viqyUyA#nupUqrvama#nupUqrvam ~MviqyUya# |
-3G - aqnuqpUqrvam ~MviqyUya# viqyUyA#nupUqrvama#nupUqrvam ~MviqyUyeqheheqheha# viqyUyA#nupUqrvama#nupUqrvam ~MviqyUyeqheha# |
-
-4. viqyUya# | iqheha# | eqShAqm |
-4J - viqyUyeqheheqheha# viqyUyeqheha# |
-4G - viqyUyeqheheqheha# viqyUyeqhehai#ShAm eShAmiqheha# viqyUya# viqyUyeqhehai#ShAm |
-
-5. iqheha# | eqShAqm | kRuqNuqtaq |
-5J - iqhehai#ShA meShAmiqheheqhehai#ShAm |
-5G - iqhehai#ShA meShAmiqheheqhehai#ShAm kRuNuta kRuNutaiShA miqheheqhehai#ShAm kRuNuta | 
-
-6. eqShAqm | kRuqNuqtaq |
-6J - eqShAqm kRuqNuqtaq kRuqNuqtaiqShAq meqShAqm kRuqNuqtaq
-7.  kRuqNuqtaq ||
---------------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(JM 5)(JD 5) <lang=def>
-1.1.2.2. saH | teq | mA | A | sthAqt | indra#sya | tvAq | bAqhuByA$m | ut |
-
-1. saH | teq | mA |
-1J - sa te# teq sa sa te$ |
-1G - sa te# teq sa sa teq mA mA teq sa sa teq mA |
-
-2. teq | mA | A | sthAqt |
-2J -  teq mA mA te# teq mA |
-2G - teq mA mA te# teq mA &&sthA$th sthAqdA mA te# teq mA &&sthA$t |
-
-3. mA | A | sthAqt | indra#sya |
-3J - mA &&sthA$th sthAqdA mA mA &&sthA$t | 
-3G - mA &&sthA$th sthAqdA mA mA &&sthAqdindraqsyendra#sya sthAqdA mA mA &&sthAqdindra#sya |
-
-4. A | sthAqt | indra#sya |
-4J - A sthA$th sthAqdA sthA$t |
-4G - A sthA$th sthAqdA sthAqdindraqsyendra#sya sthAqdA sthAqdindra#sya |
-
-5. sthAqt | indra#sya | tvAq |
-5J -  sthAqdindraqsyendra#sya sthAth sthAqdindra#sya |
-5G - sthAqdindraqsyendra#sya sthAth sthAqdindra#sya tvAq tvendra#sya sthAth sthAqdindra#sya tvA | 
-
-6. indra#sya | tvAq | bAqhuByA$m |
-6J - indra#sya tvAq tvendraqsyendra#sya tvA |
-6G - indra#sya tvAq tvendraqsyendra#sya tvA bAqhuByA$m bAqhuByAqm tvendraqsyendra#sya tvA bAqhuByA$m |
-
-7. tvAq | bAqhuByA$m | ut |
-7J - tvAq bAqhuByA$m bAqhuByA$m tvA tvA bAqhuByA$m |
-7G - tvAq bAqhuByA$m bAqhuByA$m tvA tvA bAqhuByAqmudud bAqhuByA$m tvA tvA bAqhuByAqmut |
-
-8.  bAqhuByA$m | ut |
-bAqhuByAqmudut bAqhuByA$m bAqhuByAqmut |
-
-9.  ut |
-------------------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(GD 52)(Excel)<lang=def>
-6.1.11.2 - maiqtram | kaqroti# | vAqruqNyA | RuqcA | A | sAqdaqyaqtiq | svayA$ | eqva | eqnaqm | 
-
-1. maiqtram | kaqroti# | vAqruqNyA |
-1J. maiqtram kaqroti# kaqroti# maiqtram maiqtram kaqroti# |
-1G. maiqtram kaqroti# kaqroti# maiqtram maiqtram kaqroti# vAruqNyA vA#ruqNyA kaqroti# maiqtram maiqtram kaqroti# vAruqNyA |
-
-2. kaqroti# | vAqruqNyA | RuqcA |
-2J. kaqroti# vAruqNyA vA#ruqNyA kaqroti# kaqroti# vAruqNyA |
-2G. kaqroti# vAruqNyA vA#ruqNyA kaqroti# kaqroti# vAruqNyarcarcA vA#ruqNyA kaqroti# kaqroti# vAruqNyarcA |
-
-3. vAqruqNyA | RuqcA | A | sAqdaqyaqtiq | 
-3J. vAqruqNyarcarcA vA#ruqNyA vA#ruqNyarcA |
-3G. vAqruqNyarcarcA vA#ruqNyA vAqruqNyarcA &&sA#dayati sAdayaqtyArcA vA#ruqNyA vA#ruqNyarcA &&sA#dayati |
-
-4. RuqcA | A | sAqdaqyaqtiq | svayA$ |
-4J. RuqcA &&sA#dayati sAdayaqtyArcarcA &&sA#dayati |
-4G.RuqcA &&sA#dayati sAdayatyArcarcA &&sA#dayatiq svayAq svayA# sAdayatyArcarcA &&sA#dayatiq svayA$ |
-
-5. A | sAqdaqyaqtiq | svayA$ |
-5J. A sA#dayati sAdayaqtyA sA#dayati |
-5G. A sA#dayati sAdayaqtyA sA#dayatiq svayAq svayA# sAdayaqtyA sA#dayatiq svayA$ |
-
-6. sAqdaqyaqtiq | svayA$ | eqva |
-6J. sAqdaqyaqtiq svayAq svayA# sAdayaqti sAdayatiq svayA$ |
-6G. sAqdaqyaqtiq svayAq svayA# sAdayaqti sAdayatiq svayaiqvaiva svayA# sAdayati sAdayatiq svayaiqva |
-
-7. svayA$ | eqva | eqnaqm |
-7J. svayaiqvaiva svayAq svayaiqva |
-7G. svayaiqvaiva svayAq svayaiqvaina# menameqva svayAq svayaiqvaina$m |
-
-8.  eqva | eqnaqm |
-8J. eqvaina# meqvaina# meqvaina$m |
-
-9.  eqnaqm |
-----------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-1.5.4.1 eqva | eqnaqm | aqjara$m | kRuqtvA | A | dhaqtteq | athoq iti# | pUqtam | eqva | pRuqthiqvIm | aqnnAdya$m |
-
-1. eqva | eqnaqm | aqjara$m |
-1J - eqvaina#menameqvaivaina$m |
-1G - eqvaina#menameqvaivaina# maqjara# maqjara# menameqvaivaina# maqjara$m |
-
-2. eqnaqm | aqjara$m | kRuqtvA |
-2J - eqnaqmaqjara# maqjara#menamenamaqjara$m |
-2G - eqnaqmaqjara# maqjara#meNamenamaqjara#m kRuqtvA kRuqtvA &jara#meNa, menamaqjara#m kRuqtvA ||
-
-3. aqjara$m | kRuqtvA | A | dhaqtteq
-3J - aqjara#m kRuqtvA kRuqtvA &jara#maqjara#m kRuqtvA |
-3G - aqjara#m kRuqtvA kRuqtvA &jara#maqjara#m kRuqtvA &&dha#tte dhattaq A kRuqtvA &jara#maqjara#m kRuqtvA &&dha#tte ||
-
-4. kRuqtvA | A | dhaqtteq | atho$ (pg) |
-4J - kRuqtvA &&dha#tte dhattaq A kRuqtvA kRuqtvA &&dha#tte |
-4G. kRuqtvA &&dha#tte dhattaq A kRuqtvA kRuqtvA &&dhaqtte &thoq atho# dhattaq A kRuqtvA kRuqtvA &&dhaqtte &tho$ |
-
-5. A | dhaqtteq | atho$ (pg) | 
-5J-  A dha#tte dhattaq Adha#tte | 
-5G - A dha#tteq dhattaq Adhaqtte &thoq athoq Adhattaq Adha#tteq &tho$ ||
-
-6. dhaqtteq | atho$ (pg) | pUqtam |
-6J - dhaqtte &thoq atho# dhatte dhaqtte &tho$ |
-6G - dhaqtte &thoq atho# dhatte dhaqtte &tho# pUqtam pUqtamatho# dhatte dhaqtte &tho# pUqtam |
-
-7. atho$ (pg) | pUqtam | eqva |
-7J - atho# pUqtam pUqtamathoq atho# pUqtam |
-7G - atho$ pUqtam pUqtamathoq atho# pUqtameqvaiva pUqtamathoq atho# pUqtam eqva |
-
-8.  pUqtam | eqva | pRuqthiqvIm |
-8J - pUqtameqvaiva pUqtam pUqtameqva |
-8G - pUqtameqvaiva pUqtam pUqtameqva pRu#thiqvIm pRu#thiqvImeqva pUqtam pUqtameqva pRu#thiqvIm |
-
-9. eqva | pRuqthiqvIm | aqnnAdya$m |
-9J - eqva pRu#thiqvIm pRu#thiqvImeqvaiva pRu#thiqvIm |
-9G - eqva pRu#thiqvIm pRu#thiqvImeqvaiva pRu#thiqvImaqnnAdya# maqnnAdya#m pRuthiqvIm eqvaiva pRu#thiqvImaqnnAdya$m |
- 
-10. pRuqthiqvIm | aqnnAdya$m |
-10J - pRu#thiqvImaqnnAdya# maqnnAdya#m pRuthiqvIm pRu#thiqvImaqnnAdya$m |
-
-11. aqnnAdya$m |
------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(JM 4)(JM 5)(GD 53)<lang=def>
-3.2.5.1 - BakSha# | A | iqhiq | mAq | A | viqSaq | dIqrGAqyuqtvAya# | (mA &&vi#Sa viqSA mA mA &&vi#Sa ||) 
-1. BakSha# | A | iqhiq |
-1J. BakShA BakShaq BakShA |
-1G. BakShA BakShaq BakShehIqhyA BakShaq BakShehi# |
-(BakShABakShaBakShe hIhrABakShaBakShehi)
-
-2.  A | iqhiq | mAq |
-2J. ehIhyehi# |
-2G. ehIhyehi# mA meqhyehi# mA |
-3. iqhiq | mAq | A | viqSaq |
-3j. iqhiq mAq mAq iqhIqhiq mAq |  
-3G. iqhiq mAq mAq iqhIqhiq mA &&vi#Sa viqSA mA# ihIhiq mA &&vi#Sa |
-4. mAq | A | viqSaq | dIqrGAqyuqtvAya# 
-4J. mA &&vi#Sa viqSA mAq mA &&vi#Sa |
-4G.  mA &&vi#Sa viqSA mAq mA &&vi#Sa dIrGAyuqtvAya# dIrGAyuqtvAya# viqSA mAq mA &&vi#Sa dIrGAyuqtvAya# |
-5. A | viqSaq | dIqrGAqyuqtvAya# |
-5J. A vi#Sa viqSA vi#Sa |
-5G.  A vi#Sa viqSA vi#Sa dIrGAyuqtvAya# dIrGAyuqtvAya# viqSA vi#Sa dIrGAyuqtvAya# |
-6. viqSaq | dIqrGAqyuqtvAya# |
-viqSaq dIqrGAqyuqtvAya# dIrGAyuqtvAya# viSa viSa dIrGAyuqtvAya# ||
------------------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-1.5.6.3	padams - maqdhuqkRuta#H | syoqnAH | mA | A | viqSaqtaq | irA$H | mada#H ||
-
-1.  maqdhuqkRuta#H | syoqnAH | mA | 
-1J. maqdhuqkRuta#H syoqnAH syoqnA ma#dhuqkRuto# madhuqkRuta#H syoqnAH |
-1G. maqdhuqkRuta#H syoqnAH syoqnA ma#dhuqkRuto# madhuqkRuta#H syoqnA mA mA syoqnA ma#dhuqkRuto# madhuqkRuta#H syoqnAH mA ||
-2. syoqnAH | mA | A | viqSaqtaq |	
-2J. syoqnA mA mA syoqnAH syoqnA mA |
-2G. syoqnA mA mA syoqnAH syoqnA mA &&vi#Sata viSaqtA mA syoqnAH syoqnA mA &&vi#Sata ||
-3.  mA | A | viqSaqtaq | irA$H |
-3J. mA &&vi#Sata viSaqtA mA mA &&vi#Sata ||
-3G.  mA &&vi#Sata viSaqtA mA mA &&vi#SaterAq irA# viSaqtA mA mA &&vi#SaqterA$H ||
-4.  A | viqSaqtaq | irA$H |
-4J. A vi#Sata viSaqtA &&vi#Sata ||
-4G. A vi#Sata viSaqtA &&vi#SaqterAq irA# viSaqtA &&vi#SaqterA$H ||
-5. viqSaqtaq | irA$H | mada#H ||
-5J. viqSaqterAq irA# viSata viSaqterA$H ||
-5G. viqSaqterAq irA# viSata viSaqterAq madoq madaq irA# viSata viSaqterAq mada#H |
-6. irA$H | mada#H |
-6 irAq madoq madaq irAq irAq mada#H |
-------------------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-7.1.7.3	padams- ekA$ | mAq | BUqtA | A | viqSaq | mA | saqhasra$m |
-1. ekA$ | mAq | BUqtA |
-1J. ekA$ mA mAq ekaikA$ mA |
-1G. ekA$ mA mAq ekaikA$ mA BUqtA BUqtA mAq ekaikA$ mA BUqtA |
-2. mAq | BUqtA | A | viqSaq |
-2J. mAq BUqtA BUqtA mA# BUqtA mA# BUqtA |
-2G. mAq BUqtA BUqtA mA# mA BUqtA &&vi#Sa viqSA BUqtA mA# mA BUqtA &&vi#Sa | 
-3. BUqtA | A | viqSaq | mA |
-3ja. BUqtA &&vi#Sa viqSA BUqtA BUqtA &&vi#Sa |
-3Ga.  BUqtA &&vi#Sa viqSA BUqtA BUqtA &&vi#Saq mA mA viqSA BUqtA BUqtA &&vi#Saq mA ||
-4. A | viqSaq | mA | 
-4J. A vi#Sa viqSA &&vi#Sa |
-4G. A vi#Sa viqSA &&vi#Saq mA mA viqSA  &&vi#Saq mA |
-5. viqSaq | mA | saqhasra$m |
-5J. viqSaq mA mA vi#Sa viSaq mA |
-5G. viqSaq mA mA vi#Sa viSaq mA saqhasra(gm)# saqhasraqm mA mA vi#Sa viSaq mA saqhasra$m |
-6. mA | saqhasra$m |
-6. mA saqhasra(gm)# saqhasraqm mA mA saqhasra$m |
---------------------------------------	
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-1.3.8.1	padams - yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq | uro$ (pg) | aqntaqriqkShaq |
-
-1. yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq |
-1J.  yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA ||
-1G. yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata viSaqtA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata |
-2. priqyaqdhA | A | viqSaqtaq | uro$ (pg)	|
-2J. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Sata	|
-2G. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Saqtoroq uro# viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Saqtoro$ |
-3.  A | viqSaqtaq | uro$ (pg) |
-3J. A vi#Sata viSaqtA &&vi#Sata |
-3G. A vi#Sata viSaqtA &&vi#Saqtoroq uro# viSaqtA &&vi#Saqtoro$ ||
-4. viqSaqtaq | uro$ (pg) | aqntaqriqkShaq |
-4J. viqSaqtoroq uro# viSata viSaqtoro$ |
-4G. viqSaqtoroq uro# viSata viSaqtoro# antarikShAntariqkShoro# viSata viSaqtoro# antarikSha |
------------------------------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-6.3.8.2 padam -yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq | iti# | Aqhaq |
-
-1.yaqj~japa#tim | priqyaqdhA | A | viqSaqtaq |
-1J. yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA |
-1G. yaqj~japa#tim priyaqdhA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata viSaqtA pri#yaqdhA yaqj~japa#tim ~Myaqj~japa#tim priyaqdhA &&vi#Sata ||
-2. priqyaqdhA | A | viqSaqtaq | iti# |
-2J. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Sata ||
-2G. priqyaqdhA &&vi#Sata viSaqtA pri#yaqdhA pri#yaqdhA &&vi#SaqtetIti# viSaqtA pri#yaqdhA pri#yaqdhA &&vi#Saqteti# ||
-3.  A | viqSaqtaq | iti# |
-3J.  A vi#Sata viSaqtA &&vi#Sata |
-3G. A vi#Sata viSaqtA &&vi#SaqtetIti# viSaqtA &&vi#Saqteti# ||
-4. viqSaqtaq | iti# | Aqhaq |
-4J. viqSaqtetIti# viSata viSaqteti# |
-4Ga. viqSaqtetIti# viSata viSaqtetyA#hAqheti# viSata viSaqtetyA#ha |
-5. iti# | Aqhaq |
-ityA#hAqhetItyA#ha ||
-------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(GD 25)<lang=def>
-2.3.14.4	aqryaqmA | A | yAqtiq | vRuqShaqBaH | tuvi#ShmAn |
-
-1. aqryaqmA | A | yAqtiq | vRuqShaqBaH |
-1J. aqryaqmA &&yA#ti yAqtyA &ryaqmA &ryaqmA &&yA#ti |
-1G. aqryaqmA &&yA#ti yAqtyA &ryaqmA &ryaqmA &&yA#ti vRuShaqBo vRu#ShaqBo yAqtyA &ryaqmA &ryaqmA &&yA#ti vRuShaqBaH ||
-(aryamAyAtiyAtyaryamAryamAyAtivRuShaBovRuShaBoyAtyAryamAryamAyAtivRuShaBaH ||)
-2. A | yAqtiq | vRuqShaqBaH |
-2J. A yA#ti yAqtyA &&yA#ti |
-2G. A yA#ti yAqtyA &&yA#ti vRuShaqBo vRu#ShaqBo yAqtyA &&yA#ti vRuShaqBaH |
-3. yAqtiq | vRuqShaqBaH | tuvi#ShmAn |
-3J. yAqtiq vRuqShaqBo vRu#ShaqBo yA#ti yAti vRuShaqBaH |
-3G. yAqtiq vRuqShaqBo vRu#ShaqBo yA#ti yAti vRuShaqBastuvi#ShmAqn tuvi#ShmAn. vRuShaqBo yA#ti yAti vRuShaqBastuvi#ShmAn |
-4. vRuqShaqBaH | tuvi#ShmAn |
-4.vRuqShaqBastuvi#ShmAqn? tuvi#ShmAn. vRuShaqBo vRu#ShaqBastuvi#ShmAqn ||
------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(GD 26)<lang=def>
-1.5.1.2	padams -  iti# | tam | pUqShA | A | aqdhaqttaq | tena# | 
-1. iti# | tam | pUqShA |
-1J. itiqtan tamitIti# tam |
-1G. itiqtan tamitIti# tam pUqShA pUqShA tamitIti# tam pUqShA ||
-2.  tam | pUqShA | A | aqdhaqttaq |	
-2J. tam pUqShA pUqShA tan tam pUqShA |
-2G. tam pUqShA pUqShA tan tam pUqShA &&*dha#qttAdhaqttA pUqShA tan tam pUqShA &&*dha#tta |
-(taMpUShApUShA taMtaMpUShAdhattAdhattApUShAtaMtaMpUShAdhatta ||)
-3. pUqShA | A | aqdhaqttaq | tena# |
-3J. pUqShA &dha#ttAdhattA pUqShA pUqShA &dha#tta |
-3G. pUqShA &dha#ttA dhaqttA pUqShA pUqShA &dha#ttaq tenaq tenA#dhaqttA &&pUqShA pUqShA &dha#ttaq tena# ||
-4. A | aqdhaqttaq | tena# | 
-4J. A &dha#ttAdhaqttA &dha#tta |
-4G.  A &dha#ttAdhaqttA &dha#tta tenaq tenA#dhaqttA &dha#tta tena# |
-5. aqdhaqttaq | tena# | 
-5J.  aqdhaqttaq tenaq tenA#dhattAdhattaq tena#
-------------------------------------------	
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-4.1.11.3	padam - svata#vasaH | maqhiqtvaqnnA | A | nAka$m | taqsthuH | 
-
-1.svata#vasaH | maqhiqtvaqnnA | A | nAka$m |
-1J.svata#vaso mahitvaqnnA ma#hitvaqnnA svata#vasaqH svata#vaso mahitvaqnnA |
- 1G.svata#vasoq ma#hitvaqnnA ma#hitvaqnnA svata#vasaqH svata#vaso mahitvaqnnA &&nAkaqm nAkaqmA ma#hitvaqnnA svata#vasaqH svata#vaso mahitvaqnnA &&nAka$m ||
-
-2.  maqhiqtvaqnnA | A | nAka$m | taqsthuH |
-2J.maqhiqtvaqnnA &&nAkaqn nAkaqmA ma#hitvaqnnA ma#hitvaqnnA&&nAka$m |
-2J.maqhiqtvaqnnA &&nAkaqm nAkaqmA ma#hitvaqnnA ma#hitvaqnnA &&nAka$m taqsthu staqsthur nAkaqmA ma#hitvaqnnA ma#hitvaqnnA &&nAka$m taqsthuH | ??
-
-3. A | nAka$m | taqsthuH |
-3J. A nAkaqm nAkaqmA nAka$m |
-3Ga. A nAkaqm nAkaqmA nAka$m taqsthu staqsthur nAkaqmA nAka$m taqsthuH |
-4. nAka$m | taqsthuH |
-4J nAka#m taqsthu staqsthur nAkaqm nAka#m taqsthuH |
-----------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-1.6.6.1	padams - teq | mA | A | vRuqkShiq | suqBUH | aqsiq |
-
-1. teq | mA | A | vRuqkShiq |
-1ja.  teq mA mA te# teq mA |
-1.Ga. teq mA mA te# teq mA &&vRu#kShi vRuqkShyA mA te# teq mA &&vRu#kShi |
-
-2. mA | A | vRuqkShiq | suqBUH |
-2ja. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi |
-2Ga. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi suqBUH suqBUr. vRuqkShyA mA mA &&vRu#kShi |
-3. A | vRuqkShiq | suqBUH |
-3ja. A vRu#kShi vRuqkShyA vRu#kShi |
-3ga. A vRu#kShi vRuqkShyA vRu#kShi suqBUH suqBUr. vRuqkShyA vRu#kShi suqBUH |
-4. vRuqkShiq | suqBUH | aqsiq |
-4j. vRuqkShiq suqBUH suqBUr. vRu#kShi vRukShi suqBUH
-4Ga. vRuqkShiq suqBUH suqBUr. vRu#kShi vRukShi suqBUra#syasi suqBUr. vRu#kShi vRukShi suqBUra#si | 
-5. suqBUH | aqsiq |
-suqBUra#syasi suqBUH suqBUra#si |
---------------------
-1.7.6.1	padams - teq | mA | A | vRuqkShiq | iti# | Aqhaq |
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-
-1. teq | mA | A | vRuqkShiq |
-1ja. teq mA mA te# teq mA |
-1Ga. teq mA mA te# teq mA &&vRu#kShi vRuqkShyA mA te# teq mA &&vRu#kShi |
-2. mA | A | vRuqkShiq | iti# |	
-2ja. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi |
-2Ga. mA&&vRu#kShi vRuqkShyA mA mA &&vRuqkShItIti# vRuqkShyA mA mA &&vRuqkShIti# |
-3. A | vRuqkShiq | iti# |
-3ja.  A vRu#kShi vRuqkShyA vRu#kShi |
-3Ga. A vRu#kShi vRuqkShyA vRuqkShItIti# vRuqkShyA vRuqkShIti# |
-4.  vRuqkShiq | iti# | Aqhaq |
-4ja. vRuqkShItIti# vRuqkShIti# |
-4Ga.  vRuqkShItIti# vRuqkShItyA#hAqheti# vRukShi vRuqkShItyA#ha |
--------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-1.5.11.1	padam - vaiqSvAqnaqraH | naqH | UqtyA | A | pra | yAqtuq | paqrAqvata#H ||
-1. vaiqSvAqnaqraH | naqH | UqtyA |
-1ja.  vaiqSvAqnaqro no# no vaiSvAnaqro vai$SvAnaqro na#H |
-1Ga. vaiqSvAqnaqro no# na vaiSvAnaqro vai$SvAnaqro na# UqtyotyA no vaiSvAnaqro 
-vai$SvAnaqro na# UqtyotyA |
-2. naqH | UqtyA | A | pra |
-2ja. naq UqtyotyA no# na UqtyA |
-2Ga. na UqtyotyA no# na UqtyA &&pra prA UqtyA no# na UqtyA &&pra |
-3. UqtyA | A | pra | yAqtuq |
-3ja. UqtyA &&pra protyoqtyA &&pra |
-3.Ga. UqtyA &&pra protyoqtyA &&pra yA#tu yAtuq protyoqtyA &&pra yA#tu |
-4.  A | pra | yAqtuq | 
-4ja. A pra prA pra |
-4Ga. A pra prA pra yA#tu yAtuq prA pra yA#tu |
-5. pra | yAqtuq | paqrAqvata#H ||
-5ja. pra yA#tu yAtuq pra pra yA#tu |
-5Ga. pra yA#tu yAtuq pra pra yA#tu parAqvata#H parAqvato# yAtuq pra pra yA#tu parAqvata#H 
-6.  yAqtuq | paqrAqvata#H ||
-6ja. yAqtuq paqrAqvata#H parAqvato# yAtu yAtu parAqvata#H |
-------------------------------------------
-7.1.5.1	padam - vaqrAqhaH | BUqtvA | A | aqhaqraqt | tAm | viqSvaka#rmA |
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-1. vaqrAqhaH | BUqtvA | A | aqhaqraqt |
-1ja. vaqrAqho BUqtvA BUqtvA va#rAqho va#rAqho BUqtvA |
-1Ga. vaqrAqho BUqtvA BUqtvA va#rAqho va#rAqho BUqtvA &&ha#radaharadA BUqtvA va#rAqho va#rAqho BUqtvA &&ha#rat |
-2. BUqtvA | A | aqhaqraqt | tAm |
-2ja. BUtvA&&ha#radaharaqdA BUqtvA,BUqtvA&&ha#rat |
-2Ga. BUtvA&&ha#radaharaqdABUqtvA,BUqtvA&&ha#rat tAm tA maha#raqdABUqtvA, BUqtvA&&ha#rat tAm |
-3. A | aqhaqraqt | tAm |
-3ja. A &ha#radaharaqdA *ha#rat |
-3Ga. A &ha#radaharaqdA *ha#raqt tAm tAma#haraqdA *ha#raqt tAm | 
-4. aqhaqraqt | tAm | viqSvaka#rmA |
-4ja. aqhaqraqt tAm tAma#haradaharaqt tAm |
-4Ga. aqhaqraqt tAm tAma#haradaharaqt tAm viqSvaka#rmA viqSvaka#rmAq tAma#haradaharaqt tAm viqSvaka#rmA |
-5.  tAm | viqSvaka#rmA |
-5ja. tAm viqSvaka#rmA viqSvaka#rmAq tAm tam viqSvaka#rmA |
-------------------------------
-7.1.7.4	padam - suqSevA$ | BUqtA | A | viqSaqtiq | na | eqnaqm |
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-1. suqSevA$ | BUqtA | A | viqSaqtiq |
-1ja. suqSevA# BUqtA BUqtA suqSevA# suqSevA# BUqtA |
-2Ga.  suqSevA# BUqtA BUqtA suqSevA# suqSevA# BUqtA &&vi#Sati viSaqtyA BUqtA suqSevA# suqSevA# BUqtA &&vi#Sati |
-2. BUqtA | A | viqSaqtiq | na |
-2ja. BUqtA &&vi#Sati viSaqtyA BUqtA BUqtA &&vi#Sati |
-2Ga. BUqtA &&vi#Sati viSaqtyA BUqtA BUqtA &&vi#Satiq na na vi#SaqtyA BUqtA BUqtA &&vi#Satiq |
-3. A | viqSaqtiq | na |
-3ja. A vi#Sati viSaqtyA vi#Sati |
-3Ga. A vi#Sati viSaqtyA vi#Satiq na na vi#SaqtyA vi#Satiq na |
-4. viqSaqtiq | na | eqnaqm |
-4j. viqSaqtiq na na vi#Sati viSatiq na |
-4Ga. viqSaqtiq na na vi#Sati viSatiq naina#menaqn na vi#Sati viSatiq naina$m |
-5. na | eqnaqm |
-5ja. naina#menaqn na naina$m |
----------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(GD 26)<lang=def>
-5.7.10.1	padam - Aqsyaqt | saH | daqkShiqNA | A | aqvaqrtaqtaq | tasmai$ | vRuqShNim |
-1.  Aqsyaqt | saH | daqkShiqNA |
-1ja. Aqsyaqth sa sa a#sya dasyaqth saH |
-1Ga. Aqsyaqth sa sa a#sya dasyaqth sa da#kShiqNA da#kShiqNA sa a#sya dasyaqth sa da#kShiqNA |
-2.saH | daqkShiqNA | A | aqvaqrtaqtaq |
-2ja. sa da#kShiqNA da#kShiqNA sa sa da#kShiqNA |
-2Ga. sa da#kShiqNA da#kShiqNA sa sa da#kShiqNA &&va#rtatAvartaqtA da#kShiqNA sa sa da#kShiqNA &&va#rtata |
-(sadakShiNAdakShiNAsasadakShiNAvarta tAvartatAdakShiNAsasadakShiNAvartata |)
-3. daqkShiqNA | A | aqvaqrtaqtaq | tasmai$ |
-3ja. daqkShiqNA &&va#rtatAvartaqtA da#kShiqNA da#kShiqNA &&va#rtata |
-3Ga. daqkShiqNA &&va#rtatAvartaqtA da#kShiqNA da#kShiqNA &&va#rtataq tasmaiq tasmA# avartatAvartaqtA da#kShiqNA da#kShiqNA &&va#rtata |
-
-4. A | aqvaqrtaqtaq | tasmai$ |
-4ja. A &va#rtatAvartaqtA *va#rtata | 
-5. aqvaqrtaqtaq | tasmai$ | vRuqShNim |
-5ja. aqvaqrtaqtaq tasmaiq tasmA# avartatAvartaqta tasmai$ |
-5Ga. aqvaqrtaqtaq tasmaiq tasmA# avartatAvartaqta tasmai# vRuqShNim vRuqShNim tasmA# avartatAvartaqta tasmai# vRuqShNim |
-6. tasmai$ | vRuqShNim |
-6ja. tasmai# vRuqShNim vRuqShNim tasmA# tasmai# vRuqShNim |
-----------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-5.1.8.1	padam - niqraqvaqdAya# | medhya$m | kRuqtvA | A | haqraqtiq | eka#vi(gm)SatiH | Baqvaqntiq |
-1. niqraqvaqdAya# | medhya$m | kRuqtvA |
-1ja. niqraqvaqdAyaq medhyaqm medhya#m niravaqdAya#  niravaqdAyaq medhya$m |
-2Ga. niqraqvaqdAyaq medhyaqm medhya#m niravaqdAya#  niravaqdAyaq medhya$m kRuqtvA kRuqtvA medhya#m niravaqdAya# niravaqdAyaq medhya$m kRuqtvA |
-2. medhya$m | kRuqtvA | A | haqraqtiq |
-2ja. medhya#m kRuqtvA kRuqtvA medhyaqm medhya#m kRuqtvA |
-2Ga. medhya#m kRuqtvA kRuqtvA medhyaqm medhya#m kRuqtvA &&ha#rati haraqtyA kRuqtvA medhyaqm medhya#m kRuqtvA &&ha#rati |
-3.  kRuqtvA | A | haqraqtiq | eka#vi(gm)SatiH |
-3ja. kRuqtvA &&ha#rati haraqtyA kRuqtvA kRuqtvA &&ha#rati |	
-3Ga. kRuqtvA &&ha#rati haraqtyA kRuqtvA kRuqtvA &&ha#raqtyeka#vi(gm)Satiq reka#vi(gm)Satir. haraqtyA kRuqtvA kRuqtvA &&ha#raqtyeka#vi(gm)SatiH |
-4. A | haqraqtiq | eka#vi(gm)SatiH |
-4ja. Aha#rati haraqtyA ha#rati |
-4Ga. Aha#rati haraqtyA ha#raqtyeka#vi(gm)Satiq reka#vi(gm)Satir. haraqtyA ha#raqtyeka#vi(gm)SatiH |
-5. haqraqtiq | eka#vi(gm)SatiH | Baqvaqntiq |
-5ja. haqraqtyeka#vi(gm)Satiq reka#vi(gm)Satir. harati haraqtyeka#vi(gm)SatiH |
-5Ga. haqraqtyeka#vi(gm)Satiq reka#vi(gm)Satir. harati haraqtyeka#vi(gm)Satir. Bavanti Bavaqntyeka#vi(gm)Satiq reka#vi(gm)Satir. harati haraqtyeka#vi(gm)Satir. Bavanti |
-
-6. eka#vi(gm)SatiH | Baqvaqntiq |
-6ja. eka#vi(gm)Satir. Bavanti Bavaqntyeka#vi(gm)Satiq reka#vi(gm)Satir Bavanti |
---------------------------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-6.3.7.5	eqva | eqnaqm | vaSe$ | kRuqtvA | A | laqBaqteq || 
-1.  eqva | eqnaqm | vaSe$ |
-1ja. eqvaina#mena meqvaivaina$m |
-1Ga. eqvaina#mena meqvaivaina$m vaSeq vaSa# enameqvaivainaqm vaSe$ |
-2. eqnaqm | vaSe$ | kRuqtvA |
-2ja. eqnaqm vaSeq vaSa# enamenaqm vaSe$ |
-2Ga. eqnaqm vaSeq vaSa# enamenaqm vaSe# kRuqtvA kRuqtvA vaSa# enamenaqm vaSe# kRuqtvA |
-3. vaSe$ | kRuqtvA | A | laqBaqteq ||
-3ja. vaSe# kRuqtvA kRuqtvA vaSeq vaSe# kRuqtvA ||
-3Ga. vaSe# kRuqtvA kRuqtvA vaSeq vaSe# kRuqtvA &&la#Bate laBataq A kRuqtvA vaSeq vaSe# kRuqtvA &&la#Bate |
-4.  kRuqtvA | A | laqBaqteq ||
-4ja. kRuqtvA &&la#Bate laBataq A kRuqtvA kRuqtvA &&la#Bate |	
----------------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-7.5.8.5	Baqvaqntiq | AqsaqndIm | uqdgAqtA | A | roqhaqtiq | sAmrA$jyam |
-1. Baqvaqntiq | AqsaqndIm | uqdgAqtA |
-1ja. BaqvaqntyAqsaqndI mA#saqndIm Ba#vanti BavantyAqsaqndIm |
-1Ga. BaqvaqntyAqsaqndI mA#saqndIm Ba#vanti BavantyAsaqndImu#dgAqtodgAqtA &&saqndIm Ba#vanti BavantyAsaqndImu#dgAqtA |
-2. AqsaqndIm | uqdgAqtA | A | roqhaqtiq |
-2ja.  AqsaqndImu#dgAqtodgAqtA &&saqndImA#saqndI mu#dgAqtA |
-2Ga. AqsaqndImu#dgAqtodgAqtA &&saqndImA#saqndI mu#dgAqtA &&ro#hati rohaqtyoqdgAqtA &&saqndI mA#saqndI mu#dgAqtA &&ro#hati |
-3. uqdgAqtA | A | roqhaqtiq | sAmrA$jyam |
-3ja. uqdgAqtA &&ro#hati rohaqtyodgAqtodgAqtA &&ro#hati |
-3Ga. uqdgAqtA &&ro#hati rohaqtyodgAqtodgAqtA &&ro#hatiq sAmrA$jyaq(gm)q sAmrA$jya(gm) rohaqtyodgAqtodgAqtA &&ro#hatiq sAmrA$jyam |
-4. A | roqhaqtiq | sAmrA$jyam |
-4ja. Aro#hati rohaqtyA ro#hati |
-4Ga. Aro#hati rohaqtyA ro#hati sAmrA$jyaq(gm)q sAmrA$jya(gm) rohaqtyA ro#hatiq sAmrA$jyam |
-5. roqhaqtiq | sAmrA$jyam |
-5ja. roqhaqtiq sAmrA$jyaq(gm)q sAmrA$jya(gm) rohati rohatiq sAmrA$jyam |
------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )<lang=def>
-2.5.3.5 padam - tat | sendra$m | daqdhnA | A | taqnaqktiq | seqndraqtvAya# |
-1. tat | sendra$m | daqdhnA |
-1ja.  tath sendraq(gm)q sendraqm tat tat sendra$m |
-1Ga. tath sendraq(gm)q sendraqm tat tath sendra$m daqdhnA daqdhnA sendraqm tat tath sendra$m daqdhnA |
-2. sendra$m | daqdhnA | A | taqnaqktiq |
-2ja. sendra#m daqdhnA daqdhnA sendraq(gm)q sendra#m daqdhnA |
-2Ga. sendra#m daqdhnA daqdhnA sendraq(gm)q sendra#m daqdhnA &&ta#nakti tanaqktyA daqdhnA sendraq(gm)q sendra#m daqdhnA &&ta#nakti |
-3. daqdhnA | A | taqnaqktiq | seqndraqtvAya# |
-3ja. daqdhnA &&ta#nakti tanaqktyA daqdhnA daqdhnA &&ta#nakti |
-3Ga. daqdhnA &&ta#nakti tanaqktyA daqdhnA daqdhnA &&ta#nakti sendraqtvAya# sendraqtvAya# tanaqktyA daqdhnA daqdhnA &&ta#nakti sendraqtvAya# |
-4. A | taqnaqktiq | seqndraqtvAya# |
-4ja. Ata#nakti sendraqtvAya# sendraqtvAya# tanaqktyA &&ta#nakti sendraqtvAya# | 
-5. taqnaqktiq | seqndraqtvAya# |
-5. taqnaqktiq seqndraqtvAya# sendraqtvAya# tanakti tanakti sendraqtvAya# |
----------------------------------------------------------------
 <lang=eng>(Rule trikramam Condition = moShuNo )(JM 5) (JD 5)
 (Rule s to Sh Condition s after u)(PS 6.2) 
 (Rule n to N Condition n after Shu)(PS 7.2)
-(Rule Vowel Elongation u to U)(PS 3.14)<lang=def>
+(Rule Vowel Elongation u to U)(PS 3.14)(No Excel)<lang=def>
 1.8.3.1 - kaqraqMBeNa# | saqjoSha#saH | mo (pg) | su | naqH | iqndraq | pRuqthsu | deqvaq | astu# | 
 1. kaqraqMBeNa# | saqjoSha#saH | mo (pg) |
 1J.  kaqraqMBeNa# saqjoSha#saH saqjoSha#saH karaqMBeNa# karaqMBeNa# saqjoSha#saH |
 1G. kaqraqMBeNa# saqjoSha#saH saqjoSha#saH karaqMBeNa# karaqMBeNa# saqjoSha#soq mo mo saqjoSha#saH karaqMBeNa# karaqMBeNa# saqjoSha#soq mo |
 2. saqjoSha#saH | mo (pg) | su | naqH | (PS 6.2) (PS 7.2)
 2J. saqjoSha#soq mo mo saqjoSha#saH saqjoSha#soq mo |
-2G. saqjoSha#soq mo mo saqjoSha#saH saqjoSha#soq mo ShUNo# naqs su mo saqjoSha#soq mo ShU Na#H |
+2G. saqjoSha#soq mo mo saqjoSha#saH saqjoSha#soq mo ShU No# naqs su mo saqjoSha#soq mo ShU Na#H |
 3. mo (pg) | su | naqH | iqndraq |
 3J. mo ShUNo# naqs su mo mo ShU Na#H |
 3G. mo ShUNo# naqs su mo mo ShU Na# indreNdra naqs su mo mo ShU Na# indra  |
@@ -827,7 +235,7 @@ pRuqthsu de#va |
 8. deqvaq | astu# |
 deqvAstvastu# deva deqvAstu# |
 9.  astu# |
----------------------------------------------------------------------------------
+--------------------------------------------------------------------------------- 
 <lang=eng>(Rule trikramam Condition = UshuNo )(JD 5)(GD 46)(PS 6.2) (PS 7.2)(excel not ok)(as above)
 <lang=def>
 4.1.4.2 - UqrddhvaH | uq | su | naqH | Uqtaye$ | tiShTha# | deqvaH |
@@ -840,17 +248,23 @@ deqvAstvastu# deva deqvAstu# |
 2J. Uq Shu No# naqs sU Shu Na#H |
 2G. UqShuNo#naqssUShuNa# Uqtaya# Uqtaye# naqssUShuNa# Uqtaye$ |
 (UShuNonassUShuNa^^Utaya^^UtayenassUShuNa^^Utaye |)
-3.  naqH | Uqtaye$ | tiShTha# |
-3J. naq Uqtaya# Uqtaye# no na Uqtaye$ |
-3G. naq Uqtaya# Uqtaye# no na Uqtayeq tiShThaq tiShThoqtaye# no na Uqtayeq tiShTha# |
-4. Uqtaye$ | tiShTha# | deqvaH |
-4J - Uqtayeq tiShThaq tiShThoqtaya# Uqtayeq tiShTha# |
-4G- Uqtayeq tiShThaq tiShThoqtaya# Uqtayeq tiShTha# deqvo deqvastiShThoqtaya# Uqtayeq tiShTha# deqvaH |
-5. tiShTha# | deqvaH |
-5J - tiShTha#  deqvo deqvastiShThaq tiShTha# deqvaH |
+
+3. su | naqH | Uqtaye$ |
+3J. Shu No# naqs sU Shu Na#H |
+3G. Shu No# naqs sU Shu Na#H  Uqtaye# Uqtaye# naqs sU Shu Na#H  Uqtaye# |
+
+4.  naqH | Uqtaye$ | tiShTha# |
+4J. naq Uqtaya# Uqtaye# no na Uqtaye$ |
+4G. naq Uqtaya# Uqtaye# no na Uqtayeq tiShThaq tiShThoqtaye# no na Uqtayeq tiShTha# |
+
+5. Uqtaye$ | tiShTha# | deqvaH |
+5J - Uqtayeq tiShThaq tiShThoqtaya# Uqtayeq tiShTha# |
+5G- Uqtayeq tiShThaq tiShThoqtaya# Uqtayeq tiShTha# deqvo deqvastiShThoqtaya# Uqtayeq tiShTha# deqvaH |
+6. tiShTha# | deqvaH |
+6J - tiShTha#  deqvo deqvastiShThaq tiShTha# deqvaH |
 7.  deqvaH |
 -----------------------------------
-<lang=eng>(Rule trikramam Condition = u su naH   letters = UShuNaH  )(JD 5)(GD 46)(PS 6.2) (PS 7.2)<lang=def>
+<lang=eng>(Rule trikramam Condition = u su naH   letters = UShuNaH  )(JD 5)(GD 46)(PS 6.2) (PS 7.2)(No Excel)<lang=def>
 
 4.6.5.6 eqtAqdRukShA#saH | uq | su | naqH | (GD 35)(PS 6.2) (PS 7.2)
 Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu NaH |
@@ -869,16 +283,16 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 2G - tRuqtIyAqH pAtrA#Niq pAtrA#Ni tRuqtIyA$ stRuqtIyAqH pAtrA#Niq tABiqstABiqH pAtrA#Ni tRuqtIyA$ stRuqtIyAqH pAtrA#Niq tABi#H |
 
 3. pAtrA#Ni | tABi#H | niH |
-3J - pAtrA#Niq tABiqH pAtrA#Niq pAtrA#Niq tABi#H |
-3G - pAtrA#Niq tABiqH pAtrA#Niq pAtrA#Niq tABiqr nir niShTABi#H pAtrA#Niq pAtrA#Niq tABiqr niH |
+3J - pAtrA#Niq tABiqstABiqH pAtrA#Niq pAtrA#Niq tABi#H |
+3G - pAtrA#Niq tABiqstABiqH pAtrA#Niq pAtrA#Niq tABiqr nir N?iShTABi#H pAtrA#Niq pAtrA#Niq tABiqr niH |
 4. tABi#H | niH | neqniqkteq |
-4J -  tABiqr nir. NiShTABiq stABiqr niH |
-4G - tABiqr nir. NiShTABiq stABiqr nirNe#nikte nenikteq niShTABiq stABiqr nirNe#nikte | 
-(tABirnirNi ShTABistABirnirNeniktenenikteniShTABistABirnirNenikte )
+4J -  tABiqr nir NiShTABiq stABiqr niH |
+4G - tABiqr nir NiShTABiq stABiqr nirNe#nikte nenikteq niShTABiq stABiqr nirNe#nikte | 
+      (tABir nir  NiShTABi stABir    nirNenikte nenikte niShTABi stABirnirNenikte )
 5. niH | neqniqkteq | yAH |
 5J - nir Ne#nikte nenikteq nir NirNe#nikte |
 5G -  nir Ne#nikte nenikteq nir NirNe#nikteq yA yA ne#nikteq nir NirNe#nikte yAH |
- (nirNenikteneniktenirNirNenikteyAyAneniktenirNirNenikteyAH |)
+       (nir  Nenikte  nenikte   nir  NirNenikte     yA  yA nenikte    nir NirNenikte  yAH |)
 6. neqniqkteq | yAH | caqtuqrthIH |
 6J - neqniqkteq yA yA ne#nikte nenikteq yAH |
 6G - neqniqkteq yA yA ne#nikte nenikteq yASca#tuqrthISca#tuqrthIr. yA ne#nikte nenikteq yASca#tuqrthIH |
@@ -892,14 +306,14 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 
 1.8.10.2 - triqtaH | jaqriqmANa$m | naqH | AqnaqT | viShNo$H | krama#H | aqsiq | viShNo$H | krAqntam | aqsiq |
 1. triqtaH | jaqriqmANa$m | naqH |
-1J. triqto ja#riqmANa#m jariqmANa#n triqtastriqto ja#riqmANa$m |
-1G. triqto ja#riqmANa#m jariqmANa#n triqtastriqto ja#riqmANa$nno no jariqmANa#n triqtastriqto ja#riqmANa$n naH |
+1J. triqto ja#riqmANa#m jariqmANa#m triqtastriqto ja#riqmANa$m |
+1G. triqto ja#riqmANa#m jariqmANa#m triqtastriqto ja#riqmANa$m no no jariqmANa#m triqtastriqto ja#riqmANa$m naH |
 
 2.  jaqriqmANa$m | naqH | AqnaqT |
-2J. ja#riqmANa$nno no jariqmANa#n jariqmANa$n naqH |
-2G.  ja#riqmANa$nno no jariqmANa#n jariqmANa$nna AnaDAnaNNo jariqmANa#n jariqmANa$n na AnaT |
+2J. ja#riqmANa$m no no jariqmANa#m jariqmANa$m naqH |
+2G.  ja#riqmANa$m no no jariqmANa#m jariqmANa$m na AnaDAnaNNo jariqmANa#m jariqmANa$m na AnaT |
 
-3. naqH | AqnaqT | viShNo$H | (naq AqnaqDAqnaqNNoqnaq AqnaqT) (Note rule Ta before n >Na)
+3. naqH | AqnaqT | viShNo$H | (naq AqnaqDAqnaqNNoqnaq AqnaqT) (Note rule T before n >Na)
 3J - naq AqnaqDAqnaqNNoqnaq AqnaqT |
 3G - naq AqnaqDAqnaqNNoqnaq AqnaqD viShNoqr viShNo#rAnaNNo na AnaqD viShNo$H |
 
@@ -916,8 +330,8 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 6G - kramo$&syasiq kramoq kramo#&siq viShNoqr. viShNo#rasiq kramoq kramo#&siq viShNo$H |
 
 7. aqsiq | viShNo$H | krAqntam |
-7J - aqsiq viShNoqr. viShNo#rasyasiq viShNo$H |
-7G- aqsiq viShNoqr. viShNo#rasyasiq viShNo$H krAqntam krAqntam ~MviShNo#rasyasiq viShNo$H krAqntam |
+7J - aqsiq viShNoqr viShNo#rasyasiq viShNo$H |
+7G- aqsiq viShNoqr viShNo#rasyasiq viShNo$H krAqntam krAqntam ~MviShNo#rasyasiq viShNo$H krAqntam |
 
 8. viShNo$H | krAqntam | aqsiq |
 8J. viShNo$H krAqntam krAqntam ~MviShNoqr viShNo#r krAqntam |
@@ -932,7 +346,7 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 7.1.1.2 - A | aqdaqttaq | tat | gaqrdaqBe | ni | aqmAqrTq | tasmA$t | gaqrdaqBaH |
 1.A | aqdaqttaq | tat |
 1J. A&da#ttAdaqttA &da#tta |
-1G. A&da#ttAdaqttA &da#ttaq tattada#dattaq A&da#tta tat |
+1G. A&da#ttAdaqttA &da#ttaq tattada#daqttA &da#tta tat |
 
 2.aqdaqttaq | tat | gaqrdaqBe |
 2J. aqdaqttaq tattada#dattAdattaq tat |
@@ -967,7 +381,7 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 1G. sa eqvaiva sa sa eqvAsmA# asmA eqva sa sa eqvAsmai$ |
 
 2. eqva | aqsmaiq | anna$m |
-2J. eqvAsmA# asmA eqvaivAsmai$ |
+2J.  eqvAsmA# asmA eqvaivAsmai$ |
 2G. eqvAsmA# asmA eqvaivAsmAq annaq manna# masmA eqvaivAsmAq anna$m |
 
 3. aqsmaiq | anna$m | pra |
@@ -977,17 +391,17 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 4. anna$m | pra | yaqcCaqtiq |
 4J. annaqm pra prAnnaq mannaqm pra |
 4G- annaqm pra prAnnaq mannaqm pra ya#cCati yacCatiq prAnnaq mannaqm pra ya#cCati |
-(annaMpraprAnnamannaMprayacCatiyacCatiprA nnamannaMprayacCati || )
+       (annaM praprAnna   mannaM     pra yacCati yacCati prAnnamannaMprayacCati || )
 5. pra | yaqcCaqtiq |
 5. pra ya#cCati yacCatiq pra pra ya#cCati |
 
 6. yaqcCaqtiq |
 -------------------
-<lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = n )(PS 7.4,7.5)(JD 20)(GD 37)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = n )(PS 7.4,7.5)(JD 20)(GD 37)(No Excel)<lang=def>
 
 7.5.9.3 pra | aqnyaH | Saq(gm)qsaqtiq | 
-ja. prAnyo$ nyaH pra prAnyaH  |
-Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sati |
+ja.   prAnyo$ &nyaH pra prAnyaH  |
+Ga. prAnyo$ nyaH   pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sati |
 
 ----------
 <lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)(Excel)<lang=eng>
@@ -995,12 +409,12 @@ Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sat
 7.5.1.5  gauH | triqShTuk | Ayu#H | jaga#tI | yat | eqte | stomA$H | Bava#nti |
 
 1.  gauH | triqShTuk | Ayu#H | 
-1J. gauShtriqShTuk triqShTug gaur gauShtriqShTuk |
-1J. gauShtriqShTuk triqShTug gaur gauShtriqShTugAyuqrAyu#ShtriqShTug gaur gaustriqShTugAyu#H |
+1J. gauShTriqShTuk triqShTug gaur gauShTriqShTuk |
+1J. gauShTriqShTuk triqShTug gaur gauShTriqShTugAyuqrAyu#ShTriqShTug gaur gauShTriqShTugAyu#H |
 
 2. triqShTuk | Ayu#H | jaga#tI | 
-2J. triqShTugAyuqrAyu#ShtriqShTuk triqShTugAyu#H |
-2G. triqShTugAyuqrAyu#ShtriqShTuk triqShTugAyuqr jaga#tIq jagaqtyAyu#ShtriqShTuk triqShTugAyuqr jaga#tI |
+2J. triqShTugAyuqrAyu#ShTriqShTuk triqShTugAyu#H |
+2G. triqShTugAyuqrAyu#ShTriqShTuk triqShTugAyuqr jaga#tIq jagaqtyAyu#ShTriqShTuk triqShTugAyuqr jaga#tI |
 
 3. Ayu#H | jaga#tI | yat |
 3J. Ayuqr jaga#tIq jagaqtyAyuqrAyuqr jaga#tI |
@@ -1011,8 +425,8 @@ Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sat
 4G. jaga#tIq yad yaj-jaga#tIq jaga#tIq yadeqta eqte yaj-jaga#tIq jaga#tIq yadeqte |
  
 5. yat | eqte | stomA$H |
-5J. yadeqta eqte yad yadeqte |
-5G. yad-eqta eqte yad-yadeqte stomAqH stomA# eqte yad-yadeqte stomA$H |
+5J.  yadeqta eqte yad yadeqte |
+5G. yadeqta eqte yad-yadeqte stomAqH stomA# eqte yad yadeqte stomA$H |
 
 6. eqte | stomA$H | Bava#nti |
 6J. eqte stomAqH stomA# eqta ete stomA$H |
@@ -1033,7 +447,7 @@ Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sat
 
 2. tasmA$t | Ayu#H | prAqNAnA$m | (tasmAqdAyuqrAyuqShTasmAqttasmAqdAyu#H)
 2J. tasmAqdAyuq,rAyuqShTasmAqt tasmAqdAyu#H |
-2G. tasmAqdAyuqrAyuqShTasmAqttasmAqdAyu#H prAqNAnA$m prAqNAnA# mAyuqShTasmAqt tasmAqdAyu#H prAqNAnA$m |
+2G. tasmAqdAyuq,rAyuqShTasmAqt tasmAqdAyu#H prAqNAnA$m prAqNAnA# mAyuqShTasmAqt tasmAqdAyu#H prAqNAnA$m |
 
 3. Ayu#H | prAqNAnA$m | uqttaqmam |
 3J. Ayu#H prAqNAnA$m prAqNAnAqmAyuqrAyu#H prAqNAnA$m |
@@ -1047,13 +461,13 @@ Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sat
 
 1.5.9.6 - maqnuqShyA#ya | it | nu | vai | yaH | aha#rahaH | (PS 8.8)
 1.maqnuqShyA#ya | it | nu |
-1J. maqnuqShyA#yedin manuqShyA#ya manuqShyA#yet |
-1G-  maqnuqShyA#yedin manuqShyA#ya manuqShyA#yennu nvin? manuqShyA#ya manuqShyA#yennu |
+1J. maqnuqShyAqyedin ma#nuqShyA#ya  manuqShyAqyet |
+1G-  maqnuqShyAqyedin ma#nuqShyA#ya manuqShyAqyennu nvin ma#nuqShyA#ya manuqShyAqyennu |
 
 2.  it | nu | vai |
 2J-  innu nvidinnu |
-2G- innu nvidinnu vai vai nvidinnu vai |
-(innunvidinvaivainvidinvai one 'n' less in JD||) in nu nvidinnu vai vai nu it it nu vai
+2G- innu nvidinnvai vai nvidinnvai |
+     (innu  nvidinvai vai  nvidinvai |) 
 3. nu | vai | yaH |
 3J- nvai vai nu nvai |
 3G-  nvai vai nu nvai yo yo vai nu nvai yaH |
@@ -1098,16 +512,16 @@ Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sat
 
 1. mAqruqtam | A | laqBaqteq |
 1J.  mAruqtamA mA#ruqtam mA#ruqtamA |
-1G. mAruqtamA mA#ruqtam mA#ruqtamA la#Bataq A mA#ruqtam mA#ruqtamA la#Bate |
+1G. mAruqtamA mA#ruqtam mA#ruqtamA la#Bate laBataq A mA#ruqtam mA#ruqtamA la#Bate |
 
 2. A | laqBaqteq | viT |
 2J- A la#Bate laBataq Ala#Bate |
 2G- A la#Bate laBataq Ala#Bateq viD villa#Bataq Ala#Bateq viT |
 
 3. laqBaqteq | viT | vai
-3J. la#Bateq viD villa#Bate laBateq viT |
-3G. la#Bateq viD villa#Bate laBateq viD vai vai villa#Bate laBateq viD vai |
-(laBateviDviLlaBate laBateviDvaivaiviLlaBatelaBateviDvai)
+3J. laqBaqteq viD villa#Bate laBateq viT |
+3G. laqBaqteq viD villa#Bate laBateq viD vai vai villa#Bate laBateq viD vai |
+    (laBateviD       viLlaBate laBate     viDvaivai   viLlaBate   laBateviDvai)
 4. viT | vai | maqruta#H
 4J - viD vai vai viD viD vai |
 4G - viD vai vai viD viD vai maqruto# maqrutoq vai viD viD vai maqruta#H |
@@ -1134,7 +548,7 @@ Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sat
 
 3. stha | maqyoqBuva#H | tAH | 
 3J. sthA ma#yoqBuvo# mayoqBuvaqH stha sthA ma#yoqBuva#H |
-3G. sthA ma#yoqBuvo# mayoqBuvaqH stha sthA ma#yoqBuvaq stA stA ma#yoqBuvaqH stha sthA ma#yoqBuva# stAH |
+3G. sthA ma#yoqBuvo# mayoqBuvaqH stha sthA ma#yoqBuvaq stA stA ma#yoqBuvaqH stha sthA ma#yoqBuvaq stAH |
 
 4.  maqyoqBuva#H | tAH | naqH |
 4J- maqyoqBuvaq stA stA ma#yoqBuvo# mayoqBuvaqs tAH |
@@ -1145,12 +559,12 @@ Ga. prAnyo$ nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sat
 
 6. naqH |
 ------------------------------
-<lang=eng>(Rule Consonant Sandhi Condition = s to Sh   letters =   )(JM 15)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Condition = s to Sh   letters =   )(JM 15)(No Excel)<lang=def>
 
 3.4.3.1 3.4.3.2	soma#H | pra | ?? not prati??	
 somaqH pratiq, pratiqShomaqH somaqH prati# ||
 ----------------------
-<lang=eng>(Rule Consonant Sandhi Condition = s to Sh  letters =  )(GD 57)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Condition = s to Sh  letters =  )(GD 57)(No Excel)<lang=def>
 
 1.2.14.7	 svAqnAsa#H | diqvi | saqntuq |
 Ga. svAqnAso# diqvi diqvi svAqnAsa#H svAqnAso diqvi Shantu santu diqvi svAqnAsa#H svAqnAso diqvi Shantu |
@@ -1174,10 +588,10 @@ Ga. svAqnAso# diqvi diqvi svAqnAsa#H svAqnAso diqvi Shantu santu diqvi svAqnAsa#
 3G. madhu#matIBiH sRujyaddhva(gm) sRujyaddhvaqm madhu#matIBiqr madhu#matIBiH sRujyaddhvaqm mahiq mahi# sRujyaddhvaqm madhu#matIBiqr madhu#matIBiH sRujyaddhvaqm mahi# |
 
 4. sRuqjyaqddhvaqm | mahi# | varca#H | 
-Chk(sRuqjyaqddhvaqmmahiqmahi# sRujyaddhva(gm) sRujyadhvaqm mahi#)
-4J. sRuqjyaqddhvaqm mahiq mahi# sRujyaddhva(gm) sRujyaddhvaqm mahi# |
+Chk(sRuqjyaqddhvaqm mahiq mahi# sRujyaddhva(gm) sRujyadhvaqm mahi#)
+4J.  sRuqjyaqddhvaqm mahiq mahi# sRujyaddhva(gm) sRujyaddhvaqm mahi# |
 4G. sRuqjyaqddhvaqm mahiq mahi# sRujyaddhva(gm) sRujyaddhvaqm mahiq varcoq varcoq mahi# sRujyaddhva(gm) sRujyaddhvaqm mahiq varca#H |
-chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm)sRujyaddhvaM mahivarcaH ||)
+chk (sRujyadhvaM mahi mahi sRujyadhva(gm) sRujyadhvaM mahi varco varco mahi sRujyadhva(gm) sRujyaddhvaM mahi varcaH ||)
 
 5. mahi# | varca#H |
 5J. mahiq varcoq varcoq mahiq mahiq varca#H |
@@ -1213,20 +627,20 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 6.5.8.6 - UqruH | Bava#ti | atha# | miqthuqnI | BaqvaqtaqH | atha# | reta#H |
 
 1.  UqruH | Bava#ti | atha# |
-1J. Uqrur Bavaqti Bava#tyUqrurUqrur Bava#ti |
-1G. Uqrur Bavaqti Bava#tyUqrurUqrur BavaqtyathAthaq Bava#tyUqrurUqrur Bavaqtyatha# |
+1J. Uqrur Bava#tiq Bava#tyUqrurUqrur Bava#ti |
+1G. Uqrur Bava#tiq Bava#tyUqrurUqrur BavaqtyathAthaq Bava#tyUqrurUqrur Bavaqtyatha# |
 
 2. Bava#ti | atha# | miqthuqnI | (PS 4.53)(atha# mithuqnI mithuqnyathAtha# mithuqnI not PG as per PS)
 2J- BavaqtyathAthaq Bavaqti Bavaqtyatha# |
-2G- BavaqtyathAthaq Bavaqti Bavaqtyatha# mithunI mithuqnyathaq Bavaqti Bavaqtyatha# mithunI |
+2G- BavaqtyathAthaq Bavaqti Bavaqtyatha# mithuqnI mi#thuqnyathaq Bavaqti Bavaqtyatha# mithuqnI |
 
 3. atha# | miqthuqnI | BaqvaqtaqH |
-3J - atha# mithunI mi#thuqnyathAtha# mithuqnI |
+3J - atha# mithuqnI mi#thuqnyathAtha# mithuqnI |
 3G- atha# mithuqnI mi#thuqnyathAtha# mithuqnI Ba#vato Bavato mithuqnyathAtha# mithuqnI Ba#vataH |
 (athamithunImithunyathAthamithunIBavatoBavatomithunthAthamithunIBavataH)
 4.  miqthuqnI | BaqvaqtaqH | atha# |
-4J- mithuqnI Ba#vato Bavato mithuqnI mi#thuqnI Ba#vataH |
-4G- mithuqnI Ba#vato Bavato mithuqnI mi#thuqnI Ba#vaqto&thAtha# Bavato mithuqnI mi#thuqnI Ba#vaqto&tha# |
+4J- miqthuqnI Ba#vato Bavato mithuqnI mi#thuqnI Ba#vataH |
+4G- miqthuqnI Ba#vato Bavato mithuqnI mi#thuqnI Ba#vaqto&thAtha# Bavato mithuqnI mi#thuqnI Ba#vaqto&tha# |
 
 5. BaqvaqtaqH | atha# | reta#H |
 5J. Baqvaqto&thAtha# Bavato Bavaqto&tha# |
@@ -1271,7 +685,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 2. GRuqtava#tIm | aqddhvaqryoq (pg) | sruca$m |
 2J. GRuqtava#tI maddhvaryo addhvaryo GRuqtava#tIm GRuqtava#tI maddhvaryo |
-2G. GRuqtava#tI maddhvaryo addhvaryo GRuqtava#tIm GRuqtava#tI maddhvaryo  srucaq(gg)q sruca#maddhvaryo GRuqtava#tIm GRuqtava#tIm addhvaryo sruca$m |
+2G. GRuqtava#tI maddhvaryo addhvaryo GRuqtava#tIm GRuqtava#tI maddhvaryoq  srucaq(gg)q sruca#maddhvaryo GRuqtava#tIm GRuqtava#tIm addhvaryoq sruca$m |
 
 3. aqddhvaqryoq (pg) | sruca$m | A |
 3J. aqdhvaqryoq srucaq(gg)q sruca#madhvaryo adhvaryoq sruca$m |
@@ -1283,7 +697,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 4G. srucaqmA srucaq(gg)q srucaqmA &sya#svAsyaqsvA srucaq(gg)q srucaqmA &sya#sva |
 
 5. A | aqsyaqsvaq | iti# |
-5J. A &syasvAsyaqsvA &sya#sva |
+5J. A &sya#svAsyaqsvA &sya#sva |
 5G. A &sya#svAsyaqsvA &syaqsvetItya#syaqsvA &sya#svaq iti# |
 
 6. aqsyaqsvaq | iti# |
@@ -1304,10 +718,10 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 2J. jaqnaqyaqtyaddhva#ryoq addhva#ryo janayati janayaqtyaddhva#ryo |
 2G. jaqnaqyaqtyaddhva#ryoq addhva#ryo janayati janayaqtyaddhvaqryo &veq raveqraddhva#ryo janayati janayaqtyaddhvaqryo &ve$H |
 
-3. addhva#ryo (pg) | ave$H | aqpA(3)H | (see below notes from GD) second addhvaryo elides after addhvaryo
-3J. addhvaqryo&veq raveqraddhva#ryo addhvaqryo &ve$H |
-3G. addhvaqryo&veq raveqraddhva#ryo addhvaqryo &ve#raqpA(3) aqpA(3) aveqraddhva#ryo addhvaqryo &ve#raqpA(3)H |
-(adhvaryoveraveradhvaryodhvaryove rapA(3) apA(3) averadhvaryodhvaryoverapAH )
+3. addhva#ryo (pg) | ave$H | aqpA(3)H | (see below notes from GD) second addhvaryo elides after addhvaryo because of reverse order )
+3J. addhvaqryo&veq raveqraddhva#ryo &ddhvaqryo &ve$H |
+3G. addhvaqryo&veq raveqraddhva#ryo &ddhvaqryo &ve#raqpA(3) aqpA(3) aveqraddhva#ryo &ddhvaqryo &ve#raqpA(3)H |
+(adhvaryo veraveradhvaryo dhvaryo verapA(3) apA(3) averadhvaryo dhvaryo verapAH )
 
 4. ave$H | aqpA(3)H | iti# |
 4J. ave#raqpA(3) aqpA(3) aveqrave# aqpA(3)H |
@@ -1315,10 +729,10 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 5. aqpA(3)H | iti# | Aqhaq |
 5J. aqpA(3) itIti# aqpA(3) aqpA(3) iti# |
-5G. aqpA(3) itIti# aqpA(3) aqpA(3) ityA#hAhetyaqpA(3) aqpA(3) ityA#ha | 
+5G. aqpA(3) itIti# aqpA(3) aqpA(3) ityA#hAqhetyaqpA(3) aqpA(3) ityA#ha | 
 
 6. iti# | Aqhaq |
-6J. ityA#hAhetItyA#ha |
+6J. ityA#hAqhetItyA#ha |
 
 7. Aqhaq |
 ----------------------------
@@ -1328,10 +742,10 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 1. praqSnam | eqyAtA$m | brAqhmaqNAya# |
 1J. praqSnameqyAtA#meqyAtA$m praqSnam praqSnameqyAtA$m |
-1G. praqSnameqyAtA#meqyAtA$m praqSnam praqSnameqyAtA$m brAhmaqNAya# brAhmaqNAyeqyAtA$m praqSnam praqSnameqyAtA$m brAhmaqNAya# |
+1G. praqSnameqyAtA#meqyAtA$m praqSnam praqSnameqyAtA$m brAhmaqNAya# brAhmaqNAy(ai) eqyAtA$m praqSnam praqSnameqyAtA$m brAhmaqNAya# |
 
 2. eqyAtA$m | brAqhmaqNAya# | adhi# |
-2J. eqyAtA$m brAhmaqNAya# brAhmaqNAyeqyAtA$meqyAtA$m brAhmaqNAya# |
+2J. eqyAtA$m brAhmaqNAya# brAhmaqNAy(ai)eqyAtA$meqyAtA$m brAhmaqNAya# |
 2G. eqyAtA$m brAhmaqNAya# brAhmaqNAyeqyAtA$meqyAtA$m brAhmaqNAyAdhyadhi# brAhmaqNAyeqyAtA$meqyAtA$m brAhmaqNAyAdhi# |
 
 3. brAqhmaqNAya# | adhi# | brUqyAqt |
@@ -1340,52 +754,50 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 4.adhi# | brUqyAqt | yat |
 4J - adhi# brUyAd brUyAqdadhyadhi# brUyAt |
-4G-  adhi# brUyAd brUyAq dadhyadhi# brUyAqdya,dyadbrU#yAq dadhyadhi# brUyAqd yat |
+4G-  adhi# brUyAd brUyAq dadhyadhi# brUyAqdyad yadbrU#yAq dadhyadhi# brUyAqd yat |
 
 5. brUqyAqt | yat |
 5. brUyAqd yad yadbrU#yAd brUyAqd yat |
 
 6. yat |
 --------------------------
-<lang=eng>(Rule Vowel Sandhi Condition = ai letters =  )(JM 31)(JD50)(GD 18)(PS 5.19 Check)
+<lang=eng>(Rule Vowel Sandhi Condition = ai letters =  )(JM 31)(PS 5.19 Check)
 (Rule Swara Sandhi Condition =  letters =  )(Excel)praSliShta<lang=def>
 
-7.5.8.4 - Uqhaqtiq | diqkShu | eqva | prati# | tiqShThaqntiq | ekai#kayA | astu#tayA | saqmAya#nti |
-1. Uqhaqtiq | diqkShu | eqva |
-1ja.  Uqhaqtiq diqkShu diqkShU#hatyUhati diqkShu |
-1.Ga. Uqhaqtiq diqkShu diqkShU#hatyUhati diqkShve#vaiva diqkShU#hatyUhati diqkShve#va |
-2. diqkShu | eqva | prati# |
-2J. diqkShve#vaiva diqkShu diqkShve#va |
-2G - diqkShve#vaiva diqkShu diqkShve#vaq pratiq pratyeqva diqkShu diqkShve#vaq prati# |
+7.5.8.4 - diqkShu | eqva | prati# | tiqShThaqntiq | ekai#kayA | astu#tayA | saqmAya#nti |
+1. diqkShu | eqva | prati# |
+1J.  diqkShve#vaiva diqkShu diqkShve#va |
+1G - diqkShve#vaiva diqkShu diqkShve#vaq pratiq pratyeqva diqkShu diqkShve#vaq prati# |
 
-3. eqva | prati# | tiqShThaqntiq
-3J. eqva pratiq pratyeqvaiva prati# |
-3G. eqva pratiq pratyeqvaiva prati# tiShThanti tiShThantiq pratyeqvaiva prati# tiShThanti |
+2. eqva | prati# | tiqShThaqntiq
+2J. eqva pratiq pratyeqvaiva prati# |
+2G. eqva pratiq pratyeqvaiva prati# tiShThanti tiShThantiq pratyeqvaiva prati# tiShThanti |
 
-4. prati# | tiqShThaqntiq | ekai#kayA |
-4J. prati# tiShThanti tiShThantiq pratiq prati#tiShThanti |
-4G. prati# tiShThanti tiShThantiq pratiq prati#tiShThaqntyekai#kaqyaikai#kayA tiShThantiq pratiq prati#tiShThaqntyekai#kayA |
+3. prati# | tiqShThaqntiq | ekai#kayA |
+3J. prati# tiShThanti tiShThantiq pratiq prati#tiShThanti |
+3G. prati# tiShThanti tiShThantiq pratiq prati#tiShThaqntyekai#kaqyaikai#kayA tiShThantiq pratiq prati#tiShThaqntyekai#kayA |
 
-5. tiqShThaqntiq | ekai#kayA | astu#tayA |
-5J - tiShThaqntyekai#kaqyaikai#kayA tiShThantiq tiShThaqntyekai#kayA |
-5G - tiShThaqntyekai#kaqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#taqyA &stu#taqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#tayA |
+4. tiqShThaqntiq | ekai#kayA | astu#tayA |
+4J - tiqShThaqntyekai#kaqyaikai#kayA tiShThantiq tiShThaqntyekai#kayA |
+4G - tiqShThaqntyekai#kaqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#taqyA &stu#taqyaikai#kayA tiShThanti tiShThaqntyekai#kaqyA &stu#tayA |
 
-6.  ekai#kayA | astu#tayA | saqmAya#nti |
-6J. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA |
-6G. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti saqmAyaqntya,stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti |
+5.  ekai#kayA | astu#tayA | saqmAya#nti |
+5J. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA |
+5G. ekai#kaqyA &stu#taqyA &stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti saqmAyaqntya,stu#taqyaikai#kaqyaikai#kayA &stu#tayA saqmAya#nti |
 
-7. astu#tayA | saqmAya#nti |
-7. astu#tayA saqmAya#nti saqmAyaqntyastu#taqyA &stu#tayA |
+6. astu#tayA | saqmAya#nti |
+6. astu#tayA saqmAya#nti saqmAyaqntyastu#taqyA &stu#tayA |
 
-8. saqmAya#nti
+7. saqmAya#nti
 -------------------------
 <lang=eng>(Rule avagraha Condition = Yes RNE letters = naH, agnayaH )(JM 25) JD 28)(GD 56)(PS 12.7 word agnayaH elides and (PS 12.8) letter following also elides)
 (Read rule dvipadam with 'a' for elision if one elides another does not JM 25)
-(Rule avagraha Condition = No RNE SE letters = agnayaH papra#yaH )(Excel)<lang=def>
+(Rule avagraha Condition = No RNE SE letters = agnayaH papra#yaH )
+(agnayaH ityatra anAr.Shaya alopa eva syAt)(Excel)<lang=def>
 
 1.7.7.2 - iqndriqyAvA#n | paqtaqtrI | te | naqH | aqgnaya#H | papra#yaH | pAqraqyaqntuq |
 1. iqndriqyAvA#n | paqtaqtrI | te |
-1J. iqndriqyAvA$n pataqtrI pa#taqtrIndriqyAvA#nindriqyAvA$n pataqtrI |
+1J. iqndriqyAvA$n pataqtrI pa#taqtrIndriqyAvA# nindriqyAvA$n pataqtrI |
 1G. iqndriqyAvA$n pataqtrI pa#taqtrIndriqyAvA#,nindriqyAvA$n pataqtrI te te pa#taqtrIndriqyAvA#,nindriqyAvA$n pataqtrI te |
 
 2.  paqtaqtrI | te | naqH |
@@ -1416,10 +828,10 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 1J. AqnRuqhur yAn. yAnA#nRuqhurA#nRuqhur. yAn |
 1G. AqnRuqhur yAn. yAnA#nRuqhurA#nRuqhuryA naqgnayo# aqgnayoq yAnA#nRuqhu rA#nRuqhuryA naqgnaya#H |
 
-2.  yAn | aqgnaya#H | aqnvata#pyaqnta | padam?
+2.  yAn | aqgnaya#H | aqnvata#pyaqnta | 
 2J yAnaqgnayo# aqgnayoq yAn. yAnaqgnaya#H |
 2G. yAnaqgnayo# aqgnayoq yAn. yAnaqgnayoq &nvata#pyantAqnvata#pya,ntAqgnayoq yAn. yAn aqgnayoq &nvata#pyanta |
-(yAnagnayo^^agnayoyAnyAnagnayonvatapyantAnvatapyantAgnayoyAn yAnagnayonvatapyanta )
+(yAnagnayo^^agnayoyAnyAnagnayo nvatapyantAnvatapyantAgnayoyAn yAnagnayo nvatapyanta )
 
 3. aqgnaya#H | aqnvata#pyanta | dhiShNi#yAH | (PS 12.8)
 3J. aqgnayoq &nvata#pyantAqnvata#pyantAqgnayo# aqgnayoq &nvata#pyanta |
@@ -1467,7 +879,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 1.2.14.6 - aqyA | teq | aqgneq | saqmidhA$ | viqdheqmaq | prati# | stoma$m | SaqsyamA#nam | gRuqBAqyaq |
 1. aqyA | teq | aqgneq |
 1J. aqyA te# teq &yA &yA te$ |
-1G. aqyA te# teq &yA &yA te# agne &gne te &yA &yA te# agne |
+1G. aqyA te# teq &yA &yA te# agne &gne teq &yA &yA te# agne |
 2. teq | aqgneq | saqmidhA$ |
 2J. teq aqgneq &gneq teq teq aqgneq |
 2G. teq aqgneq &gneq teq teq aqgneq saqmidhA# saqmidhAq &gne te# te agne saqmidhA$ |
@@ -1513,7 +925,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 3G.  aqgneq diqvedi#ve diqvedi#ve &gne &gne diqvedi#veq doShA#vastaqr. doShA#vastar. diqvedi#ve &gne &gne diqvedi#veq doShA#vastaH |
 
 4.  diqvedi#ve | doShA#vastaH |
-4. diqvedi#veq doShA#vastaqr. doShA#vastar. diqvedi#ve  diqvedi#veq doShA#vastaH |
+4. diqvedi#veq doShA#vastaqr doShA#vastar diqvedi#ve diqvedi#veq doShA#vastaH |
 
 5. doShA#vastaH |
 ---------------------------------------------------------
@@ -1524,20 +936,20 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 5.7.7.3 - yena# | aqgneq | saqrvaqveqdaqsam | yena# | aqgneq | dakShi#NAH | yuqktAH | yena# | aqgneq | suqkRuta#H | paqthA |
 
 1. yena# | aqgneq | saqrvaqveqdaqsam |
-1J- yenAqgne a#gneq yenaq yenAqgne |
+1J- yenA$gne agneq yenaq yenA$gne |
 1G. yenA$gne agneq yenaq yenA$gne sarvavedaqsa(gm) sa#rvavedaqsama#gneq yenaqyenA$gne sarvavedaqsam |
 
 2. aqgneq | saqrvaqveqdaqsam | yena# |
-2J. aqgneq saqrvaqveqdaqsa(gm) sa#rvavedaqsama#gne &gne sarvavedaqsam |
-2G. aqgneq saqrvaqveqdaqsa(gm) sa#rvavedaqsama#gne &gne sarvavedaqsam ~Myenaq yena# sarvavedaqsama#gne &gne sarvavedaqsam ~Myena# | 
+2J. aqgneq saqrvaqveqdaqsa(gm) sa#rvavedaqsama#gne agne sarvavedaqsam |
+2G. aqgneq saqrvaqveqdaqsa(gm) sa#rvavedaqsama#gne agne sarvavedaqsam ~Myenaq yena# sarvavedaqsama#gne agne sarvavedaqsam ~Myena# | 
 
 3. saqrvaqveqdaqsam | yena# | aqgneq |
 3J. saqrvaqveqdaqsam ~Myenaq yena# sarvavedaqsa(gm) sa#rvavedaqsam ~Myena# | 
 3G. saqrvaqveqdaqsam ~Myenaq yena# sarvavedaqsa(gm) sa#rvavedaqsam ~MyenA$gne agne yena# sarvavedaqsa(gm) sa#rvavedaqsam ~MyenA$gne |
 
 4. yena# | aqgneq | dakShi#NAH |
-4J- yenA$gne a#gneqyenaqyenA$gne |
-4G- yenA$gne a#gneqyenaqyenA$gneq dakShi#NAq dakShi#NA agneyenaqyenA$gneq dakShi#NAH |
+4J- yenA$gne agneqyenaqyenA$gne |
+4G- yenA$gne agneqyenaqyenA$gneq dakShi#NAq dakShi#NA agneyenaqyenA$gneq dakShi#NAH |
 
 5. aqgneq | dakShi#NAH | yuqktAH |
 5J. aqgneq dakShi#NAq dakShi#NA agne agneq dakShi#NAH |
@@ -1549,11 +961,11 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 7.yuqktAH | yena# | aqgneq |
 7J. yuqktA yenaq yena# yuqktA yuqktA yena# |
-7G.  yuqktA yenaq yena# yuqktA yuqktA yenA$gne a#gneq yena# yuqktA yuqktA yenA$gne |
+7G.  yuqktA yenaq yena# yuqktA yuqktA yenA$gne agneq yena# yuqktA yuqktA yenA$gne |
 
 8. yena# | aqgneq | suqkRuta#H |
-8J- yenA$gne a#gneq yenaq yenA$gne |
-8G - yenA$gne a#gneq yenaq yenA$gne suqkRuto# suqkRuto# agneq yenaq yenA$gne suqkRuta#H |
+8J- yenA$gne agneq yenaq yenA$gne |
+8G - yenA$gne agneq yenaq yenA$gne suqkRuto# suqkRuto# agneq yenaq yenA$gne suqkRuta#H |
 
 9. aqgneq | suqkRuta#H | paqthA |
 9J. aqgneq suqkRuta#H suqkRuto# agne agne suqkRuta#H |
@@ -1614,11 +1026,11 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 2. raqyIqNAm | gomA#n | aqgneq |
 2J. rayIqNAm gomAqn gomA#n rayIqNA(gm) ra#yIqNAm gomA#n |
-2G. rayIqNAm gomAqn gomA#n rayIqNA(gm) ra#yIqNAm gomA(gm)# agne&gneq gomA#n rayIqNA(gm) ra#yIqNAm gomA(gm)# agne |
+2G. rayIqNAm gomAqn gomA#n rayIqNA(gm) ra#yIqNAm gomA(gm)#agne &gneq gomA#n rayIqNA(gm) ra#yIqNAm gomA(gm)# agne |
 
 3. gomA#n | aqgneq | avi#mAn |
 3J. gomA(gm)# agne&gneq gomAqn goma(gm)# agne |
-3G. gomA(gm)# agne&gneq gomAqn goma(gm)# aqgne &vi#mAq(gm)q avi#mA(gm) agne gomAqn goma(gm)# aqgne &vi#mAn |
+3G. gomA(gm)# agne &gneq gomAqn goma(gm)# aqgne &vi#mAq(gm)q avi#mA(gm) agne gomAqn goma(gm)# aqgne &vi#mAn |
 (gomA(gm) agne&gne gomAngomA(gm) agne&vimA(gm) avimA(gm) agne gomAngomA(gm) agne&vimAn ||)
 4. aqgneq | avi#mAn | aqSvI |
 4J. aqgne &vi#mAq(gm)q avi#mA(gm) aqgne &gne &vi#mAn |
@@ -1626,7 +1038,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 
 5. avi#mAn | aqSvI | yaqj~jaH |
 5J. avi#mA(gm) aqSvyaSvyavi#mAq(gm)q avi#mA(gm) aqSvI |
-5G. avi#mA(gm) aqSvyaSvyavi#mAq(gm)q avi#mA(gm) aqSvI yaqj~jo yaqj~jo$Svyavi#mAq(gm)q avi#mA(gm) aqSvI yaqj~jaH |
+5G. avi#mA(gm) aqSvyaSvyavi#mAq(gm)q avi#mA(gm) aqSvI yaqj~jo yaqj~jo$&Svyavi#mAq(gm)q avi#mA(gm) aqSvI yaqj~jaH |
 
 6. aqSvI | yaqj~jaH |
 6. aqSvI yaqj~jo yaqj~jo$&SvyaqSvI yaqj~jaH |
@@ -1665,7 +1077,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 6. gAva#H | anu# | Baga#H |
 6J. gAvoq &nvanuq gAvoqgAvo&nu# |
 6G. gAvoq &nvanuq gAvoq gAvo&nu# Bagoq Bago &nuq gAvoqgAvo &nuq Baga#H |
-(gAvonvanugAvogAvonuBagoBagonugAvogAvonuBagaH )
+(gAvo &nvanugAvogAvo&nuBagoBago &nu gAvogAvo&nuBagaH )
 7. anu# | Baga#H | TSE
 7.  anuq Bagoq Bago &nvanuq Baga#H |
 
@@ -1685,7 +1097,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 3. aqpaH | anu# | aqcAqriqShaqm |
 3J- aqpo anvanvaqpo &po anu# |
 3G. aqpo anvanvaqpo&po anva#cAriSha macAriSha manvaqpo &po anva#cAriSham |
-(apo anvanvapopo anvacAriShamacAriShamanvapopo anvacAriSham)
+(apo anvanvapo&po anvacAriShamacAriShamanvapo&po anvacAriSham)
 4.  anu# | aqcAqriShaqm |
 4. anva#cAriSha macAriShaq manvanva#cAriShaqm |
 
@@ -1706,7 +1118,7 @@ chk (sRujyadhvaMmahimahisRujyadhva(gm)sRujyadhvaMmahivarcovarcomahisRujyadhva(gm
 3. Baqvaqtiq | agre$ | bRuqhann |?
 3J. Baqvaqtyagre &gre# Bavati Bavaqtyagre$ |
 3G. Baqvaqtyagre &gre# Bavati Bavaqtyagre# bRuqhan bRuqhannagre# Bavati Bavaqtyagre# bRuqhann |
-(Bavatyagre gre Bavati Bavatyagre bRuhanbRuhannagre Bavati Bavatyagre bRuhan ||)
+(Bavatyagre &gre Bavati Bavatyagre bRuhanbRuhannagre Bavati Bavatyagre bRuhan ||)
 4. agre$ | bRuqhann | uqShasA$m |?
 4J. agre# bRuqhan bRuqhannagreq agre# bRuqhann |
 4G. agre# bRuqhan bRuqhannagreq agre# bRuqhannuqShasA# muqShasA#m bRuqhannagreq agre# bRuqhannuqShasA$m |
@@ -1755,22 +1167,22 @@ reference to be added from vyaakyaanam in JM(JD 36)(Excel)<lang=def>
 5.5.1.2 -  sam | aqvaqrtaqtaq | agre$ | iti# | AqGAqram | A |
 1. sam | aqvaqrtaqtaq | agre$ |
 1J. sama#vartatAvartataq sa(gm) sama#vartata |
-1G. sama#vartatAvartataq sa(gm) sama#vartatAgreq agre# ?avartataq sa(gm) sama#vartaqtAgre$ |
+1G. sama#vartatAvartataq sa(gm) sama#vartatAgreq agre# avartataq sa(gm) sama#vartaqtAgre$ |
 
 2. aqvaqrtaqtaq | agre$ | iti# |
-2J. aqvaqrtaqtAgreq agre# ?avartaqtAvartaqtAgre$ |
-2G. aqvaqrtaqtAgreq agre# ?avartaqtAvartaqtAgraq itItyagre# ?avartaqtAvartaqtAgraq iti# |
+2J. aqvaqrtaqtAgreq agre# avartaqtAvartaqtAgre$ |
+2G. aqvaqrtaqtAgreq agre# avartaqtAvartaqtAgraq itItyagre# avartaqtAvartaqtAgraq iti# |
 
 3.  agre$ | iti# | AqGAqram |
 3J. agraq itItyagreq agraq iti# |
 3G. agraq itItyagreq agraq ityA#GAqra mA#GAqra mitItyagreq agraq ityA#GAqram |
 
 4. iti# | AqGAqram | A |
-4J. ityA#GAqramA#GAqra mitItyA#GAqram | ?
-4G. ityA#GAqra mA#GAqra mitItyA#GAqramA A#?GAqra mitItyA#GAqramA |?
+4J. ityA#GAqramA#GAqra mitItyA#GAqram | 
+4G. ityA#GAqra mA#GAqra mitItyA#GAqramA &&GA#ra mitItyA#GAqramA |
 
 5. AqGAqram | A |
-5. AqGAqramA A#GAqra mA#GAqramA |?
+5. AqGAqramA A#GAqra mA#GAqramA |
 
 6. A |
 --------------------------
@@ -1789,7 +1201,7 @@ reference to be added from vyaakyaanam in JM(JD 36)(Excel)<lang=def>
 3. aSvA#jani | prace#tasaH | aSvAn# | ??
 3J. aSvA#janiq prace#tasaqH prace#taqso aSvA#jaqnyaSvA#janiq prace#tasaH |
 3G. aSvA#janiq prace#tasaqH prace#taqso aSvA#jaqnyaSvA#janiq prace#taso &SvAqnaSvAqn prace#taqso aSvA#jaqnyaSvA#janiq prace#taso &SvAn# |
-(aSvAjanipracetasaHpracetaso aSvAjanyaSvAjani pracetasoSvAnaSvAnpracetaso aSvAjanyaSvAjani pracetasoSvAn )
+(aSvAjanipracetasaHpracetaso aSvAjanyaSvAjani pracetaso &SvAnaSvAn pracetaso aSvAjanyaSvAjani pracetaso &SvAn )
 
 4.prace#tasaH | aSvAn# | saqmathsu# |
 4J. prace#taqso &SvAqnaSvAqn prace#tasaqH prace#taqso &SvAn# |
@@ -1811,7 +1223,7 @@ saqmathsva SvAqn prace#tasaqH prace#taqso &SvA$nth saqmathsu# |
 
 2. aqyam | naqH | aqgniH |
 2J. aqyan no# no &yamaqyan no# | ?
-2G. aqyan no# no &yamaqyan no# aqgniraqgnir noq? &yamaqyan no# aqgniH |
+2G. aqyan no# no &yamaqyan no# aqgniraqgnir noq &yamaqyan no# aqgniH |
 
 3. naqH | aqgniH | vari#vaH | (PS 11.13)
 3J. no# aqgniraqgnir no# no aqgniH |
@@ -1868,7 +1280,7 @@ saqmathsva SvAqn prace#tasaqH prace#taqso &SvA$nth saqmathsu# |
 1J. AqhAni#rdAhAqyA ni#rdAhAyAhAqhA ni#rdAhAya |
 1G. AqhAni#rdAhAqyA ni#rdAhAyAhAqhA ni#rdAhAqyASvo &Svo &ni#rdAhAyAhAq hAni#rdAhAyASva#H |
 
-2. ani#rdAhAya | aSva#H | RuqShaqBaH | ??(aSva# ,RuShaqBa, Ru#ShaBoq, aSvo &Sva# RuShaqBaH)
+2. ani#rdAhAya | aSva#H | RuqShaqBaH | (aSva# ,RuShaqBa, Ru#ShaBoq, aSvo &Sva# RuShaqBaH)
 2J. ani#rdAhAqyASvo &Svo &ni#rdAhAyAni#rdAhAqyASva#H |
 2G. ani#rdAhAqyASvo &Svo &ni#rdAhAyAni#rdAhAqyASva# RuShaqBa Ru#ShaqBo aSvo &ni#rdAhAyAni#rdAhAqyASva# RuShaqBaH |
 
@@ -2014,7 +1426,7 @@ muKa#mRuqtunAq pra |
 1J.  ShaD vai vai ShaTth ShaT vai |
 1G.  ShaD vai vai ShaTth ShaT vA Ruqtava# Ruqtavoq vai ShaTth ShaT vA Ruqtava#H |
 
-2. vai | Ruqtava#H | RuqtUn |?
+2. vai | Ruqtava#H | RuqtUn |
 2J. vA Ruqtava# Ruqtavoq vai vA Ruqtava#H |
 2G. vA Ruqtava# Ruqtavoq vai vA Ruqtava# RuqtU(gm)r. RuqtU(gm)r. Ruqtavoq vai vA Ruqtava# RuqtUn |
 
@@ -2713,8 +2125,8 @@ uqyaqntuq yaqntUqyaqntuq ||
 1ja. sedith sa set |
 1Ga. sedith sa sedU vith sedu |
 2.  it | uq | hotA$ | ? 
-2ja. idUqvididu# |
-2Ga. idUqvididuq hotAq hotA$ uqvididuq hotA$ |
+2ja. iduqvuididu# | iduvuididu
+2Ga.  iduqvuididu# hotAq hotA$ uqvuididuq hotA$ |
 3. uq | hotA$ | 
 uqhotAqhotA#?u ?vuqhotA$ ||
 ------------------
@@ -2908,7 +2320,7 @@ aqsminth saqdhasthe# saqdhasthe# aqsminnaqsminth saqdhasthe$ |
 
 5.1.2.6	 vAqjI | adhva#naH | Aqkramya# | vAqjiqnn |
 vAqjyaddhvaqno &ddhva#no vAqjIvAqjyaddhva#naH ||
-adhvana AkramyAkramyAdhvanodhvana Akramya vAjin vAjinnAkramyAdhvanodhvana Akramya vAjin ||
+adhvana AkramyAkramyAdhvano &dhvana Akramya vAjin vAjinnAkramyAdhvano&dhvana Akramya vAjin ||
 -----------------------------
 <lang=eng>(Rule avagraha  sandhi Condition =    letters =   )(JM 75)(JD 36)(GD 33)<lang=def>
 
@@ -2919,8 +2331,8 @@ arpayati pAvakaH pAvakorpayatyarpayati pAvako asmaByamasmaByaM pAvakorpayatyarpa
 <lang=eng>(Rule avagraha  sandhi Condition =    letters =   )(JM 75)(JD 36)(GD33) (PS 11.17 exception)<lang=eng>
 
 2.5.8.1 2.5.8.4 aq~ggiqraqH | iti# | Aqhaq |
-ja. aq~ggiqraq itItya# &~ggiro &~ggiraq iti# |
-Ga. aq~ggiqraq itItya# &~ggiro &~ggiraq ityA#hAqhetya#~ggiro &~ggiraq ityA#ha |
+ja. aq~ggiqraq itItya#~ggiro &~ggiraq iti# |
+Ga. aq~ggiqraq itItya#~ggiro &~ggiraq ityA#hAqhetya#~ggiro &~ggiraq ityA#ha |
 (a~ggira itItya~ggiro~ggira ityAhAhetya~ggiro ~ggira ityAha)
 --------------------------------
 <lang=eng>(Rule avagraha  sandhi Condition =    letters =   )(JM 76)<lang=eng>
@@ -2958,7 +2370,7 @@ Rule = n in sapatnAn becomes (gm) when followed by indro me.. here it is IndraH)
 Rule = atha elongates to athA before sapatnAn
 Rule = n before atha does not become (gm) retains n (PS 9.24)<lang=def>
 
-1.1.13.11.6.4.2 atha# | saqpatnAn# | indra#H |
+1.1.13.11.6.4.2 atha# | saqpatnAn# | indra#H | (to be corrected)
 1. atha# | saqpatnAn# |
 1ja. athA# saqpatnA#nth saqpatnAq nathAthA# saqpatnAn# |	
 athA sapatnAnth sapatnAnathAthA sapatnAn |
@@ -3007,38 +2419,6 @@ aqnuqShTuBAq pariqparya#NuqShTuBA#&nuqShTuBAq pari# ||
 5.1.5.2	naqhyaqtiq | aqnuqShTup |	
 naqhyaqtyaqnuqShTuba#nuqShTub na#hyatinahyatyanuqShTup ||
 --------------
-<lang=eng>(Rule Dvipadam Condition = Different   letters = u,su  )(JM 14)(GD 24)<lang=def>
-
-4.6.2.2	aqsUrtA$ | sUrtA$ | raja#saH |	
-ja.  aqsUrtAq sUrtAq sUrtAq &sUrtAq &sUrtAq sUrtA$ |
-Ga. aqsUrtAq sUrtAq sUrtAq &sUrtAq &sUrtAq sUrtAqraja#soq raja#saqH sUrtAq &sUrtAq &sUrtAq sUrtAq raja#saH |
---------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(GD 24)<lang=def>
-
-5.3.12.2  taqraqtiq | tara#ti | braqhmaqhaqtyAm |
-1.  taqraqtiq tara#tiq |
-1ja. taratiq tara#tiq tara#ti tarati taratiq tara#tiq |
-1Ga.  taqraqtiq | tara#ti | braqhmaqhaqtyAm |
-taratiq tara#tiq tara#ti tarati taratiq tara#ti brahmahaqtyAm bra#hmahaqtyAm tara#ti tarati taratiq tara#ti brahmahaqtyAm |
-
-((taratitaratitaratitaratitaratitarati brAhRuhatyAMbrAhRuhatyAMtaratitaratitaratitaratibrAhRuhatyAm ))
-
----------
-<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(GD 24)<lang=def>
-
-1.8.14.1 te | teq | vAca$m |
-1ja. te | teq |
-te te# teq te te te$ |
-1Ga. te te# teq te te teq vAcaqm vAca#m teq te te teq vAca$m |
-
-tetetetetetevAcaMvAcaMtetetetevAcam
----------------------
-6.6.4.4  uqpaqSaqyaH | uqpaqSaye$ | BrAtRu#vyApanuttyai | (GD 24) (GD 74)
-1ja. uqpaqSaqya u#paqSaya# upaqSaya# upaSaqya u#paSaqya u#paqSaye$ |
-1Ga. uqpaqSaqya u#paqSaya# upaqSaya# upaSaqya u#paSaqya u#paqSayeq BrAtRu#vyApanuttyaiq BrAtRu#vyApanuttyA upaqSaya# upaSaqya u#paSaqya u#paqSayeq BrAtRu#vyApanuttyai |
-
-upaSaya upaSaya upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai BrAtRuvyApanuttyA upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai |
-------------------------------------------
 <lang=eng>(Rule Vowel Sandhi Condition =  letters =  )(GD 26)(GD47)(GD 53)<lang=def>
 
 6.1.4.6 deqvaH | A | martye#Shu | A | iti# | Aqhaq | deqvaH |
@@ -3191,7 +2571,7 @@ Ga. aqmitrAq nududaqmitrA# naqmitrAqn unnayAmi nayAqmu daqmitrA# naqmitrAqn unna
 
 4.1.14.4	saH | it | uq |
 Ga. sedith sa seduvuvith sa sedu |
-(seditsaseduvuqvitsasedu#)
+       (sedit sa seduvuqvit sasedu#)
 ----------
 <lang=eng>(Rule Consonant Sandhi Condition = Single   letters = it,u,  )(GD 46)<lang=def>
 
