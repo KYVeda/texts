@@ -1,17 +1,17 @@
 <lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)(GD 46)(GD 49)(Raja Excel)<lang=def>
 2.3.7.4 anna$m | aqdanti# | aqdanti# | uq | eqva | aqsyaq | maqnuqShyA$H |
 
-1. anna$m | aqdanti# | aqdanti# |
-1j. anna# maqdantyaqdan tyannaqmanna# maqdanti# |
-1G. anna#maqdantyaqdan tyannaqmanna# maqdantyaqdanti# |
+1. anna$m | aqdanti# | (drop third padam if it is identical to second) (repeat jatai for both)
+1j.   anna# maqdantyaqdan tyannaqmanna# maqdanti# |
+1G. anna#maqdantyaqdan tyannaqmanna# maqdanti# |
 
-2. aqdanti# | aqdanti# | uq | 
-2j. aqdantyaqdanti# |  
-2G. aqdantyaqdantyu# vuvaqdantyaqdantyu# |  
+2. aqdanti# | aqdanti# | (keep divipadam once repeated for both jatai and ghanam)
+2j.   aqdantyaqdanti# |  
+2G. aqdantyaqdanti# |  
 
-3.  aqdanti# | uq | eqva |
+3.  aqdanti# | uq | eqva | (got rid of dvipadam proceed as normal)
 3J -  aqdantyu# vuvaqdantyaqdantyu# | 
-3G - aqdantyu# vuvaqdantyaqdantyu# veqvaivo dantyaqdantyu# veva | rule ? u apRukta+a =vu?
+3G - aqdantyu# vuvaqdantyaqdantyu# veqvaivo dantyaqdantyu# veva | 
       (adantyu      vuvadantya    dantyuvevaivodantyadantyuveva )
 4. uq | eqva | aqsyaq |
 4J - uq veqvaiva# vuveqva | 
@@ -42,11 +42,11 @@
 3. sat | dyuqmat | nama#H |
 3j.   sad dyuqmad dyuqmath sath saddyuqmat |
 3G. sad dyuqmaddyuqmath sath saddyuqman namoq namo# dyuqmath sath saddyuqman nama#H |
-4. dyuqmat | nama#H | nama#H |
+4. dyuqmat | nama#H |  (drop third padam since identical with second)
 4j -   dyuqman namoq namo# dyuqmaddyuqman nama#H |
-4G - dyuqman namoq namo# dyuqmaddyuqman namoq nama#H |
+4G - dyuqman namoq namo# dyuqmaddyuqman nama#H | (only keep 6 like jatai for both; 7th not required as in upayanamaskaram in Rudram)
 
-5. nama#H | nama#H
+5. nama#H | nama#H | ( since last two same dvipadam for both Jatai and Ghanam)
 namoq nama#H
 6. nama#H | 
 --------------------------------------------------------------------------------------
@@ -56,10 +56,10 @@ namoq nama#H
 1. catu#rvi(gm)SatiH | aqrddhaqmAqsAH | saqm~MvaqthsaqraH |
 1j. catu#rvi(gm)SatirarddhamAqsA a#rddhamAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)Sati-rarddhamAqsAH |
 1G. catu#rvi(gm)SatirarddhamAqsA a#rddhamAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)Sati rarddhamAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsA catu#rvi(gm)Satiq-Scatu#rvi(gm)SatirarddhamAqsAH sa#M~MvathsaqraH |
-2. aqrddhaqmAqsAH | saqm~MvaqthsaqraH | saqm~MvaqthsaqraH |
-2ja. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsAH sa#M~MvathsaqraH |
-2Ga. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsAH sa#M~MvathsaqraH sa#m~MvathsaqraH |
-3. saqm~MvaqthsaqraH | saqm~MvaqthsaqraH |
+2. aqrddhaqmAqsAH | saqm~MvaqthsaqraH | (third padam dropped as identical to second)
+2ja. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsA aqrddhaqmAqsAH sa#M~MvathsaqraH | (one padam was missing now corrected)
+2Ga. aqrddhaqmAqsAH sa#M~MvathsaqraH sa#M~Mvathsaqro &rddha#mAqsA aqrddhaqmAqsAH sa#M~MvathsaqraH  | (same as Jatai)
+3. saqm~MvaqthsaqraH | saqm~MvaqthsaqraH | (same for jatai and ghanam)
 3J. saqm~MvaqthsaqraH sa#M~MvathsaqraH | (DP)
 3G. saqm~MvaqthsaqraH sa#M~MvathsaqraH | (DP)
 4. saqm~MvaqthsaqraH | suqvaqrgaH | loqkaH |
