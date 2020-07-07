@@ -3,7 +3,7 @@
 
 1. anna$m | aqdanti# | (drop third padam if it is identical to second) (repeat jatai for both)
 1j.   anna# maqdantyaqdan tyannaqmanna# maqdanti# |
-1G. anna#maqdantyaqdan tyannaqmanna# maqdanti# |
+1G. anna# maqdantyaqdan tyannaqmanna# maqdanti# |
 
 2. aqdanti# | aqdanti# | (keep divipadam once repeated for both jatai and ghanam)
 2j.   aqdantyaqdanti# |  
@@ -11,8 +11,8 @@
 
 3.  aqdanti# | uq | eqva | (got rid of dvipadam proceed as normal)
 3J -  aqdantyu# vuvaqdantyaqdantyu# | 
-3G - aqdantyu# vuvaqdantyaqdantyu# veqvaivo dantyaqdantyu# veva | 
-      (adantyu      vuvadantya    dantyuvevaivodantyadantyuveva )
+3G - aqdantyu# vuvaqdantyaqdantyu# veqvaivo &dantyaqdantyu# veva | 
+      (adantyu      vuvadantya    dantyu vevaivo? dantyadantyuveva -check audio)
 4. uq | eqva | aqsyaq |
 4J - uq veqvaiva# vuveqva | 
 4G - uq veqvaiva# vuveqvAsyA$syaiva vuveqvAsya# | 
@@ -452,7 +452,7 @@ ityA#hAqhetItyA#ha ||
 3J. yAqtiq vRuqShaqBo vRu#ShaqBo yA#ti yAti vRuShaqBaH |
 3G. yAqtiq vRuqShaqBo vRu#ShaqBo yA#ti yAti vRuShaqBastuvi#ShmAqn tuvi#ShmAn. vRuShaqBo yA#ti yAti vRuShaqBastuvi#ShmAn |
 4. vRuqShaqBaH | tuvi#ShmAn |
-4.vRuqShaqBastuvi#ShmAqn? tuvi#ShmAn. vRuShaqBo vRu#ShaqBastuvi#ShmAqn ||
+4.vRuqShaqBastuvi#ShmAqn? tuvi#ShmAn. vRuShaqBo vRu#ShaqBastuvi#ShmAn ||
 -----------------------------
 <lang=eng>(Rule trikramam Condition = normal )(GD 26)(No Excel)<lang=def>
 1.5.1.2	padams -  iti# | tam | pUqShA | A | aqdhaqttaq | tena# | 
@@ -481,11 +481,10 @@ ityA#hAqhetItyA#ha ||
 
 2.  maqhiqtvaqnA | A | nAka$m | taqsthuH |
 2J.maqhiqtvaqnA &&nAkaqn nAkaqmA ma#hitvaqnA ma#hitvaqnA&&nAka$m |
-2J.maqhiqtvaqnA &&nAkaqm nAkaqmA ma#hitvaqnA ma#hitvaqnA &&nAka$m taqsthu staqsthur nAkaqmA ma#hitvaqnA ma#hitvaqnA &&nAka$m taqsthuH | ??
-
+2J.maqhiqtvaqnA &&nAkaqm nAkaqmA ma#hitvaqnA ma#hitvaqnA &&nAka#m taqsthu staqsthur nAkaqmA ma#hitvaqnA ma#hitvaqnA &&nAka#m taqsthuH | 
 3. A | nAka$m | taqsthuH |
 3J. A nAkaqm nAkaqmA nAka$m |
-3Ga. A nAkaqm nAkaqmA nAka$m taqsthu staqsthur nAkaqmA nAka$m taqsthuH |
+3Ga. A nAkaqm nAkaqmA nAka#m taqsthu staqsthur nAkaqmA nAka#m taqsthuH |
 4. nAka$m | taqsthuH |
 4J nAka#m taqsthu staqsthur nAkaqm nAka#m taqsthuH |
 ----------------------------
@@ -498,12 +497,12 @@ ityA#hAqhetItyA#ha ||
 
 2. mA | A | vRuqkShiq | suqBUH |
 2ja. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi |
-2Ga. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi suqBUH suqBUr. vRuqkShyA mA mA &&vRu#kShi |
+2Ga. mA&&vRu#kShi vRuqkShyA mA mA &&vRu#kShi suqBUH suqBUr. vRuqkShyA mA mA &&vRu#kShi  suqBUH |
 3. A | vRuqkShiq | suqBUH |
 3ja. A vRu#kShi vRuqkShyA vRu#kShi |
 3ga. A vRu#kShi vRuqkShyA vRu#kShi suqBUH suqBUr. vRuqkShyA vRu#kShi suqBUH |
 4. vRuqkShiq | suqBUH | aqsiq |
-4j. vRuqkShiq suqBUH suqBUr. vRu#kShi vRukShi suqBUH
+4j. vRuqkShiq suqBUH suqBUr. vRu#kShi vRukShi suqBUH |
 4Ga. vRuqkShiq suqBUH suqBUr. vRu#kShi vRukShi suqBUra#syasi suqBUr. vRu#kShi vRukShi suqBUra#si | 
 5. suqBUH | aqsiq |
 suqBUra#syasi suqBUH suqBUra#si |
@@ -887,3 +886,237 @@ aqkroqSaqnnitya#kroSann ||
 7. aqham
 7. aqhamityaqham
 --------------------
+<lang=eng>added on 06/07/2020) (Rule Consonant Sandhi Condition = n to N, in samhitA order)(JM 36)(JD 20)(GD37)(PS 7.2)<lang=def>
+7.2.10.4 - yAH | tRuqtIyA$H | pAtrA#Ni | tABi#H | niH | neqniqkteq | yAH | caqtuqrthIH |
+
+1.  yAH | tRuqtIyA$H | pAtrA#Ni |
+1J. yAstRuqtIyA# stRuqtIyAq yA yAstRuqtIyA$H |
+1G - yAstRuqtIyA# stRuqtIyAq yA yAstRuqtIyAqH pAtrA#Niq pAtrA#Ni tRuqtIyAq yA yAstRuqtIyAqH pAtrA#Ni | 
+
+2. tRuqtIyA$H | pAtrA#Ni | tABi#H |
+2J - tRuqtIyAqH pAtrA#Niq pAtrA#Ni tRuqtIyA$ stRuqtIyAqH pAtrA#Ni |
+2G - tRuqtIyAqH pAtrA#Niq pAtrA#Ni tRuqtIyA$ stRuqtIyAqH pAtrA#Niq tABiqstABiqH pAtrA#Ni tRuqtIyA$ stRuqtIyAqH pAtrA#Niq tABi#H |
+
+3. pAtrA#Ni | tABi#H | niH |
+3J - pAtrA#Niq tABiqstABiqH pAtrA#Niq pAtrA#Niq tABi#H |
+3G - pAtrA#Niq tABiqstABiqH pAtrA#Niq pAtrA#Niq tABiqr nir NiShTABi#H pAtrA#Niq pAtrA#Niq tABiqr niH |
+4. tABi#H | niH | neqniqkteq |
+4J -  tABiqr nir NiShTABiq stABiqr niH |
+4G - tABiqr nir NiShTABiq stABiqr nirNe#nikte nenikteq niShTABiq stABiqr nirNe#nikte | 
+      (tABir nir  NiShTABi stABir nirNenikte nenikte niShTABi stABirnirNenikte )
+5. niH | neqniqkteq | yAH |
+5J - nir Ne#nikte nenikteq nir NirNe#nikte |
+5G -  nir Ne#nikte nenikteq nir NirNe#nikteq yA yA ne#nikteq nir NirNe#nikte yAH |
+       (nir  Nenikte  nenikte   nir  NirNenikte     yA  yA nenikte    nir NirNenikte  yAH |)
+6. neqniqkteq | yAH | caqtuqrthIH |
+6J - neqniqkteq yA yA ne#nikte nenikteq yAH |
+6G - neqniqkteq yA yA ne#nikte nenikteq yASca#tuqrthISca#tuqrthIr. yA ne#nikte nenikteq yASca#tuqrthIH |
+
+7. yAH | caqtuqrthIH |
+7. yASca#tuqrthISca#tuqrthIr. yA yASca#tuqrthIH ||
+
+8. caqtuqrthIH |
+------------------------------------------------------
+<lang=eng>(Rule Consonant Sandhi Condition = n to N letter = T )(JM 53)(GD 37)(PS 8.2)(Excel)<lang=def>
+
+1.8.10.2 - triqtaH | jaqriqmANa$m | naqH | AqnaqT | viShNo$H | krama#H | aqsiq | viShNo$H | krAqntam | aqsiq |
+1. triqtaH | jaqriqmANa$m | naqH |
+1J. triqto ja#riqmANa#m jariqmANa#m triqtastriqto ja#riqmANa$m |
+1G. triqto ja#riqmANa#m jariqmANa#m triqtastriqto ja#riqmANa$m no no jariqmANa#m triqtastriqto ja#riqmANa$m naH |
+
+2.  jaqriqmANa$m | naqH | AqnaqT |
+2J. ja#riqmANa$m no no jariqmANa#m jariqmANa$m naqH |
+2G.  ja#riqmANa$m no no jariqmANa#m jariqmANa$m na AnaDAnaNNo jariqmANa#m jariqmANa$m na AnaT |
+
+3. naqH | AqnaqT | viShNo$H | (naq AqnaqDAqnaqNNoqnaq AqnaqT) (Note rule T before n >Na)
+3J - naq AqnaqDAqnaqNNoqnaq AqnaqT |
+3G - naq AqnaqDAqnaqNNoqnaq AqnaqD viShNoqr viShNo#rAnaNNo na AnaqD viShNo$H |
+
+4. AqnaqT | viShNo$H | krama#H |
+4J - AqnaqD viShNoqr viShNo#rAnaDAnaqD viShNo$H |
+4G - AqnaqD viShNoqr viShNo#rAnaDAnaqD viShNoqH kramaqH kramoq viShNo#rAnaDAnaqD viShNoqH krama#H |
+
+5. viShNo$H | krama#H | aqsiq |
+5J- viShNoqH kramaqH kramoq viShNoqr viShNoqH krama#H |
+5G- viShNoqH kramaqH kramoq viShNoqr viShNoqH kramo$&syasiq kramoq viShNoqr viShNoqH kramo#&si |
+
+6. krama#H | aqsiq | viShNo$H |
+6J - kramo$&syasiq kramoq kramo#&si |
+6G - kramo$&syasiq kramoq kramo#&siq viShNoqr. viShNo#rasiq kramoq kramo#&siq viShNo$H |
+
+7. aqsiq | viShNo$H | krAqntam |
+7J - aqsiq viShNoqr viShNo#rasyasiq viShNo$H |
+7G- aqsiq viShNoqr viShNo#rasyasiq viShNo$H krAqntam krAqntam ~MviShNo#rasyasiq viShNo$H krAqntam |
+
+8. viShNo$H | krAqntam | aqsiq |
+8J. viShNo$H krAqntam krAqntam ~MviShNoqr viShNo#r krAqntam |
+8G- viShNo$H krAqntam krAqntam ~MviShNoqr viShNo#r krAqntama#syasi krAqntam ~MviShNoqr viShNo#r krAqntama#si |
+
+9.  krAqntam | aqsiq |
+9.  krAqntama#syasi krAqntam krAqntama#si |
+
+10.  aqsiq |
+---------------------------------------------
+<lang=eng>(Rule Consonant Sandhi Condition = n to N letter = T )(JM 53)(GD 37)(PS 8.2)(Excel)<lang=def>
+7.1.1.2 - A | aqdaqttaq | tat | gaqrdaqBe | ni | aqmAqrTq | tasmA$t | gaqrdaqBaH |
+1.A | aqdaqttaq | tat |
+1J. A&da#ttAdaqttA &da#tta |
+1G. A&da#ttAdaqttA &da#ttaq tattada#daqttA &da#tta tat |
+
+2.aqdaqttaq | tat | gaqrdaqBe |
+2J. aqdaqttaq tattada#dattAdattaq tat |
+2G. aqdaqttaq tattada#dattAdattaq tat ga#rdaqBe ga#rdaqBe tada#dattAdattaq tat ga#rdaqBe |
+
+3. tat | gaqrdaqBe | ni |
+3J. tat ga#rdaqBe ga#rdaqBe tattad ga#rdaqBe |
+3G. tat ga#rdaqBe ga#rdaqBe tattad ga#rdaqBe ni ni ga#rdaqBe tat tad ga#rdaqBe ni |
+
+4. gaqrdaqBe | ni | aqmAqrTq |
+4J. gaqrdaqBe ni ni ga#rdaqBe ga#rdaqBe ni |
+4G. gaqrdaqBe ni ni ga#rdaqBe ga#rdaqBe nya#mArDamAqrNNi ga#rdaqBe ga#rdaqBe nya#mArT |
+
+5.ni | aqmAqrTq | tasmA$t | 
+5J. nya#mArDamAqrNNi nya#mArT |
+5G. nya#mArDamAqrNNi nya#mArT tasmAqt tasmA#damAqrNNi nya#mAqrT tasmA$t |
+
+6. aqmAqrTq | tasmA$t | gaqrdaqBaH |
+6J - aqmAqrT tasmAqt tasmA#damArDamArT tasmA$t |
+6G- aqmAqrT tasmAqt tasmA#damArDamArT tasmA$d gardaqBo ga#rdaqBastasmA# damArDamArT tasmA$d gardaqBaH |
+
+7. tasmA$t | gaqrdaqBaH |
+7. tasmA$d gardaqBo ga#rdaqBastasmAqt tasmA$d gardaqBaH |
+
+8. gaqrdaqBaH |
+--------------------------
+<lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)(Excel)<lang=eng>
+
+7.5.1.5  gauH | triqShTuk | Ayu#H | jaga#tI | yat | eqte | stomA$H | Bava#nti |
+
+1.  gauH | triqShTuk | Ayu#H | 
+1J. gauShTriqShTuk triqShTug gaur gauShTriqShTuk |
+1J. gauShTriqShTuk triqShTug gaur gauShTriqShTugAyuqrAyu#ShTriqShTug gaur gauShTriqShTugAyu#H |
+
+2. triqShTuk | Ayu#H | jaga#tI | 
+2J. triqShTugAyuqrAyu#ShTriqShTuk triqShTugAyu#H |
+2G. triqShTugAyuqrAyu#ShTriqShTuk triqShTugAyuqr jaga#tIq jagaqtyAyu#ShTriqShTuk triqShTugAyuqr jaga#tI |
+
+3. Ayu#H | jaga#tI | yat |
+3J. Ayuqr jaga#tIq jagaqtyAyuqrAyuqr jaga#tI |
+3G. Ayuqr jaga#tIq jagaqtyAyuqrAyuqr jaga#tIq yad yaj-jagaqtyAyuqrAyuqr jaga#tIq yat |
+ 
+4.  jaga#tI | yat | eqte |
+4J. jaga#tIq yad yaj-jaga#tIq jaga#tIq yat |
+4G. jaga#tIq yad yaj-jaga#tIq jaga#tIq yadeqta eqte yaj-jaga#tIq jaga#tIq yadeqte |
+ 
+5. yat | eqte | stomA$H |
+5J.  yadeqta eqte yad yadeqte |
+5G. yadeqta eqte yad-yadeqte stomAqH stomA# eqte yad yadeqte stomA$H |
+
+6. eqte | stomA$H | Bava#nti |
+6J. eqte stomAqH stomA# eqta ete stomA$H |
+6G. eqte stomAqH stomA# eqta eqte stomAq Bava#ntiq Bava#ntiq stomA# eqta eqte stomAq Bava#nti |
+
+7. stomA$H | Bava#nti |
+7. stomAq Bava#ntiq Bava#ntiq stomA#H stomAq Bava#nti |
+
+8. Bava#nti |
+------------------------------------------------------------
+<lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)(Excel)<lang=eng> 
+
+6.5.2.1 gRuqhyaqteq | tasmA$t | Ayu#H | prAqNAnA$m | uqttaqmam |
+
+1. gRuqhyaqteq | tasmA$t | Ayu#H |
+1J. gRuqhyaqteq tasmAqt tasmA$d gRuhyate gRuhyeteq tasmA$t |
+1G. gRuqhyaqteq tasmAqt tasmA$d gRuhyate gRuhyeteq tasmAqdAyuqrAyuqShTasmA$d- gRuhyate gRuhyeteq tasmAqdAyu#H |
+
+2. tasmA$t | Ayu#H | prAqNAnA$m | (tasmAqdAyuqrAyuqShTasmAqttasmAqdAyu#H)
+2J. tasmAqdAyuq,rAyuqShTasmAqt tasmAqdAyu#H |
+2G. tasmAqdAyuq,rAyuqShTasmAqt tasmAqdAyu#H prAqNAnA$m prAqNAnA# mAyuqShTasmAqt tasmAqdAyu#H prAqNAnA$m |
+
+3. Ayu#H | prAqNAnA$m | uqttaqmam |
+3J. Ayu#H prAqNAnA$m prAqNAnAqmAyuqrAyu#H prAqNAnA$m |
+3G. Ayu#H prAqNAnA$m prAqNAnAqmAyuqrAyu#H prAqNAnA#muttaqma mu#ttaqmam prAqNAnAqmAyuqrAyu#H prAqNAnA# muttaqmam |
+
+4. prAqNAnA$m | uqttaqmam |
+4 prAqNAnA# muttaqmamu#ttaqmam prAqNAnA$m prAqNAnA#muttaqmam |
+5. uqttaqmam |
+------------------------------------
+------------------------------------
+<lang=eng>(Rule Consonant Sandhi Condition = s to Sh letters = hi, stha)(JM 23) (JD 12)(JD 13)(PS 6.2)(Rule Vowel Elongation Condition = a to A letters = stha)(PS 3.8)(Excel)<lang=def>
+
+5.6.1.4 - Apa#H | hi | stha | maqyoqBuva#H | tAH | naqH |
+
+1. Apa#H | hi | stha |
+1J. Apoq hi hyApaq Apoq hi |
+1G. Apoq hi hyApaq Apoq hi ShTha stha hyApaq Apoq hi ShTha |
+
+2.  hi | stha | maqyoqBuva#H | (hiShTha sthahi hi ShTha)
+2J. hi ShTha stha hi hi ShTha |
+2G. hi ShTha stha hi hi ShThA ma#yoqBuvo# mayoqBuvaqH stha hi hi ShThA ma#yoqBuva#H |
+
+3. stha | maqyoqBuva#H | tAH | 
+3J. sthA ma#yoqBuvo# mayoqBuvaqH stha sthA ma#yoqBuva#H |
+3G. sthA ma#yoqBuvo# mayoqBuvaqH stha sthA ma#yoqBuvaq stA stA ma#yoqBuvaqH stha sthA ma#yoqBuvaq stAH |
+
+4.  maqyoqBuva#H | tAH | naqH |
+4J- maqyoqBuvaq stA stA ma#yoqBuvo# mayoqBuvaqs tAH |
+4G-maqyoqBuvaq stA stA ma#yoqBuvo# mayoqBuvaq stA no# naqstA ma#yoqBuvo# mayoqBuvaq stA na#H |
+5.  tAH | naqH |
+5. tA no# naqstA stA na#H |
+6. naqH |
+----------------------
+<lang=eng>(Rule Consonant Sandhi Condition - s not Sh letters = )(JM 44)(GD36)(PS 6.2 Exception in PS 6.8)(Excel)(S followed by Ru sound exempt from Sh)<lang=def>
+
+1.8.12.1 - sam | madhu#matIH | madhu#matIBiH | sRuqjyaqddhvaqm | mahi# | varca#H |
+
+1. sam | madhu#matIH | madhu#matIBiH |
+1J. sam madhu#matIqr madhu#matIqH sa(gm) sam madhu#matIH |
+1G. sam madhu#matIqr madhu#matIqH sa(gm) sam madhu#matIqr madhu#matIBiqr madhu#matIBiqr madhu#matIqH sa(gm) sam madhu#matIqH madhu#matIBiH |
+
+2. madhu#matIH | madhu#matIBiH | sRuqjyaqddhvaqm |
+2J. madhu#matIqr madhu#matIBiqr madhu#matIBiqr madhu#matIqr madhu#matIqr madhu#matIBiH |
+2G. madhu#matIqr madhu#matIBiqr madhu#matIBiqr madhu#matIqr madhu#matIqr madhu#matIBiH sRujyaddhva(gm) sRujyaddhvaqm madhu#matIBiqr madhu#matIqr madhu#matIqr madhu#matIBiH sRujyaddhvam |
+
+3. madhu#matIBiH | sRuqjyaqddhvaqm | mahi# |
+3J. madhu#matIBiH sRujyaddhva(gm) sRujyaddhvaqm madhu#matIBiqr madhu#matIBiH sRujyaddhvam |
+3G. madhu#matIBiH sRujyaddhva(gm) sRujyaddhvaqm madhu#matIBiqr madhu#matIBiH sRujyaddhvaqm mahiq mahi# sRujyaddhvaqm madhu#matIBiqr madhu#matIBiH sRujyaddhvaqm mahi# |
+
+4. sRuqjyaqddhvaqm | mahi# | varca#H | 
+Chk(sRuqjyaqddhvaqm mahiq mahi# sRujyaddhva(gm) sRujyadhvaqm mahi#)
+4J.  sRuqjyaqddhvaqm mahiq mahi# sRujyaddhva(gm) sRujyaddhvaqm mahi# |
+4G. sRuqjyaqddhvaqm mahiq mahi# sRujyaddhva(gm) sRujyaddhvaqm mahiq varcoq varcoq mahi# sRujyaddhva(gm) sRujyaddhvaqm mahiq varca#H |
+chk (sRujyadhvaM mahi mahi sRujyadhva(gm) sRujyadhvaM mahi varco varco mahi sRujyadhva(gm) sRujyaddhvaM mahi varcaH ||)
+
+5. mahi# | varca#H |
+5J. mahiq varcoq varcoq mahiq mahiq varca#H |
+
+6. varca#H |
+-------------
+<lang=eng>(Rule Consonant Sandhi Condition = t to l letters = viT )(JM 55)(JD102)(GD61)(Excel)<lang=eng>
+
+6.6.5.3 -  mAqruqtam | A | laqBaqteq | viT | vai | maqruta#H | viSa$m |
+
+1. mAqruqtam | A | laqBaqteq |
+1J.  mAruqtamA mA#ruqtam mA#ruqtamA |
+1G. mAruqtamA mA#ruqtam mA#ruqtamA la#Bate laBataq A mA#ruqtam mA#ruqtamA la#Bate |
+
+2. A | laqBaqteq | viT |
+2J- A la#Bate laBataq Ala#Bate |
+2G- A la#Bate laBataq Ala#Bateq viD villa#Bataq Ala#Bateq viT |
+
+3. laqBaqteq | viT | vai
+3J. laqBaqteq viD villa#Bate laBateq viT |
+3G. laqBaqteq viD villa#Bate laBateq viD vai vai villa#Bate laBateq viD vai |
+    (laBateviD       viLlaBate laBate     viDvaivai   viLlaBate   laBateviDvai)
+4. viT | vai | maqruta#H
+4J - viD vai vai viD viD vai |
+4G - viD vai vai viD viD vai maqruto# maqrutoq vai viD viD vai maqruta#H |
+
+5. vai | maqruta#H | viSa$m |
+5J. vai maqruto# maqrutoq vai vai maqruta#H |
+5G. vai maqruto# maqrutoq vai vai maqrutoq viSaqm ~MviSa#m maqrutoq vai vai 
+maqrutoq viSa$m |
+6. maqruta#H | viSa$m |
+6. maqrutoq viSaqm ~MviSa#m maqrutoq maqrutaoq viSa$m |
+7. viSa$m
+----------
