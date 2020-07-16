@@ -1,20 +1,25 @@
 
 <lang=eng> jatA maNi jatA darpaNam & Gana darpaNam examples for jata & Gana input
 <lang=def>
------------------------------------------------Similar given 
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(GD 88) (PS 8.8)(No Excel)<lang=def>
-
-1.1.3.1	 mA | hvAqH | vasU#nAm | 
-Ga. mA hvA$rhvAqr mA mA hvAqr vasU#nAqm vasU#nA(gm) hvAqr mA mA hvAqr vasU#nAqm
-
-((mAhvArhvArmAmAhvArvasUnAMvasUnA(gm)hvArmAmAhvAr vasUnAm))
 ------------------------------------------- 
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is r )(GD 81)(PS 8.8)(No Excel)<lang=def>
-2.5.2.3	pra | hAqH | Aqvam |
-Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
-
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is r; word hAqH and aqntaH)(GD 81)(PS 8.8)(No Excel)<lang=def>
+2.5.2.3	pra | hAqH | Aqvam | aqntaH | svaqH | iti# |
+1. pra | hAqH | Aqvam | 
+1J. pra hA#r. hAqH pra pra hA$H |
+1G. pra hA#r. hAqH pra pra hA#rAqva mAqva(gm) hAqH pra pra hA#rAqvam |
 ((prahArhAH praprahArAvamAva(gm)hAH praprahArAvam))
--------------------------------------------------------------------------------------Exception Case
+2. hAqH | Aqvam | aqntaH |
+2J. hAqrAqvamAqvam hA#r. hArAqvam |
+2G. hAqrAqvamAqvam hA#r. hArAqva maqntaraqntarAqva(gm) hA#r. hArAqvamaqtaH | 
+3.  Aqvam | aqntaH | svaqH |
+3J. Aqva maqntaraqntarAqva mAqva maqntaH |
+3G. Aqva maqntaraqntarAqva mAqva maqntaH sva#H svaH aqntarAqva mAqva maqntaH sva#H |
+4. aqntaH | svaqH | iti# |
+4J. aqntaH sva#H svaH aqntaraqntaH sva#H |
+4G. aqntaH sva#H svaH aqntaraqntaH svaq itIti#  svaH aqntaraqntaH svaq iti# |
+5. svaqH | iti# |
+5J. svaq itIti#  svaH svaq iti# |
+------------------------------------------------Exception Case -------------------------------------
 <lang=eng>(Rule Visarga Sandhi; Condition = Visargam is 'r' )(Excel)(PS 8.8)
 (Rule Vowel Sandhi; Condition = a+e !=ai Word = etya )(PS 8.8)
 (Rule Consonant; Condition = n to N Word = niH before )(PS 7.2)(Excel)<lang=def>
@@ -43,14 +48,8 @@ Ga. pra hA#r. hA$H pra pra hA#rAqvamAqva(gm) hA$H pra pra hA#rAqvam |
 6. vA aSvo &Svoq vai vA aSva#H |
 
 7. aSva#H |
--------similar given
-<lang=eng>(Rule trikramam Condition = u su naH   letters = UShuNaH  )(JD 5)(GD 46)(PS 6.2) (PS 7.2)(No Excel)<lang=def>
 
-4.6.5.6 eqtAqdRukShA#saH | uq | su | naqH | (GD 35)(PS 6.2) (PS 7.2)
-Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu NaH |
-
-((etAdRukShAsa^^uvuvetAdRukShAsa^^etAdRukShAsa^^UShuNonasvetAdRukShAsa etAdRukShAsa^^UShuNaH ||)
------------ Exception to discuss with Raja
+-------------------------------- Exception Case (discuss with Raja)------------------------------
 <lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = r Reverse order )(PS 7.4,7.5)(JD 20)(GD 37)(Excel)<lang=def>
 
 2.1.3.3 - saH | eqva | aqsmaiq | anna$m | pra | yaqcCaqtiq |
@@ -81,7 +80,7 @@ Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqd
 ja.   prAnyo$ &nyaH pra prAnyaH  |
 Ga. prAnyo$ nyaH   pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sati |
 
-----------
+-----------------------------------------------------------------------------------
 <lang=eng>(Rule Consonant Sandhi Condition = u lopa  letters = nu,vai )(JM 27)(GD 34) (PS 5.13)(Rule Consonant Sandhi Condition = t to n  letters = t before n)(Excel)<lang=def>
 
 1.5.9.6 - maqnuqShyA#ya | it | nu | vai | yaH | aha#rahaH | (PS 8.8)
@@ -105,7 +104,7 @@ Ga. prAnyo$ nyaH   pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#s
 5. yo &ha#rahaqr aha#rahaqr yo yo &ha#rahaH |
 
 6. aha#rahaH 
--------------------------------------
+--------------------------------------------------------------------------
 <lang=eng>(Rule Consonant Sandhi Condition = u lopa  letters = tu,vai )(JM 27)(GD 46)(PS 5.13)
 (Rule Visarga Sandhi; Condition = visargam drop letters = saH )(PS 5.15)(Excel)<lang=def>
 1.7.1.4 - saH | tu | vai | iDA$m | upa# | hvaqyeqtaq | 
@@ -130,7 +129,7 @@ Ga. prAnyo$ nyaH   pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#s
 5.  upa# hvayeta hvayeqtopopa# hvayeta |
 
 6. hvaqyeqtaq
----------------------------------------
+--------------------------------------------------------------------------------
 
 <lang=eng>(Rule Consonant Sandhi Condition = s to Sh   letters =   )(JM 15)(No Excel)<lang=def>
 
@@ -2781,4 +2780,19 @@ Ga. aqvRuqShAqditItya#vRuShadavRuShaqditi# SruqtaH Sruqtaritya#vRuShadavRuShaqdi
 
 
 
------------
+
+-----------------------------------------------Redundant examples 15/07/2020------------------------------------
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(GD 88) (PS 8.8)(No Excel)<lang=def>
+
+1.1.3.1	 mA | hvAqH | vasU#nAm | 
+Ga. mA hvA$rhvAqr mA mA hvAqr vasU#nAqm vasU#nA(gm) hvAqr mA mA hvAqr vasU#nAqm
+
+((mAhvArhvArmAmAhvArvasUnAMvasUnA(gm)hvArmAmAhvAr vasUnAm))
+-----------------------------------------------------------
+<lang=eng>(Rule trikramam Condition = u su naH   letters = UShuNaH  )(JD 5)(GD 46)(PS 6.2) (PS 7.2)(No Excel)<lang=def>
+
+4.6.5.6 eqtAqdRukShA#saH | uq | su | naqH | (GD 35)(PS 6.2) (PS 7.2)
+Ga. eqtAqdRukShA#saq u vuve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu No# naq sve#tAqdRukShA#sa etAqdRukShA#sa Uq Shu NaH |
+
+((etAdRukShAsa^^uvuvetAdRukShAsa^^etAdRukShAsa^^UShuNonasvetAdRukShAsa etAdRukShAsa^^UShuNaH ||)
+------------------------------------------------------------
