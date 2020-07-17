@@ -1,24 +1,6 @@
 
 <lang=eng> jatA maNi jatA darpaNam & Gana darpaNam examples for jata & Gana input
 <lang=def>
-------------------------------------------- 
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is r; word hAqH and aqntaH)(GD 81)(PS 8.8)(No Excel)<lang=def>
-2.5.2.3	pra | hAqH | Aqvam | aqntaH | svaqH | iti# |
-1. pra | hAqH | Aqvam | 
-1J. pra hA#r. hAqH pra pra hA$H |
-1G. pra hA#r. hAqH pra pra hA#rAqva mAqva(gm) hAqH pra pra hA#rAqvam |
-((prahArhAH praprahArAvamAva(gm)hAH praprahArAvam))
-2. hAqH | Aqvam | aqntaH |
-2J. hAqrAqvamAqvam hA#r. hArAqvam |
-2G. hAqrAqvamAqvam hA#r. hArAqva maqntaraqntarAqva(gm) hA#r. hArAqvamaqtaH | 
-3.  Aqvam | aqntaH | svaqH |
-3J. Aqva maqntaraqntarAqva mAqva maqntaH |
-3G. Aqva maqntaraqntarAqva mAqva maqntaH sva#H svaH aqntarAqva mAqva maqntaH sva#H |
-4. aqntaH | svaqH | iti# |
-4J. aqntaH sva#H svaH aqntaraqntaH sva#H |
-4G. aqntaH sva#H svaH aqntaraqntaH svaq itIti#  svaH aqntaraqntaH svaq iti# |
-5. svaqH | iti# |
-5J. svaq itIti#  svaH svaq iti# |
 ------------------------------------------------Exception Case -------------------------------------
 <lang=eng>(Rule Visarga Sandhi; Condition = Visargam is 'r' )(Excel)(PS 8.8)
 (Rule Vowel Sandhi; Condition = a+e !=ai Word = etya )(PS 8.8)
@@ -50,7 +32,7 @@
 7. aSva#H |
 
 -------------------------------- Exception Case (discuss with Raja)------------------------------
-<lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = r Reverse order )(PS 7.4,7.5)(JD 20)(GD 37)(Excel)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = r Reverse order )(PS 7.4,7.5)(JD 20)(GD 37)(Excel R257-262)<lang=def>
 
 2.1.3.3 - saH | eqva | aqsmaiq | anna$m | pra | yaqcCaqtiq |
 1.saH | eqva | aqsmaiq
@@ -74,14 +56,21 @@
 
 6. yaqcCaqtiq |
 -------------------
-<lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = n Exception in PS )(PS 7.16)(JD 20)(GD 37)(No Excel)(anyaH is exempt)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Exception Condition = n nochange letter = n Exception in PS )(PS 7.16)(JD 20)(GD 37)(Raja Excel-R672-676)(Spec/RPT= yes;ntN160)<lang=def>
 
-7.5.9.3 pra | aqnyaH | Saq(gm)qsaqtiq | 
-ja.   prAnyo$ &nyaH pra prAnyaH  |
-Ga. prAnyo$ nyaH   pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sati |
-
+7.5.9.3 kroSa#ti | pra | aqnyaH | Saq(gm)qsaqtiq | yaH |
+1. kroSa#ti | pra | aqnyaH |
+1J. kroSa#tiq pra pra kroSa#tiq kroSa#tiq pra |
+1G. kroSa#tiq pra pra kroSa#tiq kroSa#tiq prAnyo$&nyaH pra kroSa#tiq kroSa#tiq prAnyaH |
+2. pra | aqnyaH | Saq(gm)qsaqtiq |
+2J.   prAnyo$&nyaH pra prAnyaH  |
+2G. prAnyo$&nyaH pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#sati |
+3.aqnyaH | Saq(gm)qsaqtiq | yaH |
+3J. anyaH Sa(gm)#sati Sa(gm)satyaqnyo$&nyaH Sa(gm)#sati |
+4. Saq(gm)qsaqtiq | yaH |
+4J. Saq(gm)qsaqtiq  yO yaH  Sa(gm)#sati Sa(gm)satiq yaH ||
 -----------------------------------------------------------------------------------
-<lang=eng>(Rule Consonant Sandhi Condition = u lopa  letters = nu,vai )(JM 27)(GD 34) (PS 5.13)(Rule Consonant Sandhi Condition = t to n  letters = t before n)(Excel)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Condition = u lopa  letters = nu,vai )(JM 27)(GD 34) (PS 5.13)(Rule Consonant Sandhi Condition = t to n  letters = t before n)(Excel-R263-268)(Spec/RPT= yes;L16,Vis240)<lang=def>
 
 1.5.9.6 - maqnuqShyA#ya | it | nu | vai | yaH | aha#rahaH | (PS 8.8)
 1.maqnuqShyA#ya | it | nu |
@@ -106,7 +95,7 @@ Ga. prAnyo$ nyaH   pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#s
 6. aha#rahaH 
 --------------------------------------------------------------------------
 <lang=eng>(Rule Consonant Sandhi Condition = u lopa  letters = tu,vai )(JM 27)(GD 46)(PS 5.13)
-(Rule Visarga Sandhi; Condition = visargam drop letters = saH )(PS 5.15)(Excel)<lang=def>
+(Rule Visarga Sandhi; Condition = visargam drop letters = saH )(PS 5.15)(Raja Excel-R269-274)(Spec/RPT= yes;L15)<lang=def>
 1.7.1.4 - saH | tu | vai | iDA$m | upa# | hvaqyeqtaq | 
 
 1.  saH | tu | vai |
@@ -129,19 +118,28 @@ Ga. prAnyo$ nyaH   pra prAnyaH Sa(gm)#sati Sa(gm)satyaqnyaH pra prAnyaH Sa(gm)#s
 5.  upa# hvayeta hvayeqtopopa# hvayeta |
 
 6. hvaqyeqtaq
---------------------------------------------------------------------------------
+-------------------------------------------------to check with rules----------------------------
 
 <lang=eng>(Rule Consonant Sandhi Condition = s to Sh   letters =   )(JM 15)(No Excel)<lang=def>
 
 3.4.3.1 3.4.3.2	soma#H | pra | ?? not prati??	
 somaqH pratiq, pratiqShomaqH somaqH prati# ||
 ----------------------
-<lang=eng>(Rule Consonant Sandhi Condition = s to Sh  letters =  )(GD 57)(No Excel)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Condition = s to Sh  letters =  )(GD 57)(Excel R677-681)(Spec/RPT= yes;Sh70)<lang=def>
 
-1.2.14.7	 svAqnAsa#H | diqvi | saqntuq |
-Ga. svAqnAso# diqvi diqvi svAqnAsa#H svAqnAso diqvi Shantu santu diqvi svAqnAsa#H svAqnAso diqvi Shantu |
-
-((svAnAsodividivisvAnAsassvAnAsodiviShantusantudivisvAnAsa ssvAnAsodiviShantu)) 
+1.2.14.7	 uqta | svAqnAsa#H | diqvi | saqntuq | aqgneH | 
+1.uqta | svAqnAsa#H | diqvi |
+1J. uqta svAqnAsa#H svAqnAsa# uqtota svAqnAsa#H |
+1G. uqta svAqnAsa#H svAqnAsa# uqtota svAqnAsa#H diqvi diqvi svAqnAsa# uqtota svAqnAsa#H diqvi | 
+2. svAqnAsa#H | diqvi | saqntuq |
+2J. svAqnAso# diqvi diqvi svAqnAsa#H svAqnAso# diqvi |
+Ga. svAqnAso# diqvi diqvi svAqnAsa#H svAqnAso diqvi Sha#ntu santu diqvi svAqnAsa#H svAqnAso# diqvi Sha#ntu |
+((svAnAso dividivisvAnAsassvAnAsodiviShantusantudivisvAnAsa ssvAnAsodiviShantu)) 
+3. diqvi | saqntuq | aqgneH |
+3j. diqvi Sha#ntu santu diqvi diqvi Sha#ntu |
+3G. diqvi Sha#ntu santu diqvi diqvi Sha#ntvagneraqgneH sa#ntu diqvi diqvi Sha#ntvaqgneH |
+4.saqntuq | aqgneH |
+4J. saqntvaqgneraqgneH sa#ntu santvaqgneH |
 ------------------
 <lang=eng>(Rule Pragraha Condition = Yes Reverse NPG letters =BaqriqShyantI#)(JM 24) (PS 4.19) (Rule Visarga Sandhi Condition = Visargam is 'r' )(Excel)(PS 8.10)<lang=def>
 
@@ -784,7 +782,7 @@ saqmathsva SvAqn prace#tasaqH prace#taqso &SvA$nth saqmathsu# |
 6. kRuqNoqtUq |
 -------------------------------------------------------
 <lang=eng>(Rule avagrha Condition = yes A with A  letters =  )<lang=eng>
-<lang=eng>(Rule Vowel Sandhi = No Condition = letters = ut)(JM 27)(JD 95)(Excel)<lang=def>
+<lang=eng>(Rule Vowel Sandhi = No Condition = letters = ut)(JM 27)(JD 95)(Excel-R543-550)<lang=def>
 
 1.2.8.1 - ut | Ayu#ShA | svAqyuShA$ | ut | oSha#dhInAm | rase#na | ut | paqrjanya#sya |
 

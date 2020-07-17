@@ -1,4 +1,4 @@
-<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)(GD 46)(GD 49)(Raja Excel)(Spec/RPT= yes;A11)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)(GD 46)(GD 49)(Raja Excel-)(Spec/RPT= yes;A11)<lang=def>
 2.3.7.4 anna$m | aqdanti# | aqdanti# | uq | eqva | aqsyaq | maqnuqShyA$H |
 
 1. anna$m | aqdanti# | (drop third padam if it is identical to second) (repeat jatai for both)
@@ -28,7 +28,7 @@
 7. maqnuqShyA$ iti# manuqShyA$H |
 ---------------------------------------------------------------
 <lang=eng>(Rule Dvipadam Condition = same )(JM 14)(JD 8)
-(Rule Consonant Sandhi Condition = s to Sh; Word = mahi (after) )(JM14)(JD 8)(Raja Excel)(Spec/RPT= yes;Sh78)<lang=def>
+(Rule Consonant Sandhi Condition = s to Sh; Word = mahi (after) )(JM14)(JD 8)(Raja Excel-R107-112))(Spec/RPT= yes;Sh78)<lang=def>
 3.2.8.2 - bRuhaqspata#ye | mahi# | sat | dyuqmat | nama#H | nama#H |
 
 1. bRuhaqspata#ye | mahi# | sat | (PS 6.2)
@@ -50,7 +50,7 @@
 namoq nama#H
 6. nama#H | 
 --------------------------------------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = same )(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = same )(Raja Excel R113-118)(Spec/RPT= yes;)<lang=def>
 7.4.1.3 padam: catu#rvi(gm)SatiH | aqrdhaqmAqsAH | saqm~MvaqthsaqraH | saqm~MvaqthsaqraH | suqvaqrgaH | loqkaH |
 
 1. catu#rvi(gm)SatiH | aqrddhaqmAqsAH | saqm~MvaqthsaqraH |
@@ -69,7 +69,7 @@ namoq nama#H
 5J. suqvaqrgo loqko loqkaH su#vaqrgaH suvaqrgo loqkaH |
 6. loqkaH |
 -----------------------
-<lang=eng>(Rule Dvipadam Condition = not same )(GD24)(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = not same )(GD24)(Raja Excel-R438-445)(Spec/RPT= yes;)<lang=def>
 1.3.3.1 - pAqhi | mAq | aqgneq | piqpRuqhi | mAq | mA | mAq | hiq(gm)qsIqH |
 
 1.  pAqhi | mAq | aqgneq |
@@ -101,7 +101,7 @@ namoq nama#H
 
 8. hiq(gm)qsIqH |
 -----------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = as one )(JM 9)(GD 17)(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = as one )(JM 9)(GD 17)(Raja Excel-R119-123)(Spec/RPT= yes;)<lang=def>
 
 1.5.6.4  dAqSuShe$ | upo#pa | it | nu | maqGaqvaqnn |
 1. dAqSuShe$ | upo#pa | it |
@@ -121,7 +121,7 @@ namoq nama#H
 
 5.  maqGaqvaqnn 
 -----------------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = as one )(GD 18)(Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = as one )(GD 18)(Raja Excel R124-130)(Spec/RPT= yes;)<lang=def>
 1.8.21.1 yathA$ | dAnti# | aqnuqpUqrvam | viqyUya# | iqheha# | eqShAqm | kRuqNuqtaq |
 
 1. yathA$ | dAnti# | aqnuqpUqrvam |
@@ -148,7 +148,7 @@ namoq nama#H
 6J - eqShAqm kRuqNuqtaq kRuqNuqtaiqShAq meqShAqm kRuqNuqtaq
 7.  kRuqNuqtaq ||
 --------------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = Different )(JM 14)(GD 24)(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = Different )(JM 14)(GD 24)(Raja Excel-R131-135)(Spec/RPT= yes;)<lang=def>
 
 4.6.2.2	aqsUrtA$ | sUrtA$ | raja#saH | viqmAne$ | ye |
 1.	aqsUrtA$ | sUrtA$ | raja#saH |
@@ -164,7 +164,7 @@ namoq nama#H
 4J.  viqmAneq ye ye viqmAne$ viqmAneq ye  |
 5. ya itiq ye
 --------------------------------------------
-<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(Raja Excel)(GD 24)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(Raja Excel-R136-140)(GD 24)(Spec/RPT= yes;)<lang=def>
 
 5.3.12.2  pAqpmAna$m | taqraqtiq | tara#ti | braqhmaqhaqtyAm | yaH |
 1. pAqpmAna$m | taqraqtiq | tara#ti |
@@ -181,7 +181,7 @@ namoq nama#H
 brahmahaqtyAm ~Myo yo bra#hmahaqtyAm bra#hmahaqtyAm ~MyaH |
 5 yaH |
 ---------
-<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(GD 24)(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(GD 24)(Raja Excel-R141-146)(Spec/RPT= yes;)<lang=def>
 
 1.8.14.1 te | teq | vAca$m | suqvaqntAqm | te | teq |
 1. te | teq | vAca$m | (tetetetetetevAcaMvAcaMtetetetevAcam)
@@ -201,7 +201,7 @@ brahmahaqtyAm ~Myo yo bra#hmahaqtyAm bra#hmahaqtyAm ~MyaH |
 6  teq |
 ta iti# te
 ---------------------
-<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(Raja Excel) (GD 74)(Spec/RPT= yes;<lang=def>
+<lang=eng>(Rule Dvipadam Condition = not identical  letters =   )(Raja Excel-R147-152) (GD 74)(Spec/RPT= yes;<lang=def>
 6.6.4.4  daqkShiqNaqtaH | uqpaqSaqyaH | uqpaqSaye$ | BrAtRu#vyApanuttyai | sarve$ | vai |
 1. daqkShiqNaqtaH | uqpaqSaqyaH | uqpaqSaye$ |
 1J.  daqkShiqNaqta u#paSaqya  u#paSaqyo da#kShiNaqto da#kShiNaqta u#paSaqyaH |
@@ -222,7 +222,7 @@ ta iti# te
 vA itiq vai
 upaSaya upaSaya upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai BrAtRuvyApanuttyA upaSaya upaSaya upaSaya upaSaye BrAtRuvyApanuttyai |
 ------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(JM 5)(JD 5)(Raja Excel)(Spec/RPT= yes;) <lang=def>
+<lang=eng>(Rule trikramam Condition = normal )(JM 5)(JD 5)(Raja Excel-R153-161)(Spec/RPT= yes;) <lang=def>
 1.1.2.2. saH | teq | mA | A | sthAqt | indra#sya | tvAq | bAqhuByA$m | ut |
 
 1. saH | teq | mA |
@@ -258,7 +258,7 @@ bAqhuByAqmudut bAqhuByA$m bAqhuByAqmut |
 
 9.  ut |
 ------------------------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(GD 52)(Excel)(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule trikramam Condition = normal )(GD 52)(Excel)(Raja Excel R189-197)(Spec/RPT= yes;)<lang=def>
 6.1.11.2 - maiqtram | kaqroti# | vAqruqNyA | RuqcA | A | sAqdaqyaqtiq | svayA$ | eqva | eqnaqm | 
 
 1. maiqtram | kaqroti# | vAqruqNyA |
@@ -294,7 +294,7 @@ bAqhuByAqmudut bAqhuByA$m bAqhuByAqmut |
 
 9.  eqnaqm |
 ----------------
-<lang=eng>(Rule trikramam Condition = normal )(Excel)(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule trikramam Condition = normal )(Excel)(Raja Excel R178-188)(Spec/RPT= yes;)<lang=def>
 1.5.4.1 eqva | eqnaqm | aqjara$m | kRuqtvA | A | dhaqtteq | athoq iti# | pUqtam | eqva | pRuqthiqvIm | aqnnAdya$m |
 
 1. eqva | eqnaqm | aqjara$m |
@@ -338,7 +338,7 @@ bAqhuByAqmudut bAqhuByA$m bAqhuByAqmut |
 
 11. aqnnAdya$m |
 -----------------------------------------
-<lang=eng>(Rule trikramam Condition = normal )(JM 4)(JM 5)(GD 53)(Raja Excel)(Spec/RPT= yes;)<lang=def>
+<lang=eng>(Rule trikramam Condition = normal )(JM 4)(JM 5)(GD 53)(Raja Excel-R198-204)(Spec/RPT= yes;)<lang=def>
 3.2.5.1 - BakSha# | A | iqhiq | mAq | A | viqSaq | dIqrGAqyuqtvAya# | (mA &&vi#Sa viqSA mA mA &&vi#Sa ||) 
 1. BakSha# | A | iqhiq |
 1J. BakShA BakShaq BakShA |
@@ -663,7 +663,7 @@ vai$SvAnaqro na# UqtyotyA |
 5. taqnaqktiq | seqndraqtvAya# |
 5. taqnaqktiq seqndraqtvAya# sendraqtvAya# tanakti tanakti sendraqtvAya# |
 --------------------------------------------------------------
-<lang=eng>(Rule trikramam Condition = UshuNo )(JD 5)(GD 46)(PS 6.2) (PS 7.2)(Raja Excel)(as above)(Spec/RPT= yes;Sh74,nTN 127)
+<lang=eng>(Rule trikramam Condition = UshuNo )(JD 5)(GD 46)(PS 6.2) (PS 7.2)(Raja Excel-R171-177)(as above)(Spec/RPT= yes;Sh74,nTN 127)
 <lang=def>
 4.1.4.2 - UqrddhvaH | uq | su | naqH | Uqtaye$ | tiShTha# | deqvaH |
 
@@ -694,7 +694,7 @@ vai$SvAnaqro na# UqtyotyA |
 <lang=eng>(Rule trikramam Condition = moShuNo )(JM 5) (JD 5)
 (Rule s to Sh Condition s after u)(PS 6.2) 
 (Rule n to N Condition n after Shu)(PS 7.2)
-(Rule Vowel Elongation u to U)(PS 3.14)(No Excel)(Spec/RPT= yes;Sh 75)<lang=def>
+(Rule Vowel Elongation u to U)(PS 3.14)(Raja Excel-R162-170)(Spec/RPT= yes;Sh 75)<lang=def>
 1.8.3.1 - kaqraqMBeNa# | saqjoSha#saH | mo (pg) | su | naqH | iqndraq | pRuqthsu | deqvaq | astu# | 
 1. kaqraqMBeNa# | saqjoSha#saH | mo (pg) |
 1J.  kaqraqMBeNa# saqjoSha#saH saqjoSha#saH karaqMBeNa# karaqMBeNa# saqjoSha#saH |
@@ -722,7 +722,7 @@ pRuqthsu de#va |
 deqvAstvastu# deva deqvAstu# |
 9.  astu# |
 -------------New Section added on 12/06/2020
-<lang=eng>(Rule Visarga Sandhi; Condition = Visargam is 'r' )(PS 8.8)(JM3)(GD 14) (Excel)(Spec/RPT= yes;Vis232)<lang=def>
+<lang=eng>(Rule Visarga Sandhi; Condition = Visargam is 'r' )(PS 8.8)(JM3)(GD 14) (Raja Excel-R94-99)(Spec/RPT= yes;Vis232)<lang=def>
 
 2.5.1.2 saqm~Mvaqthsaqram | aqbiqBaqH | tam | BUqtAni# | aqBi | aqkroqSaqnn |
 
@@ -748,7 +748,7 @@ aqBya#kroSannakroSannaqByaBya#kroSann |
 6. aqkroqSaqnn ||
 aqkroqSaqnnitya#kroSann ||
 ------------------------------------------------------------
-<lang=eng>(Rule Visarga Sandhi; Condition = Visargam is 'r' )(PS 8.8)(Excel)(Spec/RPT= yes;Vis 228)<lang=def> 
+<lang=eng>(Rule Visarga Sandhi; Condition = Visargam is 'r' )(PS 8.8)(Raja Excel R612-621)(Spec/RPT= yes;Vis 228)<lang=def> 
 1.1.4.1 - mA | hvAqH | miqtrasya# | tvAq | cakShu#ShA | pra | IqkSheq | mA | BeH | mA |
 
 1. mA | hvAqH | miqtrasya# |
@@ -788,7 +788,7 @@ aqkroqSaqnnitya#kroSann ||
 
 10.  mA |
 -----------------------------------------------
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 27)(JD 95)(PS 8.8)(Excel)(Rule lopa of s on separation from sthAnAt & ut)(PS 5.14)(Spec/RPT= yes;Vis238,286)<lang=def>
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 27)(JD 95)(PS 8.8)(Excel R282-291)(Rule lopa of s on separation from sthAnAt & ut)(PS 5.14)(Spec/RPT= yes;Vis238,286&L18)<lang=def>
 4.1.2.4 - aqgnim | suva#H | ruhA#NAH | adhi# | nAke$ | tAsA$m | sthAnA$t | ut | jiqhaqtAqm | oSha#dhayaH |
 1. aqgnim | suva#H | ruhA#NAH |
 1J.  aqgni(gm) suvaqH suva#raqgni maqgni(gm) suva#H |
@@ -828,7 +828,7 @@ aqkroqSaqnnitya#kroSann ||
 10. oSha#dhayaH
 ----------------------------------------
 <lang=eng>(Rule Visarga Sandhi; Condition = Visargam is 'r' )(PS 8.8)
-(Rule Visarga Sandhi; Condition = Visargam r to s; Word =kRudhi )(JM 39)(JD 26)(GD 39)(PS 8.25)(Excel)(Spec/RPT= yes;Vis239)<lang=def>
+(Rule Visarga Sandhi; Condition = Visargam r to s; Word =kRudhi )(JM 39)(JD 26)(GD 39)(PS 8.25)(Excel-R226-231)(Spec/RPT= yes;Vis239;Vis284)<lang=def>
 3.3.8.3 - naqShTam | A | kRuqdhiq | puna#H | naqH | raqyim |
 
 1. naqShTam | A | kRuqdhiq |
@@ -852,7 +852,26 @@ aqkroqSaqnnitya#kroSann ||
 
 6. raqyim |
 ---------------------------
-<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 3)(PS 8.8)(Excel)(Spec/RPT= yes;Vis248)<lang=def>
+------------------------------------------- 
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is r; word hAqH and aqntaH)(GD 81)(PS 8.8)(Raja Excel- R666-671)(Spec/RPT= yes;Vis228;Vis258)<lang=def>
+2.5.2.3	pra | hAqH | Aqvam | aqntaH | svaqH | iti# |
+1. pra | hAqH | Aqvam | 
+1J. pra hA#r. hAqH pra pra hA$H |
+1G. pra hA#r. hAqH pra pra hA#rAqva mAqva(gm) hAqH pra pra hA#rAqvam |
+((prahArhAH praprahArAvamAva(gm)hAH praprahArAvam))
+2. hAqH | Aqvam | aqntaH |
+2J. hAqrAqvamAqvam hA#r. hArAqvam |
+2G. hAqrAqvamAqvam hA#r. hArAqva maqntaraqntarAqva(gm) hA#r. hArAqvamaqtaH | 
+3.  Aqvam | aqntaH | svaqH |
+3J. Aqva maqntaraqntarAqva mAqva maqntaH |
+3G. Aqva maqntaraqntarAqva mAqva maqntaH sva#H svaH aqntarAqva mAqva maqntaH sva#H |
+4. aqntaH | svaqH | iti# |
+4J. aqntaH sva#H svaH aqntaraqntaH sva#H |
+4G. aqntaH sva#H svaH aqntaraqntaH svaq itIti#  svaH aqntaraqntaH svaq iti# |
+5. svaqH | iti# |
+5J. svaq itIti#  svaH svaq iti# |
+--------------------------------------
+<lang=eng>(Rule Visarga Sandhi Condition = Visargam is 'r' )(JM 3)(PS 8.8)(Raja Excel-R622-628)(Spec/RPT= yes;Vis248)<lang=def>
 
 3.3.9.1 padams  - maqhiqmne | uqta | cakShu#She | teq | maru#tAm | piqtaqH | aqham |
 
@@ -882,7 +901,7 @@ aqkroqSaqnnitya#kroSann ||
 7. aqham
 7. aqhamityaqham
 --------------------
-<lang=eng>added on 06/07/2020) (Rule Consonant Sandhi Condition = n to N, in samhitA order)(JM 36)(JD 20)(GD37)(PS 7.2)(Spec/RPT= yes;ntN 137)<lang=def>
+<lang=eng>added on 06/07/2020) (Rule Consonant Sandhi Condition = n to N, in samhitA order)(JM 36)(JD 20)(GD37)(PS 7.2)(Excel R205-212)(Spec/RPT= yes;ntN 137)<lang=def>
 7.2.10.4 - yAH | tRuqtIyA$H | pAtrA#Ni | tABi#H | niH | neqniqkteq | yAH | caqtuqrthIH |
 
 1.  yAH | tRuqtIyA$H | pAtrA#Ni |
@@ -913,7 +932,7 @@ aqkroqSaqnnitya#kroSann ||
 
 8. caqtuqrthIH |
 ------------------------------------------------------
-<lang=eng>(Rule Consonant Sandhi Condition = n to N letter = T )(JM 53)(GD 37)(PS 8.2)(Excel)(Note rule T before n >Na; First n becomes N following 'n' becomes 'N')(Spec/RPT= yes)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Condition = n to N letter = T )(JM 53)(GD 37)(PS 8.2)(Excel R239-248)(Note rule T before n >Na; First n becomes N following 'n' becomes 'N')(Spec/RPT= yes)<lang=def>
 
 1.8.10.2 - triqtaH | jaqriqmANa$m | naqH | AqnaqT | viShNo$H | krama#H | aqsiq | viShNo$H | krAqntam | aqsiq |
 1. triqtaH | jaqriqmANa$m | naqH |
@@ -953,7 +972,7 @@ aqkroqSaqnnitya#kroSann ||
 
 10.  aqsiq |
 ---------------------------------------------
-<lang=eng>(Rule Consonant Sandhi Condition = n to N letter = T )(JM 53)(GD 37)(PS 8.2)(Excel)(Spec/RPT= yes)<lang=def>
+<lang=eng>(Rule Consonant Sandhi Condition = n to N letter = T )(JM 53)(GD 37)(PS 8.2)(Excel R249-256)(Spec/RPT= yes)<lang=def>
 7.1.1.2 - A | aqdaqttaq | tat | gaqrdaqBe | ni | aqmAqrTq | tasmA$t | gaqrdaqBaH |
 1.A | aqdaqttaq | tat |
 1J. A&da#ttAdaqttA &da#tta |
@@ -984,7 +1003,7 @@ aqkroqSaqnnitya#kroSann ||
 
 8. gaqrdaqBaH |
 --------------------------
-<lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)(Excel)(Spec/RPT= yes HSh=91)<lang=eng>
+<lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)(Excel R213-220)(Spec/RPT= yes HSh=91)<lang=eng>
 
 7.5.1.5  gauH | triqShTuk | Ayu#H | jaga#tI | yat | eqte | stomA$H | Bava#nti |
 
@@ -1017,7 +1036,7 @@ aqkroqSaqnnitya#kroSann ||
 
 8. Bava#nti |
 ------------------------------------------------------------
-<lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)(Excel)(Spec/RPT= yes;HSh91)<lang=eng> 
+<lang=eng>(Rule Visarga Sandhi Condition = H to Sh )(JM 45)(PS 6.5)(Excel R221-225)(Spec/RPT= yes;HSh91)<lang=eng> 
 
 6.5.2.1 gRuqhyaqteq | tasmA$t | Ayu#H | prAqNAnA$m | uqttaqmam |
 
@@ -1037,7 +1056,7 @@ aqkroqSaqnnitya#kroSann ||
 4 prAqNAnA# muttaqmamu#ttaqmam prAqNAnA$m prAqNAnA#muttaqmam |
 5. uqttaqmam |
 ------------------------------------
-<lang=eng>(Rule Consonant Sandhi Condition = s to Sh letters = hi, stha)(JM 23) (JD 12)(JD 13)(PS 6.2)(Rule Vowel Elongation Condition = a to A letters = stha)(PS 3.8)(Excel)(Spec/RPT= yes)Sh 71<lang=def>
+<lang=eng>(Rule Consonant Sandhi Condition = s to Sh letters = hi, stha)(JM 23) (JD 12)(JD 13)(PS 6.2)(Rule Vowel Elongation Condition = a to A letters = stha)(PS 3.8)(Excel R292-297)(Spec/RPT= yes)Sh 71<lang=def>
 
 5.6.1.4 - Apa#H | hi | stha | maqyoqBuva#H | tAH | naqH |
 
@@ -1087,7 +1106,7 @@ chk (sRujyadhvaM mahi mahi sRujyadhva(gm) sRujyadhvaM mahi varco varco mahi sRuj
 
 6. varca#H |
 -------------
-<lang=eng>(Rule Consonant Sandhi Condition = t to l letters = viT )(JM 55)(JD102)(GD61)(Excel)(Spec/RPT= yes)<lang=eng>
+<lang=eng>(Rule Consonant Sandhi Condition = t to l letters = viT )(JM 55)(JD102)(GD61)(Excel R275-281)(Spec/RPT= yes)<lang=eng>
 
 6.6.5.3 -  mAqruqtam | A | laqBaqteq | viT | vai | maqruta#H | viSa$m |
 
@@ -1114,4 +1133,4 @@ maqrutoq viSa$m |
 6. maqruta#H | viSa$m |
 6. maqrutoq viSaqm ~MviSa#m maqrutoq maqrutaoq viSa$m |
 7. viSa$m
-----------
+-------------------------------------------------------
