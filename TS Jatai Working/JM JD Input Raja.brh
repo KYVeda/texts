@@ -1133,4 +1133,130 @@ maqrutoq viSa$m |
 6. maqruta#H | viSa$m |
 6. maqrutoq viSaqm ~MviSa#m maqrutoq maqrutaoq viSa$m |
 7. viSa$m
--------------------------------------------------------
+-------------------------------------------------------Added for Kampam on 16/08/2020 ----------------------
+<lang=eng>(Rule Kampa Swaram Condition =  letters = )(JD55)(GD 76)(Excel)<lang=def>
+
+5.3.6.3 - traya#H | iqme | loqkAH | eqShu | eqva | loqkeShu# | prati# | tiqShThaqtiq |
+
+1.  traya#H | iqme | loqkAH |
+1J. traya# iqma iqme trayaqstraya# iqme |
+1G. traya# iqma iqme trayaqstraya# iqme loqkA loqkA iqme trayaqstraya# iqme loqkAH |
+
+2. iqme | loqkAH | eqShu |
+2J. iqme loqkA loqkA iqma iqme loqkAH |
+2G. iqme loqkA loqkA iqma iqme loqkA eqShve#Shu loqkA iqma iqme loqkA eqShu |
+
+3.  loqkAH | eqShu | eqva | 
+3J. loqkA eqShve#Shu loqkA loqkA eqShu |
+3G. loqkA eqShve#Shu loqkA loqkA eqShve#vaivaiqShu loqkA loqkA eqShve#va |
+
+4. eqShu | eqva | loqkeShu# |
+4J. eqShve#vaivaiShve$(1q)Shve#va |
+4G. eqShve#vaivaiShve$(1q)Shve#va loqkeShu# loqkeShve#vaiShve$(1q)Shve#va loqkeShu# |
+
+5. eqva | loqkeShu# | prati# |
+5J. eqva loqkeShu# loqkeShve#vaiva loqkeShu# |
+5G. eqva loqkeShu# loqkeShve#vaiva loqkeShuq pratiq prati# loqkeShve#vaiva loqkeShuq prati# |
+
+6. loqkeShu# | prati# | tiqShThaqtiq |
+6J. loqkeShuq pratiq prati# loqkeShuq loqkeShuq prati# |
+6G. loqkeShuq pratiq prati# loqkeShuq loqkeShuq prati# tiShThati tiqShThatiq prati# loqkeShuq loqkeShuq prati# tiShThati |
+
+7. prati# | tiqShThaqtiq |
+7.  prati# tiShThati tiqShThatiq pratiq prati# tiShThati |
+
+8. tiqShThaqtiq |
+---------------------------------
+<lang=eng>(Rule Kampa Swaram Condition =  letters = )(Excel)<lang=def>
+
+6.1.11.5 - Aqhaq | viSvA#ni | hi | eqShaH | aqBi | dhAmA#ni | 
+
+1.  Aqhaq | viSvA#ni | hi |
+1J. Aqhaq viSvA#niq viSvAqnyAhA#haq viSvA#ni |
+1G. Aqhaq viSvA#niq viSvAqnyAhA#haq viSvA#ni hi hi viSvAqnyAhA#haq viSvA#ni hi | 
+
+2. viSvA#ni | hi | eqShaH |
+2J. viSvA#ni hi hi viSvA#niq viSvA#ni hi |
+2G. viSvA#ni hi hi viSvA#niq viSvA#niq hye#Sha eqSha hi viSvA#niq viSvA#niq hye#ShaH |
+
+3.  hi | eqShaH | aqBi |
+3ja. hye#Sha eqSha hi hye#ShaH |
+3Ga. hye#Sha eqSha hi hye$(1q)Sho$(1q)&ByA$(1q)Bye#Sha hi hye$(1q)Sho# &Bi |
+
+4. eqShaH | aqBi | dhAmA#ni | 
+4J. eqSho$(1q) &ByA$(1q)Bye#Sha eqSho#&Bi |
+4G. eqSho$(1q) &ByA$(1q)Bye#Sha eqSho#&Bi dhAmA#niq dhAmAqnyaqBye$(1q)Sho# &Bi dhAmA#ni |
+
+5. aqBi | dhAmA#ni |
+5J.  aqBi dhAmA#niq dhAmAqnyaqBya#Bi dhAmA#ni |
+
+6. dhAmA#ni |
+------------------------
+<lang=eng>(Rule Kampa Swaram Condition =  letters = )(JD 56) (GD70)(GD 77)(Excel)
+Note for Raja - m becomes gm before hyetat gm cannot acquire dheerga swaritam, previous tya is elongated to tyA but gm becomes anudAttam; it helps raising the rendering of hye as swaritam as a convention; not heard it in the samhitA yet in audio<lang=def>
+
+6.3.4.2 - ava# | stRuqNAqtiq | piqtRuqdeqvaqtya#m | hi | eqtat | yat | niKA#tam |
+
+1. ava# | stRuqNAqtiq | piqtRuqdeqvaqtya#m |
+1J. ava# stRuNAti stRuNAqtyavAva# stRuNAti |
+1G. ava# stRuNAti stRuNAqtyavAva# stRuNAti pitRudevaqtya#m pitRudevaqtya(gg)# stRuNAqtyavAva# stRuNAti pitRudevaqtya#m |
+
+2. stRuqNAqtiq | piqtRuqdeqvaqtya#m | hi |
+2J. stRuNAti pitRudevaqtya#m pitRudevaqtya(gg)# stRuNAti stRuNAti pitRudevaqtya#m |
+2G. stRuNAti pitRudevaqtya#m pitRudevaqtya(gg)# stRuNAti stRuNAti pitRudevaqtya(gm)# hi hi pitRudevaqtya(gg)# stRuNAti stRuNAti pitRudevaqtya(gm)# hi |
+
+3. piqtRuqdeqvaqtya#m | hi | eqtat |
+3J. pitRudevaqtya(gm)# hi hi pitRudevaqtya#m pitRudevaqtya(gm)# hi |
+3G. pitRudevaqtya(gm)# hi hi pitRudevaqtya#m pitRudevaqtyA$(1q)(gm)q hye#tadeqtaddhi pitRudevaqtya#m pitRudevaqtyA$(1q)(gm)q hye#tat |
+(pitRudevatya(gm)hihipitRudevatyaMpitRudevatyA^^~o~ga^^~ehretadetaddhipitRudevatyaM pitRudevatyA^^~o~ga^^~ehretat- ref from SikshA)
+4.  hi | eqtat | yat |
+4J. hye#tadeqtaddhi hye#tat |
+4G. hye#tadeqtaddhi hye#tadyadyad eqtaddhi hye#tadyat |
+
+5.  eqtat | yat | niKA#tam |
+5J. eqtadyadyad eqtad eqtadyat |
+5G. eqtadyadyad eqtad eqtadyan niKA#taqn niKA#taqm ~Myadeqtad eqtadyan niKA#tam |
+
+6. yat | niKA#tam |
+6J. yan niKA#taqn niKA#taqm ~Myadyan niKA#tam |
+
+7.  niKA#tam |
+-----------------------------------------------
+<lang=eng>(Rule Kampa Swaram Condition =  letters = ) uqru with uqru ru udattam with u anudAttam forms long U this is praliShta; check swara spec document also<lang=def>
+TS 1.1.2.2 - (vAkyam) uqrva#ntari#kShamanvi#hi  deva~ggamaM
+Padam - uqru | aqntari#kSham | anu# | iqhiq | 
+
+1. uqru | aqntari#kSham | anu# | (uqru aqntari#kSham aqntari#kSham uqru uqru aqntari#kSham)
+1J. uqrva#ntari#kShamaqntari#kShamuqrU$(1q)rva#ntari#kSham
+1G. uqrva#ntari#kShamaqntari#kShamuqrU$(1q)rva#ntari#kShamanvanvaqntari#kShamuqrU$(1q)rva#ntari#kShamanu |
+2. aqntari#kSham | anu# | iqhiq |
+2J. aqntari#kShamanvanvaqntari#kShamaqntari#kShamanu#  |
+2G. aqntari#kShaqmanvanvaqntari#kShamaqntari#kShaqmanvi#hIqhyanvaqntari#kSha maqntari#kShaqmanvi#hi |
+3. anu# |  iqhiq
+3J. anvi#hIhyanvanvi#hi |
+ 
+---------------------------------------------------------------
+TS 1.1.4.2 (kam pam) - (vAkyam) suva#raqBi vi Kye#ShaM
+padam - suva#H | aqBi | vi | KyeqShaqm |
+
+1. suva#H | aqBi | vi |
+1J. suva#raqBya#Bi suva#H suva#raqBi |
+1G. suva#raqBya#Bi suva#H suva#raqBi vi vya#Bi suva#H suva#raqBi vi |
+
+2. aqBi | vi | KyeqShaqm |
+2J. aqBi vi vyA$(1q)Bya#Bi vi |
+aqBi vi vyA$(1q)Bya#Bi vi Kye#Sham KyeSham ~MvyA$(1q)Bya#Bi vi Kye#Sham |
+
+3. vi | KyeqShaqm |
+vi KyeqShaqm KyeqShaqm ~Mvi vi KyeqShaqm |
+------------------------------------------
+
+TS 1.1.14.2 (kampam) (vAkyam) pari#patiM ~MvacaqsyA kAme#na kRuqto aqByA#naDaqrkaM |
+padam -  aqBi | AqnaqT | aqrkam || 
+1. aqBi | AqnaqT | aqrkam || (aqBi AqnaqT AqnaqT aqBi aqBi  AqnaqT)
+1J. aqByA#nadAnaDaqbyA$(1q)byA#naT |
+1G. aqByA#nadAnaDaqbyA$(1q)byA#naDaqrkamaqrkamAqnaDaqByA$(1q)ByA#naDaqrkam ||
+2. AqnaqT | aqrkam ||
+2J. AqnaDaqrkamaqrkamA#naDAnadaqrkam ||
+--------------------------------------------------------
+
