@@ -1206,12 +1206,12 @@ vyA || yAvAna~gguLisPoTanakAlaH nimeShakAlaH tAvAn mAtrAkAla iti vij~jeyaH |
 yathA | sa va a ham | evaM ca kAlaparimANaM j~jAtavyam | 
 
 Slo || halasmRutoNukAlaSca pare hali budhairyadi || 120
-vyA || hali pare sati paravya\janayuktasya halaH vya~jjanasya budhairaNukAla iti vij~jeyaH | 
+vyA || hali pare sati paravya~jjanayuktasya halaH vya~jjanasya budhairaNukAla iti vij~jeyaH | 
 yathA viSvtaScakShuH | 
 halyuttarasyeti kim ? viSvtaH | cakShuH | 
 
 Slo || varNayoravasAnassyAtpAdo mAtropyasaMyute || 121
-vyA || saMyogavyatiriktavarNayoH pratyekaBUtayoH madhye pAdamAtrovasAnaH virAmaH tUShNIMBUtakAlaH syAt | 
+vyA || saMyogavyatiriktavarNayoH pratyekaBUtayoH madhye pAdamAtrovasAnaH virAmaH tUShNIMBUtakAlaH syAt | <lang=eng>(samyoga = compound, coalition, combination)(tUShNimBUtaH =become silent) <lang=def>
 yathA - yaduBau | devAsurAH | 
 asaMyuta iti kim ? rakShA(gm)si | 
 
@@ -1266,8 +1266,7 @@ vyA || vya~jjanasvarasaMparke saMbandhe ekoccAraNe sati |
 anayoH uBayoH vya~jjanasvarayorapi tathsvarakAlavat tasya svarasya kAla eva syAt | 
 tvarito ccAraNAttayorapi svarakAla evetyarthaH | 
 yathA - rasaM prati rasAMgateti boddhavyam | 
-ekamAtrasvarasahito 
-yathA | vasavaH | 
+ekamAtrasvarasahito yathA | vasavaH | 
 dvimAtrasahito yathA | vAyAvevAsya | trimAtrasahito yathA | agnI 3 rnopastheyA 3 iti | 
 
 Slo || mAtrAnusvAro dvimAtrAnmAtrA dvimAtra eva tu | 
@@ -1280,9 +1279,9 @@ asya tu dvirUpavat dvitvavaduccAraNamiti mantavyam |
 yathA - sa(gg)SravA ha | 
 mAtrAtpara iti kim ? trI(gg)stRucAn ityAdi | 
 
-Slo || hyasvAdBavetAM Kathordhve se ~ganau tu dvimAtrikau || 129
+Slo || hrasvAdBavetAM Kathordhve se ~ganau tu dvimAtrikau || 129
 vyA || se sakAre pare KakAre thakAre vA pare sati | 
-hyasvAtparau ~gakAra nakArau dvimAtrikau BavetAm | 
+hrasvAtparau ~gakAra nakArau dvimAtrikau BavetAm | 
 yathA - pratya~gKsomaH | sa 2 nthsatA | 
 sapara iti kim ? aha~gKanAmi vaH | dugdhe mantham | 
 hyasvAditi kim ? prA~gKsomaH | tAnthsubdhAn |
@@ -1293,10 +1292,10 @@ She ShakAre pare saMhitAsaMbandhe KakAre thakAre vA pare sati |
 yathA | pratya2~g KShaDahaH | ShaShThehannaha2nthShaShThe ShaShThehan | 
 anityaKathordhva iti kim ? pratya~gkSheti | varca idaMkShatram | daMkShNavaH | var.Shman kShatrasya | 
 
-tathA hyasvAtparau ~gakAranakArau dvimAtrikau syAtAm | 
+tathA hrasvAtparau ~gakAranakArau dvimAtrikau syAtAm | 
 hakAre pare tasmin hakAre vya~jjane pare sati | 
 yathA - Atman hya~ggAni | tasmin hyAtmAnam | 
-hyasvAditi kim ? pitRUn hyatra gacCa | 
+hrasvAditi kim ? pitRUn hyatra gacCa | 
 ityAdi | 
 
 Slo || ekamAtroyuto naSca dIrGAttu yavahottare || 131
@@ -1311,10 +1310,10 @@ yavahottara iti kim ? etAM te pari dadAmi |
 visargo BaktirityAdinA ardhamAtratve prApte asya nakArasya 
 nAdasaMj~jABAvepi mAtrAkAlArthaM punagrrahaNam | 
 
-Slo || hyasvAddvimAtriko nAdassyAdanyastvekamAtrikaH || 132
+Slo || hrasvAddvimAtriko nAdassyAdanyastvekamAtrikaH || 132
 vyA || hyasvAt paro nAdaH avasAne uttamaH dvimAtraH syAt | yu~g | 
 asi | tam | te | yasmin | agniH | 
-itarasthitaH hyasvAnyapUrvo nAdaH ekamAtraH syAt | 
+itarasthitaH hrasvAnyapUrvo nAdaH ekamAtraH syAt | 
 parA~g | ait | etAn | homAn | brAhmA 3 n | 
 
 Slo || praNavedunmakArANAM trimAtratvaM prakIrtitaH || 
@@ -1515,6 +1514,7 @@ vyAsaSikShAyAmapi
 
 Slo || yadanyajAtirucyeta tattathsaMhArako Bavet | 
 yajjAtyuccAraNe teShAM tajjAtiparirakShaNam || 158
+
 Slo || veda eva tu viprANAmatyantaM mokShasAdhanam | 
 tasyA ByAsapradAnAByAM brahmasthAnaM hi SASvatam || 159
 vyA || viprANAM brAhmaNAnAM veda eva vedAdhyayanameva atyantaM mokShasAdhanaM Bavati | 
@@ -1532,7 +1532,7 @@ suSabdena yatrayatra yatnaH uktaH taduccAraNaM susvaraH |
 dhairyamavyagratA | 
 varNastu vyaktaH | 
 sthAnakaraNAdiniyamena samyaguccaritaH tadadhInatA tadvede 
-adhInatvam ityadhyetuH pa\ca guNA vihitAH evaMvidhaH puruShaH vedaPalaM laBet 
+adhInatvam ityadhyetuH pa~jca guNA vihitAH evaMvidhaH puruShaH vedaPalaM laBet 
 bodhAyanaSikShAyAmapyevam | 
 
 Slo || vyAGrI yathA haretputrAn daMShTrAByAM na ca pIDayet | 
