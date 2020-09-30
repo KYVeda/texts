@@ -1,0 +1,466 @@
+JOIN -> uqpAqyava#H  uqpAqyavaq ityu#pa - Aqyava#H | line number 8
+JOIN -> SrEShTha#tamAya  SreShTha#tamAqyetiq SreShTha# - taqmAqyaq | line number 15
+JOIN -> deqvaqBAqgam | deqvaqBAqgamiti# deva - BAqgam | line number 20
+JOIN -> praqjAva#tIH | praqjAva#tIqriti# praqjA - vaqtIqH | line number 23
+JOIN -> aqgaSa(gm)#saH |  aqGaSa(gm)#saq ityaqGa - Saq(gm)qsaqH | line number 31
+JOIN -> gopa#tau gopa#tAqvitiq go - paqtauq | line number 39
+JOIN -> pAqhiq || pAqhIti# pAhi || line number 44
+JOIN -> pratyu#ShTaqm | pratyu#ShTaqmitiq prati# - uqShTaqm | line number 48
+JOIN -> pratyu#ShTAH | pratyu#ShTAq itiq prati# - uqShTAqH | line number 50
+JOIN -> svaqdhayA$ | svaqdhayeti# sva - dhayA$ | line number 60
+JOIN -> vita#ShTA |  vitaqShTetiq vi - taqShTAq | line number 61
+JOIN -> Aqsade$ | Aqsadaq ityA$ - sade$ | line number 71
+JOIN -> paqriqShUqtam | paqriqShUqtamiti# pari - sUqtam | line number 73
+JOIN -> vaqrq.ShavRu#ddhaqm | vaqrq.ShavRu#ddhaqmiti# vaqrq.Sha - vRuqddhaqm | line number 75
+JOIN -> deva#bar.hiH | deva#bar.hiqritiq deva# - baqr.qhiqH | line number 77
+JOIN -> AqcCeqttA | AqcCeqttetyA$ - CeqttA | line number 86
+JOIN -> deva#bar.hiH | deva#bar.hiqritiq deva# - baqr.qhiqH | line number 90
+JOIN -> Saqtava#l.Saqm | Saqtava#l.Saqmiti# Saqta - vaql.Saqm | line number 91
+JOIN -> saqhasra#val.SAH saqhasra#val.SAq iti# saqhasra# - vaql.SAqH | line number 94
+JOIN -> saqMpRuca#H |  saqMpRucaq iti# saM - pRuca#H | line number 99
+JOIN -> suqsaqMBRutA$ |  suqsaqMBRuteti# su - saqMBRutA$ | line number 101
+JOIN -> saqnnaha#nam | saqnnaha#naqmiti# saM - naha#nam | line number 109
+JOIN -> bAqhuByA$m | bAqhuByAqmiti# bAqhu - ByAqm | line number 121
+JOIN -> deqvaq~ggaqmam | deqvaq~ggaqmamiti# devam - gaqmam | line number 131
+JOIN -> aqsiq || aqsItya#si || line number 132
+JOIN -> deqvaqyaqjyAyai$ | deqvaqyaqjyAyAq iti# deva - yaqjyAyai$ | line number 136
+JOIN -> viqSvadhA#yAH | viqSvadhA#yAq iti# viqSva - dhAqyAqH | line number 144
+JOIN -> SaqtadhA#ram  SaqtadhA#raqmiti# Saqta - dhAqraqm | line number 154
+JOIN -> saqhasra#dhAram | saqhasra#dhAraqmiti# saqhasra# - dhAqraqm | line number 158
+JOIN -> dyAvA#pRuthiqvIByA$m | dyAvA#pRuthiqvIByAqmitiq dyAvA$ - pRuqthiqvIByA$m | line number 167
+JOIN -> viqSvAyu#H | viqSvAyuqriti# viqSva - AqyuqH | line number 169
+JOIN -> viqSvavya#cAH | viqSvavya#cAq iti# viqSva - vyaqcAqH | line number 171
+JOIN -> RuqtAqvaqrIqH | RuqtAqvaqrIqrityRu#ta - vaqrIqH | line number 176
+JOIN -> madhu#mattamAH | madhu#mattamAq itiq madhu#mat - taqmAqH | line number 178
+JOIN -> viShNo$ | viShNoq itiq viShNo$ | line number 188
+JOIN -> raqkShaqsvaq || raqkShaqsveti# rakShasva || line number 190
+JOIN -> pratyu#ShTam | pratyu#ShTaqmitiq prati# - uqShTaqm | line number 197
+JOIN -> pratyu#ShTAH |  pratyu#ShTAq itiq prati# - uqShTAqH | line number 199
+JOIN -> sasni#tamam | sasni#tamaqmitiq sasni# - taqmaqm | line number 218
+JOIN -> papri#tamam |  papri#tamaqmitiq papri# - taqmaqm | line number 219
+JOIN -> juShTa#tamam | juShTa#tamaqmitiq juShTa# - taqmaqm | line number 220
+JOIN -> vahni#tamam | vahni#tamaqmitiq vahni# - taqmaqm | line number 221
+JOIN -> deqvaqhUta#mam | deqvaqhUta#maqmiti# deva - hUta#mam | line number 222
+JOIN -> haqviqrdhAna$m |  haqviqrdhAnaqmiti# haviH - dhAna$m | line number 225
+JOIN -> praqsaqve | praqsaqva iti# pra - saqve | line number 247
+JOIN -> bAqhuByA$m | bAqhuByAqmiti# bAqhu - ByAqm | line number 249
+JOIN -> aqgnIShomA$ByAm |  aqgnIShomA$ByAqmityaqgnI - somA$ByAm | line number 256
+JOIN -> dyAvA#pRuthiqvyoH | dyAvA#pRuthiqvyoritiq dyAvA$ - pRuqthiqvyoH | line number 275
+JOIN -> uqpasthe$ | uqpasthaq ityuqpa - stheq | line number 282
+JOIN -> raqkShaqsvaq || raqkShaqsveti# rakShasva || line number 286
+JOIN -> raqSmiBi#H |  raqSmiBiqriti# raqSmi - BiqH | line number 296
+JOIN -> aqgreqpuqvaqH | aqgreqpuqvaq itya#gre - puqvaqH | line number 299
+JOIN -> aqgreqpuqvaqH | aqgreqpuqvaq itya#gre - puqvaqH | line number 299
+JOIN -> aqgreqguqvaqH | aqgreqguqvaq itya#gre - guqvaqH | line number 300
+JOIN -> aqgreqguqvaqH | aqgreqguqvaq itya#gre - guqvaqH | line number 300
+JOIN -> yaqj~japa#tim | yaqj~japa#tiqmiti# yaqj~ja - paqtiqm | line number 306
+JOIN -> vRuqtraqtUrye$ | vRuqtraqtUryaq iti# vRutra - tUrye$ | line number 311
+JOIN -> vRuqtraqtUrye$ | vRuqtraqtUryaq iti# vRutra - tUrye$ | line number 315
+JOIN -> prokShi#tAH | prokShi#tAq itiq pra - uqkShiqtAqH | line number 316
+JOIN -> aqgnIShomA$ByAm | aqgnIShomA$ByAqmityaqgnI - somA$ByAm | line number 323
+JOIN -> deqvaqyaqjyAyai$ | deqvaqyaqjyAyAq iti# deva - yaqjyAyai$ | line number 327
+JOIN -> ava#dhUtam | ava#dhUtaqmityava# - dhUqtaqm | line number 328
+JOIN -> ava#dhUtAH | ava#dhUtAq ityava# - dhUqtAqH | line number 330
+JOIN -> aqdhiqShava#Nam | aqdhiqShava#Naqmitya#dhi - sava#nam | line number 339
+JOIN -> viqsarja#nam | viqsarja#naqmiti# vi - sarja#nam | line number 351
+JOIN -> deqvavI#taye | deqvavI#tayaq iti# deqva - vIqtaqyeq | line number 352
+JOIN -> suqSami# | suqSamIti# su - Sami# | line number 362
+JOIN -> dyuqmat | dyuqmaditi# dyu - mat | line number 370
+JOIN -> saq~gGAqtam | saq~gGAqtamiti# saM - GAqtam | line number 373
+JOIN -> vaqrq.ShavRu#ddham | vaqrq.ShavRu#ddhaqmiti# vaqrq.Sha - vRuqddhaqm | line number 375
+JOIN -> vaqrq.ShavRu#ddham | vaqrq.ShavRu#ddhaqmiti# vaqrq.Sha - vRuqddhaqm | line number 379
+JOIN -> parA#pUtam | parA#pUtaqmitiq parA$ - pUqtaqm | line number 381
+JOIN -> parA#pUtAH | parA#pUtAq itiq parA$ - pUqtAqH | line number 383
+JOIN -> hira#NyapANiH | hira#NyapANiqritiq hira#Nya - pAqNiqH | line number 395
+JOIN -> gRuqhNAqtuq || gRuqhNAqtviti# gRuhNAtu || line number 397
+JOIN -> ava#dhUtam | ava#dhUtaqmityava# - dhUqtaqm | line number 398
+JOIN -> ava#dhUtAH | ava#dhUtAq ityava# - dhUqtAqH | line number 400
+JOIN -> praqsaqve | praqsaqva iti# pra - saqve | line number 435
+JOIN -> bAqhuByA$m |  bAqhuByAqmiti# bAqhu - ByAqm | line number 437
+JOIN -> prAqNAya# | prAqNAyeti# pra - aqnAya# | line number 446
+JOIN -> aqpAqnAya# | aqpAqnAtye#pa - aqnAya# | line number 448
+JOIN -> vyAqnAya# | vyAqnAyeti# vi - aqnAya# | line number 450
+JOIN -> prasi#tim | prasi#tiqmitiq pra - siqtiqm | line number 454
+JOIN -> hira#NyapANiH | hira#NyapANiqritiq hira#Nya - pAqNiqH | line number 460
+JOIN -> gRuqhNAqtuq || gRuqhNAqtviti# gRuhNAtu || line number 462
+JOIN -> AqmAda$m | AqmAdaqmityA#ma - ada$m | line number 470
+JOIN -> kraqvyAda$m | kraqvyAdaqmiti# kravya - ada$m | line number 473
+JOIN -> deqvaqyaja$m | deqvaqyajaqmiti# deva - yaja$m | line number 476
+JOIN -> nirda#gdham |  nirda#gdhaqmitiq niH - daqgdhaqm | line number 478
+JOIN -> nirda#gdhAH | nirda#gdhAq itiq niH - daqgdhAqH | line number 480
+JOIN -> praqjAm | praqjAmiti# pra - jAm | line number 488
+JOIN -> saqjAqtAn | saqjAqtAniti# sa - jAqtAn | line number 490
+JOIN -> prAqNam | prAqNamiti# pra - aqnam | line number 499
+JOIN -> aqpAqnam |  AqpAqnamitya#pa - aqnam | line number 501
+JOIN -> saqjAqtAn | saqjAqtAniti# sa - jAqtAn | line number 516
+JOIN -> praqjAm | praqjAmiti# pra - jAm | line number 527
+JOIN -> saqjAqtAn | saqjAqtAniti# sa - jAqtAn | line number 529
+JOIN -> praqjAm | praqjAmiti# pra - jAm | line number 536
+JOIN -> saqjAqtAn | saqjAqtAniti# sa - jAqtAn | line number 540
+JOIN -> uqpaqciqnvanti# | uqpaqciqnvantItyu#pa - ciqnvanti# | line number 552
+JOIN -> veqdhasa#H || veqdhasaq iti# veqdhasa#H || line number 553
+JOIN -> iqndraqvAqyU | iqndraqvAqyU itI$ndra - vAqyU | line number 558
+JOIN -> muq~jcaqtAqm || muq~jcaqtAqmiti# mu~jcatAm || line number 560
+JOIN -> aqdBiH | aqdBiritya#t - BiH | line number 565
+JOIN -> aqdBiH | aqdBiritya#t - BiH | line number 565
+JOIN -> madhu#matIH | madhu#matIqritiq madhu# - maqtIqH | line number 573
+JOIN -> madhu#matIBiH |  madhu#matIBiqritiq madhu# - maqtIqBiqH | line number 574
+JOIN -> aqdByaH | aqdBya itya#t - ByaH | line number 576
+JOIN -> prajA#tAH |  prajA#tAq itiq pra - jAqtAqH | line number 578
+JOIN -> aqdBiH | aqdBiritya#t - BiH | line number 581
+JOIN -> aqgnIShomA$ByAm | aqgnIShomA$ByAqmityaqgnI - somA$ByAm | line number 589
+JOIN -> viqSvAyu#H | viqSvAyuqruriti# viqSva - AqyuqH | line number 595
+JOIN -> yaqj~japa#tiH | yaqj~japa#tiqriti# yaqj~ja - paqtiqH | line number 600
+JOIN -> aqntari#tam | aqntari#taqmityaqntaH - iqtaqm | line number 604
+JOIN -> aqntari#tAH | aqntari#tAq ityaqntaH - iqtAqH | line number 606
+JOIN -> svAhA$ ||  svAhetiq svAhA$ || line number 632
+JOIN -> saqhasra#BRuShTiH | saqhasra#BRuShTiqriti# saqhasra# - BRuqShTiqH | line number 639
+JOIN -> Saqtate#jAH | Saqtate#jAq iti# Saqta - teqjAqH | line number 640
+JOIN -> tiqgmate#jAH | tiqgmate#jAq iti# tiqgma - teqjAqH | line number 643
+JOIN -> deqvaqyaqjaqniq | deqvaqyaqjaqnIti# deva - yaqjaqniq | line number 645
+JOIN -> apa#hataH | apa#hataq ityapa# - haqtaqH | line number 651
+JOIN -> goqsthAna$m | goqsthAnaqmiti# go - sthAna$m | line number 656
+JOIN -> paqrAqvati# | paqrAqvatIti# parA - vati# | line number 664
+JOIN -> apa#hataH | apa#hataq ityapa# - haqtaqH | line number 678
+JOIN -> deqvaqyaja#nyai | deqvaqyaja#nyAq iti# deva - yaja#nyai | line number 681
+JOIN -> goqsthAna$m |  goqsthAnaqmiti# go - sthAna$m | line number 684
+JOIN -> paqrAqvati# | paqrAqvatIti# parA - vati# | line number 692
+JOIN -> apa#hataH | apa#hataq ityapa# - haqtaqH | line number 706
+JOIN -> ade#vayajanaH |  ade#vayajanaq ityade#va - yaqjaqnaqH | line number 709
+JOIN -> goqsthAna$m | goqsthAnaqmiti# go - sthAna$m | line number 712
+JOIN -> paqrAqvati# | paqrAqvatIti# parA - vati# | line number 720
+JOIN -> Ruqtaqsada#nam | Ruqtaqsada#naqmityRu#ta - sada#nam | line number 765
+JOIN -> RuqtaqSrIH | RuqtaqSrIrityRu#ta - SrIH | line number 767
+JOIN -> svaqdhA | svaqdheti# sva - dhA | line number 771
+JOIN -> viqsRupa#H | viqsRupaq iti# vi - sRupa#H | line number 781
+JOIN -> viqraqPSiqnn | viqraqphSiqnniti# vi - raqphSiqnn ( ) | line number 782
+JOIN -> uqdAqdAya# | uqdAqdAyetyu#t - AqdAya# | line number 783
+JOIN -> jIqradA#nuH | jIqradA#nuqriti# jIqra - dAqnuqH | line number 785
+JOIN -> svaqdhABi#H | svaqdhABiqriti# sva - dhABi#H | line number 789
+JOIN -> aqnuqdRuSya# | aqnuqdRuSyetya#nu anu - dRuSya# | line number 792
+JOIN -> aqnuqdRuSya# | aqnuqdRuSyetya#nu anu - dRuSya# | line number 792
+JOIN -> yaqjaqnteq ||  yaqjaqntaq iti# yajante || line number 793
+JOIN -> pratyu#ShTam | pratyu#ShTaqmitiq prati# - uqShTaqm | line number 794
+JOIN -> pratyu#ShTAH | pratyu#ShTAq itiq prati# - uqShTAqH | line number 796
+JOIN -> goqShTham | goqShThamiti# go - stham | line number 804
+JOIN -> saqpaqtnaqsAqham | saqpaqtnaqsAqhamiti# sapatna - sAqham | line number 810
+JOIN -> prAqNam | prAqNamiti# prA - aqnam | line number 814
+JOIN -> praqjAm | praqjAmiti# pra - jAm | line number 817
+JOIN -> saqpaqtnaqsAqhIm | saqpaqtnaqsAqhImiti# sapatna - sAqhIm | line number 824
+JOIN -> AqSAsA#nA | AqSAsAqnetyA$ - SAsA#nA | line number 827
+JOIN -> praqjAm | praqjAmiti# pra - jAm | line number 829
+JOIN -> taqnUm || taqnUmiti# taqnUm || line number 831
+JOIN -> anu#vratA | anu#vraqtetyanu# - vraqtAq | line number 833
+JOIN -> suqkRuqtAya# | suqkRuqtAyeti# su - kRuqtAya# | line number 837
+JOIN -> kam || kamitiq kam || line number 838
+JOIN -> suqpraqjasa#H | suqpraqjasaq iti# su - praqjasa#H | line number 839
+JOIN -> suqpatnI$H | suqpatnIqriti# su - patnI$H | line number 842
+JOIN -> seqdiqmaq || seqdiqmeti# sedima || line number 844
+JOIN -> saqpaqtnaqdamBa#nam  saqpaqtnaqdamBa#naqmiti# sapatna - damBa#nam | line number 846
+JOIN -> adA$Byam || adA$ByaqmityadA$Byam || line number 848
+JOIN -> adA$Byam || adA$ByaqmityadA$Byam || line number 848
+JOIN -> suqketa#H || suqketaq iti# su - keta#H || line number 857
+JOIN -> suqketa#H || suqketaq iti# su - keta#H || line number 857
+JOIN -> suqkRuqtasya# | suqkRuqtasyeti# su - kRuqtasya# | line number 861
+JOIN -> kaqroqmiq || kaqroqmIti# karomi || line number 867
+JOIN -> praqjayA$ | praqjayeti# pra - jayA$ | line number 871
+JOIN -> puna#H || punaqritiq puna#H || line number 875
+JOIN -> puna#H || punaqritiq puna#H || line number 875
+JOIN -> mama# || mametiq mama# || line number 884
+JOIN -> suqpraqjAqstvAya# | suqpraqjAqstvAyeti# suprajAH - tvAya# | line number 905
+JOIN -> suqBUH | suqBUriti# su - BUH | line number 921
+JOIN -> dhAmne#dhAmne | dhAmne#dhAmnaq itiq dhAmne$ - dhAqmneq | line number 923
+JOIN -> yaju#SheyajuShe | yaju#SheyajuShaq itiq yaju#She - yaqjuqSheq | line number 925
+JOIN -> raqSmiBi#H | raqSmiBiqriti# raqSmi - BiqH | line number 942
+JOIN -> dhAmne#dhAmne | dhAmne#dhAmnaq itiq dhAmne$ - dhAqmneq | line number 946
+JOIN -> yaju#SheyajuShe | yaju#SheyajuShaq itiq yaju#She - yaqjuqSheq | line number 948
+JOIN -> dhAmne#dhAmne | dhAmne# dhAmnaq itiq dhAmne$ - dhAqmneq | line number 956
+JOIN -> yaju#SheyajuShe | yaju#SheyajuShaq itiq yaju#She - yaqjuqSheq | line number 958
+JOIN -> gRuqhNAqmiq ||  gRuqhNAqmIti# gRuhNAmi || line number 959
+JOIN -> AqKaqreqShThaH | AqKaqreqShTha ityA#Kare - sthaH | line number 962
+JOIN -> sruqgByaH | sruqgBya iti# sruk - ByaH | line number 973
+JOIN -> svaqdhA | svaqdheti# sva - dhA | line number 982
+JOIN -> piqtRuBya#H |  piqtRuByaq iti# piqtRu - ByaqH | line number 983
+JOIN -> baqrq.hiqShadBya#H |  baqr.qhiqShadByaq iti# bar.hiqShat - ByaqH | line number 986
+JOIN -> UrNA$mradasam | UrNA$mradasaqmityUrNA$ - mraqdaqsaqm | line number 993
+JOIN -> svAqsaqstham | svAqsaqsthamiti# su - Aqsaqstham | line number 996
+JOIN -> viqSvAva#suH | viqSvAva#suqriti# viqSva - vaqsuqH | line number 1000
+JOIN -> paqriqdhiH | paqriqdhiriti# pari - dhiH | line number 1004
+JOIN -> paqriqdhiH | paqriqdhiriti# pari - dhiH | line number 1012
+JOIN -> miqtrAvaru#Nau | miqtrAvaru#NAqviti# miqtrA - varu#Nau | line number 1015
+JOIN -> uqttaqraqtaH | uqttaqraqta ityu#t - taqraqtaH | line number 1017
+JOIN -> paqriqdhiH | paqriqdhiriti# pari - dhiH | line number 1023
+JOIN -> aqBiSa#styAH | aqBiSa#styAq ityaqBi - SaqstyAqH | line number 1032
+JOIN -> vIqtiho$tram |  vIqtiho$traqmiti# - vIqti - hoqtraqm | line number 1033
+JOIN -> dyuqmanta$m | dyuqmantaqmiti# dyu - manta$m | line number 1036
+JOIN -> yaqntre | yaqntre iti# yaqntre | line number 1043
+JOIN -> uqpaqBRut | uqpaqBRudityu#pa - BRut | line number 1051
+JOIN -> suqkRuqtasya# | suqkRuqtasyeti# su - kRuqtasya# | line number 1063
+JOIN -> viqShNoq | viqShNoq iti# viShNo | line number 1066
+JOIN -> yaqj~japa#tim | yaqj~japa#tiqmiti# yaqj~ja - paqtiqm | line number 1071
+JOIN -> yaqj~jaqniya$m || yaqj~jaqniyaqmiti# yaj~ja - niya$m || line number 1074
+JOIN -> yaqj~jaqniya$m || yaqj~jaqniyaqmiti# yaj~ja - niya$m || line number 1074
+JOIN -> nama#H || namaq itiq nama#H || line number 1082
+JOIN -> deqvaqyaqjyAyai$ | deqvaqyaqjyAyAq iti# deva - yaqjyAyai$ | line number 1089
+JOIN -> upa#BRut | upa#BRuqdityupa# - BRuqt | line number 1090
+JOIN -> deqvaqyaqjyAyai$ | deqvaqyaqjyAyAq iti# deva - yaqjyAyai$ | line number 1097
+JOIN -> agnA#viShNU |  agnA#viShNUq ityagnA$ - viqShNUq | line number 1098
+JOIN -> agnA#viShNU |  agnA#viShNUq ityagnA$ - viqShNUq | line number 1098
+JOIN -> loqkaqkRuqtauq | loqkaqkRuqtAqviti# loka - kRuqtauq | line number 1111
+JOIN -> saqmAqraBya# | saqmAqraByeti# saM - AqraBya# | line number 1120
+JOIN -> diqviqspRuSa$m | diqviqspRuSaqmiti# divi - spRuSa$m | line number 1123
+JOIN -> yaqj~japa#teH | yaqj~japa#teqriti# yaqj~ja - paqteqH | line number 1126
+JOIN -> indrA#vAn | indrA#vAqnitIndra# - vAqn | line number 1127
+JOIN -> duSca#ritAt | duSca#ritAqditiq duH - caqriqtAqt | line number 1134
+JOIN -> suca#rite |  suca#ritaq itiq su - caqriqteq | line number 1137
+JOIN -> aq~gktAqm || aq~g^ktAqmitya#~g^ktAm || line number 1145
+JOIN -> praqsaqvena# | praqsaqveneti# pra - saqvena# | line number 1148
+JOIN -> uqdgrAqBeNa# |  uqdgrAqBeNetyu#t - grAqBeNa# | line number 1149
+JOIN -> aqgraqBIqt || aqgraqBIqditya#graBIt || line number 1151
+JOIN -> niqgrAqBeNa# | niqgrAqBeNeti# ni - grAqBeNa# | line number 1156
+JOIN -> aqkaqH || aqkaqritya#kaH || line number 1158
+JOIN -> aqkaqH || aqkaqritya#kaH || line number 1158
+JOIN -> uqdgrAqBam |  uqdgrAqBamityu#t - grAqBam | line number 1159
+JOIN -> niqgrAqBam | niqgrAqBamiti# ni - grAqBam | line number 1161
+JOIN -> aqvIqvRuqdhaqnn || aqvIqvRuqdhaqnnitya#vIvRudhann || line number 1165
+JOIN -> iqndrAqgnI | iqndrAqgnI itI$ndra - aqgnI | line number 1168
+JOIN -> aqsyaqtAqm || aqsyaqtAqmitya#syatAm || line number 1172
+JOIN -> vasu#ByaH | vasu#Byaq itiq vasu# - ByaqH | line number 1173
+JOIN -> vaya#H || vayaq itiq vaya#H || line number 1182
+JOIN -> praqjAm | praqjAmiti# pra - jAm | line number 1183
+JOIN -> AqyuqShpAH | AqyuqShpA ityA#yuH - pAH | line number 1202
+JOIN -> caqkShuqShpAH |  caqkShuqShpA iti# - cakShuH - pAH | line number 1208
+JOIN -> paqriqdhim | paqriqdhimiti# pari - dhim | line number 1217
+JOIN -> paqryadha#tthAH | paqryadha#tthAq iti# pari - adha#tthAH | line number 1218
+JOIN -> paqNiBi#H | paqNiBiqriti# paqNi - BiqH | line number 1221
+JOIN -> vIqyamA#NaH || vIqyamA#Naq iti# vIqyamA#NaH || line number 1222
+JOIN -> aqpaqceqtayA#tai |  aqpaqceqtayA#tAq itya#pa - ceqtayA#tai | line number 1233
+JOIN -> saq(gg)qsrAqvaBA#gAH |  saq(gg)qsrAqvaBA#gAq iti# sa(gg)srAqva - BAqgAqH | line number 1239
+JOIN -> praqstaqreqShThAH |  praqstaqreqShThA iti# prastare - sthAH | line number 1243
+JOIN -> baqrq.hiqShada#H |  baqrq.hiqShadaq iti# bar.hi - sada#H | line number 1244
+JOIN -> Aqsadya# |  AqsadyetyA$ - sadya# | line number 1252
+JOIN -> apa#nnagRuhasya | apa#nnagRuhaqsyetyapa#nna - gRuqhaqsyaq | line number 1258
+JOIN -> suqmniqnIq | suqmniqnIq iti# sumninI | line number 1262
+JOIN -> aqdaqbdhAqyoq |  aqdaqbdhAqyoq itya#dabdha - Aqyoq | line number 1270
+JOIN -> aqdaqbdhAqyoq |  aqdaqbdhAqyoq itya#dabdha - Aqyoq | line number 1270
+JOIN -> aqSIqtaqtaqnoq | aqSIqtaqtaqnoq itya#Sita - taqnoq | line number 1271
+JOIN -> aqSIqtaqtaqnoq | aqSIqtaqtaqnoq itya#Sita - taqnoq | line number 1271
+JOIN -> prasi#tyai | prasi#tyAq itiq pra - siqtyaiq | line number 1277
+JOIN -> duri#ShTyai | duri#ShTyAq itiq duH - iqShTyaiq | line number 1279
+JOIN -> duqraqdmaqnyai |  duqraqdmaqnyA iti# duH - aqdmaqnyai | line number 1281
+JOIN -> duSca#ritAt |  duSca#ritAqditiq duH - caqriqtAqt | line number 1283
+JOIN -> suqShadA$ | suqShadeti# su - sadA$ | line number 1288
+JOIN -> gAqtuqviqdaqH | gAqtuqviqdaq iti# gAtu - viqdaqH | line number 1292
+JOIN -> dhAqH || dhAq iti# dhAH || line number 1308
+JOIN -> iqndrAqgnI |  iqndrAqgnIq itI$ndra - aqgnIq | line number 1311
+JOIN -> mAqdaqyaddhyai$ || mAqdaqyaddhyAq iti# mAdaqyaddhyai$ || line number 1316
+JOIN -> BUqriqdAva#ttarA | BUqriqdAva#ttaqreti# BUriqdAva#t - taqrAq | line number 1328
+JOIN -> vAqm || vAqmiti# vAm || line number 1329
+JOIN -> vijA#mAtuH | vijA#mAtuqritiq vi - jAqmAqtuqH | line number 1330
+JOIN -> praya#tI | prayaqtItiq pra - yaqtIq | line number 1337
+JOIN -> yuqvaByA$m | yuqvaByAqmiti# yuqva - ByAqm | line number 1338
+JOIN -> indrA$gnI | indrA$gnIq itIndra# - aqgnIq | line number 1339
+JOIN -> navya$m ||  navyaqmitiq navya$m || line number 1342
+JOIN -> indrA$gnI | indrA$gnIq itIndra# - aqgnIq | line number 1343
+JOIN -> dAqsapa#tnIH | dAqsapa#tnIqriti# dAqsa - paqtnIqH | line number 1346
+JOIN -> aqdhUqnuqtaqm || aqdhUqnuqtaqmitya#dhUnutam || line number 1347
+JOIN -> karma#NA || karmaqNetiq karma#NA || line number 1350
+JOIN -> nava#jAtam |  nava#jAtaqmitiq nava# - jAqtaqm | line number 1354
+JOIN -> indrA$gnI | indrA$gnIq itIndra# - aqgnIq | line number 1356
+JOIN -> vRuqtraqhaqNAq | vRuqtraqhaqNeti# vRutra - haqnAq | line number 1357
+JOIN -> juqShethA$m || juqShethAqmiti# juqShethA$m || line number 1358
+JOIN -> suqhavA$ | suqhaveti# su - havA$ | line number 1362
+JOIN -> dheShThA$ || dheShThetiq dheShThA$ || line number 1368
+JOIN -> vAja#sAtaye || vAja#sAtayaq itiq vAja# - sAqtaqyeq || line number 1376
+JOIN -> vAja#sAtaye || vAja#sAtayaq itiq vAja# - sAqtaqyeq || line number 1376
+JOIN -> aqyuqjmaqhiq || aqyuqjmaqhItya#yujmahi || line number 1379
+JOIN -> paqthaspa#thaH | paqthaspa#thaq iti# paqthaH - paqthaqH | line number 1380
+JOIN -> pari#patim | pari#patiqmitiq pari# - paqtiqm | line number 1381
+JOIN -> aqrkam || aqrkamityaqrkam || line number 1387
+JOIN -> caqndrA$grAH | caqndrAgrAq iti# caqndra - aqgrAqH | line number 1392
+JOIN -> dhiya#ndhiyam | dhiya#ndhiyaqmitiq dhiya$M - dhiqyaqm | line number 1393
+JOIN -> pUqShA || pUqSheti# pUqShA || line number 1396
+JOIN -> jaqyAqmaqsiq || jaqyAqmaqsIti# jayAmasi || line number 1402
+JOIN -> IqdRuSe$ || IqdRuSaq itIqdRuSe$ || line number 1410
+JOIN -> madhu#mantam | madhu#mantaqmitiq madhu# - maqntaqm | line number 1413
+JOIN -> dhuqkShvaq || dhuqkShveti# dhukShva || line number 1419
+JOIN -> maqdhuqScuta$m | maqdhuqScutaqmiti# madhu - Scuta$m | line number 1420
+JOIN -> supU#tam | supU#taqmitiq su - pUqtaqm | line number 1423
+JOIN -> mRuqDaqyaqntuq || mRuqDaqyaqntviti# mRuDayantu || line number 1427
+JOIN -> suqpathA$ | suqpatheti# su - pathA$ | line number 1430
+JOIN -> viqdvAn || viqdvAniti# viqdvAn || line number 1436
+JOIN -> nama#uktim |  nama#uktiqmitiq nama#H - uqktiqm | line number 1443
+JOIN -> pravo#Dhum || pravo#Dhuqmitiq pra - voqDhuqm || line number 1454
+JOIN -> pravo#Dhum || pravo#Dhuqmitiq pra - voqDhuqm || line number 1454
+JOIN -> kaqlpaqyAqtiq || kaqlpaqyAqtIti# kalpayAti || line number 1467
+JOIN -> viqBAqvaqsoq ||  viqBAqvaqsoq iti# viBA - vaqsoq || line number 1474
+JOIN -> viqBAqvaqsoq ||  viqBAqvaqsoq iti# viBA - vaqsoq || line number 1474
+JOIN -> Iqraqteq ||  Iqraqtaq itI#rate || line number 1482
+JOIN -> svaqstiBi#H |  svaqstiBiqriti# svaqsti - BiqH | line number 1488
+JOIN -> duqrgANi# | duqrgANIti# duH - gAni# | line number 1490
+JOIN -> viSvA$ || viSvetiq viSvA$ || line number 1491
+JOIN -> yoH || yoritiq yoH || line number 1502
+JOIN -> vraqtaqpAH | vraqtaqpA iti# vrata - pAH | line number 1505
+JOIN -> A || etyA || line number 1510
+JOIN -> A || etyA || line number 1510
+JOIN -> IDya#H || ID^yaq itID^ya#H || line number 1513
+JOIN -> praqmiqnAma# |  praqmiqnAmeti# pra - miqnAma# | line number 1517
+JOIN -> avi#duShTarAsaH || avi#duShTarAsaq ityavi#duH - taqrAqsaqH || line number 1521
+JOIN -> avi#duShTarAsaH || avi#duShTarAsaq ityavi#duH - taqrAqsaqH || line number 1521
+JOIN -> avi#duShTarAsaH || avi#duShTarAsaq ityavi#duH - taqrAqsaqH || line number 1521
+JOIN -> RuqtuBi#H |  RuqtuBiqrityRuqtu - BiqH | line number 1530
+JOIN -> kaqlpayA#ti ||  kaqlpayAqtIti# kaqlpayA#ti || line number 1531
+----------------------------------------------
+           Padam Spilt/Expansion is empty where rules are given         
+** Line number ** Rule given **
+   13             Pre
+   17             Pre
+   34             Pre
+   52             Pre
+   92             Pre
+   95             Pre
+   103             Pre
+   115             4G
+   116             3K
+   122             Pre
+   129             Pre
+   150             Vis
+   174             Pre
+   184             Pre
+   228             ViS
+   232             Pre
+   237             Pre
+   254             Pre
+   267             Vis
+   268             Pre
+   269             Pre
+   278             Pre
+   290             Pre
+   321             Pre
+   335             Pre
+   342             Pre
+   365             Pre
+   368             Pre
+   377             Pre
+   390             Pre
+   396             Pre
+   405             Pre
+   412             Pre
+   420             Pre
+   428             Pre
+   440             Pre
+   453             Pre
+   461             Pre
+   467             Pre
+   472             Pre
+   475             Pre
+   493             Pre
+   506             Pre
+   519             Pre
+   532             Pre
+   543             Pre
+   556             Pre
+   559             Pre
+   561             Pre
+   563             Pre
+   567             Pre
+   570             Pre
+   577             Pre
+   580             Pre
+   585             Pre
+   613             Pre
+   613             NE
+   619             Pre
+   624             Pre
+   633             Pre
+   741             Pre
+   747             Pre
+   753             Pre
+   770             NRE
+   772             NE
+   801             Sh
+   802             Pre
+   803             Sh
+   806             Pre
+   811             Pre
+   825             Pre
+   835             Pre
+   843             Pre
+   847             NSE
+   850             Pre
+   851             Sh
+   868             Pre
+   872             Pre
+   876             Pre
+   881             Pre
+   893             Pre
+   903             Pre
+   909             Rev
+   909             Pre
+   909             ntN
+   916             Pre
+   936             Pre
+   1005             Rev
+   1005             ViS
+   1013             Rev
+   1013             Vis
+   1018             Pre
+   1024             Rev
+   1024             Vis
+   1037             Pre
+   1041             NSE+NRE
+   1077             Pre
+   1080             Vis
+   1084             Pre
+   1091             Pre
+   1101             Pre
+   1103             Pre
+   1118             NE
+   1122             NE+NSE
+   1135             Pre
+   1142             Pre
+   1150             Pre
+   1152             EL
+   1153             N(gm)+R(gm)
+   1153             ngmv
+   1157             N(gm)+S(gm)
+   1157             ngmv
+   1166             EL
+   1171             Pre
+   1186             Pre
+   1188             Pre
+   1200             Pre
+   1226             Pre
+   1236             Pre
+   1249             Pre
+   1297             Vis
+   1333             EL
+   1335             EL
+   1371             U
+   1372             Vis
+   1385             Pre
+   1385             NE
+   1395             Pre
+   1406             Pre
+   1418             NE
+   1432             NE
+   1445             Pre
+   1447             Pre
+   1453             Pre
+   1459             SR
+   1461             U
+   1462             U
+   1471             NSE
+   1481             Pre
+   1485             EL
+   1487             NE
+   1489             Pre
+   1498             EL
+   1504             NSE
+   1506             NE+NRE
+   1508             Pre
+   1522             Sh
+   1525             Pre
+Total lines porocessed ->1531
+total rules applied 312
+total error detected -> 148
