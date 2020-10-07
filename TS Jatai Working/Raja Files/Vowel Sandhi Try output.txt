@@ -1,0 +1,246 @@
+Problem with line
+['A ', ' iti# ', ' Aqhaq']
+Problem with line
+['A ', ' iti# ', ' Aqhaq']
+Problem with line
+['A ', ' iti# ', ' Aqhaq']
+Problem with line
+['apa# ', ' iqtaq ', ' iti#']
+Problem with line
+['apa# ', ' iqtaq ', ' iti#']
+Problem with line
+['apa# ', ' iqtaq ', ' iti#']
+Problem with line
+['A ', ' iqhiq ', ' iqmAn']
+Problem with line
+['A ', ' iqhiq ', ' iqmAn']
+Problem with line
+['A ', ' iqhiq ', ' iqmAn']
+Problem with line
+['iti# ', ' Aqhaq ', ' A ', ' hi']
+Problem with line
+['iti# ', ' Aqhaq ', ' A ', ' hi']
+Problem with line
+['iti# ', ' Aqhaq ', ' A ', ' hi']
+Problem with line
+['iti# ', ' Aqhaq ', ' A ', ' hi']
+Problem with line
+['iqvaq ', ' it ', ' A']
+Problem with line
+['iqvaq ', ' it ', ' A']
+Problem with line
+['iqvaq ', ' it ', ' A']
+Problem with line
+['ati# ', ' eqtiq ', ' reBa#nn']
+Problem with line
+['ati# ', ' eqtiq ', ' reBa#nn']
+Problem with line
+['ati# ', ' eqtiq ', ' reBa#nn']
+Problem with line
+['BakSha# ', ' A ', ' iqhiq ', ' mAq ', ' A ', ' viqSaq ', ' dIqrGAqyuqtvAya#']
+Problem with line
+['BakSha# ', ' A ', ' iqhiq ', ' mAq ', ' A ', ' viqSaq ', ' dIqrGAqyuqtvAya#']
+Problem with line
+['BakSha# ', ' A ', ' iqhiq ', ' mAq ', ' A ', ' viqSaq ', ' dIqrGAqyuqtvAya#']
+Problem with line
+['BakSha# ', ' A ', ' iqhiq ', ' mAq ', ' A ', ' viqSaq ', ' dIqrGAqyuqtvAya#']
+Problem with line
+['BakSha# ', ' A ', ' iqhiq ', ' mAq ', ' A ', ' viqSaq ', ' dIqrGAqyuqtvAya#']
+Problem with line
+['BakSha# ', ' A ', ' iqhiq ', ' mAq ', ' A ', ' viqSaq ', ' dIqrGAqyuqtvAya#']
+Problem with line
+['BakSha# ', ' A ', ' iqhiq ', ' mAq ', ' A ', ' viqSaq ', ' dIqrGAqyuqtvAya#']
+6.1.4.6(1J):  Ax | ixti# |
+Before sandhi: Ax ixti# ixti# Ax Ax ixti#
+etIt yeti# |  
+
+6.1.4.6(1G):  Ax | ixti# | Awhaw |
+Before sandhi: Ax ixti# ixti# Ax Ax ixti# Awhaw Awhaw ixti# Ax Ax ixti# Awhaw
+etIt yet yA#hAqhet yet yA#ha |  
+
+6.1.4.6(2J):  ixti# | Awhaw |
+Before sandhi: ixti# Awhaw Awhaw ixti# ixti# Awhaw
+it yA#hAqhe tIt yA#ha |  
+
+6.1.4.6(2G):  ixti# | Awhaw |
+Before sandhi: ixti# Awhaw Awhaw ixti# ixti# Awhaw
+it yA#hAqhe tIt yA#ha |  
+
+6.1.4.6(3J):  Awhaw |
+A@het yA#ha
+
+6.1.4.6(3G):  Awhaw |
+A@het yA#ha
+
+5.2.1.3(1J):  axpa# | iwtaw |
+Before sandhi: axpa# iwtaw iwtaw axpa# axpa# iwtaw
+ape# teq tApApe# ta |  
+
+5.2.1.3(1G):  axpa# | iwtaw | ixti# |
+Before sandhi: axpa# iwtaw iwtaw axpa# axpa# iwtaw ixti# ixti# iwtaw axpa# axpa# iwtaw ixti#
+ape# teq tApApeq te tItIqtApApeq te ti# |  
+
+5.2.1.3(2J):  iwtaw | ixti# |
+Before sandhi: iwtaw ixti# ixti# iwtaw iwtaw ixti#
+iqte tItI#teq te ti# |  
+
+5.2.1.3(2G):  iwtaw | ixti# |
+Before sandhi: iwtaw ixti# ixti# iwtaw iwtaw ixti#
+iqte tItI#teq te ti# |  
+
+5.2.1.3(3J):  ixti# |
+itItIti#
+
+5.2.1.3(3G):  ixti# |
+itItIti#
+
+1.6.3.1(1J):  Ax | iwhiw |
+Before sandhi: Ax iwhiw iwhiw Ax Ax iwhiw
+ehIqh yehi# |  
+
+1.6.3.1(1G):  Ax | iwhiw | iqmAxnx |
+Before sandhi: Ax iwhiw iwhiw Ax Ax iwhiw i@mAxnx i@mAxnx iwhiw Ax Ax iwhiw i@mAxnx
+ehIqh yehIqmAn iqmAn iqh yehIqmAn |  
+
+1.6.3.1(2J):  iwhiw | iqmAxnx |
+Before sandhi: iwhiw i@mAxnx i@mAxnx iwhiw iwhiw i@mAxnx
+iqhIqmAn iqmAn i#hIhIqmAn |  
+
+1.6.3.1(2G):  iwhiw | iqmAxnx |
+Before sandhi: iwhiw i@mAxnx i@mAxnx iwhiw iwhiw i@mAxnx
+iqhIqmAn iqmAn i#hIhIqmAn |  
+
+1.6.3.1(3J):  iqmAxnx |
+i@mAn itI@mAn
+
+1.6.3.1(3G):  iqmAxnx |
+i@mAn itI@mAn
+
+5.2.1.4(1J):  ixti# | Awhaw |
+Before sandhi: ixti# Awhaw Awhaw ixti# ixti# Awhaw
+it yA#hAqhe tIt yA#ha |  
+
+5.2.1.4(1G):  ixti# | Awhaw | Ax |
+Before sandhi: ixti# Awhaw Awhaw ixti# ixti# Awhaw Ax Ax Awhaw ixti# ixti# Awhaw Ax
+it yA#hAqhe tIt yAqhA &&he tIt yAqhA |  
+
+5.2.1.4(2J):  Awhaw | Ax |
+Before sandhi: Awhaw Ax Ax Awhaw Awhaw Ax
+AqhA &&hAqhA |  
+
+5.2.1.4(2G):  Awhaw | Ax | hix |
+Before sandhi: Awhaw Ax Ax Awhaw Awhaw Ax hix hix Ax Awhaw Awhaw Ax hix
+AqhA &&hAqhA hih yA# &&hAqhA hi |  
+
+5.2.1.4(3J):  Ax | hix |
+Before sandhi: Ax hix hix Ax Ax hix
+A hih yA# hi |  
+
+5.2.1.4(3G):  Ax | hix |
+Before sandhi: Ax hix hix Ax Ax hix
+A hih yA# hi |  
+
+5.2.1.4(4J):  hix |
+hIti@ hi
+
+5.2.1.4(4G):  hix |
+hIti@ hi
+
+4.6.6.1(1J):  iwvaw | ixtx |
+Before sandhi: iwvaw ixtx ixtx iwvaw iwvaw ixtx
+iqved id i#veq ve t |  
+
+4.6.6.1(1G):  iwvaw | ixtx | Ax |
+Before sandhi: iwvaw ixtx ixtx iwvaw iwvaw ixtx Ax Ax ixtx iwvaw iwvaw ixtx Ax
+iqved id i#veq ved ed i#veq ved A |  
+
+4.6.6.1(2J):  ixtx | Ax |
+Before sandhi: ixtx Ax Ax ixtx ixtx Ax
+id ed id A |  
+
+4.6.6.1(2G):  ixtx | Ax |
+Before sandhi: ixtx Ax Ax ixtx ixtx Ax
+id ed id A |  
+
+4.6.6.1(3J):  Ax |
+et yA
+
+4.6.6.1(3G):  Ax |
+et yA
+
+3.4.11.1(1J):  axti# | ewtiw |
+Before sandhi: axti# ewtiw ewtiw axti# axti# ewtiw
+at ye#t yeqt yat yat ye#ti |  
+
+3.4.11.1(1G):  axti# | ewtiw | rexBa#nnf |
+Before sandhi: axti# ewtiw ewtiw axti# axti# ewtiw rexBa#nnf rexBa#nnf ewtiw axti# axti# ewtiw rexBa#nnf
+at ye#t yeqt yat yat ye#tiq reBaqn reBa#nn eqt yat yat ye#tiq reBann# |  
+
+3.4.11.1(2J):  ewtiw | rexBa#nnf |
+Before sandhi: ewtiw rexBa#nnf rexBa#nnf ewtiw ewtiw rexBa#nnf
+eqtiq reBaqn reBa#nn et yetiq reBann# |  
+
+3.4.11.1(2G):  ewtiw | rexBa#nnf |
+Before sandhi: ewtiw rexBa#nnf rexBa#nnf ewtiw ewtiw rexBa#nnf
+eqtiq reBaqn reBa#nn et yetiq reBann# |  
+
+3.4.11.1(3J):  rexBa#nnf |
+reBa@nn iti@ reBann#
+
+3.4.11.1(3G):  rexBa#nnf |
+reBa@nn iti@ reBann#
+
+3.2.5.1(1J):  BaxkSha# | Ax |
+Before sandhi: BaxkSha# Ax Ax BaxkSha# BaxkSha# Ax
+BakShA BakShaq BakShA |  
+
+3.2.5.1(1G):  BaxkSha# | Ax | iwhiw |
+Before sandhi: BaxkSha# Ax Ax BaxkSha# BaxkSha# Ax iwhiw iwhiw Ax BaxkSha# BaxkSha# Ax iwhiw
+BakShA BakShaq BakShehIqh yA BakShaq BakShehi# |  
+
+3.2.5.1(2J):  Ax | iwhiw |
+Before sandhi: Ax iwhiw iwhiw Ax Ax iwhiw
+ehIqh yehi# |  
+
+3.2.5.1(2G):  Ax | iwhiw | mAw |
+Before sandhi: Ax iwhiw iwhiw Ax Ax iwhiw mAw mAw iwhiw Ax Ax iwhiw mAw
+ehIqh yehi# mA meqh yehi# mA |  
+
+3.2.5.1(3J):  iwhiw | mAw |
+Before sandhi: iwhiw mAw mAw iwhiw iwhiw mAw
+iqhiq mAq meqhIqhiq mAq |  
+
+3.2.5.1(3G):  iwhiw | mAw | Ax | viqSaq |
+Before sandhi: iwhiw mAw mAw iwhiw iwhiw mAw Ax viqSaq viqSaq Ax mAw iwhiw iwhiw mAw Ax viqSaq
+iqhiq mAq meqhIqhiq mA viqSaq viqSaq A me#hIhiq mA viqSaq |  
+
+3.2.5.1(4J):  mAw | Ax | viqSaq |
+Before sandhi: mAw Ax viqSaq viqSaq Ax mAw mAw Ax viqSaq
+mA viqSaq viqSaq A mAq mA viqSaq |  
+
+3.2.5.1(4G):  mAw | Ax | viwSaw | dIqrGAqyuqtvAya# |
+Before sandhi: mAw Ax viwSaw viwSaw Ax mAw mAw Ax viwSaw dIqrGAqyuqtvAya# dIqrGAqyuqtvAya# viwSaw Ax mAw mAw Ax viwSaw
+mA vi#Sa viqSA mAq mA vi#Sa dIqrGAqyuqtvAya# dIqrGAqyuqtvAya# viqSA mAq mA vi#Sa |  
+
+3.2.5.1(5J):  Ax | viwSaw |
+Before sandhi: Ax viwSaw viwSaw Ax Ax viwSaw
+A vi#Sa viqSA vi#Sa |  
+
+3.2.5.1(5G):  Ax | viwSaw | dIwrGAwyuqtvAxya# |
+Before sandhi: Ax viwSaw viwSaw Ax Ax viwSaw dIwrGAwyu@tvAxya# dIwrGAwyu@tvAxya# viwSaw Ax Ax viwSaw dIwrGAwyu@tvAxya#
+A vi#Sa viqSA vi#Sa dIrGAyuqtvAya# dIrGAyuqtvAya# viqSA vi#Sa dIrGAyuqtvAya# |  
+
+3.2.5.1(6J):  viwSaw | dIwrGAwyuqtvAxya# |
+Before sandhi: viwSaw dIwrGAwyu@tvAxya# dIwrGAwyu@tvAxya# viwSaw viwSaw dIwrGAwyu@tvAxya#
+viqSaq dIqrGAqyuqtvAya# dIrGAyuqtvAya# viSa viSa dIrGAyuqtvAya# |  
+
+3.2.5.1(6G):  viwSaw | dIwrGAwyuqtvAxya# |
+Before sandhi: viwSaw dIwrGAwyu@tvAxya# dIwrGAwyu@tvAxya# viwSaw viwSaw dIwrGAwyu@tvAxya#
+viqSaq dIqrGAqyuqtvAya# dIrGAyuqtvAya# viSa viSa dIrGAyuqtvAya# |  
+
+3.2.5.1(7J):  dIwrGAwyuqtvAxya# |
+dI@rGA@yu@tvAye ti# dIrGAyu@tvAya#
+
+3.2.5.1(7G):  dIwrGAwyuqtvAxya# |
+dI@rGA@yu@tvAye ti# dIrGAyu@tvAya#
+
