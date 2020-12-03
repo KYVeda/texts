@@ -21,7 +21,7 @@ Passage	PS Ref	JM Ref	JD Ref	GD Ref	GS Ref	Pan Ref	Panchati NO	Padam Count Cum. 
 						1.1.4.2					mandrAsu											
 						1.1.4.2					tu					LE	N[u]					
 						1.1.4.2					vai											
-						1.1.4.2					nu 					LE	N[u]					
+						1.1.4.2					nu 					LE	N[u]+P[u]					
 						1.1.4.2					vai											
 						1.1.4.2					ut											
 						1.1.4.2					staBAna					LB	P[s]					
@@ -30,8 +30,8 @@ Passage	PS Ref	JM Ref	JD Ref	GD Ref	GS Ref	Pan Ref	Panchati NO	Padam Count Cum. 
 						1.1.4.2					uq											
 						1.1.4.2					naqH		R									
 						1.1.14.2					vaqyam									vayamUvayamvayamu	vayamUvayamvayamutvAtvauvayamutvA	
-						1.1.14.2					uq					UW%UA	P%N[v]			uqtvAqtvaqvuqtvAq	uqtvAqtvaqvuqtvAq paqthaqH paqthaqstvaqvuqtvAq paqthaqH	
-						1.1.14.2					tvAq											
+						1.1.14.2					uq					UW	P			uqtvAqtvaqvuqtvAq	uqtvAqtvaqvuqtvAq paqthaqH paqthaqstvaqvuqtvAq paqthaqH	
+						1.1.14.2					tvAq					UA	N[v]					
 						1.1.14.2					paqthaqH		R									
 						1.5.11.5					maqhIm									mahImuvumahImmahImu	mahImuvumahImmahImUShuSUmahIm mahImU Shu	
 						1.5.11.5					uq					EL%UW	%P			UShusUShu	UShusUShu mAtaram mAtara(gm) sU Shu mAtaram	
@@ -39,8 +39,8 @@ Passage	PS Ref	JM Ref	JD Ref	GD Ref	GS Ref	Pan Ref	Panchati NO	Padam Count Cum. 
 						1.5.11.5					maqtara$m		R									
 						1.1.14.4					saH					SR				sedithsaset	sedithsaseduvuvithsasedu	
 						1.1.14.4					it 									iduvuvididu	iduvuvididuhotA hota vididuhotA	
-						1.1.14.4					uq 					UA	N[v]			uhotAhotavuhotA	uhotAhotavuhotA sa sa hotavuhotA saH	
-						1.1.14.4					hotA$											
+						1.1.14.4					uq 									uhotAhotavuhotA	uhotAhotavuhotA sa sa hotavuhotA saH	
+						1.1.14.4					hotA$					UA	N[v]					
 						1.1.14.4					saH		R									
 						1.2.8.2					adrau$ 											
 						1.2.8.2					ut											
@@ -61,8 +61,8 @@ Passage	PS Ref	JM Ref	JD Ref	GD Ref	GS Ref	Pan Ref	Panchati NO	Padam Count Cum. 
 						2.3.7.4					eqva											
 						2.3.7.4					aqsyaq		R									
 						3.5.11.3					tam									tamUtamtamu	tamUtamtamutvAtvavtamtamutvA	
-						3.5.11.3					uq					UW%UA	P%N[v]				utvAtvavutvA	
-						3.5.11.3					tvAq		R									
+						3.5.11.3					uq					UW	P				utvAtvavutvA	
+						3.5.11.3					tvAq		R			UA	N[v]					
 						4.1.10.3					ut 									uduvuvududu	uduvuvududU balam balamuvududU balam	
 						4.1.10.3					uq					EL						
 						4.1.10.3					bala$m		R									
@@ -77,7 +77,7 @@ Passage	PS Ref	JM Ref	JD Ref	GD Ref	GS Ref	Pan Ref	Panchati NO	Padam Count Cum. 
 						5.2.12.1					uq											
 						5.2.12.1					teq 											
 						4.1.4.2					UqrddhvaH   				4G					 Urddhva uvuv  Urddhva  Urddhva u	 Urddhva uvuv  Urddhva  Urddhva U Shu No naH SU vUrddhva  Urddhva U Shu NaH	
-						4.1.4.2					uq 			3K		EL%UW	N			U Shu No naH SU Shu NaH	U Shu No naH SU Shu Na Utaya Uqtaye naH SU Shu Na utaye 	
+						4.1.4.2					uq 			3K		EL%UW	%N			U Shu No naH SU Shu NaH	U Shu No naH SU Shu Na Utaya Uqtaye naH SU Shu Na utaye 	
 						4.1.4.2					su 					Sh	P					
 						4.1.4.2					naqH					N	P					
 						4.1.4.2					Uqtaye$ 		R									

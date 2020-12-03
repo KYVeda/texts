@@ -1,0 +1,246 @@
+1.1.4.2(1):  traxpux | cax |
+trapuS ca ca trapu trapuS ca |  
+
+1.1.4.2(2):  cax | mixthux |
+ca mithu mithu ca ca mithu |  
+
+1.1.4.2(3):  mixthux | caxraxntaxmx |
+mithuS carantam carantam mithu mithuS carantam |  
+
+1.1.4.2(4):  caxraxntaxmx | sux |
+caranta(gm) su su carantam caranta(gm) su |  
+
+1.1.4.2(5):  sux | caxndrax |
+suS candra candra su suS candra |  
+
+1.1.4.2(6):  caxndrax | saxmx |
+candrasa(gm) sam candra candra sam |  
+
+1.1.4.2(7):  saxmx | kuxrux |
+sa(gg)s kuru kurusa(gm)sa(gg) s kuru |  
+
+1.1.4.2(8):  kuxrux | nixcAx |
+kuru nicA nicA kuru kuru nicA |  
+
+1.1.4.2(9):  nixcAx | uxccAx |
+nicAd uccoccA nicA nicAd uccA |  
+
+1.1.4.2(10):  uxccAx | saxmx |
+uccAsa(gm) sam uccoccA sam |  
+
+1.1.4.2(11):  saxmx | axkuxrvaxtax |
+sam akurvatAkurvatasa(gm) sam akurvata |  not implemented
+
+1.1.4.2(12):  axkuxrvaxtax | paxrix |
+akurvata pari par yakurvatAkurvata pari |  
+
+1.1.4.2(13):  paxrix | Buxjax |
+parib Buja Buja pari parib Buja |  
+
+1.1.4.2(14):  Buxjax | paxrix |
+Buja pari paribBuja Buja pari |  
+
+1.1.4.2(15):  paxrix | CAxyAx |
+paric CAyA CAyA pari paric CAyA |  
+
+1.1.4.2(16):  CAxyAx | praxtix |
+CAyA prati prati CAyA CAyA prati |  We need to check it is praticCAyA. 
+
+1.1.4.2(17):  praxtix | Cixnnaxmx |
+pratic Cinnam Cinnam prati pratic Cinnam |  
+
+1.1.4.2(18):  Cixnnaxmx | Ixmx |
+Cinnam Im Im Cinnam Cinnam Im |  
+
+1.1.4.2(19):  Ixmx | maxndrAxsux |
+I mandrAsu mandrAsvIm I mandrAsu |  
+
+1.1.4.2(20):  maxndrAxsux | tux |
+mandrAsu tu tu mandrAsu mandrAsu tu |  
+
+1.1.4.2(21):  tux | vaix |
+tvai vai tut vai |  
+
+1.1.4.2(22):  vaix | nux |
+vai nun. vai vai nu |  nvai is one word donot put swarabhakti in final formatting. next line is perfect.
+
+1.1.4.2(23):  nux | vaix |
+nvai vai nun. vai |  
+
+1.1.4.2(24):  vaix | uxtx |
+vAud ud vai vAut |  
+
+1.1.4.2(25):  uxtx | staxBAxnax |
+ut taBAna staBAnod ut taBAna |  OK
+
+1.1.4.2(26):  staxBAxnax | deqvAxnA#m# |
+staBAna deqvAnA$m deqvAnAq(gg)q staBAna staBAna deqvAnA$m |  
+
+1.1.4.2(27):  deqvAxnA#m# | iqdaxmx |
+deqvAnA#m iqdam iqdam deqvAnA$m deqvAnA#m iqdam |  
+
+1.1.4.2(28):  iqdaxmx | uw |
+iqdam u# vviqdam iqdam u# |  Second u
+
+1.1.4.2(29):  uw | nawH |
+uq noq naq uq vuq naqH |  
+
+1.1.4.2(30):  nawH |
+na@ iti# naH
+
+1.1.14.2(1):  vaqyaxmx | uw |
+vaqyam U# vaqyaM ~Mvaqyam u# |  
+
+1.1.14.2(2):  uw | tvAw |
+uq tvAq tvav u# vu tvA |  Second u has come additionally. 
+
+1.1.14.2(3):  tvAw | pawthawH |
+tvAq paqthaqH paqthaqstvAq tvAq paqthaqH |  
+
+1.1.14.2(4):  pawthawH |
+pa@tha@ iti# pathaH
+
+1.5.11.5(1):  maqhIxmx | uw |
+maqhIm U# maqhIm maqhIm u# |  
+
+1.5.11.5(2):  uw | sux |
+Uq Shhu sU Uq Shhu |  extra h
+
+1.5.11.5(3):  sux | maqtaxra#m# |
+su maqtara#m maqtaraq(gm)q su su maqtara$m |  
+
+1.5.11.5(4):  maqtaxra#m# |
+ma@tara@m iti# ma@tara$m
+
+1.1.14.4(1):  saxH | ixtx |
+said ith sasait |  
+
+1.1.14.4(2):  ixtx | uw |
+id uq vvid id u# |  second u between two V not there
+
+1.1.14.4(3):  uw | hoxtA# |
+uq hotAq hotav u# vuq hotA$ |  extra u
+
+1.1.14.4(4):  hoxtA# | saxH |
+hotAq sasahotAq hotAq saH |  
+
+1.1.14.4(5):  saxH |
+saiti@ saH
+
+1.2.8.2(1):  axdrau# | uxtx |
+adrAq vud ud adrAq vadrAq vut |  
+
+1.2.8.2(2):  uxtx | uw |
+ud uq vU#d ud u# |  check
+
+1.2.8.2(3):  uw | tyaxmx |
+uq tyam tyam u# vuq tyam |  
+
+1.2.8.2(4):  tyaxmx |
+tyam iti@ tyam
+
+1.8.10.2(1):  Ruqtexna# | vix |
+Ruqtenaq vi vi Ruqtena# Ruqtenaq vi |  sandhi
+
+1.8.10.2(2):  vix | uw |
+vyu# vuq viv yu# |  
+
+1.8.10.2(3):  uw | triqtaxH |
+uq triqtastriqta u# vu triqtaH |  
+
+1.8.10.2(4):  triqtaxH |
+tri@ta iti# tri@taH
+
+3.5.5.1(1):  taxtx | uw |
+tat Uq tat tad u# |  
+
+3.5.5.1(2):  uw | mew |
+uq meq maq uq vuq meq |  
+
+3.5.5.1(3):  mew |
+ma@ iti# me
+
+3.3.3.3(1):  vexH | uw |
+ve ru# vuq ver ve ru# |  
+
+3.3.3.3(2):  uw | taxtx |
+uq tat tat Uq tat |  
+
+3.3.3.3(3):  taxtx |
+tad iti@ tat
+
+2.3.7.4(1):  aqdaxnti# | uw |
+aqdant yu# vvaqdant yaqdant yu# |  
+
+2.3.7.4(2):  uw | eqvax |
+uq veqvaivav u# veqva |  
+
+2.3.7.4(3):  eqvax | awsyaw |
+eqvAsyA$syaiqvaivAsya# |  
+
+2.3.7.4(4):  awsyaw |
+a@syet ya#sya
+
+3.5.11.3(1):  taxmx | uw |
+tam Uq tam tam u# |  
+
+3.5.11.3(2):  uw | tvAw |
+uq tvAq tvav u# vu tvA |  
+
+3.5.11.3(3):  tvAw |
+tveti# tvA
+
+4.1.10.3(1):  uxtx | uw |
+ud Ud ud u# |  
+
+4.1.10.3(2):  uw | baxla#m# |
+Uq balaqm bala#m Uq bala$m |  
+
+4.1.10.3(3):  baxla#m# |
+bala@m iti@ bala$m
+
+4.6.2.5(1):  kaxH | uw |
+ka u# vuq kaHka u# |  
+
+4.6.2.5(2):  uw | saxH |
+uq sasau# vuq saH |  
+
+4.6.2.5(3):  saxH |
+saiti@ saH
+
+4.6.9.4(1):  nax | vaix |
+na vai vai na na vai |  
+
+4.6.9.4(2):  vaix | uw |
+vAu# vuq vai vAu# |  
+
+4.6.9.4(3):  uw | eqtaxtx |
+uq veqtad eqtad u# vveqtat |  
+
+4.6.9.4(4):  eqtaxtx |
+e@tad it ye@tat
+
+5.2.12.1(1):  kaxH | uw |
+ka u# vuq kaHka u# |  
+
+5.2.12.1(2):  uw | tew |
+uq teq taq uq vuq teq |  
+
+5.2.12.1(3):  tew | UqrddhvaxH |
+taq Uqrddhva Uqrddhvaste# ta UqrddhvaH |  
+
+5.2.12.1(4):  UqrddhvaxH | uw |
+Uqrddhva Uqrddhva Uqrddhva u# |  
+
+5.2.12.1(5):  uw | sux | nawH |
+Uq Shhu No# naqH su Uq Shhu Na#H |  
+
+5.2.12.1(6):  sux | nawH |
+su No# naqH su su Na#H |  
+
+5.2.12.1(7):  nawH | Uqtaxye# |
+naq Uqtaya# Uqtaye# no na Uqtaye# |  
+
+5.2.12.1(8):  Uqtaxye# |
+U@taya@ it yU@taye#
+
