@@ -1,0 +1,358 @@
+1.1.3.1(1):  ixndrA#yaf | daxdhi# |
+Before sandhi: ixndrA#yaf daxdhi# daxdhi# ixndrA#yaf ixndrA#yaf daxdhi#
+indrA#yaq dadhiq dadhIndrAqye ndrA#yaq dadhi# | Ok
+
+1.1.3.1(2):  daxdhi# | vixShNo# |
+Before sandhi: daxdhi# vixShNo#^ vixShNo#^ daxdhi# daxdhi# vixShNo#
+dadhiq viShNoq viShNoq dadhiq dadhiq viShNo$ |  OK
+
+1.1.3.1(3):  vixShNo# | haqvyaxmx |
+Before sandhi: vixShNo#^ ha@vyaxmx ha@vyaxmx vixShNo#^ vixShNo#^ ha@vyaxmx
+viShNo# haqvya(gm) haqvyaM ~MviShNoq viShNo# haqvyam |  Ok
+
+5. viShNo$ |
+viShNoq itiq viShNo$ | Ok
+
+1.1.3.1(4):  haqvyaxmx | rawkShawsvaw |
+Before sandhi: ha@vyaxmx rawkShawsvaw rawkShawsvaw ha@vyaxmx ha@vyaxmx rawkShawsvaw
+haqvya(gm) ra#kShasva rakShasva haqvya(gm) haqvya(gm) ra#kShasva |  OK
+
+7. raqkShaqsvaq |
+raqkShaqsveti# rakShasva | OK
+
+1.1.7.2(1):  vraqtex | iwndrawvAqyUx |
+Before sandhi: vra@tex iwndrawvA@yUx^ iwndrawvA@yUx^ vra@tex vra@tex iwndrawvA@yUx
+vraqta i#ndravAqyU i#ndravAqyU vraqte vraqta i#ndravAqyU |  OK
+
+1.1.7.2(2):  iwndrawvAqyUx | vix |
+Before sandhi: iwndrawvA@yUx^ vix vix iwndrawvA@yUx^ iwndrawvA@yUx^ vix
+iqndraqvAqyU vi vIndra#vAqyU i#ndravAqyU vi |  OK
+
+10. iqndraqvAqyU |
+iqndraqvAqyU itI$ndra - vAqyU | Ok
+
+1.1.7.2(3):  vix | muw~jcawtAwmw |
+Before sandhi: vix muw~jcawtAwmw muw~jcawtAwmw vix vix muw~jcawtAwmw
+vi mu#~jcatAm mu~jcatAqM ~Mvi vi mu#~jcatAm |  OK
+
+12. muq~jcaqtAqm |
+muq~jcaqtAqmiti# mu~jcatAm | OK
+
+1.1.13.3(1):  pAwtawmw | axgne# |
+Before sandhi: pAwtawmw axgne# axgne# pAwtawmw pAwtawmw axgne#
+pAqtaqm agne &gne# pAtam pAtaqm agne$ |  OK Correct
+
+1.1.13.3(2):  axgne# | awdawbdhAwyow |
+Before sandhi: axgne# awdawbdhAwyow awdawbdhAwyow axgne# axgne# awdawbdhAwyow
+agne# &dabdhAyo&dabdhAqyo&gne &gne# &dabdhAyo |  OK
+
+1.1.13.3(3):  awdawbdhAwyow | awSIwtawtawnow |
+Before sandhi: awdawbdhAwyow awSIwtawtawnow^ a*wSIwtawtawnow^ awdawbdhAwyow awdawbdhAwyow awSIwtawtawnow
+aqdaqbdhAqyoq&SIqtaqtaqnoq aqSIqtaqtaqnoq aqdaqbdhAqyoq&daqbdhAqyoq&SIqtaqtaqnoq |  OK
+
+16. aqdaqbdhAqyoq |
+aqdaqbdhAqyoq itya#dabdha - Aqyoq | OK
+
+1.1.13.3(4):  awSIwtawtawnow | pAqhix |
+Before sandhi: awSIwtawtawnow^ pA@hix pA@hix awSIwtawtawnow^ a*wSIwtawtawnow^ pA@hix
+aqSIqtaqtaqnoq pAqhi pAqh ya#SItatano aSItatano pAqhi |  OK
+
+18. aqSIqtaqtaqnoq |
+aqSIqtaqtaqnoq itya#Sita - taqnoq | OK
+
+19. pAqhi |
+pAqhIti# pAqhi | OK
+
+1.1.14.1(1):  uqBAx | vAwmw |
+Before sandhi: u@BAx vAwmw vAwmw u@BAx u@BAx vAwmw
+uqBA vA$M ~MvAm uqBoBA vA$m |  Ok
+
+1.1.14.1(2):  vAwmw | iwndrAqgnIx |
+Before sandhi: vAwmw iwndrA@gnIx^ iwndrA@gnIx^ vAwmw vAwmw iwndrA@gnIx
+vAqm iqndrAqgnI i#ndrAqgnI vA$M ~MvAm indrAqgnI |  Ok
+
+1.1.14.1(3):  iwndrAqgnIx | Awhuqvaxddhyai# |
+Before sandhi: iwndrA@gnIx^ Awhu@vaxddhyai# Awhu@vaxddhyai# iwndrA@gnIx^ iwndrA@gnIx^ Awhu@vaxddhyai#
+iqndrAqgnI A#huqvaddhyA#AhuqvaddhyA#indrAqgnI i#ndrAqgnI A#huqvaddhyai# |  Ok
+
+23. iqndrAqgnI |
+iqndrAqgnIq itI$ndra - aqgnIq | Ok
+
+1.1.14.1(4):  Awhuqvaxddhyai# | uqBAx |
+Before sandhi: Awhu@vaxddhyai# u@BAx u@BAx Awhu@vaxddhyai# Awhu@vaxddhyai# u@BAx
+AqhuqvaddhyA#uqBoBA &&huqvaddhyA#AhuqvaddhyA#uqBA |  OK
+
+1.1.14.1(5):  uqBAx | rAxdha#safH |
+Before sandhi: u@BAx rAxdha#safH rAxdha#safH u@BAx u@BAx rAxdha#safH
+uqBA rAdha#saq rAdha#sa uqBoBA rAdha#saH | Not Ok; rAdha#saH becomes rAdhasO before 'r' word
+
+26. rAdha#saH |
+rAdha#saq itiq rAdha#saH | Ok
+
+1.2.1.2(1):  haxvA#mafhef | ixndrA#gnIf |
+Before sandhi: haxvA#mafhef ixndrA#gnIf^ ixndrA#gnIf^ haxvA#mafhef haxvA#mafhef ixndrA#gnIf
+havA#mahaq indrA$gnIq indrA$gnIq havA#maheq havA#mahaq indrA$gnI |  OK
+
+1.2.1.2(2):  ixndrA#gnIf | dyAxvA#pRufthifvIf |
+Before sandhi: ixndrA#gnIf^ dyAxvA#pRufthifvIf^ dyAxvA#pRufthifvIf^ ixndrA#gnIf^ ixndrA#gnIf^ dyAxvA#pRufthifvIf
+indrA$gnIq dyAvA#pRuthivIq dyAvA#pRuthivIq indrA$gnIq indrA$gnIq dyAvA#pRuthivI |  OK
+
+29. indrA$gnI |
+indrA$gnIq itindra# - aqgnIq | OK
+
+1.2.1.2(3):  dyAxvA#pRufthifvIf | Axpa#H |
+Before sandhi: dyAxvA#pRufthifvIf^ Axpa#H Axpa#H dyAxvA#pRufthifvIf^ dyAxvA#pRufthifvIf^ Axpa#H
+dyAvA#pRuthivIq Apaq Apoq dyAvA#pRuthivIq dyAvA#pRuthivIq Apa#H |  Ok
+
+31. dyAvA#pRuthivI |
+dyAvA#pRuthivIq itiq dyAvA$ - pRuqthiqvIq | Ok
+
+32. Apa#H |
+Apaq ityApa#H | Ok
+
+1.2.5.2(1):  kRuwntAwmiw | aqsmex |
+Before sandhi: kRuwntAwmiw a@smex^ a*@smex^ kRuwntAwmiw kRuwntAwmiw a@smex
+kRuqntAqm yaqsme aqsme kRu#ntAmi kRuntAm yaqsme |  OK
+
+1.2.5.2(2):  aqsmex | rAxya#H |
+Before sandhi: a@smex^ rAxya#H rAxya#H a@smex^ a*@smex^ rAxya#H
+aqsme rAyoq rAyoq &sme aqsme rAya#H | OK 
+
+35. aqsme |
+aqsme ityaqsme | Ok
+
+1.2.5.2(3):  rAxya#H | tvex |
+Before sandhi: rAxya#H tvex^ tvex^ rAxya#H rAxya#H tvex
+rAyaqstve tve rAyoq rAyaqstve |  OK
+
+37. tve |
+tve itiq tve | OK
+
+1.2.8.2(1):  dhUwrqShAwhauw | awnaqSrUx |
+Before sandhi: dhUwr@ShAwhauw awna@SrUx^ awna@SrUx^ dhUwr@ShAwhauw dhUwr@ShAwhauw awna@SrUx
+dhUqrq.ShAqhAq vaqnaqSrU a#naqSrU dhU$r.ShAhau dhUr.ShAhA vanaqSrU |  OK
+
+39. dhUqrq.ShAqhauq |
+dhUqrq.ShAqhAqviti# dhUH - sAqhauq | Ok
+
+1.2.8.2(2):  awnaqSrUx | axvI#rafhafNauf |
+Before sandhi: awna@SrUx^ axvI#rafhafNauf axvI#rafhafNauf awna@SrUx^ awna@SrUx^ axvI#rafhafNauf
+aqnaqSrU avI#rahaNAq vavI#rahaNA vanaqSrU a#naqSrU avI#rahaNau | OK 
+
+41. aqnaqSrU |
+aqnaqSrU itya#naqSrU | OK
+
+1.2.8.2(3):  axvI#rafhafNauf | brawhmaqcoxda#nauf |
+Before sandhi: axvI#rafhafNauf brawhma@coxda#nauf brawhma@coxda#nauf axvI#rafhafNauf axvI#rafhafNauf brawhma@coxda#nauf
+avI#rahaNau brahmaqcoda#nau brahmaqcoda#nAq vavI#rahaNAq vavI#rahaNau brahmaqcoda#nau |  OK
+
+43. avI#rahaNau |
+avI#rahaNAqvityavI#ra - haqnauq | OK
+
+44. braqhmaqcoda#nau |
+braqhmaqcoda#nAqviti# brahma - coda#nau | Ok
+
+1.2.13.2(1):  iwtawmw | awddhvaqraxmx |
+Before sandhi: iwtawmw awddhva@raxmx awddhva@raxmx iwtawmw iwtawmw awddhva@raxmx
+iqtaqm aqddhvaqram a#ddhvaqram i#tam itam addhvaqram |  OK
+
+1.2.13.2(2):  awddhvaqraxmx | kaqlpaxya#ntIf |
+Before sandhi: awddhva@raxmx ka@lpaxya#ntIf^ ka@lpaxya#ntIf^ awddhva@raxmx awddhva@raxmx ka@lpaxya#ntIf
+aqddhvaqram kaqlpaya#ntI kaqlpaya#ntI addhvaqram a#ddhvaqram kaqlpaya#ntI |  OK
+
+1.2.13.2(3):  kaqlpaxya#ntIf | Uqrddhvaxmx |
+Before sandhi: ka@lpaxya#ntIf^ U@rddhvaxmx U@rddhvaxmx ka@lpaxya#ntIf^ ka@lpaxya#ntIf^ U@rddhvaxmx
+kaqlpaya#ntI Uqrddhvam Uqrddhvam kaqlpaya#ntI kaqlpaya#ntI Uqrddhvam |  OK
+
+48. kaqlpaya#ntI |
+kaqlpaya#ntIq iti# kaqlpaya#ntI | OK
+
+1.2.13.2(4):  Uqrddhvaxmx | yaqj~jaxmx |
+Before sandhi: U@rddhvaxmx ya@j~jaxmx ya@j~jaxmx U@rddhvaxmx U@rddhvaxmx ya@j~jaxmx
+UqrddhvaM ~Myaqj~jaM ~Myaqj~jam Uqrddhvam UqrddhvaM ~Myaqj~jam |  Ok
+
+50. yaqj~jam |
+yaqj~jamiti# yaqj~jam | Ok
+
+2.5.1.4(1):  eqShaxH | vaxrNa#H |
+Before sandhi: e@Shax vaxrNa#H vaxrNa#H e@Shax e@Shax vaxrNa#H
+eqSha varNoq varNa# eqSha iSha varNa#H |  Not ok
+
+2.5.1.4(2):  vaxrNa#H | axtho# |
+Before sandhi: vaxrNa#H axtho#^ axtho#^ vaxrNa#H vaxrNa#H axtho#
+varNo &thoq athoq varNoq varNo &tho$ |  Ok
+
+2.5.1.4(3):  axtho# | Kaxlu# |
+Before sandhi: axtho#^ Kaxlu# Kaxlu# axtho#^ axtho#^ Kaxlu#
+athoq Kaluq Kalvathoq athoq Kalu# |  OK
+
+54. atho$ |
+athoq ityatho$ | OK
+
+2.5.1.4(4):  Kaxlu# | axnu# |
+Before sandhi: Kaxlu# axnu# axnu# Kaxlu# Kaxlu# axnu#
+Kalvanvanuq Kaluq Kalvanu# |  OK
+
+2.5.1.4(5):  axnu# | uwcyewtew |
+Before sandhi: axnu# uwcyewtew^ uwcyewtew^ axnu# axnu# uwcyewtew
+anU$cyete ucyeteq anvanU$cyete |  OK
+
+2.5.1.4(6):  uwcyewtew | vRuxdha#nvaftIf |
+Before sandhi: uwcyewtew^ vRuxdha#nvaftIf^ vRuxdha#nvaftIf^ uwcyewtew^ uwcyewtew^ vRuxdha#nvaftIf
+uqcyeqteq vRudha#nvatIq vRudha#nvatI ucyete ucyeteq vRudha#nvatI |  OK
+
+58. uqcyeqteq |
+uqcyeqteq iti# ucyete | OK
+
+2.5.1.4(7):  vRuxdha#nvaftIf | awmAwvAqsyA/yAfmf |
+Before sandhi: vRuxdha#nvaftIf^ awmAwvA@syA/yAfmf awmAwvA@syA/yAfmf vRuxdha#nvaftIf^ vRuxdha#nvaftIf^ awmAwvA@syA/yAfmf
+vRudha#nvatI amAvAqsyA#yAm amAvAqsyA#yAqM ~MvRudha#nvatIq vRudha#nvatI amAvAqsyA#yAm |  OK
+
+60. vRudha#nvatI |
+vRudha#nvatIq itiq vRudhann# - vaqtIq | OK
+
+2.5.1.4(8):  awmAwvAqsyA/yAfmf | taxtx |
+Before sandhi: awmAwvA@syA/yAfmf taxtx taxtx awmAwvA@syA/yAfmf awmAwvA@syA/yAfmf taxtx
+aqmAqvAqsyA#yAqm tat tad a#mAvAqsyA#yAm amAvAqsyA#yAqm tat |  Ok
+
+62. aqmAqvAqsyA#yAm |
+aqmAqvAqsyA#yAqmitya#mA - vAqsyA#yAm | Ok
+
+63. tat |
+taditiq tat | Ok
+
+2.5.5.5(1):  yaxtx | vaqthsAxnx |
+Before sandhi: yaxtx va@thsAxnx va@thsAxnx yaxtx yaxtx va@thsAxnx
+yad vaqthsAn. vaqthsAn. yad yad vaqthsAn |  OK
+
+2.5.5.5(2):  vaqthsAxnx | awpAwkaqroxti# |
+Before sandhi: va@thsAxnx awpAwka@roxti# awpAwka@roxti# va@thsAxnx va@thsAxnx awpAwka@roxti#
+vaqthsAn a#pAkaqrot ya#pAkaqroti# vaqthsAn. vaqthsAn a#pAkaqroti# |  Ok
+
+2.5.5.5(3):  awpAwkaqroxti# | sawdowhawviwrddhAqnex |
+Before sandhi: awpAwka@roxti# sawdowhawviwrddhA@nex^ sawdowhawviwrddhA@nex^ awpAwka@roxti# awpAwka@roxti# sawdowhawviwrddhA@nex
+aqpAqkaqroti# sadohavirddhAqne sa#dohavirddhAqne a#pAkaqrot ya#pAkaqroti# sadohavirddhAqne |  Ok
+
+67. aqpAqkaqroti# |
+aqpAqkaqrotItya#pa - Aqkaqroti# | OK
+
+2.5.5.5(4):  sawdowhawviwrddhAqnex | yaqj~jaxsya# |
+Before sandhi: sawdowhawviwrddhA@nex^ ya@j~jaxsya# ya@j~jaxsya# sawdowhawviwrddhA@nex^ sawdowhawviwrddhA@nex^ ya@j~jaxsya#
+saqdoqhaqviqrddhAqne yaqj~jasya# yaqj~jasya# sadohavirddhAqne sa#dohavirddhAqne yaqj~jasya# |  Ok
+
+69. saqdoqhaqviqrddhAqne |
+saqdoqhaqviqrddhAqne iti# sadaH - haqviqrddhAqne | OK
+
+2.5.5.5(5):  yaqj~jaxsya# | axnu#KyAftyaif |
+Before sandhi: ya@j~jaxsya# axnu#KyAftyaif axnu#KyAftyaif ya@j~jaxsya# ya@j~jaxsya# axnu#KyAftyaif
+yaqj~jasyAnu#KyAtyAqanu#KyAtyai yaqj~jasya# yaqj~jasyAnu#KyAtyai |  OK
+
+2.5.5.5(6):  axnu#KyAftyaif | axtho# |
+Before sandhi: axnu#KyAftyaif axtho#^ axtho#^ axnu#KyAftyaif axnu#KyAftyaif axtho#
+anu#KyAtyAqathoq athoq anu#KyAtyAqanu#KyAtyAqatho$ |  Ok
+
+72. anu#KyAtyai |
+anu#KyAtyAq ityanu# - KyAqtyaiq | OK
+
+2.5.5.5(7):  axtho# | sAwmiwdheqnIxH |
+Before sandhi: axtho#^ sAwmiwdhe@nIxH sAwmiwdhe@nIxH axtho#^ axtho#^ sAwmiwdhe@nIxH
+atho# sAmidheqnIH sA#midheqnI rathoq atho# sAmidheqnIH |  OK
+
+74. atho$ |
+athoq ityatho$ | Ok
+
+75. sAqmiqdheqnIH |
+sAqmiqdheqnIriti# sAM - iqdheqnIH | Ok
+
+2.5.12.1(1):  Ax | nawH |
+Before sandhi: Ax nawH nawH Ax Ax nawH
+A no# naq A na#H |  Ok
+
+2.5.12.1(2):  nawH | diqvaxH |
+Before sandhi: nawH di@vaxH di@vaxH nawH nawH di@vaxH
+noq diqvo diqvo no# no diqvaH |  OK
+
+2.5.12.1(3):  diqvaxH | axgnA#vifShNUf |
+Before sandhi: di@vaxH axgnA#vifShNUf^ axgnA#vifShNUf^ di@vaxH di@vaxH axgnA#vifShNUf
+diqvo &gnA#viShNUq agnA#viShNU diqvo diqvo &gnA#viShNU |  OK
+
+2.5.12.1(4):  axgnA#vifShNUf | axgnA#vifShNUf |
+Before sandhi: axgnA#vifShNUf^ axgnA#vifShNUf
+agnA#viShNUq agnA#viShNU |  OK
+
+80. agnA#viShNU |
+agnA#viShNUq ityagnA$ - viqShNUq | OK
+
+2.5.12.1(5):  axgnA#vifShNUf | iqmaxmx |
+Before sandhi: axgnA#vifShNUf^ i@maxmx i@maxmx axgnA#vifShNUf^ axgnA#vifShNUf^ i@maxmx
+agnA#viShNU iqmam iqmam agnA#viShNUq agnA#viShNU iqmam |  OK
+
+82. agnA#viShNU |
+agnA#viShNUq ityagnA$ - viqShNUq | OK
+
+83. iqmam |
+iqmamiti# iqmam | OK
+
+2.5.12.5(1):  iwndriqyAxNi# | Sawtawkrawtow |
+Before sandhi: iwndri@yAxNi# Sawtawkrawtow^ Sawtawkrawtow^ iwndri@yAxNi# iwndri@yAxNi# Sawtawkrawtow
+iqndriqyANi# Satakrato Satakrato indriqyANI$ndriqyANi# Satakrato |  OK
+
+2.5.12.5(2):  Sawtawkrawtow | axnu# |
+Before sandhi: Sawtawkrawtow axnu# axnu# Sawtawkrawtow^ Sawtawkrawtow axnu#
+Saqtaqkraqto&nvanu# Satakrato Satakraqto&nu# |  OK 
+
+86. Saqtaqkraqtoq |
+Saqtaqkraqtoq iti# Sata - kraqtoq | OK
+
+2.5.12.5(3):  axnu# | tew |
+Before sandhi: axnu# tew tew axnu# axnu# tew
+anu# teq te &nvanu# te |  OK
+
+2.5.12.5(4):  tew | dAwyiw |
+Before sandhi: tew dAwyiw dAwyiw tew tew dAwyiw
+teq dAqyiq dAqyiq teq teq dAqyiq |  Ok
+
+89. dAqyiq |
+dAqyIti# dAyi | OK
+
+5.3.6.2(1):  axtha# | miwthuqnIx |
+Before sandhi: axtha# miwthu@nIx miwthu@nIx axtha# axtha# miwthu@nIx
+atha# mithuqnI mi#thuqnq. yathAtha# mithuqnI |  OK
+
+5.3.6.2(2):  miwthuqnIx | awBawvawnnx |
+Before sandhi: miwthu@nIx^ awBawvawnnx awBawvawnnx miwthu@nIx miwthu@nIx^ awBawvawnnx
+miqthuqnI a#Bavann aBavan mithuqnI mi#thuqnI a#Bavann |  Ok
+
+5.3.6.2(3):  awBawvawnnx | SyeqtIx |
+Before sandhi: awBawvawnnx Sye@tIx Sye@tIx awBawvawnnx awBawvawnnx Sye@tIx
+aqBaqvaqn SyeqtI Syeqt ya#Bavann aBavan SyeqtI |  Ok
+
+5.3.6.2(4):  SyeqtIx | awkuwruwtaw |
+Before sandhi: Sye@tIx^ awkuwruwtaw awkuwruwtaw Sye@tIx Sye@tIx^ awkuwruwtaw
+SyeqtI a#kurutAkuruta SyeqtI SyeqtI a#kuruta |  OK
+
+5.3.6.2(5):  awkuwruwtaw | taxtx |
+Before sandhi: awkuwruwtaw taxtx taxtx awkuwruwtaw awkuwruwtaw taxtx
+aqkuqruqtaq tat tad a#kurutAkurutaq tat |  Ok
+
+95. tat |
+taditiq tat | Ok
+
+6.4.3.4(1):  jawnawyawtiw | axddhva#ryof |
+Before sandhi: jawnawyawtiw axddhva#ryof axddhva#ryof jawnawyawtiw jawnawyawtiw axddhva#ryof
+jaqnaqyaqt yaddhvaqryo&ddhva#ryo janayati janayaqt yaddhva#ryo |  Ok
+
+6.4.3.4(2):  axddhva#ryof | axve#H |
+Before sandhi: axddhva#ryof axve#H axve#H axddhva#ryof axddhva#ryof axve#H
+addhvaqryo&veq raveq raddhvaqryo&ddhvaqryo&ve$H |  OK
+
+98. addhva#ryo |
+addhva#ryoq ityaddva#ryo | OK
+
+6.4.3.4(3):  axve#H | aqpAx(3)xH |
+Before sandhi: axve#H a@pAx(3)xH a@pAx(3)xH axve#H axve#H a@pAx(3)xH
+ave# raqpA(3) aqpA(3) aveq rave# raqpA(3)H | Ok 
+
+100. aqpA(3)H |
+aqpA(3) ityaqpA(3)H | OK
+
