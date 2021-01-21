@@ -1,0 +1,54 @@
+140c140
+< ,,,,,,,,4.5.1.3,3,139,39,139,pra#,,,,,,,,,,
+---
+> ,,,,,,,,4.5.1.3,3,139,39,139,pra,,,,,,,,,, Wrong swaram code
+168c168
+< ,,,,,,,,4.5.1.4,4,167,17,167,vijya$m,PS,,,,,,,,,vijyaqmitiq vi - jyaqm
+---
+> ,,,,,,,,4.5.1.4,4,167,17,167,vijya$m,PS,,,,,,,,,vijyaqmitiq vi - jyaqmq  q for m we donot normally give??
+172c172
+< ,,,,,,,,4.5.1.4,4,171,21,171,bANa#vAn,PS,,,,ngmv,N,,,,bANa#vAnitiq bANa# - vAqn
+---
+> ,,,,,,,,4.5.1.4,4,171,21,171,bANa#vAn,PS,,,,ngmv,N,,,,bANa#vAqnitiq bANa# - vAqn is there a space...
+372c372
+< ,,,,,,,,4.5.3.2,8,371,20,70,viddhya#dByaH,PS,,,,,,,,,vidhya#dByaq itiq vidhya#t - ByaqH
+---
+> ,,,,,,,,4.5.3.2,8,371,20,70,viddhya#dByaH,PS,,,,,,,,,viddhya#dByaq itiq viddhya#t - ByaqH ddh issue
+401c401
+< ,,,,,,,,4.5.3.2,8,400,49,99,aSve$ByaH,,,,,,,NE,,,
+---
+> ,,,,,,,,4.5.3.2,8,400,49,99,aSve$ByaH,,,,,,,NE+SE+RE,,,
+408c408 We are not supposed to give SE,RE when elision takes place
+< ,,,,,,,,4.5.4.1,9,407,3,3,viqviddhya#ntIByaH,PS,,,,,,,,,viqvidhya#ntIByaq iti# vi - vidhya#ntIByaH
+---
+> ,,,,,,,,4.5.4.1,9,407,3,3,viqviddhya#ntIByaH,PS,,,,,,,,,viqviddhya#ntIByaq iti# vi - viddhya#ntIByaH ddh issue
+556c556
+< ,,,,,,,,4.5.5.1,11,555,49,49,saqm~MvRuddhva#ne,PS,,,,,,,,,saqM~MvRudhva#naq iti# saM - vRudhva#ne 
+---
+> ,,,,,,,,4.5.5.1,11,555,49,49,saqm~MvRuddhva#ne,PS,,,,,,,,,saqM~MvRuddhva#naq iti# saM - vRuddhva#ne ddh issue
+631c631
+< ,,,,,,,,4.5.6.1,13,630,49,49,praqtiqSraqvAya# ,PS,,,,,,,,,praqtiSravAyeti# prati - SraqvAya#
+---
+> ,,,,,,,,4.5.6.1,13,630,49,49,praqtiqSraqvAya# ,PS,,,,,,,,,praqtiqSraqvAyeti# prati - SraqvAya# input error
+982c982
+< ,,,,,,,,4.5.10.2,22,981,32,82,aqrBaqkam,,,,,,,NE,,,
+---
+> ,,,,,,,,4.5.10.2,22,981,32,82,aqrBaqkam,,,,,,,NE+RE,,,
+1052c1052 We are not supposed to give RE
+< ,,,,,,,,4.5.10.4,24,1051,2,152,gaqrttaqsada$m,PS,,,,,,,,,gaqrttaqsadaqmiti# gartta - sada$m
+---
+> ,,,,,,,,4.5.10.4,24,1051,2,152,gaqrtaqsada$m,PS,,,,,,,,,gaqrtaqsadaqmiti# garta - sada$m
+1102,1103c1102,1103 now t added is ok
+< ,,,,,,,,4.5.10.5,25,1101,2,202,A,Pre,,,,,,,,,gaqhIti# gahi
+< ,,,,,,,,4.5.10.5,25,1102,3,203,gaqhiq,,R,,,,,,,,
+---
+> ,,,,,,,,4.5.10.5,25,1101,2,202,A,Pre,,,,,,,,,
+> ,,,,,,,,4.5.10.5,25,1102,3,203,gaqhiq,Pre,R,,,,,,,,gaqhIti# gahi senior citizens parallax error Expansion should be for R only
+1169c1169
+< ,,,,,,,,4.5.11.1,26,1168,40,40,viqviddhya#nti,PS,,,,,,,,,viqvidhyaqntIti# vi - vidhya#nti
+---
+> ,,,,,,,,4.5.11.1,26,1168,40,40,viqviddhya#nti,PS,,,,,,,,,viqviddhyaqntIti# vi - viddhya#nti ddh issue
+1195c1195
+< ,,,,,,,,4.5.11.2,27,1194,16,66,taqnmaqsiq,,R,,,,,,,,viqtaqsthiqra iti# vi - taqsthiqre
+---
+> ,,,,,,,,4.5.11.2,27,1194,16,66,taqnmaqsiq,,R,,,,,,,,taqnmaqsIti# tanmasi ouch Excellent Cut and paste on wrong item
