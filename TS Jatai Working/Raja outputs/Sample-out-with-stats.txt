@@ -1,0 +1,933 @@
+1)	4.5.1.1(1):  nama#H | teq
+nama#ste teq namoq nama#ste |  
+
+2)	4.5.1.1(2):  teq | ruqdraq
+teq ruqdraq ruqdraq teq teq ruqdraq |  
+
+3)	4.5.1.1(3):  ruqdraq | maqnyave$
+ruqdraq maqnyave# maqnyave# rudra rudra maqnyave$ |  
+
+4)	4.5.1.1(4):  maqnyave$ | uqto
+maqnyava# uqto uqto maqnyave# maqnyava# uqto |  
+
+5)	4.5.1.1(5):  uqto | teq
+uqto te# ta uqto uqto te$ |  
+
+6)	4.5.1.1(5):  uqto |
+uqto ityuqto | 
+
+7)	4.5.1.1(6):  teq | iSha#ve
+taq iSha#vaq iSha#ve te taq iSha#ve |  
+
+8)	4.5.1.1(7):  iSha#ve | nama#H
+iSha#veq namoq namaq iSha#vaq iSha#veq nama#H |  
+
+9)	4.5.1.1(8):  nama#H |
+namaq itiq nama#H | 
+
+10)	4.5.1.1(9):  nama#H | teq
+nama#ste teq namoq nama#ste |  
+
+11)	4.5.1.1(10):  teq | aqstuq
+teq aqstvaqstuq teq teq aqstuq |  
+
+12)	4.5.1.1(11):  aqstuq | dhanva#ne
+aqstuq dhanva#neq dhanva#ne astvastuq dhanva#ne |  
+
+13)	4.5.1.1(12):  dhanva#ne | bAqhuByA$m
+dhanva#ne bAqhuByA$m bAqhuByAqm dhanva#neq dhanva#ne bAqhuByA$m |  
+
+14)	4.5.1.1(13):  bAqhuByA$m | uqta
+bAqhuByA#m uqtota bAqhuByA$m bAqhuByA#m uqta |  
+
+15)	4.5.1.1(13):  bAqhuByA$m |
+bAqhuByAqmiti# bAqhu - ByAqm | 
+
+16)	4.5.1.1(14):  uqta | teq
+uqta te# ta uqtota te$ |  
+
+17)	4.5.1.1(15):  teq | nama#H
+teq namoq nama#ste teq nama#H |  
+
+18)	4.5.1.1(16):  nama#H |
+namaq itiq nama#H | 
+
+19)	4.5.1.1(17):  yA | teq
+yA te# teq yA yA te$ |  
+
+20)	4.5.1.1(18):  teq | iShu#H
+taq iShuq riShu#ste taq iShu#H |  
+
+21)	4.5.1.1(19):  iShu#H | Siqvata#mA
+iShu#H Siqvata#mA SiqvataqmeShuq riShu#H Siqvata#mA |  
+
+22)	4.5.1.1(20):  Siqvata#mA | Siqvam
+Siqvata#mA Siqva(gm) Siqva(gm) Siqvata#mA Siqvata#mA Siqvam |  
+
+23)	4.5.1.1(20):  Siqvata#mA |
+Siqvataqmeti# Siqva - taqmAq | 
+
+24)	4.5.1.1(21):  Siqvam | baqBUva#
+Siqvam baqBUva# baqBUva# Siqva(gm) Siqvam baqBUva# |  
+
+25)	4.5.1.1(22):  baqBUva# | teq
+baqBUva# te te baqBUva# baqBUva# te |  
+
+26)	4.5.1.1(23):  teq | dhanu#H
+teq dhanuqr dhanu#ste teq dhanu#H |  
+
+27)	4.5.1.1(24):  dhanu#H |
+dhanuqritiq dhanu#H | 
+
+28)	4.5.1.1(25):  SiqvA | SaqraqvyA$
+SiqvA Sa#raqvyA# SaraqvyA# SiqvA SiqvA Sa#raqvyA$ |  
+
+29)	4.5.1.1(26):  SaqraqvyA$ | yA
+SaqraqvyA# yA yA Sa#raqvyA# SaraqvyA# yA |  
+
+30)	4.5.1.1(27):  yA | tava#
+yA tavaq tavaq yA yA tava# |  
+
+31)	4.5.1.1(28):  tava# | tayA$
+tavaq tayAq tayAq tavaq tavaq tayA$ |  
+
+32)	4.5.1.1(29):  tayA$ | naqH
+tayA# no naqstayAq tayA# naH |  
+
+33)	4.5.1.1(30):  naqH | ruqdraq
+noq ruqdraq ruqdraq noq noq ruqdraq |  
+
+34)	4.5.1.1(31):  ruqdraq | mRuqDaqyaq
+ruqdraq mRuqDaqyaq mRuqDaqyaq ruqdraq ruqdraq mRuqDaqyaq |  
+
+35)	4.5.1.1(32):  mRuqDaqyaq |
+mRuqDaqyeti# mRuDaya | 
+
+36)	4.5.1.1(33):  yA | teq
+yA te# teq yA yA te$ |  
+
+37)	4.5.1.1(34):  teq | ruqdraq
+teq ruqdraq ruqdraq teq teq ruqdraq |  
+
+38)	4.5.1.1(35):  ruqdraq | SiqvA
+ruqdraq SiqvA SiqvA ru#dra rudra SiqvA |  
+
+39)	4.5.1.1(36):  SiqvA | taqnUH
+SiqvA taqnUstaqnUH SiqvA SiqvA taqnUH |  
+
+40)	4.5.1.1(37):  taqnUH | aGo#rA
+taqnU raGoqrA &Go#rA taqnUstaqnU raGo#rA |  
+
+41)	4.5.1.1(38):  aGo#rA | apA#pakASinI
+aGoqrA &pA#pakASiqnq. yapA#pakASiqnq. yaGoqrA &GoqrA &pA#pakASinI |  
+
+42)	4.5.1.1(39):  apA#pakASinI |
+apA#pakASiqnItyapA#pa - kAqSiqnIq | 
+
+43)	4.5.1.1(40):  tayA$ | naqH
+tayA# no naqstayAq tayA# naH |  
+
+44)	4.5.1.1(41):  naqH | taqnuvA$
+naqstaqnuvA# taqnuvA# no nastaqnuvA$ |  
+
+45)	4.5.1.1(42):  taqnuvA$ | Santa#mayA
+taqnuvAq Santa#mayAq Santa#mayA taqnuvA# taqnuvAq Santa#mayA |  
+
+46)	4.5.1.1(43):  Santa#mayA | giri#Santa
+Santa#mayAq giri#Santaq giri#Santaq Santa#mayAq Santa#mayAq giri#Santa |  
+
+47)	4.5.1.1(43):  Santa#mayA |
+Santa#maqyetiq SaM - taqmaqyAq | 
+
+48)	4.5.1.1(44):  giri#Santa | aqBi
+giri#SantAqB ya#Bi giri#Santaq giri#SantAqBi |  
+
+49)	4.5.1.1(44):  giri#Santa |
+giri#Saqntetiq giri# - Saqntaq | 
+
+50)	4.5.1.1(45):  aqBi | cAqkaqSIqhiq
+aqBi cA#kaSIhi cAkaSIh yaqB ya#Bi cA#kaSIhi |  
+
+51)	4.5.1.1(46):  cAqkaqSIqhiq |
+cAqkaqSIqhIti# cAkaSIhi | 
+
+52)	4.5.1.1(47):  yAm | iShu$m
+yAm iShuqm iShuqM ~MyAM ~MyAm iShu$m |  
+
+53)	4.5.1.1(48):  iShu$m | giqriqSaqntaq
+iShu#m giriSanta giriSaqnte Shuqm iShu#m giriSanta |  
+
+54)	4.5.1.1(49):  giqriqSaqntaq | haste$
+giqriqSaqntaq hasteq haste# giriSanta giriSantaq haste$ |  
+
+55)	4.5.1.1(49):  giqriqSaqntaq |
+giqriqSaqnteti# giri - Saqntaq | 
+
+56)	4.5.1.1(50):  haste$ | biBa#r.Shi
+hasteq biBa#r.Shiq biBa#r.Shiq hasteq hasteq biBa#r.Shi |  
+
+57)	4.5.1.2(1):  biBa#r.Shi | asta#ve
+biBaqrq.Sh yasta#veq asta#veq biBa#r.Shiq biBaqrq.Sh yasta#ve |  
+
+58)	4.5.1.2(2):  asta#ve |
+asta#vaq ityasta#ve | 
+
+59)	4.5.1.2(3):  SiqvAm | giqriqtraq
+SiqvAm gi#ritra giritra SiqvA(gm) SiqvAm gi#ritra |  
+
+60)	4.5.1.2(4):  giqriqtraq | tAm
+giqriqtraq tAm tAm gi#ritra giritraq tAm |  
+
+61)	4.5.1.2(4):  giqriqtraq |
+giqriqtreti# giri - traq | 
+
+62)	4.5.1.2(5):  tAm | kuqruq
+tAm ku#ru kuruq tAm tAm ku#ru |  
+
+63)	4.5.1.2(6):  kuqruq | mA
+kuqruq mA mA ku#ru kuruq mA |  
+
+64)	4.5.1.2(7):  mA | hiq(gm)qsIqH
+mAhi(gm)# sIr.hi(gm) sIqr mA mAhi(gm)# sIH |  
+
+65)	4.5.1.2(8):  hiq(gm)qsIqH | puru#Sham
+hiq(gm)qsIqH puru#Shaqm puru#Sha(gm)hi(gm) sIr.hi(gm) sIqH puru#Sham |  
+
+66)	4.5.1.2(9):  puru#Sham | jaga#t
+puru#Shaqm jagaqj jagaqt puru#Shaqm puru#Shaqm jaga#t |  
+
+67)	4.5.1.2(10):  jaga#t |
+jagaqditiq jaga#t | 
+
+68)	4.5.1.2(11):  Siqvena# | vaca#sA
+Siqvenaq vaca#sAq vaca#sA Siqvena# Siqvenaq vaca#sA |  
+
+69)	4.5.1.2(12):  vaca#sA | tvAq
+vaca#sA tvA tvAq vaca#sAq vaca#sA tvA |  
+
+70)	4.5.1.2(13):  tvAq | giri#Sa
+tvAq giri#Saq giri#Sa tvA tvAq giri#Sa |  
+
+71)	4.5.1.2(14):  giri#Sa | acCa#
+giriqSAcCAcCaq giri#Saq giriqSAcCa# |  
+
+72)	4.5.1.2(15):  acCa# | vaqdAqmaqsiq
+acCA# vadAmasi vadAmaqs yacCAcCA# vadAmasi |  
+
+73)	4.5.1.2(16):  vaqdAqmaqsiq |
+vaqdAqmaqsIti# vadAmasi | 
+
+74)	4.5.1.2(17):  yathA$ | naqH
+yathA# no noq yathAq yathA# naH |  
+
+75)	4.5.1.2(18):  naqH | sarva$m
+naqH sarvaq(gm)q sarva#n no naqH sarva$m |  
+
+76)	4.5.1.2(19):  sarva$m | it
+sarvaqm id ith sarvaq(gm)q sarvaqm it |  
+
+77)	4.5.1.2(20):  it | jaga#t
+ij jagaqj jagaqd id ij jaga#t |  
+
+78)	4.5.1.2(21):  jaga#t | aqyaqkShmam
+jaga#d ayaqkShmam a#yaqkShmam jagaqj jaga#d ayaqkShmam |  
+
+79)	4.5.1.2(22):  aqyaqkShmam | suqmanA$H
+aqyaqkShma(gm) suqmanA$H suqmanA# ayaqkShmam a#yaqkShma(gm) suqmanA$H |  
+
+80)	4.5.1.2(23):  suqmanA$H | asa#t
+suqmanAq asaqd asa#th suqmanA$H suqmanAq asa#t |  
+
+81)	4.5.1.2(23):  suqmanA$H |
+suqmanAq iti# su - manA$H | 
+
+82)	4.5.1.2(24):  asa#t |
+asaqdityasa#t | 
+
+83)	4.5.1.2(25):  adhi# | aqvoqcaqt
+adh ya#vocad avocaqd adh yadh ya#vocat |  
+
+84)	4.5.1.2(26):  aqvoqcaqt | aqdhiqvaqktA
+aqvoqcaqd aqdhiqvaqktA &dhi#vaqktA &vo#cad avocad adhivaqktA |  
+
+85)	4.5.1.2(27):  aqdhiqvaqktA | praqthaqmaH
+aqdhiqvaqktA pra#thaqmaH pra#thaqmo a#dhivaqktA &dhi#vaqktA pra#thaqmaH |  
+
+86)	4.5.1.2(27):  aqdhiqvaqktA |
+aqdhiqvaqktetya#dhi - vaqktA | 
+
+87)	4.5.1.2(28):  praqthaqmaH | daivya#H
+praqthaqmo daivyoq daivya#H prathaqmaH pra#thaqmo daivya#H |  
+
+88)	4.5.1.2(29):  daivya#H | BiqShak
+daivyo# BiqShag BiqShag daivyoq daivyo# BiqShak |  
+
+89)	4.5.1.2(30):  BiqShak |
+BiqShagiti# BiqShak | 
+
+90)	4.5.1.2(31):  ahIn# | caq
+ahI(gg)#S caq cAhIqn ahI(gg)#S ca |  
+
+91)	4.5.1.2(32):  caq | sarvAn$
+caq sarvAqn thsarvA(gg)#S ca caq sarvAn# |  
+
+92)	4.5.1.2(33):  sarvAn$ | jaqMBayann#
+sarvA$n jaqMBaya#n jaqMBayaqn thsarvAqn thsarvA$n jaqMBayann# |  
+
+93)	4.5.1.2(34):  jaqMBayann# | sarvA$H
+jaqMBayaqn thsarvAqH sarvA# jaqMBaya#n jaqMBayaqn thsarvA$H |  
+
+94)	4.5.1.2(35):  sarvA$H | caq
+sarvA$Sca caq sarvAqH sarvA$Sca |  
+
+95)	4.5.1.2(36):  caq | yAqtuqdhAqnya#H
+caq yAqtuqdhAqnyo# yAtudhAqnya#Sca ca yAtudhAqnya#H |  
+
+96)	4.5.1.2(37):  yAqtuqdhAqnya#H |
+yAqtuqdhAqnya# iti# yAtu - dhAqnya#H | 
+
+97)	4.5.1.2(38):  aqsau | yaH
+aqsau yo yoaqsA vaqsau yaH |  
+
+98)	4.5.1.2(39):  yaH | tAqmraH
+yastAqmrastAqmro yo yastAqmraH |  
+
+99)	4.5.1.2(40):  tAqmraH | aqruqNaH
+tAqmro a#ruqNo a#ruqNastAqmrastAqmro a#ruqNaH |  
+
+100)	4.5.1.2(41):  aqruqNaH | uqta
+aqruqNa uqtotAruqNo a#ruqNa uqta |  
+
+101)	4.5.1.2(42):  uqta | baqBruH
+uqta baqBrur baqBru ruqtota baqBruH |  
+
+102)	4.5.1.2(43):  baqBruH | suqmaq~ggala#H
+baqBruH su#maq~ggala#H sumaq~ggalo# baqBrur baqBruH su#maq~ggala#H |  
+
+103)	4.5.1.2(44):  suqmaq~ggala#H |
+suqmaq~ggalaq iti# su - maq~ggala#H | 
+
+104)	4.5.1.2(45):  ye | caq
+ye ca# caq ye ye ca# |  
+
+105)	4.5.1.2(46):  caq | iqmAm
+ceq mAm iqmAm ca# ceq mAm |  
+
+106)	4.5.1.2(47):  iqmAm | ruqdrAH
+iqmA(gm) ruqdrA ruqdrA iqmAm iqmA(gm) ruqdrAH |  
+
+107)	4.5.1.2(48):  ruqdrAH | aqBita#H
+ruqdrA aqBito# aqBito# ruqdrA ruqdrA aqBita#H |  
+
+108)	4.5.1.2(49):  aqBita#H | diqkShu
+aqBito# diqkShu diqkSh va#Bito# aqBito# diqkShu |  
+
+109)	4.5.1.2(50):  diqkShu | SriqtAH
+diqkShu SriqtAH SriqtA diqkShu diqkShu SriqtAH |  
+
+110)	4.5.1.3(1):  SriqtAH | saqhaqsraqSaH
+SriqtAH sa#hasraqSaH sa#hasraqSaH SriqtAH SriqtAH sa#hasraqSaH |  
+
+111)	4.5.1.3(2):  saqhaqsraqSaH | ava#
+saqhaqsraqSo &vAva# sahasraqSaH sa#hasraqSo &va# |  
+
+112)	4.5.1.3(2):  saqhaqsraqSaH |
+saqhaqsraqSa iti# sahasra - SaH | 
+
+113)	4.5.1.3(3):  ava# | eqShAqm
+avai#ShAm eShAqm avAvai#ShAm |  
+
+114)	4.5.1.3(4):  eqShAqm | heDa#H
+eqShAq(gm)q heDoq heDa# eShAm eShAq(gm)q heDa#H |  
+
+115)	4.5.1.3(5):  heDa#H | Iqmaqheq
+heDa# Imaha Imaheq heDoq heDa# Imahe |  
+
+116)	4.5.1.3(6):  Iqmaqheq |
+Iqmaqhaq itI# mahe | 
+
+117)	4.5.1.3(7):  aqsau | yaH
+aqsau yo yoaqsA vaqsau yaH |  
+
+118)	4.5.1.3(8):  yaH | aqvaqsarpa#ti
+yo# &vaqsarpa#t yavaqsarpa#tiq yo yo# &vaqsarpa#ti |  
+
+119)	4.5.1.3(9):  aqvaqsarpa#ti | nIla#grIvaH
+aqvaqsarpa#tiq nIla#grIvoq nIla#grIvo &vaqsarpa#t yavaqsarpa#tiq nIla#grIvaH |  
+
+120)	4.5.1.3(9):  aqvaqsarpa#ti |
+aqvaqsarpaqtItya#va - sarpa#ti | 
+
+121)	4.5.1.3(10):  nIla#grIvaH | vilo#hitaH
+nIla#grIvoq vilo#hitoq vilo#hitoq nIla#grIvoq nIla#grIvoq vilo#hitaH |  
+
+122)	4.5.1.3(10):  nIla#grIvaH |
+nIla#grIvaq itiq nIla# - grIqvaqH | 
+
+123)	4.5.1.3(11):  vilo#hitaH |
+vilo#hitaq itiq vi - loqhiqtaqH | 
+
+124)	4.5.1.3(12):  uqta | eqnaqm
+uqtaina#m enam uqtotaina$m |  
+
+125)	4.5.1.3(13):  eqnaqm | goqpAH
+eqnaqm goqpA goqpA e#nam enam goqpAH |  
+
+126)	4.5.1.3(14):  goqpAH | aqdRuqSaqnn
+goqpA a#dRuSann adRuSan goqpA goqpA a#dRuSann |  
+
+127)	4.5.1.3(14):  goqpAH |
+goqpA iti# go - pAH | 
+
+128)	4.5.1.3(15):  aqdRuqSaqnn | adRu#Sann
+aqdRuqSaqnn adRu#Saqnn adRu#Sann adRuSann adRuSaqnn adRu#Sann |  
+
+129)	4.5.1.3(16):  adRu#Sann | uqdaqhAqrya#H
+adRu#Sann udahAqrya# udahAqryo# adRu#Saqnn adRu#Sann udahAqrya#H |  
+
+130)	4.5.1.3(17):  uqdaqhAqrya#H |
+uqdaqhAqrya#ityu#da - hAqrya#H | 
+
+131)	4.5.1.3(18):  uqta | eqnaqm
+uqtaina#m enam uqtotaina$m |  
+
+132)	4.5.1.3(19):  eqnaqm | viSvA$
+eqnaqM ~MviSvAq viSvai#nam enaqM ~MviSvA$ |  
+
+133)	4.5.1.3(20):  viSvA$ | BUqtAni#
+viSvA# BUqtAni# BUqtAniq viSvAq viSvA# BUqtAni# |  
+
+134)	4.5.1.3(21):  BUqtAni# | saH
+BUqtAniq sa sa BUqtAni# BUqtAniq saH |  
+
+135)	4.5.1.3(22):  saH | dRuqShTaH
+sa dRuqShTo dRuqShTaH sa sa dRuqShTaH |  
+
+136)	4.5.1.3(23):  dRuqShTaH | mRuqDaqyAqtiq
+dRuqShTo mRu#DayAti mRuDayAti dRuqShTo dRuqShTo mRu#DayAti |  
+
+137)	4.5.1.3(24):  mRuqDaqyAqtiq | naqH
+mRuqDaqyAqtiq noq noq mRuqDaqyAqtiq mRuqDaqyAqtiq naqH |  
+
+138)	4.5.1.3(25):  naqH |
+naq iti# naH | 
+
+139)	4.5.1.3(26):  nama#H | aqstuq
+namo# astvastuq namoq namo# astu |  
+
+140)	4.5.1.3(27):  aqstuq | nIla#grIvAya
+aqstuq nIla#grIvAyaq nIla#grIvAyAstvastuq nIla#grIvAya |  
+
+141)	4.5.1.3(28):  nIla#grIvAya | saqhaqsrAqkShAya#
+nIla#grIvAya sahasrAqkShAya# sahasrAqkShAyaq nIla#grIvAyaq nIla#grIvAya sahasrAqkShAya# |  
+
+142)	4.5.1.3(28):  nIla#grIvAya |
+nIla#grIvAqyetiq nIla# - grIqvAqyaq | 
+
+143)	4.5.1.3(29):  saqhaqsrAqkShAya# | mIqDhuShe$
+saqhaqsrAqkShAya# mIqDhuShe# mIqDhuShe# sahasrAqkShAya# sahasrAqkShAya# mIqDhuShe$ |  
+
+144)	4.5.1.3(29):  saqhaqsrAqkShAya# |
+saqhaqsrAqkShAyeti# sahasra - aqkShAya# | 
+
+145)	4.5.1.3(30):  mIqDhuShe$ |
+mIqDhuShaq iti# mIqDhuShe$ | 
+
+146)	4.5.1.3(31):  atho$ | ye
+athoq ye ye &thoq athoq ye |  
+
+147)	4.5.1.3(31):  atho$ |
+athoq ityatho$ | 
+
+148)	4.5.1.3(32):  ye | aqsyaq
+ye a#syAsyaq ye ye a#sya |  
+
+149)	4.5.1.3(33):  aqsyaq | satvA#naH
+aqsyaq satvA#naqH satvA#no asyAsyaq satvA#naH |  
+
+150)	4.5.1.3(34):  satvA#naH | aqham
+satvA#noq &ham aqha(gm) satvA#naqH satvA#noq &ham |  
+
+151)	4.5.1.3(35):  aqham | teBya#H
+aqham teByaqsteByoq &ham aqham teBya#H |  
+
+152)	4.5.1.3(36):  teBya#H | aqkaqraqm
+teByo# &karam akaraqm teByaqsteByo# &karam |  
+
+153)	4.5.1.3(37):  aqkaqraqm | nama#H
+aqkaqraqn namoq namo# &karam akaraqn nama#H |  
+
+154)	4.5.1.3(38):  nama#H |
+namaq itiq nama#H | 
+
+155)	4.5.1.3(39):  pra | muq~jcaq
+pra mu#~jca mu~jcaq pra pra mu#~jca |  
+
+156)	4.5.1.3(40):  muq~jcaq | dhanva#naH
+muq~jcaq dhanva#noq dhanva#no mu~jca mu~jcaq dhanva#naH |  
+
+157)	4.5.1.3(41):  dhanva#naH | tvam
+dhanva#naqstvam tvam dhanva#noq dhanva#naqstvam |  
+
+158)	4.5.1.3(42):  tvam | uqBayo$H
+tvam uqBayo# ruqBayoqstvam tvam uqBayo$H |  
+
+159)	4.5.1.3(43):  uqBayo$H | Artni#yoH
+uqBayoq rArtni#yoq rArtni#yo ruqBayo# ruqBayoq rArtni#yoH |  
+
+160)	4.5.1.3(44):  Artni#yoH | jyAm
+Artni#yoqr jyAm jyAm Artni#yoq rArtni#yoqr jyAm |  
+
+161)	4.5.1.3(45):  jyAm |
+jyAmitiq jyAm | 
+
+162)	4.5.1.3(46):  yAH | caq
+yASca# caq yA yASca# |  
+
+163)	4.5.1.3(47):  caq | teq
+caq teq teq caq caq teq |  
+
+164)	4.5.1.3(48):  teq | haste$
+teq hasteq haste# te teq haste$ |  
+
+165)	4.5.1.3(49):  haste$ | iSha#vaH
+hastaq iSha#vaq iSha#voq hasteq hastaq iSha#vaH |  
+
+166)	4.5.1.3(50):  iSha#vaH | parA#
+iSha#vaqH parAq pareSha#vaq iSha#vaqH parA$ |  
+
+167)	4.5.1.4(1):  parA# | tAH
+parAq tAstAH parAq parAq tAH |  
+
+168)	4.5.1.4(2):  tAH | BaqgaqvaqH
+tA Ba#gavo BagavaqstAstA Ba#gavaH |  
+
+169)	4.5.1.4(3):  BaqgaqvaqH | vaqpaq
+Baqgaqvoq vaqpaq vaqpaq Baqgaqvoq Baqgaqvoq vaqpaq |  
+
+170)	4.5.1.4(3):  BaqgaqvaqH |
+Baqgaqvaq iti# Baga - vaqH | 
+
+171)	4.5.1.4(4):  vaqpaq |
+vaqpeti# vapa | 
+
+172)	4.5.1.4(5):  aqvaqtatya# | dhanu#H
+aqvaqtatyaq dhanuqr dhanu# ravaqtatyA#vaqtatyaq dhanu#H |  
+
+173)	4.5.1.4(5):  aqvaqtatya# |
+aqvaqtatyetya#va - tatya# | 
+
+174)	4.5.1.4(6):  dhanu#H | tvam
+dhanuqstvam tvam dhanuqr dhanuqstvam |  
+
+175)	4.5.1.4(7):  tvam | saha#srAkSha
+tva(gm) saha#srAkShaq saha#srAkShaq tvamtva(gm) saha#srAkSha |  
+
+176)	4.5.1.4(8):  saha#srAkSha | Sate#Shudhe
+saha#srAkShaq Sate#Shudheq Sate#Shudheq saha#srAkShaq saha#srAkShaq Sate#Shudhe |  
+
+177)	4.5.1.4(8):  saha#srAkSha |
+saha#srAqkShetiq saha#sra - aqkShaq | 
+
+178)	4.5.1.4(9):  Sate#Shudhe |
+Sate#Shudhaq itiq Sata# - iqShuqdheq | 
+
+179)	4.5.1.4(10):  niqSIrya# | SaqlyAnA$m
+niqSIrya# SaqlyAnA(gm)# SaqlyAnA$n niqSIrya# niqSIrya# SaqlyAnA$m |  
+
+180)	4.5.1.4(10):  niqSIrya# |
+niqSIryeti# ni - SIrya# | 
+
+181)	4.5.1.4(11):  SaqlyAnA$m | muKA$
+SaqlyAnAqm muKAq muKA# SaqlyAnA(gm)# SaqlyAnAqm muKA$ |  
+
+182)	4.5.1.4(12):  muKA$ | SiqvaH
+muKA# SiqvaH Siqvo muKAq muKA# SiqvaH |  
+
+183)	4.5.1.4(13):  SiqvaH | naqH
+Siqvo no# naH SiqvaH Siqvo na#H |  
+
+184)	4.5.1.4(14):  naqH | suqmanA$H
+naqH suqmanA$H suqmanA# no naH suqmanA$H |  
+
+185)	4.5.1.4(15):  suqmanA$H | Baqvaq
+suqmanA# Bava Bava suqmanA$H suqmanA# Bava |  
+
+186)	4.5.1.4(15):  suqmanA$H |
+suqmanAq iti# su - manA$H | 
+
+187)	4.5.1.4(16):  Baqvaq |
+Baqveti# Bava | 
+
+188)	4.5.1.4(17):  vijya$m | dhanu#H
+vijyaqm dhanuqr dhanuqr vijyaqM ~Mvijyaqm dhanu#H |  
+
+189)	4.5.1.4(17):  vijya$m |
+vijyaqmitiq vi - jyaqmq | 
+
+190)	4.5.1.4(18):  dhanu#H | kaqpaqrdina#H
+dhanu#H kapaqrdina#Hkapaqrdinoq dhanuqr dhanu#H kapaqrdina#H |  
+
+191)	4.5.1.4(19):  kaqpaqrdina#H | viSa#lyaH
+kaqpaqrdinoq viSa#lyoq viSa#lyaHkapaqrdina#Hkapaqrdinoq viSa#lyaH |  
+
+192)	4.5.1.4(20):  viSa#lyaH | bANa#vAn
+viSa#lyoq bANa#vAqn bANa#vAqnq. viSa#lyoq viSa#lyoq bANa#vAn |  
+
+193)	4.5.1.4(20):  viSa#lyaH |
+viSa#lyaq itiq vi - SaqlyaqH | 
+
+194)	4.5.1.4(21):  bANa#vAn | uqta
+bANa#vA(gm) uqtota bANa#vAqn bANa#vA(gm) uqta |  
+
+195)	4.5.1.4(21):  bANa#vAn |
+bANa#vAqnitiq bANa# - vAqn | 
+
+196)	4.5.1.4(22):  uqta |
+uqtetyuqta | 
+
+197)	4.5.1.4(23):  ane#Sann | aqsyaq
+ane#Sann asyAqsyAne#Saqnn ane#Sann asya |  
+
+198)	4.5.1.4(24):  aqsyaq | iSha#vaH
+aqsye Sha#vaq iSha#vo asyAqsye Sha#vaH |  
+
+199)	4.5.1.4(25):  iSha#vaH | AqBuH
+iSha#va AqBu rAqBu riSha#vaq iSha#va AqBuH |  
+
+200)	4.5.1.4(26):  AqBuH | aqsyaq
+AqBu ra#syAsyAqBu rAqBu ra#sya |  
+
+201)	4.5.1.4(27):  aqsyaq | niqShaq~ggathi#H
+aqsyaq niqShaq~ggathi#r niShaq~ggathi# rasyAsya niShaq~ggathi#H |  
+
+202)	4.5.1.4(28):  niqShaq~ggathi#H |
+niqShaq~ggathiqriti# niShaq~ggathi#H | 
+
+203)	4.5.1.4(29):  yA | teq
+yA te# teq yA yA te$ |  
+
+204)	4.5.1.4(30):  teq | heqtiH
+teq heqtir. heqtiste# te heqtiH |  
+
+205)	4.5.1.4(31):  heqtiH | mIqDhuqShTaqmaq
+heqtir mI#DhuShTama mIDhuShTama heqtir. heqtir mI#DhuShTama |  
+
+206)	4.5.1.4(32):  mIqDhuqShTaqmaq | haste$
+mIqDhuqShTaqmaq hasteq haste# mIDhuShTama mIDhuShTamaq haste$ |  
+
+207)	4.5.1.4(32):  mIqDhuqShTaqmaq |
+mIqDhuqShTaqmeti# mIDhuH - taqmaq | 
+
+208)	4.5.1.4(33):  haste$ | baqBUva#
+haste# baqBUva# baqBUvaq hasteq haste# baqBUva# |  
+
+209)	4.5.1.4(34):  baqBUva# | teq
+baqBUva# te te baqBUva# baqBUva# te |  
+
+210)	4.5.1.4(35):  teq | dhanu#H
+teq dhanuqr dhanu#ste teq dhanu#H |  
+
+211)	4.5.1.4(36):  dhanu#H |
+dhanuqritiq dhanu#H | 
+
+212)	4.5.1.4(37):  tayA$ | aqsmAn
+tayAq &smAn aqsmAn tayAq tayAq &smAn |  
+
+213)	4.5.1.4(38):  aqsmAn | viqSvata#H
+aqsmAn. viqSvato# viqSvato# aqsmAn aqsmAn. viqSvata#H |  
+
+214)	4.5.1.4(39):  viqSvata#H | tvam
+viqSvataqstvam tvaM ~MviqSvato# viqSvataqstvam |  
+
+215)	4.5.1.4(40):  tvam | aqyaqkShmayA$
+tvam a#yaqkShmayA# &yaqkShmayAq tvam tvam a#yaqkShmayA$ |  
+
+216)	4.5.1.4(41):  aqyaqkShmayA$ | pari#
+aqyaqkShmayAq pariq par ya#yaqkShmayA# &yaqkShmayAq pari# |  
+
+217)	4.5.1.4(42):  pari# | Buqjaq
+pari#b Buja Bujaq pariq pari#b Buja |  
+
+218)	4.5.1.4(43):  Buqjaq |
+Buqjeti# Buja | 
+
+219)	4.5.1.4(44):  nama#H | teq
+nama#ste teq namoq nama#ste |  
+
+220)	4.5.1.4(45):  teq | aqstuq
+teq aqstvaqstuq teq teq aqstuq |  
+
+221)	4.5.1.4(46):  aqstuq | Ayu#dhAya
+aqstvAyu#dhAqyAyu#dhAyAstvaqstvAyu#dhAya |  
+
+222)	4.5.1.4(47):  Ayu#dhAya | anA#tatAya
+Ayu#dhAqyAnA#tatAqyAnA#tatAqyAyu#dhAqyAyu#dhAqyAnA#tatAya |  
+
+223)	4.5.1.4(48):  anA#tatAya | dhRuqShNave$
+anA#tatAya dhRuqShNave# dhRuqShNave &nA#tatAqyAnA#tatAya dhRuqShNave$ |  
+
+224)	4.5.1.4(48):  anA#tatAya |
+anA#tatAqyetyanA$ - taqtAqyaq | 
+
+225)	4.5.1.4(49):  dhRuqShNave$ |
+dhRuqShNavaq iti# dhRuqShNave$ | 
+
+226)	4.5.1.4(50):  uqBAByA$m | uqta
+uqBAByA#m uqtotoBAByA#m uqBAByA#m uqta |  
+
+227)	4.5.1.4(51):  uqta | teq
+uqta te# ta uqtota te$ |  
+
+228)	4.5.1.4(52):  teq | nama#H
+teq namoq nama#ste teq nama#H |  
+
+229)	4.5.1.4(53):  nama#H | bAqhuByA$m
+namo# bAqhuByA$m bAqhuByAqn namoq namo# bAqhuByA$m |  
+
+230)	4.5.1.4(54):  bAqhuByA$m | tava#
+bAqhuByAqm tavaq tava# bAqhuByA$m bAqhuByAqm tava# |  
+
+231)	4.5.1.4(54):  bAqhuByA$m |
+bAqhuByAqmiti# bAqhu - ByAqm | 
+
+232)	4.5.1.4(55):  tava# | dhanva#ne
+tavaq dhanva#neq dhanva#neq tavaq tavaq dhanva#ne |  
+
+233)	4.5.1.4(56):  dhanva#ne |
+dhanva#naq itiq dhanva#ne | 
+
+234)	4.5.1.4(57):  pari# | teq
+pari# te teq pariq pari# te |  
+
+235)	4.5.1.4(58):  teq | dhanva#naH
+teq dhanva#noq dhanva#naste teq dhanva#naH |  
+
+236)	4.5.1.4(59):  dhanva#naH | heqtiH
+dhanva#no heqtir. heqtir dhanva#noq dhanva#no heqtiH |  
+
+237)	4.5.1.4(60):  heqtiH | aqsmAn
+heqti raqsmAn aqsmAn. heqtir. heqti raqsmAn |  
+
+238)	4.5.1.4(61):  aqsmAn | vRuqNaqktuq
+aqsmAn. vRu#Naktu vRuNaktvaqsmAn aqsmAn. vRu#Naktu |  
+
+239)	4.5.1.4(62):  vRuqNaqktuq | viqSvata#H
+vRuqNaqktuq viqSvato# viqSvato# vRuNaktu vRuNaktu viqSvata#H |  
+
+240)	4.5.1.4(63):  viqSvata#H |
+viqSvataq iti# viqSvata#H | 
+
+241)	4.5.1.4(64):  atho$ | yaH
+athoq yo yo &thoq athoq yaH |  
+
+242)	4.5.1.4(64):  atho$ |
+athoq ityatho$ | 
+
+243)	4.5.1.4(65):  yaH | iqShuqdhiH
+ya i#Shuqdhi ri#Shuqdhir yo ya i#ShuqdhiH |  
+
+244)	4.5.1.4(66):  iqShuqdhiH | tava#
+iqShuqdhistavaq tave# Shuqdhi ri#Shuqdhistava# |  
+
+245)	4.5.1.4(66):  iqShuqdhiH |
+iqShuqdhiritI#Shu - dhiH | 
+
+246)	4.5.1.4(67):  tava# | Aqre
+tavAqra Aqre tavaq tavAqre |  
+
+247)	4.5.1.4(68):  Aqre | aqsmat
+Aqre aqsmad aqsmad Aqra Aqre aqsmat |  
+
+248)	4.5.1.4(69):  aqsmat | ni
+aqsman nin. ya#smad aqsman ni |  
+
+249)	4.5.1.4(70):  ni | dheqhiq
+ni dhe#hi dhehiq ni ni dhe#hi |  
+
+250)	4.5.1.4(71):  dheqhiq | tam
+dheqhiq tam tam dhe#hi dhehiq tam |  
+
+251)	4.5.1.4(72):  tam |
+tamitiq tam | 
+
+252)	4.5.2.1(1):  nama#H | hira#NyabAhave
+namoq hira#NyabAhaveq hira#NyabAhaveq namoq namoq hira#NyabAhave |  
+
+253)	4.5.2.1(2):  hira#NyabAhave | seqnAqnye$
+hira#NyabAhave senAqnye# senAqnye# hira#NyabAhaveq hira#NyabAhave senAqnye$ |  
+
+254)	4.5.2.1(2):  hira#NyabAhave |
+hira#NyabAhavaq itiq hira#Nya - bAqhaqveq | 
+
+255)	4.5.2.1(3):  seqnAqnye$ | diqSAm
+seqnAqnye# diqSAm diqSA(gm) se#nAqnye# senAqnye# diqSAm |  
+
+256)	4.5.2.1(3):  seqnAqnye$ |
+seqnAqnya# iti# senA - nye$ | 
+
+257)	4.5.2.1(4):  diqSAm | caq
+diqSAm ca# ca diqSAm diqSAm ca# |  
+
+258)	4.5.2.1(5):  caq | pata#ye
+caq pata#yeq pata#ye ca caq pata#ye |  
+
+259)	4.5.2.1(6):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+260)	4.5.2.1(7):  nama#H | nama#H
+namoq nama#H |  
+
+261)	4.5.2.1(8):  nama#H | vRuqkSheBya#H
+namo# vRuqkSheByo# vRuqkSheByoq namoq namo# vRuqkSheBya#H |  
+
+262)	4.5.2.1(9):  vRuqkSheBya#H | hari#keSeByaH
+vRuqkSheByoq hari#keSeByoq hari#keSeByo vRuqkSheByo# vRuqkSheByoq hari#keSeByaH |  
+
+263)	4.5.2.1(10):  hari#keSeByaH | paqSUqnAm
+hari#keSeByaH paSUqnAm pa#SUqnA(gm) hari#keSeByoq hari#keSeByaH paSUqnAm |  
+
+264)	4.5.2.1(10):  hari#keSeByaH |
+hari#keSeByaq itiq hari# - keqSeqByaqH | 
+
+265)	4.5.2.1(11):  paqSUqnAm | pata#ye
+paqSUqnAm pata#yeq pata#ye paSUqnAm pa#SUqnAm pata#ye |  
+
+266)	4.5.2.1(12):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+267)	4.5.2.1(13):  nama#H | nama#H
+namoq nama#H |  
+
+268)	4.5.2.1(14):  nama#H | saqspi~jja#rAya
+nama#H saqspi~jja#rAya saqspi~jja#rAyaq namoq nama#H saqspi~jja#rAya |  
+
+269)	4.5.2.1(15):  saqspi~jja#rAya | tviShI#mate
+saqspi~jja#rAyaq tviShI#mateq tviShI#mate saqspi~jja#rAya saqspi~jja#rAyaq tviShI#mate |  
+
+270)	4.5.2.1(16):  tviShI#mate | paqthIqnAm
+tviShI#mate pathIqnAm pa#thIqnAm tviShI#mateq tviShI#mate pathIqnAm |  
+
+271)	4.5.2.1(16):  tviShI#mate |
+tviShI#mataq itiq tviShI# - maqteq | 
+
+272)	4.5.2.1(17):  paqthIqnAm | pata#ye
+paqthIqnAm pata#yeq pata#ye pathIqnAm pa#thIqnAm pata#ye |  
+
+273)	4.5.2.1(18):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+274)	4.5.2.1(19):  nama#H | nama#H
+namoq nama#H |  
+
+275)	4.5.2.1(20):  nama#H | baqBluqSAya#
+namo# baBluqSAya# baBluqSAyaq namoq namo# baBluqSAya# |  
+
+276)	4.5.2.1(21):  baqBluqSAya# | viqvyAqdhine$
+baqBluqSAya# vivyAqdhine# vivyAqdhine# baBluqSAya# baBluqSAya# vivyAqdhine$ |  
+
+277)	4.5.2.1(22):  viqvyAqdhine$ | annA#nAm
+viqvyAqdhine &nnA#nAqm annA#nAM ~MvivyAqdhine# vivyAqdhine &nnA#nAm |  
+
+278)	4.5.2.1(22):  viqvyAqdhine$ |
+viqvyAqdhinaq iti# vi - vyAqdhine$ | 
+
+279)	4.5.2.1(23):  annA#nAm | pata#ye
+annA#nAqm pata#yeq pataqye &nnA#nAqm annA#nAqm pata#ye |  
+
+280)	4.5.2.1(24):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+281)	4.5.2.1(25):  nama#H | nama#H
+namoq nama#H |  
+
+282)	4.5.2.1(26):  nama#H | hari#keSAya
+namoq hari#keSAyaq hari#keSAyaq namoq namoq hari#keSAya |  
+
+283)	4.5.2.1(27):  hari#keSAya | uqpaqvIqtine$
+hari#keSAyopavIqtina# upavIqtineq hari#keSAyaq hari#keSAyopavIqtine$ |  
+
+284)	4.5.2.1(27):  hari#keSAya |
+hari#keSAqyetiq hari# - keqSAqyaq | 
+
+285)	4.5.2.1(28):  uqpaqvIqtine$ | puqShTAnA$m
+uqpaqvIqtine# puqShTAnA$m puqShTAnA#m upavIqtina# upavIqtine# puqShTAnA$m |  
+
+286)	4.5.2.1(28):  uqpaqvIqtine$ |
+uqpaqvIqtinaq ityu#pa - vIqtine$ | 
+
+287)	4.5.2.1(29):  puqShTAnA$m | pata#ye
+puqShTAnAqm pata#yeq pata#ye puqShTAnA$m puqShTAnAqm pata#ye |  
+
+288)	4.5.2.1(30):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+289)	4.5.2.1(31):  nama#H | nama#H
+namoq nama#H |  
+
+290)	4.5.2.1(32):  nama#H | Baqvasya#
+namo# Baqvasya# Baqvasyaq namoq namo# Baqvasya# |  
+
+291)	4.5.2.1(33):  Baqvasya# | heqtyai
+Baqvasya# heqtyai heqtyai Baqvasya# Baqvasya# heqtyai |  
+
+292)	4.5.2.1(34):  heqtyai | jaga#tAm
+heqtyai jaga#tAqm jaga#tA(gm) heqtyai heqtyai jaga#tAm |  
+
+293)	4.5.2.1(35):  jaga#tAm | pata#ye
+jaga#tAqm pata#yeq pata#yeq jaga#tAqm jaga#tAqm pata#ye |  
+
+294)	4.5.2.1(36):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+295)	4.5.2.1(37):  nama#H | nama#H
+namoq nama#H |  
+
+296)	4.5.2.1(38):  nama#H | ruqdrAya#
+namo# ruqdrAya# ruqdrAyaq namoq namo# ruqdrAya# |  
+
+297)	4.5.2.1(39):  ruqdrAya# | AqtaqtAqvine$
+ruqdrAyA#tatAqvina# AtatAqvine# ruqdrAya# ruqdrAyA#tatAqvine$ |  
+
+298)	4.5.2.1(40):  AqtaqtAqvine$ | kShetrA#NAm
+AqtaqtAqvineq kShetrA#NAqm kShetrA#NAm AtatAqvina# AtatAqvineq kShetrA#NAm |  
+
+299)	4.5.2.1(40):  AqtaqtAqvine$ |
+AqtaqtAqvinaq ityA$ - taqtAqvine$ | 
+
+300)	4.5.2.1(41):  kShetrA#NAm | pata#ye
+kShetrA#NAqm pata#yeq pata#yeq kShetrA#NAqm kShetrA#NAqm pata#ye |  
+
+301)	4.5.2.1(42):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+302)	4.5.2.1(43):  nama#H | nama#H
+namoq nama#H |  
+
+303)	4.5.2.1(44):  nama#H | sUqtAya#
+nama#H sUqtAya# sUqtAyaq namoq nama#H sUqtAya# |  
+
+304)	4.5.2.1(45):  sUqtAya# | aha#ntyAya
+sUqtAyAha#ntyAqyAha#ntyAya sUqtAya# sUqtAyAha#ntyAya |  
+
+305)	4.5.2.1(46):  aha#ntyAya | vanA#nAm
+aha#ntyAyaq vanA#nAqM ~MvanA#nAqm aha#ntyAqyAha#ntyAyaq vanA#nAm |  
+
+306)	4.5.2.1(47):  vanA#nAm | pata#ye
+vanA#nAqm pata#yeq pata#yeq vanA#nAqM ~MvanA#nAqm pata#ye |  
+
+307)	4.5.2.1(48):  pata#ye | nama#H
+pata#yeq namoq namaqs pata#yeq pata#yeq nama#H |  
+
+308)	4.5.2.1(49):  nama#H | nama#H
+namoq nama#H |  
+
+309)	4.5.2.1(50):  nama#H
+nama@ iti@ nama#H
+
+Summary stats:
+4.5.1.1 :	 6 	 1 	 1 	 0 	 6 	 50 	 56
+4.5.1.2 :	 5 	 2 	 0 	 0 	 7 	 50 	 53
+4.5.1.3 :	 8 	 2 	 1 	 0 	 7 	 50 	 57
+4.5.1.4 :	 14 	 2 	 1 	 0 	 11 	 72 	 85
+4.5.2.1 :	 8 	 0 	 0 	 0 	 0 	 50 	 58
