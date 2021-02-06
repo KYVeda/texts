@@ -1,0 +1,353 @@
+9)	4.7.1.1(7):  dhyuqmnaiH | vAje#BiH | A                                           |    9. dyuqmnaiH | vAje#BiH |  A  |
+First diff pos:1 h y
+dhyuqmnair-vAje#Biqr-vAje#Bir-dhyuqmnair-dhyuqmnair-vAje#Biq rA vAje#Bir-dhyuqmn    |    dyuqmnair vAje#Biqr vAje#Bir dyuqmnair dyuqmnair vAje#BiqrA vAje#Bir dyuqmnair d
+--
+12)	4.7.1.2(10):  caq | meq | AdhI#tam                                              |    68 caq | meq | AdhI#tam |
+Diff pos: 27 A a
+caq meq meq caq caq maq AdhI#taqmAdhI#tam-me ca ca maq AdhI#tam |                   |    caq meq meq caq caq maq AdhI#taq madhI#tam me ca ca maq AdhI#tam |
+--
+16)	4.7.1.2(13):  caq | meq | vAk                                                   |    72 caq | meq | vAk |
+Diff pos: 23 g M
+caq meq meq caq caq meq vAg-vAg-me# ca ca meq vAk |                                 |    caq meq meq caq caq meq vAg vA~g me# ca ca meq vAk |
+17)	4.7.1.2(14):  meq | vAk | caq                                                   |    73 meq | vAk | caq |
+Diff pos: 8 g M
+meq vAg-vAg-me# meq vAk-ca# caq vAg-me# meq vAk-ca# |                               |    meq vAg vA~g me# meq vAk ca# caq vA~g me# meq vAk ca# |
+--
+2)	4.7.2.1(1):  jyaiShThya$m | caq | meq                                            |    1 jyaiShTh^ya$m | caq | meq |
+First diff pos:51 y a
+jyaiShThya#m-ca caq jyaiShThyaqm-jyaiShThya#m-ca me me caq jyaiShThyaqm-jyaiShTh    |    jyaiShTh^ya#m ca caq jyaiShTh^yaqm jyaiShTh^ya#m ca me me caq jaiShTh^yaqm jyaiS
+--
+50)	4.7.2.1(47):  caq | meq | jaga#t                                                |    49 caq | meq | jaga#t |
+Diff pos: 29 d n
+caq meq meq caq caq meq jagaqj-jaga#d-me ca ca meq jaga#t |                         |    caq meq meq caq caq meq jagaq jjaga#n me ca ca meq jaga#t |
+51)	4.7.2.1(48):  meq | jaga#t | caq                                                |    50 meq | jaga#t | caq |
+Diff pos: 14 d n
+meq jagaqj-jaga#d-me meq jaga#c-ca caq jaga#d-me meq jaga#c-ca |                    |    meq jagaq jjaga#n me meq jaga#cca caq jaga#n me meq jaga#cca |
+--
+39)	4.7.2.2(36):  caq | meq | BaqviqShyat                                           |    90 caq | meq | BaqviqShyat |
+Diff pos: 39 d n
+caq meq meq caq caq meq BaqviqShyad-Ba#viqShyad-me# ca ca me BaviqShyat |           |    caq meq meq caq caq meq BaqviqShyad Ba#viqShyan me# ca ca me BaviqShyat |
+40)	4.7.2.2(37):  meq | BaqviqShyat | caq                                           |    91 meq | BaqviqShyat | caq |
+Diff pos: 24 d n
+meq BaqviqShyad-Ba#viqShyad-me# me BaviqShyac-ca# ca BaviqShyad-me# me BaviqShya    |    meq BaqviqShyad Ba#viqShyan me# me BaviqShyacca# ca BaviqShyan me# me BaviqShyac
+--
+51)	4.7.2.2(46):  meq | Ruqddham | caq                                              |    102 meq | Ruqddham | caq |
+First diff pos:34 q #
+maq Ruqddham Ruqddham-me# ma Ruqddham-caq carddham-me# ma Ruqddham-ca# |            |    maq Ruqddha mRuqddham me# ma Ruqddham ca# caqrddham me# me Ruqddham ca# |
+52)	4.7.2.2(47):  Ruqddham | caq | meq                                              |    103 Ruqddham | caq | meq |
+First diff pos:10 q #
+Ruqddham-caq carddham Ruqddham-ca# me meq carddham Ruqddham-ca# me |                |    Ruqddham ca# caqrddha mRuqddham ca# me me caqrddha mRuqddham ca# me |
+--
+4)	4.7.3.2(3):  caq | meq | saqm~Mvit                                               |    54 caq | meq | saqm~Mvit |
+First diff pos:27 h t
+caq meq meq caq caq meq saqm~Mvith-saqm~Mvid-me# ca ca me saqm~Mvit |               |    caq meq meq caq caq meq saqm~Mvit thsaqm~Mvin me# ca ca me saqm~Mvit |
+5)	4.7.3.2(4):  meq | saqm~Mvit | caq                                               |    55 meq | saqm~Mvit | caq |
+First diff pos:12 h t
+meq saqm~Mvith-saqm~Mvid-me# me saqm~Mvic-ca# ca saqm~Mvid-me# me saqm~Mvic-ca#     |    meq saqm~Mvit thsaqm~Mvin me# me saqm~Mvicca# ca saqm~Mvin me# me saqm~Mvicca# |
+6)	4.7.3.2(5):  saqm~Mvit | caq | meq                                               |    56 saqm~Mvit | caq | meq |
+First diff pos:23 h t
+saqm~Mvic-ca# ca saqm~Mvith-saqm~Mvic-ca# me me ca saqm~Mvith-saqm~Mvic-ca# me |    |    saqm~Mvicca# ca saqm~Mvit thsaqm~Mvicca# me me ca saqm~Mvit thsaqm~Mvicca# me |
+--
+18)	4.7.3.2(15):  caq | meq | sIra$M                                                |    68 caq | meq | sIra$m |
+First diff pos:23 M (
+caq meq meq caq caq meq sIraqM-sIra#M-me ca ca meq sIra$M |                         |    caq meq meq caq caq meq sIraq(gm)q sIra#m me ca ca meq sIra$m |
+19)	4.7.3.2(16):  meq | sIra$M | caq                                                |    69 meq | sIra$m | caq |
+First diff pos:8 M (
+meq sIraqM-sIra#M-me meq sIra#M-ca caq sIra#M-me meq sIra#M-ca |                    |    meq sIraq(gm)q sIra#m me meq sIra#m ca caq sIra#m me meq sIra#m ca |
+20)	4.7.3.2(17):  sIra$M | caq | meq                                                |    70 sIra$m | caq | meq |
+First diff pos:16 M (
+sIra#M-ca caq sIraqM-sIra#M-ca me me caq sIraqM-sIra#M-ca me |                      |    sIra#m ca caq sIraq(gm)q sIra#m ca me me caq sIraq(gm)q sIra#m ca me |
+--
+25)	4.7.3.2(22):  meq | Ruqtam | caq                                                |    75 meq | Ruqtam | caq |
+First diff pos:28 q #
+maq Ruqtam Ruqtam-me# ma Ruqtam-caq cartam-me# ma Ruqtam-ca# |                      |    maq Ruqta mRuqtam me# ma Ruqtam ca# caqrtam me# ma Ruqtam ca# |
+26)	4.7.3.2(23):  Ruqtam | caq | meq                                                |    76 Ruqtam | caq | meq |
+First diff pos:8 q #
+Ruqtam-caq cartam Ruqtam-ca# me meq cartam Ruqtam-ca# me |                          |    Ruqtam ca# caqrta mRuqtam ca# me me caqrta mRuqtam ca# me |
+--
+33)	4.7.3.2(30):  caq | meq | anA#mayat                                             |    83 caq | meq | anA#mayat |
+Diff pos: 35 d n
+caq meq meq caq caq me &nA#mayaqd-anA#mayad-me ca caq me &nA#mayat |                |    caq meq meq caq caq me &nA#mayaqda nA#mayan me ca caq me &nA#mayat |
+34)	4.7.3.2(31):  meq | anA#mayat | caq                                             |    84 meq | anA#mayat | caq |
+Diff pos: 20 d n
+me &nA#mayaqd-anA#mayad-meq me &nA#mayac-caq cAnA#mayad-meq me &nA#mayac-ca |       |    me &nA#mayaqda nA#mayan meq me &nA#mayaccaq cA nA#mayan meq me &nA#mayacca |
+--
+2)	4.7.4.1(1):  Urk | caq | meq                                                     |    1 Urk | caq | meq |
+First diff pos:5 # q
+Urk-ca# coqrg-Urk-ca# me me coqrg-Urk-ca# me |                                      |    Urkcaq cor gUrk ca# me meq cor gUrk ca# me |
+--
+34)	4.7.4.1(32):  caq | meq | audBi#dyam                                            |    33 caq | meq | aud^^Bi#dyam |
+Diff pos: 16 E a
+caq meq meq caq caq meq &udBi#dyaqmaudBi#dyam-me ca ca meq &udBi#dyam |             |    caq meq meq caq caq maq aud^^Bi#dyaq maud^^Bi#dyam me ca ca maq aud^^Bi#dyam |
+35)	4.7.4.1(33):  meq | audBi#dyam | caq                                            |    34 meq | aud^^Bi#dyam | caq |
+Diff pos: 1 E a
+meq &udBi#dyaqmaudBi#dyam-me meq &udBi#dyam-caq caudBi#dyam-me meq &udBi#dyam-ca    |    maq aud^^Bi#dyaq maud^^Bi#dyam me maq audBi#dyam caq caudBi#dyam me maq audBi#dy
+--
+27)	4.7.4.2(24):  caq | meq | akShu#t                                               |    79 caq | meq | akShu#t |
+Diff pos: 30 d n
+caq meq meq caq caq me &kShuqd-akShu#d-me ca caq me &kShu#t |                       |    caq meq meq caq caq me &kShuqda kShu#n me ca caq me &kShu#t |
+28)	4.7.4.2(25):  meq | akShu#t | caq                                               |    80 meq | akShu#t | caq |
+Diff pos: 15 d n
+me &kShuqd-akShu#d-meq me &kShu#c-caq cAkShu#d-meq me &kShu#c-ca |                  |    me &kShuqda kShu#n meq me &kShu#ccaq cA kShu#n meq me &kShu#cca |
+--
+63)	4.7.4.2(60):  caq | meq | nIqvArA$H                                             |    115 caq | meq | nIqvArA$H |
+First diff pos:17 q n
+caq meq meq caq caq meq nIqvArA# nIqvArA# me ca ca me nIqvArA$H |                   |    caq meq meq caq caq me nIqvArA# nIqvArA# me ca ca me nIqvArA$H |
+--
+28)	4.7.5.1(27):  meq | trapu# | caq                                                |    27 meq | trapu#  | caq |
+First diff pos:26 c S
+meq trapuq trapu# me meq trapu# ca caq trapu# me meq trapu# ca |                    |    meq trapuq trapu# me meq trapu#S ca caq trapu# me meq trapu#S ca |
+29)	4.7.5.1(28):  trapu# | caq | meq                                                |    28 trapu# | caq | meq |
+First diff pos:6 c S
+trapu# ca caq trapuq trapu# ca me me caq trapuq trapu# ca me |                      |    trapu#Sca caq trapuq trapu#S ca me me caq trapuq trapu#S ca me |
+--
+33)	4.7.5.1(32):  caq | meq | loqham                                                |    32 caq | meq | loqham |
+First diff pos:24 l ~
+caq meq meq caq caq meq loqham-loqham-me# ca ca me loqham |                         |    caq meq meq caq caq meq loqham ~Mloqham me# ca ca me loqham |
+34)	4.7.5.1(33):  meq | loqham | caq                                                |    33 meq | loqham | caq |
+First diff pos:9 l ~
+meq loqham-loqham-me# me loqham-ca# ca loqham-me# me loqham-ca# |                   |    meq loqham ~Mloqham me# me loqham ca# ca loqham me# me loqham ca# |
+35)	4.7.5.1(34):  loqham | caq | meq                                                |    34 loqham | caq | meq |
+First diff pos:17 l ~
+loqham-ca# ca loqham-loqham-ca# me me ca loqham-loqham-ca# me |                     |    loqham ca# ca loqham ~Mloqham ca# me me ca loqham ~Mloqham ca# me |
+--
+20)	4.7.6.1(19):  sara#svatI | caq | meq                                            |    19 sara#svatI | caq | meq |
+Diff pos: 2 r #
+sara#svatI ca caq sara#svatIq sara#svatI ca me me caq sara#svatIq sara#svatI ca     |    sa#rasvatI ca caq sara#svatIq sara#svatI ca me me caq sara#svatIq sara#svatI ca 
+--
+16)	4.7.6.2(15):  caq | meq | aqSvinau$                                             |    65 caq | meq | aqSvinau$ |
+Diff pos: 51 # $
+caq meq meq caq caq meq &SvinA# vaqSvinau# me ca ca meq &Svinau# |                  |    caq meq meq caq caq meq&SvinA# vaqSvinau# me ca ca meq&Svinau$ |
+--
+21)	4.7.7.1(17):  caq | meq | aiqndraqvAqyaqvaH                                     |    20 caq | meq | aiqndraqvAqyaqvaH |
+Diff pos: 36 # $
+caq meq meq caq caq maq aiqndraqvAqyaqva ai#ndravAyaqvo me# ca ca ma aindravAyaq    |    caq meq meq caq caq maq aiqndraqvAqyaqva ai$ndravAyaqvo me# ca ca ma aindravAyaq
+22)	4.7.7.1(18):  meq | aiqndraqvAqyaqvaH | caq                                     |    21 meq | aiqndraqvAqyaqvaH | caq |
+Diff pos: 21 # $
+maq aiqndraqvAqyaqva ai#ndravAyaqvo me# ma aindravAyaqvaSca# caindravAyaqvo me#     |    maq aiqndraqvAqyaqva ai$ndravAyaqvo me# ma aindravAyaqvaSca# caindravAyaqvo me# 
+23)	4.7.7.1(19):  aiqndraqvAqyaqvaH | caq | meq                                     |    22 aiqndraqvAqyaqvaH | caq | meq |
+Diff pos: 36 # $
+aiqndraqvAqyaqvaSca# caindravAyaqva ai#ndravAyaqvaSca# me me caindravAyaqva ai#n    |    aiqndraqvAqyaqvaSca# caindravAyaqva ai$ndravAyaqvaSca# me me caindravAyaqva ai$n
+--
+25)	4.7.7.1(20):  caq | meq | maiqtrAqvaqruqNaH                                     |    24 caq | meq | maiqtrAqvaqruqNaH |
+Diff pos: 37 # $
+caq meq meq caq caq meq maiqtrAqvaqruqNo mai#trAvaruqNo me# ca ca me maitrAvaruq    |    caq meq meq caq caq meq maiqtrAqvaqruqNo mai$trAvaruqNo me# ca ca me maitrAvaruq
+26)	4.7.7.1(21):  meq | maiqtrAqvaqruqNaH | caq                                     |    25 meq | maiqtrAqvaqruqNaH | caq |
+Diff pos: 22 # $
+meq maiqtrAqvaqruqNo mai#trAvaruqNo me# me maitrAvaruqNaSca# ca maitrAvaruqNo me    |    meq maiqtrAqvaqruqNo mai$trAvaruqNo me# me maitrAvaruqNaSca# ca maitrAvaruqNo me
+27)	4.7.7.1(22):  maiqtrAqvaqruqNaH | caq | meq                                     |    26 maiqtrAqvaqruqNaH | caq | meq |
+Diff pos: 38 # $
+maiqtrAqvaqruqNaSca# ca maitrAvaruqNo mai#trAvaruqNaSca# me me ca maitrAvaruqNo     |    maiqtrAqvaqruqNaSca# ca maitrAvaruqNo mai$trAvaruqNaSca# me me ca maitrAvaruqNo 
+--
+45)	4.7.7.1(38):  caq | meq | vaiqSvaqdeqvaH                                        |    44 caq | meq | vaiqSvaqdeqvaH |
+Diff pos: 34 # $
+caq meq meq caq caq meq vaiqSvaqdeqvo vai#Svadeqvo me# ca ca me vaiSvadeqvaH |      |    caq meq meq caq caq meq vaiqSvaqdeqvo vai$Svadeqvo me# ca ca me vaiSvadeqvaH |
+46)	4.7.7.1(39):  meq | vaiqSvaqdeqvaH | caq                                        |    45 meq | vaiqSvaqdeqvaH | caq |
+Diff pos: 19 # $
+meq vaiqSvaqdeqvo vai#Svadeqvo me# me vaiSvadeqvaSca# ca vaiSvadeqvo me# me vaiS    |    meq vaiqSvaqdeqvo vai$Svadeqvo me# me vaiSvadeqvaSca# ca vaiSvadeqvo me# me vaiS
+47)	4.7.7.1(40):  vaiqSvaqdeqvaH | caq | meq                                        |    46 vaiqSvaqdeqvaH | caq | meq |
+Diff pos: 33 # $
+vaiqSvaqdeqvaSca# ca vaiSvadeqvo vai#SvadeqvaSca# me me ca vaiSvadeqvo vai#Svade    |    vaiqSvaqdeqvaSca# ca vaiSvadeqvo vai$SvadeqvaSca# me me ca vaiSvadeqvo vai$Svade
+--
+52)	4.7.7.1(44):  caq | meq | vaiqSvAqnaqraH                                        |    51 caq | meq | vaiqSvAqnaqraH |
+Diff pos: 34 # $
+caq meq meq caq caq meq vaiqSvAqnaqro vai#SvAnaqro me# ca ca me vaiSvAnaqraH |      |    caq meq meq caq caq meq vaiqSvAqnaqro vai$SvAnaqro me# ca ca me vaiSvAnaqraH |
+53)	4.7.7.1(45):  meq | vaiqSvAqnaqraH | caq                                        |    52 meq | vaiqSvAqnaqraH | caq |
+Diff pos: 19 # $
+meq vaiqSvAqnaqro vai#SvAnaqro me# me vaiSvAnaqraSca# ca vaiSvAnaqro me# me vaiS    |    meq vaiqSvAqnaqro vai$SvAnaqro me# me vaiSvAnaqraSca# ca vaiSvAnaqro me# me vaiS
+54)	4.7.7.1(46):  vaiqSvAqnaqraH | caq | meq                                        |    53 vaiqSvAqnaqraH | caq | meq |
+Diff pos: 33 # $
+vaiqSvAqnaqraSca# ca vaiSvAnaqro vai#SvAnaqraSca# me me ca vaiSvAnaqro vai#SvAna    |    vaiqSvAqnaqraSca# ca vaiSvAnaqro vai$SvAnaqraSca# me me ca vaiSvAnaqro vai$SvAna
+--
+56)	4.7.7.1(48):  meq | RuqtuqgraqhAH | caq                                         |    55 meq | RuqtuqgraqhAH | caq |
+First diff pos:44 q #
+maq RuqtuqgraqhA Ru#tugraqhA me# ma RutugraqhAScaq cartu#graqhA me# ma Rutugraqh    |    maq RuqtuqgraqhA Ru#tugraqhA me# ma RutugraqhASca# cartugraqhA me# ma RutugraqhA
+57)	4.7.7.1(49):  RuqtuqgraqhAH | caq | meq                                         |    56 RuqtuqgraqhAH | caq | meq |
+First diff pos:15 q #
+RuqtuqgraqhAScaq cartu#graqhA Ru#tugraqhASca# me meq cartu#graqhA Ru#tugraqhASca    |    RuqtuqgraqhASca# cartugraqhA Ru#tugraqhASca# me me cartugraqhA Rutu#graqhASca# m
+--
+4)	4.7.7.2(2):  aqtiqgrAqhyA$H |                                                    |    61 aqtiqgrAqhyA$H |
+Diff pos: 12 $ #
+aqtiqgrAqhyA$ itya#ti - grAqhyA$H |                                                 |    aqtiqgrAqhyA# itya#ti - grAqhyA$H |
+5)	4.7.7.2(3):  caq | meq | aiqndrAqgnaH                                            |    62 caq | meq | aiqndrAqgnaH |
+Diff pos: 31 # $
+caq meq meq caq caq maq aiqndrAqgna ai#ndrAqgno me# ca ca ma aindrAqgnaH |          |    caq meq meq caq caq maq aiqndrAqgna ai$ndrAqgno me# ca ca ma aindrAqgnaH |
+6)	4.7.7.2(4):  meq | aiqndrAqgnaH | caq                                            |    63 meq | aiqndrAqgnaH | caq |
+Diff pos: 16 # $
+maq aiqndrAqgna ai#ndrAqgno me# ma aindrAqgnaSca# caindrAqgno me# ma aindrAqgnaS    |    maq aiqndrAqgna ai$ndrAqgno me# ma aindrAqgnaSca# caindrAqgno me# ma aindrAqgnaS
+7)	4.7.7.2(5):  aiqndrAqgnaH | caq | meq                                            |    64 aiqndrAqgnaH | caq | meq |
+Diff pos: 28 # $
+aiqndrAqgnaSca# caindrAqgna ai#ndrAqgnaSca# me me caindrAqgna ai#ndrAqgnaSca# me    |    aiqndrAqgnaSca# caindrAqgna ai$ndrAqgnaSca# me me caindrAqgna ai$ndrAqgnaSca# me
+--
+9)	4.7.7.2(6):  caq | meq | vaiqSvaqdeqvaH                                          |    66 caq | meq | vaiqSvaqdeqvaH |
+Diff pos: 34 # $
+caq meq meq caq caq meq vaiqSvaqdeqvo vai#Svadeqvo me# ca ca me vaiSvadeqvaH |      |    caq meq meq caq caq meq vaiqSvaqdeqvo vai$Svadeqvo me# ca ca me vaiSvadeqvaH |
+10)	4.7.7.2(7):  meq | vaiqSvaqdeqvaH | caq                                         |    67 meq | vaiqSvaqdeqvaH | caq |
+Diff pos: 19 # $
+meq vaiqSvaqdeqvo vai#Svadeqvo me# me vaiSvadeqvaSca# ca vaiSvadeqvo me# me vaiS    |    meq vaiqSvaqdeqvo vai$Svadeqvo me# me vaiSvadeqvaSca# ca vaiSvadeqvo me# me vaiS
+11)	4.7.7.2(8):  vaiqSvaqdeqvaH | caq | meq                                         |    68 vaiqSvaqdeqvaH | caq | meq |
+Diff pos: 33 # $
+vaiqSvaqdeqvaSca# ca vaiSvadeqvo vai#SvadeqvaSca# me me ca vaiSvadeqvo vai#Svade    |    vaiqSvaqdeqvaSca# ca vaiSvadeqvo vai$SvadeqvaSca# me me ca vaiSvadeqvo vai$Svade
+--
+31)	4.7.8.1(28):  aqdhiqShava#Ne |                                                  |    30 aqdhiqShava#Ne |
+Diff pos: 19 # d
+aqdhiqShava#Neq itya#dhi - sava#ne |                                                |    aqdhiqShava#Neq ityadhi# - sava#ne |
+--
+39)	4.7.8.1(35):  caq | meq | pUqtaqBRut                                            |    38 caq | meq | pUqtaqBRut |
+Diff pos: 37 d n
+caq meq meq caq caq meq pUqtaqBRut-pU#taqBRud-me# ca ca me pUtaqBRut |              |    caq meq meq caq caq meq pUqtaqBRut pU#taqBRun me# ca ca me pUtaqBRut |
+40)	4.7.8.1(36):  meq | pUqtaqBRut | caq                                            |    39 meq | pUqtaqBRut | caq |
+Diff pos: 22 d n
+meq pUqtaqBRut-pU#taqBRud-me# me pUtaqBRuc-ca# ca pUtaqBRud-me# me pUtaqBRuc-ca#    |    meq pUqtaqBRut pU#taqBRun me# me pUtaqBRucca# ca pUtaqBRun me# me pUtaqBRucca# |
+--
+70)	4.7.8.1(61):  aqvaqBRuqthaH |                                                   |    69 aqvaqBRuqthaH |
+Diff pos: 16 # v
+aqvaqBRuqtha itya#va - BRuqthaH |                                                   |    aqvaqBRuqtha ityava# - BRuqthaH |
+--
+3)	4.7.9.1(2):  caq | meq | GaqrmaH                                                 |    2 caq | meq | GaqrmaH |
+First diff pos:23 a O
+caq meq meq caq caq meq GaqrmaH Gaqrmo me# ca ca me GaqrmaH |                       |    caq meq meq caq caq meq Gaqrmo Gaqrmo me# ca ca me GaqrmaH |
+4)	4.7.9.1(3):  meq | GaqrmaH | caq                                                 |    3 meq | GaqrmaH | caq |
+First diff pos:8 a O
+meq GaqrmaH Gaqrmo me# me GaqrmaSca# ca Gaqrmo me# me GaqrmaSca# |                  |    meq Gaqrmo Gaqrmo me# me GaqrmaSca# ca Gaqrmo me# me GaqrmaSca# |
+5)	4.7.9.1(4):  GaqrmaH | caq | meq                                                 |    4 GaqrmaH | caq | meq |
+First diff pos:17 a O
+GaqrmaSca# ca GaqrmaH GaqrmaSca# me me ca GaqrmaH GaqrmaSca# me |                   |    GaqrmaSca# ca Gaqrmo GaqrmaSca# me me ca Gaqrmo GaqrmaSca# me |
+--
+41)	4.7.9.1(38):  Ruk | caq | meq                                                   |    40 Ruk | caq | meq |
+First diff pos:5 q #
+Ruk-caq carg Ruk-ca# me meq carg Ruk-ca# me |                                       |    Rukca# caqr gRukca# me me caqr gRukca# me |
+--
+58)	4.7.9.1(55):  meq | RuqtuH | caq                                                |    57 meq | RuqtuH | caq |
+First diff pos:28 q #
+maq Ruqtu r.Ruqtur-me# ma RuqtuScaq cartur-me# ma RuqtuSca# |                       |    maq Ruqtur. Ruqtur me# ma RuqtuSca# caqrtur me# ma RuqtuSca# |
+59)	4.7.9.1(56):  RuqtuH | caq | meq                                                |    58 RuqtuH | caq | meq |
+First diff pos:8 q #
+RuqtuScaq cartu r.RuqtuSca# me meq cartu r.RuqtuSca# me |                           |    RuqtuSca# caqrtur. RuqtuSca# me me caqrtur. RuqtuSca# me |
+--
+14)	4.7.10.1(11):  caq | meq | diqtyaqvAT                                           |    13 caq | meq | diqtyaqvAT |
+Diff pos: 27 d D
+caq meq meq caq caq meq diqtyaqvAd-di#tyaqvAd-me# ca ca me dityaqvAT |              |    caq meq meq caq caq meq diqtyaqvAD di#tyaqvAN me# ca ca me dityaqvAT |
+15)	4.7.10.1(12):  meq | diqtyaqvAT | caq                                           |    14 meq | diqtyaqvAT | caq |
+Diff pos: 12 d D
+meq diqtyaqvAd-di#tyaqvAd-me# me dityaqvAT-ca# ca dityaqvAd-me# me dityaqvAT-ca#    |    meq diqtyaqvAD di#tyaqvAN me# me dityaqvAT ca# ca dityaqvAN me# me dityaqvATca# 
+16)	4.7.10.1(13):  diqtyaqvAT | caq | meq                                           |    15 diqtyaqvAT | caq | meq |
+Diff pos: 23 d D
+diqtyaqvAT-ca# ca dityaqvAd-di#tyaqvAT-ca# me me ca dityaqvAd-di#tyaqvAT-ca# me     |    diqtyaqvAT ca# ca dityaqvAD di#tyaqvAT ca# me me ca dityaqvAD di#tyaqvAT ca# me 
+--
+35)	4.7.10.1(28):  triqvaqthsA | caq | meq                                          |    34 triqvaqthsA | caq | meq |
+Diff pos: 49 v #
+triqvaqthsA ca# ca trivaqthsA tri#vaqthsA ca# me me ca trivaqthsA tri#vaqthsA ca    |    triqvaqthsA ca# ca trivaqthsA tri#vaqthsA ca# me me ca tri#vaqthsA trivaqthsA ca
+36)	4.7.10.1(28):  triqvaqthsA |                                                    |    35 triqvaqthsA |
+Diff pos: 9 s y
+triqvaqthseti# tri - vaqthsA |                                                      |    triqvaqthyeti# tri - vaqthsA |
+37)	4.7.10.1(29):  caq | meq | tuqryaqvAT                                           |    36 caq | meq | tuqryaqvAT |
+Diff pos: 37 d N
+caq meq meq caq caq meq tuqryaqvAT-tu#ryaqvAd-me# ca ca me turyaqvAT |              |    caq meq meq caq caq meq tuqryaqvAT tu#ryaqvAN me# ca ca me turyaqvAT |
+38)	4.7.10.1(30):  meq | tuqryaqvAT | caq                                           |    37 meq | tuqryaqvAT | caq |
+Diff pos: 22 d N
+meq tuqryaqvAT-tu#ryaqvAd-me# me turyaqvAT-ca# ca turyaqvAd-me# me turyaqvAT-ca#    |    meq tuqryaqvAT tu#ryaqvAN me# me turyaqvAT ca# ca turyaqvAN me# me turyaqvAT ca#
+--
+44)	4.7.10.1(35):  caq | meq | paqShThaqvAt                                         |    43 caq | meq | paqShThaqvAt |
+Diff pos: 41 d n
+caq meq meq caq caq meq paqShThaqvAt-pa#ShThaqvAd-me# ca ca me paShThaqvAt |        |    caq meq meq caq caq meq paqShThaqvAt pa#ShThaqvAn me# ca ca me paShThaqvAt |
+45)	4.7.10.1(36):  meq | paqShThaqvAt | caq                                         |    44 meq | paqShThaqvAt | caq |
+Diff pos: 26 d n
+meq paqShThaqvAt-pa#ShThaqvAd-me# me paShThaqvAc-ca# ca paShThaqvAd-me# me paShT    |    meq paqShThaqvAt pa#ShThaqvAn me# me paShThaqvAcca# ca paShThaqvAn me# me paShTh
+--
+58)	4.7.10.1(48):  meq | RuqShaqBaH | caq                                           |    57 meq | RuqShaqBaH | caq |
+First diff pos:37 q #
+maq RuqShaqBa Ru#ShaqBo me# ma RuShaqBaScaq car.ShaqBo me# ma RuShaqBaSca# |        |    maq RuqShaqBa Ru#ShaqBo me# ma RuShaqBaSca# ca RuShaqBo me# ma RuShaqBaSca# |
+59)	4.7.10.1(49):  RuqShaqBaH | caq | meq                                           |    58 RuqShaqBaH | caq | meq |
+First diff pos:12 q #
+RuqShaqBaScaq car.ShaqBa Ru#ShaqBaSca# me meq car.ShaqBa Ru#ShaqBaSca# me |         |    RuqShaqBaSca# ca RuShaqBa Ru#ShaqBaSca# me me ca RuShaqBa Ru#ShaqBaSca# me |
+60)	4.7.10.1(50):  caq | meq | veqhat                                               |    59 caq | meq | veqhat |
+Diff pos: 29 d n
+caq meq meq caq caq meq veqhad-veqhad-me# ca ca me veqhat |                         |    caq meq meq caq caq meq veqhad veqhan me# ca ca me veqhat |
+2)	4.7.10.2(1):  meq | veqhat | caq                                                 |    60 meq | veqhat | caq |
+Diff pos: 14 d n
+meq veqhad-veqhad-me# me veqhac-ca# ca veqhad-me# me veqhac-ca# |                   |    meq veqhad veqhan me# me veqhacca# ca veqhan me# me veqhacca# |
+--
+7)	4.7.10.2(6):  caq | meq | dheqnuH                                                |    65 caq | meq | dheqnuH |
+First diff pos:28 q n
+caq meq meq caq caq meq dheqnur-dheqnur-me# ca ca me dheqnuH |                      |    caq meq meq caq caq meq dheqnur dhenur me# ca ca me dheqnuH |
+--
+30)	4.7.10.2(26):  Srotra$m | yaqj~jena# | kaqlpaqtAqm                              |    88 Srotra$m | yaqj~jena# | kaqlpaqtAqm |
+First diff pos:87 r O
+Srotra#M ~Myaqj~jena# yaqj~jenaq Srotraq(gg)q Srotra#M ~Myaqj~jena# kalpatAm-kal    |    Srotra#m ~Myaqj~jena# yaqj~jenaq Srotraq(gg)q Srotra#m ~Myaqj~jena# kalpatAm kal
+--
+2)	4.7.11.1(1):  ekA$ | caq | meq                                                   |    1 ekA$ | caq | meq |
+Diff pos: 6 c q
+ekA# ca caiqkaikA# ca me me caiqkaikA# ca me |                                      |    ekA# caq cai kai kA#ca me meq cai kai kA#ca me |
+--
+41)	4.7.11.1(34):  trayo#vi(gm)SatiH |                                              |    40 trayo#vi(gm)SatiH |
+Diff pos: 17 t r
+trayo#vi(gm)Satiqtiriq traya#H - viq(gm)qSaqtiqH |                                  |    trayo#vi(gm)Satiqritiq traya#H - viq(gm)qSaqtiqH |
+--
+54)	4.7.11.1(44):  caq | meq | eka#tri(gm)Sat                                       |    53 caq | meq | eka#tri(gm)Sat |
+Diff pos: 46 d n
+caq meq meq caq caq maq eka#tri(gm)Saqd-eka#tri(gm)Sad-me ca ca maq eka#tri(gm)S    |    caq meq meq caq caq maq eka#tri(gm)Saq deka#tri(gm)San me ca ca maq eka#tri(gm)S
+55)	4.7.11.1(45):  meq | eka#tri(gm)Sat | caq                                       |    54 meq | eka#tri(gm)Sat | caq |
+Diff pos: 31 d n
+maq eka#tri(gm)Saqd-eka#tri(gm)Sad-me maq eka#tri(gm)Sac-caq caika#tri(gm)Sad-me    |    maq eka#tri(gm)Saq deka#tri(gm)San me maq eka#tri(gm)Saccaq caika#tri(gm)San me 
+--
+58)	4.7.11.1(47):  caq | meq | traya#stri(gm)Sat                                    |    57 caq | meq | traya#stri(gm)Sat |
+Diff pos: 52 d n
+caq meq meq caq caq meq traya#stri(gm)Saqt-traya#stri(gm)Sad-me ca ca meq traya#    |    caq meq meq caq caq meq traya#stri(gm)Saqt traya#stri(gm)San me ca ca meq traya#
+59)	4.7.11.1(48):  meq | traya#stri(gm)Sat | caq                                    |    58 meq | traya#stri(gm)Sat | caq |
+Diff pos: 37 d n
+meq traya#stri(gm)Saqt-traya#stri(gm)Sad-me meq traya#stri(gm)Sac-ca caq traya#s    |    meq traya#stri(gm)Saqt traya#stri(gm)San me meq traya#stri(gm)Sacca caq traya#st
+--
+24)	4.7.11.2(21):  caq | meq | dvAtri(gm)#Sat                                       |    84 caq | meq | dvAtri(gm)#Sat |
+Diff pos: 46 d n
+caq meq meq caq caq meq dvAtri(gm)#Saqd-dvAtri(gm)#Sad-me ca ca meq dvAtri(gm)#S    |    caq meq meq caq caq meq dvAtri(gm)#Saqd dvAtri(gm)#San me ca ca meq dvAtri(gm)#S
+25)	4.7.11.2(22):  meq | dvAtri(gm)#Sat | caq                                       |    85 meq | dvAtri(gm)#Sat | caq |
+Diff pos: 31 d n
+meq dvAtri(gm)#Saqd-dvAtri(gm)#Sad-me meq dvAtri(gm)#Sac-ca caq dvAtri(gm)#Sad-m    |    meq dvAtri(gm)#Saqd dvAtri(gm)#San me meq dvAtri(gm)#Sacca caq dvAtri(gm)#San me
+--
+27)	4.7.11.2(24):  caq | meq | ShaTtri(gm)#Sat                                      |    87 caq | meq | ShaTtri(gm)#Sat |
+First diff pos:33 c t
+caq meq meq caq caq meq ShaTtri(gm)#SaqcChaTtri(gm)#Sad-me ca ca meq ShaTtri(gm)    |    caq meq meq caq caq meq ShaTtri(gm)#Saqt CaTtri(gm)#San me ca ca meq ShaTtri(gm)
+28)	4.7.11.2(25):  meq | ShaTtri(gm)#Sat | caq                                      |    88 meq | ShaTtri(gm)#Sat | caq |
+First diff pos:18 c t
+meq ShaTtri(gm)#SaqcChaTtri(gm)#Sad-me meq ShaTtri(gm)#Sac-ca caq ShaTtri(gm)#Sa    |    meq ShaTtri(gm)#Saqt CaTtri(gm)#San me meq ShaTtri(gm)#Sacca caq ShaTtri(gm)#San
+29)	4.7.11.2(26):  ShaTtri(gm)#Sat | caq | meq                                      |    89 ShaTtri(gm)#Sat | caq | meq |
+First diff pos:35 c t
+ShaTtri(gm)#Sac-ca caq ShaTtri(gm)#SaqcChaTtri(gm)#Sac-ca me me caq ShaTtri(gm)#    |    ShaTtri(gm)#Sacca caq ShaTtri(gm)#Saqt CaTtri(gm)#Sacca me me caq ShaTtri(gm)#Sa
+--
+31)	4.7.11.2(27):  caq | meq | caqtvAqriq(gm)qSat                                   |    91 caq | meq | caqtvAqriq(gm)qSat |
+Diff pos: 52 d n
+caq meq meq caq caq meq caqtvAqriq(gm)qSac-ca#tvAriq(gm)qSad-me# ca ca me catvAr    |    caq meq meq caq caq meq caqtvAqriq(gm)qSac ca#tvAriq(gm)qSan me# ca ca me catvAr
+32)	4.7.11.2(28):  meq | caqtvAqriq(gm)qSat | caq                                   |    92 meq | caqtvAqriq(gm)qSat | caq |
+Diff pos: 37 d n
+meq caqtvAqriq(gm)qSac-ca#tvAriq(gm)qSad-me# me catvAriq(gm)qSac-ca# ca catvAriq    |    meq caqtvAqriq(gm)qSac ca#tvAriq(gm)qSan me# me catvAriq(gm)qSacca# ca catvAriq(
+--
+34)	4.7.11.2(30):  caq | meq | catu#ScatvAri(gm)Sat                                 |    94 caq | meq | catu#ScatvAri(gm)Sat |
+First diff pos:44 S W
+caq meq meq caq caq meq catu#ScatvAri(gm)Saqc-catu#ScatvAri(gm)Sad-me ca ca meq     |    caq meq meq caq caq meq catu#ScatvAri(gm)Saqc catu#WScatvAri(gm)San me ca ca meq
+35)	4.7.11.2(31):  meq | catu#ScatvAri(gm)Sat | caq                                 |    95 meq | catu#ScatvAri(gm)Sat | caq |
+Diff pos: 43 d n
+meq catu#ScatvAri(gm)Saqc-catu#ScatvAri(gm)Sad-me meq catu#ScatvAri(gm)Sac-ca ca    |    meq catu#ScatvAri(gm)Saqc catu#ScatvAri(gm)San me meq catu#ScatvAri(gm)Sacca caq
+--
+38)	4.7.11.2(33):  caq | meq | aqShTAca#tvAri(gm)Sat                                |    98 caq | meq | aqShTAca#tvAri(gm)Sat |
+Diff pos: 58 d n
+caq meq meq caq caq meq &ShTAca#tvAri(gm)Sad-aqShTAca#tvAri(gm)Sad-me ca ca meq     |    caq meq meq caq caq meq &ShTAca#tvAri(gm)Sa daqShTAca#tvAri(gm)San me ca ca meq 
+39)	4.7.11.2(34):  meq | aqShTAca#tvAri(gm)Sat | caq                                |    99 meq | aqShTAca#tvAri(gm)Sat | caq |
+Diff pos: 43 d n
+meq &ShTAca#tvAri(gm)Sad-aqShTAca#tvAri(gm)Sad-me meq &ShTAca#tvAri(gm)Sac-ca cA    |    meq &ShTAca#tvAri(gm)Sa daqShTAca#tvAri(gm)San me meq &ShTAca#tvAri(gm)Sacca cAq
+--
+45)	4.7.11.2(39):  caq | praqsaqvaH | caq                                           |    105 caq | praqsaqvaH | caq |
+Diff pos: 45 s q
+caq praqsaqvaH pra#saqvaSca# ca prasaqvaSca# ca prasaqvaSca# ca prasaqvaSca# |      |    caq praqsaqvaH pra#saqvaSca# ca prasaqvaSca# ca praqsavaSca# ca prasaqvaSca# |
+--
+59)	4.7.11.2(50):  vyaS~ji#yaH |                                                    |    119 vyaS~ji#yaH |
+First diff pos:19 i n
+vyaS~ji#yaq iti# vi - aS~ji#yaH |                                                   |    vyaS~ji#yaq iti# vi - aS~jni#yaH |
+--
+64)	4.7.11.2(55):  caq | BauqvaqnaH | caq                                           |    124 caq | BauqvaqnaH | caq |
+First diff pos:58 v #
+caq Bauqvaqno Bau#vaqnaSca# ca BauvaqnaSca# ca BauvaqnaSca# ca BauvaqnaSca# |       |    caq Bauqvaqno Bau#vaqnaSca# ca BauvaqnaSca# ca BauvaqnaSca# ca Bau#vaqnaSca# |
+--
+71)	4.7.11.2(61):  caq |                                                            |    131 caq |
+First diff pos:
+2)	4.7.12.1(1):  vAja#H | naqH | saqpta                                             |    
