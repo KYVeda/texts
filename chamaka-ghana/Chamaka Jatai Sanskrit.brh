@@ -240,7 +240,7 @@ prAqNa iti# pra - aqnaH |
 54.caq | meq |  
 caq meq meq caq caq meq |
 
-55. meq | aqpAqnaH | (Jata Mani Rule 74 says No elision of "A")
+55. meq | aqpAqnaH | 
 meq &pAqno# &pAqno me# me &pAqnaH  | 
  
 56. aqpAqnaH | caq |  
@@ -766,7 +766,7 @@ suqpathaqmiti# su - patha$m |
 caq meq meq caq caq meq | 
  
 102 meq | Ruqddham |  
-maq Ruqddha mRuqddham me# me Ruqddham | 
+maq Ruqddha mRuqddham me# ma? Ruqddham | 
  
 103 Ruqddham | caq | 
 Ruqddha~jca# caqrddha mRuqddha~jca# | 
@@ -997,10 +997,10 @@ maha#Sca caq mahoq maha#Sca |
 caq meq meq caq caq meq | 
  
 55 meq | saqm~Mvit | 
-meq saqm~Mvit thsaqm~Mvin me# me saqm~Mvit | 
+meq saqm~Mvithsaqm~Mvin me# me saqm~Mvit | 
  
 56 saqm~Mvit | caq | 
-saqm~Mvicca# ca saqm~Mvit thsaqm~Mvicca# | 
+saqm~Mvicca# ca saqm~Mvithsaqm~Mvicca# | 
  
 57 saqm~Mvit | 
 saqm~Mviditi# sam - vit | 
@@ -1900,7 +1900,7 @@ caq meq meq caq caq meq |
 meq sara#svatIq sara#svatI me meq sara#svatI | 
  
 19 sara#svatI | caq | 
-sa#rasvatI ca caq sara#svatIq sara#svatI ca | 
+sara#?svatI ca caq sara#svatIq sara#svatI ca | 
  
 20 caq | meq |  
 caq meq meq caq caq meq |
@@ -2599,7 +2599,7 @@ meq &dhiqShava#Ne &dhiqShava#Ne me me &dhiqShava#Ne |
 aqdhiqShava#Ne ca cA dhiqShava#Ne &dhiqShava#Ne ca | 
  
 30 aqdhiqShava#Ne |
-aqdhiqShava#Neq ityadhi# - sava#ne | 
+aqdhiqShava#Neq itya#?dhi - sava#ne | 
  
 31 caq | meq |  
 caq meq meq caq caq meq | 
@@ -2716,7 +2716,7 @@ meq &vaqBRuqtho# &vaBRuqtho me# me &vaBRuqthaH |
 aqvaqBRuqthaSca# cA vaBRuqtho# &vaBRuqthaSca# | 
  
 69 aqvaqBRuqthaH |
-aqvaqBRuqtha ityava# - BRuqthaH | 
+aqvaqBRuqtha itya#?va - BRuqthaH | 
  
 70 caq | meq |  
 caq meq meq caq caq meq | 
@@ -2856,7 +2856,7 @@ yaqj~jena# kalpantAm kalpantAm ~Myaqj~jena# yaqj~jena# kalpantAm |
 kaqlpaqntAq mRugRuk ka#lpantAm kalpantAq mRuk | 
  
 40 Ruk | caq | 
-Rukca# caqr gRukca#  | 
+Rukcaq car? gRukca#  | 
  
 41 caq | meq | 
 caq meq meq caq caq meq  | 
@@ -3060,7 +3060,7 @@ meq triqvaqthsA tri#vaqthsA me# me trivaqthsA |
 triqvaqthsA ca# ca trivaqthsA tri#vaqthsA ca# | 
  
 35 triqvaqthsA |
-triqvaqthyeti# tri - vaqthsA | 
+triqvaqthse?ti# tri - vaqthsA | 
  
 36 caq | meq |  
 caq meq meq caq caq meq |  
@@ -3129,7 +3129,7 @@ caq meq meq caq caq meq |
 maq RuqShaqBa Ru#ShaqBo me# ma RuShaqBaH |  
  
 58 RuqShaqBaH | caq |  
-RuqShaqBaSca# ca RuShaqBa Ru#ShaqBaSca# | 
+RuqShaqBaSca# car.?ShaqBa Ru#ShaqBaSca# | 
  
 59 caq | meq |  
 caq meq meq caq caq meq | 
@@ -3528,10 +3528,10 @@ dvAtri(gm)#Sacca caq dvAtri(gm)#Saqd dvAtri(gm)#Sacca |
 caq meq meq caq caq meq | 
  
 88 meq | ShaTtri(gm)#Sat | 
-meq ShaTtri(gm)#Saqt CaTtri(gm)#San me meq ShaTtri(gm)#Sat |  
+meq ShaTtri(gm)#Saqth ShaTtri(gm)#San me meq ShaTtri(gm)#Sat |  
  
 89 ShaTtri(gm)#Sat | caq | 
-ShaTtri(gm)#Sacca caq ShaTtri(gm)#Saqt CaTtri(gm)#Sacca | 
+ShaTtri(gm)#Sacca caq ShaTtri(gm)#Saqth ShaTtri(gm)#Sacca | 
  
 90 ShaTtri(gm)#Sat | 
 ShaTtri(gm)#Saqditiq ShaT - triq(gm)qSaqt | 
@@ -3614,14 +3614,14 @@ caq mUqrddhA mUqrddhA ca# ca mUqrddhA |
 116 mUqrddhA | caq | 
 mUqrddhA ca# ca mUqrddhA mUqrddhA ca# | q
  
-117 caq | vyaSni#yaH | 
-caq vyaSni#yoq vyaSni#yaSca caq vyaSni#yaH |  
+117 caq | vyaS~ji#yaH | 
+caq vyaS~ji#yoq vyaS~ji#yaSca caq vyaS~ji#yaH |  
  
 118 vyaSni#yaH | caq | 
-vyaSni#yaSca caq vyaSni#yoq vyaSni#yaSca | 
+vyaS~ji#yaSca caq vyaS~ji#yoq vyaS~ji#yaSca | 
  
 119 vyaSni#yaH |
-vyaSni#yaq iti# vi - aSni#yaH | 
+vyaS~ji#yaq iti# vi - aS~ji#yaH | 
  
 120 caq | AqntyAqyaqnaH |
 cAqntyAqyaqna A$ntyAyaqnaSca# cAntyAyaqnaH |  
