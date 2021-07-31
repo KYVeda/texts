@@ -3179,7 +3179,7 @@ ceti# ca |
 14)	4.7.13.5(13)-  puna#H | kRuqNvann | tvAq |
 puna#H kRuqNvan kRuqNvan punaqH puna#H kRuqNva(gg) tvA$ tvA kRuqNvan punaqH puna#H kRuqNva(gg) tvA$ | 
 15)	4.7.13.5(14)-  kRuqNvann | tvAq | piqtara$m |
-kRuqNva(gg) tvA$ tvA kRuqNvan kRuqNva(gg) tvA# piqtara#m piqtara#m tvA kRuqNvan kRuqNva(gg) tvA# piqtara$m | 
+kRuqNva(gg)stvA$ tvA kRuqNvan kRuqNva(gg)stvA# piqtara#m piqtara#m tvA kRuqNvan kRuqNva(gg)stvA# piqtara$m | 
 16)	4.7.13.5(15)-  tvAq | piqtara$m | yuvA#nam |
 tvAq piqtara#m piqtara#m tvA tvA piqtaraqM ~MyuvA#naqM ~MyuvA#nam piqtara#m tvA tvA piqtaraqM ~MyuvA#nam | 
 17)	4.7.13.5(16)-  piqtara$m | yuvA#nam | aqnvAtA(gm)#sIt |
