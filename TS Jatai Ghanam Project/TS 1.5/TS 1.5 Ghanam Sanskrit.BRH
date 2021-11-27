@@ -157,7 +157,7 @@ baqrq.hiShiq na na baqrq.hiShi# baqrq.hiShiq na deyaqm deyaqnna baqrq.hiShi# baq
 22)   1.5.1.2(20)-  na | deya$m | saH |
 na deyaqm deyaqnna na deyaq(gmq) sa sa deyaqnna na deyaq(gmq) saH | 
 23)   1.5.1.2(21)-  deya$m | saH | aqgniH |
-deyaq(gmq) sa sa deyaqm deyaqmso$ &gniraqgniH sa deyaqm deyaqmso$ &gniH | 
+deyaq(gmq) sa sa deyaqm deyaq(gm)q so$ &gniraqgniH sa deyaqm deyaq(gm)q so$ &gniH | 
 24)   1.5.1.2(22)-  saH | aqgniH | aqbraqvIqt |
 so$ &gniraqgniH sa so$ &gni ra#bravI dabravIdaqgniH sa so$ &gnira#bravIt | 
 25)   1.5.1.2(23)-  aqgniH | aqbraqvIqt | BAqgI |
@@ -245,7 +245,7 @@ aqdhaqttaq tenaq tenA#dhattAdhattaq tenaq tvaShTAq tvaShTAq tenA#dhattAdhattaq t
 11)   1.5.1.3(11)-  tena# | tvaShTA$ | Aqrddhnoqt |
 tenaq tvaShTAq tvaShTAq tenaq tenaq tvaShTA$ &&rddhnodArddhnoqt tvaShTAq tenaq tenaq tvaShTA$ &&rddhnot | 
 12)   1.5.1.3(12)-  tvaShTA$ | Aqrddhnoqt | tasmA$t |
-tvaShTA$ &&rddhnodArddhnoqt tvaShTAq tvaShTA$ &&rddhnoqt tasmAqt tasmA#dArddhnoqt tvaShTAq tvaShTA$ &&rddhnoqt tasmA$t | 
+tvaShTA$ &&rddhno dArddhnoqt tvaShTAq tvaShTA$ &&rddhnoqt tasmAqt tasmA# dArddhnoqt tvaShTAq tvaShTA$ &&rddhnoqt tasmA$t | 
 13)   1.5.1.3(13)-  Aqrddhnoqt | tasmA$t | tvAqShTrAH |
 Aqrddhnoqt tasmAqt tasmA# dArddhno dArddhnoqt tasmA$t tvAqShTrA stvAqShTrA stasmA# dArddhno dArddhnoqt tasmA$t tvAqShTrAH | 
 14)   1.5.1.3(14)-  tasmA$t | tvAqShTrAH | paqSava#H |
@@ -267,7 +267,7 @@ aqdhaqttaq tenaq tenA#dhattAdhattaq tenaq manuqr manuq stenA#dhattAdhattaq tenaq
 22)   1.5.1.3(22)-  tena# | manu#H | Aqrddhnoqt |
 tenaq manuqr manuqstenaq tenaq manu#rArddhno dArddhnoqn manuqstenaq tenaq manu#rArddhnot | 
 23)   1.5.1.3(23)-  manu#H | Aqrddhnoqt | tasmA$t |
-manu#rArddhno dArddhnoqn manuqr manu#rArddhnoqt tasmAqt tasmA#dArddhnoqn manuqr manu#rArddhnoqt tasmA$t | 
+manu#rArddhno dArddhnoqn manuqr manu#rArddhnoqt tasmAqt tasmA# dArddhnoqn manuqr manu#rArddhnoqt tasmA$t | 
 24)   1.5.1.3(24)-  Aqrddhnoqt | tasmA$t | mAqnaqvya#H |
 Aqrddhnoqt tasmAqt tasmA# dArddhno dArddhnoqt tasmA$n mAnaqvyo# mAnaqvya# stasmA# dArddhno dArddhnoqt tasmA$n mAnaqvya#H | 
 25)   1.5.1.3(25)-  tasmA$t | mAqnaqvya#H | praqjAH |
@@ -283,17 +283,17 @@ uqcyaqnteq tam ta mu#cyanta ucyanteq tam dhAqtA dhAqtA ta mu#cyanta ucyanteq tam
 30)   1.5.1.3(29)-  tam | dhAqtA | A aqdhaqttaq | (GS1.5-7)
 tam dhAqtA dhAqtA tam tam dhAqtA &dha#ttAdhaqttA dhAqtA tam tam dhAqtA &dha#tta |
 31)   1.5.1.3(30)-  dhAqtA | A aqdhaqttaq | tena# | (GS1.5-7)
-dhAqtA &haqttA dha#tadhAqtA dhAqtA dha#taq tenaq tenA &dha#tta dhAqtA dhAqtA &dha#ttaq tena# |
+dhAqtA &dhaqttA dha#tadhAqtA dhAqtA dha#taq tenaq tenA &dha#tta dhAqtA dhAqtA &dha#ttaq tena# |
 32)   1.5.1.3(31)-  A | aqdhaqttaq | tena# | (GS1.5-7)
 A &dha#ttAdhaqttA &dha#ttaq tenaq tenA#dhaqttA &dha#ttaq tena# | 
 33)   1.5.1.3(32)-  aqdhaqttaq | tena# | dhAqtA | (GS1.5-7)
 aqdhaqttaq tenaq tenA#dhattAdhattaq tena# dhAqtA dhAqtA tenA#dhattAdhattaq tena# dhAqtA | 
 34)   1.5.1.3(33)-  tena# | dhAqtA | Aqrddhnoqt | (GS1.5-7)
-tena# dhAqtA dhAqtA tenaq tena# dhAqtA &&rddhno#dArddhnod dhAqtA tenaq tena# dhAqtA &&rddhno$t | 
+tena# dhAqtA dhAqtA tenaq tena# dhAqtA &&rddhno# dArddhnod dhAqtA tenaq tena# dhAqtA &&rddhno$t | 
 35)   1.5.1.3(34)-  dhAqtA | Aqrddhnoqt | saqM~MvaqthsaqraH |
 dhAqtA &&rddhno# dArddhnod dhAqtA dhAqtA &&rddhno$th saM~MvathsaqraH sa#M~Mvathsaqra A$rddhnod dhAqtA dhAqtA &&rddhno$th saM~MvathsaqraH | 
 36)   1.5.1.3(35)-  Aqrddhnoqt | saqM~MvaqthsaqraH | vai |
-Aqrddhnoqth saqM~MvaqthsaqraH sa#M~Mvathsaqra A$rddhno dArddhnoth saM~Mvathsaqro vai vai sa#M~Mvathsaqra A$rddhnodArddhnoth saM~Mvathsaqro vai | 
+Aqrddhnoqth saqM~MvaqthsaqraH sa#M~Mvathsaqra A$rddhno dArddhnoth saM~Mvathsaqro vai vai sa#M~Mvathsaqra A$rddhno dArddhnoth saM~Mvathsaqro vai | 
 37)   1.5.1.3(36)-  saqM~MvaqthsaqraH | vai | dhAqtA |
 saqM~Mvaqthsaqro vai vai sa#M~MvathsaqraH sa#M~Mvathsaqro vai dhAqtA dhAqtA vai sa#M~MvathsaqraH sa#M~Mvathsaqro vai dhAqtA | 
 38)   1.5.1.3(36)-  saqM~MvaqthsaqraH |
@@ -323,17 +323,17 @@ jAqyaqnteq yo yo jA#yante jAyanteq ya eqva meqvaM ~Myo jA#yante jAyanteq ya eqva
 50)   1.5.1.3(46)-  yaH | eqvam | puqnaqrAqdheya#sya |
 ya eqva meqvaM ~Myo ya eqvam pu#narAqdheya#sya punarAqdheya#syaiqvaM ~Myo ya eqvam pu#narAqdheya#sya | 
 51)   1.5.1.3(47)-  eqvam | puqnaqrAqdheya#sya | Ruddhi$m |
-eqvam pu#narAqdheya#sya punarAqdheya#syaiqva meqvam pu#narAqdheyaqsya rddhiq mRuddhi#m punarAqdheya#syaiqva meqvam pu#narAqdheyaqsya rddhi$m | 
+eqvam pu#narAqdheya#sya punarAqdheya#syaiqva meqvam pu#narAqdheyaqsya r^^ddhiq mRuddhi#m punarAqdheya#syaiqva meqvam pu#narAqdheyaqsya r^^ddhi$m | 
 52)   1.5.1.3(48)-  puqnaqrAqdheya#sya | Ruddhi$m | veda# |
-puqnaqrAqdheyaqsyarddhiq mRuddhi#m punarAqdheya#sya punarAqdheyaqsyarddhiqM ~Mvedaq vedarddhi#m punarAqdheya#sya punarAqdheyaqsyarddhiqM ~Mveda# | 
+puqnaqrAqdheyaqsyar^^ddhiq mRuddhi#m punarAqdheya#sya punarAqdheyaqsyar^^ddhiqM ~Mvedaq vedar^^ddhi#m punarAqdheya#sya punarAqdheyaqsyar^^ddhiqM ~Mveda# | 
 53)   1.5.1.3(48)-  puqnaqrAqdheya#sya |
 puqnaqrAqdheyaqsyeti# punaH - Aqdheya#sya | 
 54)   1.5.1.3(49)-  Ruddhi$m | veda# | Ruqddhnoti# | (GS1.5-8)
-RuddhiqM ~Mvedaq vedarddhiq mRuddhiqM ~Mvedaq rddhnotyRuqddhnotiq vedarddhiq mRuddhiqM ~Mvedaq rddhnoti# | 
+RuddhiqM ~Mvedaq vedar^^ddhiq mRuddhiqM ~Mvedaq r^^ddhno tyRuqddhnotiq vedar^^ddhiq mRuddhiqM ~Mvedaq r^^ddhnoti# | 
 55)   1.5.1.3(50)-  veda# | Ruqddhnoti# | eqva | (GS1.5-8)
-vedaq rddhnotyRuqddhnotiq vedaq vedaq rddhnotyeqvaiva rddhnotiq vedaq vedaq rddhnotyeqva | 
+vedaq r^^ddhno tyRuqddhnotiq vedaq vedaq r^^ddhnotyeqvaiva r^^ddhnotiq vedaq vedaq r^^ddhnotyeqva | 
 1)   1.5.1.4(1)-  Ruqddhnoti# | eqva | yaH | (GS1.5-8)
-Ruqddhnotyeqvaiva rddhnotyRuqddhnotyeqva yo ya eqva rddhnotyRuqddhnotyeqva yaH | 
+Ruqddhnotyeqvaiva r^^ddhno tyRuqddhnotyeqva yo ya eqva r^^ddhno tyRuqddhnotyeqva yaH | 
 2)   1.5.1.4(2)-  eqva | yaH | aqsyaq | (GS1.5-8)
 eqva yo ya eqvaiva yo$ &syAsyaq ya eqvaiva yo$ &sya | 
 3)   1.5.1.4(3)-  yaH | aqsyaq | eqvam | (GS1.5-8)
@@ -367,11 +367,11 @@ Ahi#taq ityA - hiqtaqH |
 17)   1.5.1.4(14)-  iqcCamA#naH | praqjAm | paqSUn |
 iqcCamA#naH praqjAm praqjA miqcCamA#na iqcCamA#naH praqjAm paqSUn paqSUn praqjA miqcCamA#na iqcCamA#naH praqjAm paqSUn | 
 18)   1.5.1.4(15)-  praqjAm | paqSUn | yaja#mAnasya |
-praqjAm paqSUn paqSUn praqjAm praqjAm paqSUn yaja#mAnasyaq yaja#mAnasya paqSUn praqjAm praqjAm paqSUn yaja#mAnasya | 
+praqjAm paqSUn paqSUn praqjAm praqjAm paqSUn.( yaja#mAnasyaq yaja#mAnasya paqSUn praqjAm praqjAm paqSUn.( yaja#mAnasya | 
 19)   1.5.1.4(15)-  praqjAm |
 praqjAmiti# pra - jAm | 
 20)   1.5.1.4(16)-  paqSUn | yaja#mAnasya | upa# |
-paqSUn yaja#mAnasyaq yaja#mAnasya paqSUn paqSUn yaja#mAnaqsyopopaq yaja#mAnasya paqSUn paqSUn yaja#mAnaqsyopa# | 
+paqSUn. yaja#mAnasyaq yaja#mAnasya paqSUn paqSUn. yaja#mAnaqsyopopaq yaja#mAnasya paqSUn paqSUn. yaja#mAnaqsyopa# | 
 21)   1.5.1.4(17)-  yaja#mAnasya | upa# | doqdrAqvaq |
 yaja#mAnaqsyopopaq yaja#mAnasyaq yaja#mAnaqsyopa# dodrAva dodrAqvopaq yaja#mAnasyaq yaja#mAnaqsyopa# dodrAva | 
 22)   1.5.1.4(18)-  upa# | doqdrAqvaq | uqdvAsya# |
@@ -461,7 +461,7 @@ A da#dhAti dadhAqtyA da#dhAqtyayA#tayA matvAqyAyA#tayAmatvAya dadhAqtyA da#dhAqt
 64)   1.5.1.4(52)-  daqdhAqtiq | ayA#tayAmatvAya | daqrBaiH |
 daqdhAqtyayA#tayA matvAqyAyA#tayAmatvAya dadhAti dadhAqtyayA#tayAmatvAya daqrBair daqrBairayA#tayAmatvAya dadhAti dadhAqtyayA#tayAmatvAya daqrBaiH | 
 65)   1.5.1.4(53)-  ayA#tayAmatvAya | daqrBaiH | A |
-ayA#tayAmatvAya daqrBair daqrBai rayA#tayAmatvAqyA yA#tayAmatvAya daqrBairA daq rBairayA#tayAmatvAq yAyA#tayAmatvAya daqrBairA | 
+ayA#tayAmatvAya daqrBair daqrBai rayA#tayAmatvAqyA yA#tayAmatvAya daqrBairA daqrBairayA#tayAmatvAq yAyA#tayAmatvAya daqrBairA | 
 66)   1.5.1.4(53)-  ayA#tayAmatvAya |
 ayA#tayAmatvAqyetyayA#tayAma - tvAqyaq | 
 67)   1.5.1.4(54)-  daqrBaiH | A | daqdhAqtiq |
@@ -503,9 +503,9 @@ pa~jcaq vai vai pa~jcaq pa~jcaq vA Ruqtava# Ruqtavoq vai pa~jcaq pa~jcaq vA Ruqt
 85)   1.5.1.4(68)-  vai | Ruqtava#H | RuqtuBya#H |
 vA Ruqtava# Ruqtavoq vai vA Ruqtava# RuqtuBya# RuqtuBya# Ruqtavoq vai vA Ruqtava# RuqtuBya#H | 
 86)   1.5.1.4(69)-  Ruqtava#H | RuqtuBya#H | eqva |
-Ruqtava# RuqtuBya# RuqtuBya# Ruqtava# Ruqtava# RuqtuBya# eqvaiva rtuBya# Ruqtava# Ruqtava# RuqtuBya# eqva | 
+Ruqtava# RuqtuBya# RuqtuBya# Ruqtava# Ruqtava# RuqtuBya# eqvaiva r^^tuBya# Ruqtava# Ruqtava# RuqtuBya# eqva | 
 87)   1.5.1.4(70)-  RuqtuBya#H | eqva | eqnaqm |
-RuqtuBya# eqvaiva rtuBya# RuqtuBya# eqvaina# mena meqva rtuBya# RuqtuBya# eqvaina$m | 
+RuqtuBya# eqvaiva r^^tuBya# RuqtuBya# eqvaina# mena meqva r^^tuBya# RuqtuBya# eqvaina$m | 
 88)   1.5.1.4(70)-  RuqtuBya#H |
 RuqtuByaq ityRuqtu - ByaqH | 
 89)   1.5.1.4(71)-  eqva | eqnaqm | aqvaqruddhya# |
@@ -525,9 +525,9 @@ parAq vai vai parAq parAq vA eqSha eqSha vai parAq parAq vA eqShaH |
 2)   1.5.2.1(2)-  vai | eqShaH | yaqj~jam |
 vA eqSha eqSha vai vA eqSha yaqj~jaM ~Myaqj~ja meqSha vai vA eqSha yaqj~jam | 
 3)   1.5.2.1(3)-  eqShaH | yaqj~jam | paqSUn |
-eqSha yaqj~jaM ~Myaqj~ja meqSha eqSha yaqj~jam paqSUn paqSUn yaqj~ja meqSha eqSha yaqj~jam paqSUn | 
+eqSha yaqj~jaM ~Myaqj~ja meqSha eqSha yaqj~jam paqSUn paqSUn.( yaqj~ja meqSha eqSha yaqj~jam paqSUn | 
 4)   1.5.2.1(4)-  yaqj~jam | paqSUn | vaqpaqtiq |
-yaqj~jam paqSUn paqSUn yaqj~jaM ~Myaqj~jam paqSUn. va#pati vapati paqSUn yaqj~jaM ~Myaqj~jam paqSUn. va#pati | 
+yaqj~jam paqSUn paqSUn. yaqj~jaM ~Myaqj~jam paqSUn. va#pati vapati paqSUn. yaqj~jaM ~Myaqj~jam paqSUn. va#pati | 
 5)   1.5.2.1(5)-  paqSUn | vaqpaqtiq | yaH |
 paqSUn. va#pati vapati paqSUn paqSUn. va#patiq yo yo va#pati paqSUn paqSUn. va#patiq yaH | 
 6)   1.5.2.1(6)-  vaqpaqtiq | yaH | aqgnim |
@@ -625,7 +625,7 @@ eqva vIqraM ~MvIqra meqvaiva vIqranni#ravaqdAya# niravaqdAya# vIqra meqvaiva vIq
 52)   1.5.2.1(46)-  vIqram | niqraqvaqdAya# | aqgnim |
 vIqranni#ravaqdAya# niravaqdAya# vIqraM ~MvIqranni#ravaqdAyAqgni maqgninni#ravaqdAya# vIqraM ~MvIqranni#ravaqdAyAqgnim | 
 53)   1.5.2.1(47)-  niqraqvaqdAya# | aqgnim | puna#H |
-niqraqvaqdAyAqgni maqgninni#ravaqdAya# niravaqdAyAqgnim punaqH puna#raqgninni#ravaqdAya# niravaqdAyAqgnim puna#H | 
+niqraqvaqdAyAqgni maqgninni#ravaqdAya# niravaqdAyAqgnim punaqH puna# raqgninni#ravaqdAya# niravaqdAyAqgnim puna#H | 
 54)   1.5.2.1(47)-  niqraqvaqdAya# |
 niqraqvaqdAyeti# niH - aqvaqdAya# | 
 55)   1.5.2.1(48)-  aqgnim | puna#H | A |
@@ -663,17 +663,17 @@ prati# tiShThati tiShThatiq pratiq prati# tiShThatiq yad yat ti#ShThatiq pratiq 
 14)   1.5.2.2(11)-  tiqShThaqtiq | yat | vai |
 tiqShThaqtiq yad yat ti#ShThati tiShThatiq yad vai vai yat ti#ShThati tiShThatiq yad vai | 
 15)   1.5.2.2(12)-  yat | vai | aqgniH |
-yad vai vai yad yad vA aqgniraqgnir vai yad yad vA aqgniH | 
+yad vai vai yad yad vA aqgni raqgnir vai yad yad vA aqgniH | 
 16)   1.5.2.2(13)-  vai | aqgniH | Ahi#taH |
-vA aqgniraqgnir vai vA aqgnirAhi#taq Ahi#toq &gnir vai vA aqgnirAhi#taH | 
+vA aqgni raqgnir vai vA aqgnirAhi#taq Ahi#toq &gnir vai vA aqgnirAhi#taH | 
 17)   1.5.2.2(14)-  aqgniH | Ahi#taH | na |
-aqgnirAhi#taq Ahi#toq &gniraqgnirAhi#toq na nAhi#toq &gniraqgnirAhi#toq na | 
+aqgnirAhi#taq Ahi#toq &gni raqgnirAhi#toq na nAhi#toq &gniraqgnirAhi#toq na | 
 18)   1.5.2.2(15)-  Ahi#taH | na | Ruqddhyate$ |
-Ahi#toq na nAhi#taq Ahi#toq na rddhyata# Ruqddhyateq nAhi#taq Ahi#toq na rddhyate$ | 
+Ahi#toq na nAhi#taq Ahi#toq na r^^ddhyata# Ruqddhyateq nAhi#taq Ahi#toq na r^^ddhyate$ | 
 19)   1.5.2.2(15)-  Ahi#taH |
 Ahi#taq ityA - hiqtaqH | 
 20)   1.5.2.2(16)-  na | Ruqddhyate$ | jyAya#H |
-na rddhyata# Ruqddhyateq na na rddhyateq jyAyoq jyAya# Ruqddhyateq na na rddhyateq jyAya#H | 
+na r^^ddhyata# Ruqddhyateq na na r^^ddhyateq jyAyoq jyAya# Ruqddhyateq na na r^^ddhyateq jyAya#H | 
 21)   1.5.2.2(17)-  Ruqddhyate$ | jyAya#H | BAqgaqdheya$m |
 Ruqddhyateq jyAyoq jyAya# Ruqddhyata# Ruqddhyateq jyAyo# BAgaqdheya#m BAgaqdheyaqm jyAya# Ruqddhyata# Ruqddhyateq jyAyo# BAgaqdheya$m | 
 22)   1.5.2.2(18)-  jyAya#H | BAqgaqdheya$m | niqkAqmaya#mAnaH |
@@ -697,9 +697,9 @@ Bava#tiq sA sA Bava#tiq Bava#tiq saivaiva sA Bava#tiq Bava#tiq saiva |
 31)   1.5.2.2(25)-  sA | eqva | aqsyaq | (GS1.5-11)
 saivaiva sA saivAsyA$syaiqva sA saivAsya# | 
 32)   1.5.2.2(26)-  eqva | aqsyaq | Ruddhi#H | (GS1.5-11)
-eqvAsyA$syaiqvaivAsya rddhiqrq. Ruddhi# rasyaiqvaivAsyarddhi#H | 
+eqvAsyA$syaiqvaivAsya r^^ddhiqrq. Ruddhi# rasyaiqvaivAsya r^^ddhi#H | 
 33)   1.5.2.2(27)-  aqsyaq | Ruddhi#H | sam | (GS1.5-11)
-aqsya rddhiqrq. Ruddhi# rasyAqsyarddhiqH sa(gm) sa mRuddhi# rasyAqsyarddhiqH sam | 
+aqsya r^^ddhiqrq. Ruddhi# rasyAqsyar^^ddhiqH sa(gm) sa mRuddhi# rasyAqsyar^^ddhiqH sam | 
 34)   1.5.2.2(28)-  Ruddhi#H | sam | vai | (GS1.5-11)
 RuddhiqH sa(gm) sa mRuddhiqrq. RuddhiqH saM ~Mvai vai sa mRuddhiqrq. RuddhiqH saM ~Mvai | 
 35)   1.5.2.2(29)-  sam | vai | eqtasya# | (GS1.5-11)
@@ -769,11 +769,11 @@ brahmaiqvaiva brahmaq brahmaiqva tat tadeqva brahmaq brahmaiqva tat |
 5)   1.5.2.3(4)-  eqva | tat | aqkaqH |
 eqva tat tadeqvaiva tada#ka rakaq stadeqvaiva tada#kaH | 
 6)   1.5.2.3(5)-  tat | aqkaqH | uqpAq(gmq)Su | (GS1.5-12)
-tada#ka rakaqstat tada#ka rupAq(gmq)SU#pAq(ggq)Sva#kaq stat tada#ka rupAq(gmq)Su | 
+tada#ka rakaqstat tada#ka rupAq(gmq) SU#pAq(ggq)Sva#kaq stat tada#ka rupAq(gmq)Su | 
 7)   1.5.2.3(6)-  aqkaqH | uqpAq(gmq)Su | yaqjaqtiq | (GS1.5-12)
-aqkaq ruqpAq(gmq)SU#pAq(ggq)Sva#ka raka rupAq(gmq)Su ya#jati yajatyupAq(ggq)Sva#ka raka rupAq(gmq)Su ya#jati | 
+aqkaq ruqpAq(gmq) SU#pAq(ggq)Sva#ka raka rupAq(gmq)Su ya#jati yajatyupAq(ggq)Sva#ka raka rupAq(gmq)Su ya#jati | 
 8)   1.5.2.3(7)-  uqpAq(gmq)Su | yaqjaqtiq | yathA$ | (GS1.5-12)
-uqpAq(gmq)Su ya#jati yajatyupAq(gmq)SU#pAq(gmq)Su ya#jatiq yathAq yathA# yajatyupAq(gmq)SU#pAq(gmq)Su ya#jatiq yathA$ | 
+uqpAq(gmq)Su ya#jati yajatyupAq(gmq) SU#pAq(gmq)Su ya#jatiq yathAq yathA# yajatyupAq(gmq) SU#pAq(gmq)Su ya#jatiq yathA$ | 
 9)   1.5.2.3(7)-  uqpAq(gmq)Su | (GS1.5-12)
 uqpAq(ggq)Svityu#pa - aq(gmq)Su | 
 10)   1.5.2.3(8)-  yaqjaqtiq | yathA$ | vAqmam | (GS1.5-12)
@@ -1045,11 +1045,11 @@ uqdvAqsaya#taq ityu#t - vAqsaya#te |
 14)   1.5.2.5(12)-  tasya# | varu#NaH | eqva |
 tasyaq varu#Noq varu#Naqstasyaq tasyaq varu#Na eqvaiva varu#Naqstasyaq tasyaq varu#Na eqva | 
 15)   1.5.2.5(13)-  varu#NaH | eqva | RuqNaqyAt |
-varu#Na eqvaiva varu#Noq varu#Na eqva rNaqyAdRu#NaqyAdeqva varu#Noq varu#Na eqva rNaqyAt | 
+varu#Na eqvaiva varu#Noq varu#Na eqva r^^NaqyA dRu#NaqyAdeqva varu#Noq varu#Na eqva r^^NaqyAt | 
 16)   1.5.2.5(14)-  eqva | RuqNaqyAt | AqgniqvAqruqNam |
-eqva rNaqyAdRu#NaqyAdeqvaiva rNaqyAdA$gnivAruqNa mA$gnivAruqNa mRu#NaqyAdeqvaiva rNaqyAdA$gnivAruqNam | 
+eqva r^^NaqyA dRu#NaqyAdeqvaiva r^^NaqyAdA$gnivAruqNa mA$gnivAruqNa mRu#NaqyAdeqvaiva r^^NaqyAdA$gnivAruqNam | 
 17)   1.5.2.5(15)-  RuqNaqyAt | AqgniqvAqruqNam | ekA#daSakapAlam |
-RuqNaqyAdA$gnivAruqNa mA$gnivAruqNa mRu#NaqyAdRu#NaqyAdA$gnivAruqNa mekA#daSakapAlaq mekA#daSakapAla mAgnivAruqNa mRu#NaqyAdRu#NaqyAdA$gnivAruqNa mekA#daSakapAlam | 
+RuqNaqyA dA$gnivAruqNa mA$gnivAruqNa mRu#NaqyA dRu#NaqyAdA$gnivAruqNa mekA#daSakapAlaq mekA#daSakapAla mAgnivAruqNa mRu#NaqyAdRu#NaqyAdA$gnivAruqNa mekA#daSakapAlam | 
 18)   1.5.2.5(15)-  RuqNaqyAt |
 RuqNaqyAdityRu#Na - yAt | 
 19)   1.5.2.5(16)-  AqgniqvAqruqNam | ekA#daSakapAlam | anu# |
@@ -1077,9 +1077,9 @@ hantiq yo yo hantiq hantiq yaSca# caq yo hantiq hantiq yaSca# |
 30)   1.5.2.5(25)-  yaH | caq | aqsyaq |
 yaSca# caq yo yaScA$syAsya caq yo yaScA$sya | 
 31)   1.5.2.5(26)-  caq | aqsyaq | RuqNaqyAt |
-cAqsyAqsyaq caq cAqsyaq rNaqyAdRu#NaqyAda#sya ca cAsya rNaqyAt | 
+cAqsyAqsyaq caq cAqsyaq r^^NaqyA dRu#NaqyAda#sya ca cAsya r^^NaqyAt | 
 32)   1.5.2.5(27)-  aqsyaq | RuqNaqyAt | tau |
-aqsyaq rNaqyAdRu#NaqyAda#syAsya rNaqyAt tau tA vRu#NaqyAda#syAsya rNaqyAt tau | 
+aqsyaq r^^NaqyA dRu#NaqyAda#syAsya r^^NaqyAt tau tA vRu#NaqyAda#syAsya r^^NaqyAt tau | 
 33)   1.5.2.5(28)-  RuqNaqyAt | tau | BAqgaqdheye#na |
 RuqNaqyAt tau tA vRu#NaqyAdRu#NaqyAt tau BA#gaqdheye#na BAgaqdheye#naq tA vRu#NaqyAdRu#NaqyAt tau BA#gaqdheye#na | 
 34)   1.5.2.5(28)-  RuqNaqyAt |
@@ -1095,9 +1095,9 @@ prIqNAqtiq na na prI#NAti prINAtiq nArtiq mArtiqnna prI#NAti prINAtiq nArti$m |
 39)   1.5.2.5(32)-  na | Arti$m | A | (GS1.5-14)
 nArtiq mArtiqnna nArtiq mA &&rtiqnna nArtiq mA | 
 40)   1.5.2.5(33)-  Arti$m | A | RuqcCaqtiq | (GS1.5-14)
-Artiq mA &&rtiq mArtiq marcCa#tyRucCaqtyA &&rtiq mArtiq marcCa#ti | 
+Artiq mA &&rtiq mArtiq mA rcCa#tyRucCaqtyA &&rtiq mArtiq mA r^^cCa$ti |
 41)   1.5.2.5(34)-  A | RuqcCaqtiq | yaja#mAnaH || (GS1.5-14)
-arcCa#tyRucCaqtyarcCa#tiq yaja#mAnoq yaja#mAna RucCaqtyarcCa#tiq yaja#mAnaH | 
+A r^^cCa# tyRucCaq tyAr^^cCa#tiq yaja#mAnoq yaja#mAna RucCaqtyA r^^cCa#tiq yaja#mAnaH |
 42)   1.5.2.5(35)-  RuqcCaqtiq | yaja#mAnaH || (GS1.5-14)
 RuqcCaqtiq yaja#mAnoq yaja#mAna RucCatyRucCatiq yaja#mAnaH | 
 43)   1.5.2.5(36)-  yaja#mAnaH ||
@@ -1143,7 +1143,7 @@ A &ya maqya mA &yam gaur gauraqya mA &yam gauH |
 20)   1.5.3.1(17)-  aqyam | gauH | pRuS~ji#H |
 aqyam gaur gauraqya maqyam gauH pRuS~jiqH pRuS~jiqr gauraqya maqyam gauH pRuS~ji#H | 
 21)   1.5.3.1(18)-  gauH | pRuS~ji#H | aqkraqmIqt |
-gauH pRuS~jiqH pRuS~jiqr gaur gauH pRuS~ji# rakramIdakramIqt pRuS~jiqr gaur gauH pRuS~ji#rakramIt | 
+gauH pRuS~jiqH pRuS~jiqr gaur gauH pRuS~ji# rakramI dakramIqt pRuS~jiqr gaur gauH pRuS~ji#rakramIt | 
 22)   1.5.3.1(19)-  pRuS~ji#H | aqkraqmIqt | asa#nat |
 pRuS~ji# rakramIdakramIqt pRuS~jiqH pRuS~ji# rakramIq dasa#naqdasa#na dakramIqt pRuS~jiqH pRuS~ji# rakramIqdasa#nat | 
 23)   1.5.3.1(20)-  aqkraqmIqt | asa#nat | mAqtara$m |
@@ -1182,39 +1182,38 @@ SiqSriqyaq iti# SiSriye |
 pratya#syAsyaq pratiq pratya#sya vaha vahAsyaq pratiq pratya#sya vaha | 
 40)   1.5.3.1(36)-  aqsyaq | vaqhaq | dyuBi#H |
 aqsyaq vaqhaq vaqhAqsyAqsyaq vaqhaq dyuBiqr dyuBi#r vahAsyAsya vahaq dyuBi#H | 
-41)   1.5.3.1(37)-  vaqhaq | dyuBi#H | aqsya |
-vaqhaq dyuBiqr dyuBi#r vaha vahaq dyuBi# raqsyAsya dyuBi#r vaha vahaq dyuBi#raqsya | 
-42)   1.5.3.1(38)-  dyuBi#H | aqsya | prAqNAt |
-dyuBi#raqsyAsya dyuBiqr dyuBi#raqsya prAqNAt prAqNAdaqsya dyuBiqr dyuBi#raqsya prAqNAt | 
-43)   1.5.3.1(38)-  dyuBi#H |
+41)   1.5.3.1(37)-  vaqhaq | dyuBi#H || 
+vaqhaq dyuBiqr dyuBi#r vaha vahaq dyuBi#H |  
+42)   1.5.3.1(38)-  dyuBi#H |
 dyuBiqritiq dyu - BiqH | 
-44)   1.5.3.1(39)-  aqsya | prAqNAt | aqpAqnaqtI | (GS1.5-16)
+xxxxxxxxxxx 54.07 min
+43)   1.5.3.1(39)-  aqsya | prAqNAt | aqpAqnaqtI | (GS1.5-16)
 aqsya prAqNAt prAqNAdaqsyAsya prAqNA da#pAnaqtya#pAnaqtI prAqNAdaqsyAsya prAqNAda#pAnaqtI | 
-45)   1.5.3.1(40)-  prAqNAt | aqpAqnaqtI | aqntaH | (GS1.5-16)
+44)   1.5.3.1(40)-  prAqNAt | aqpAqnaqtI | aqntaH | (GS1.5-16)
 prAqNA da#pAnaqtya#pAnaqtI prAqNAt prAqNAda#pAnaqtya#nta raqnta ra#pAnaqtI prAqNAt prAqNAda#pAnaqtya#ntaH | 
-46)   1.5.3.1(40)-  prAqNAt | (GS1.5-16)
+45)   1.5.3.1(40)-  prAqNAt | (GS1.5-16)
 prAqNAditi# pra - aqnAt | 
-47)   1.5.3.1(41)-  aqpAqnaqtI | aqntaH | caqraqtiq | (GS1.5-16)
+46)   1.5.3.1(41)-  aqpAqnaqtI | aqntaH | caqraqtiq | (GS1.5-16)
 aqpAqnaqtya#nta raqnta ra#pAnaqtya#pAnaqtya#nta Sca#rati caratyaqnta ra#pAnaqtya#pAnaqtya#nta Sca#rati | 
-48)   1.5.3.1(41)-  aqpAqnaqtI | (GS1.5-16)
+47)   1.5.3.1(41)-  aqpAqnaqtI | (GS1.5-16)
 aqpAqnaqtItya#pa - aqnaqtI | 
-49)   1.5.3.1(42)-  aqntaH | caqraqtiq | roqcaqnA || (GS1.5-16)
+48)   1.5.3.1(42)-  aqntaH | caqraqtiq | roqcaqnA || (GS1.5-16)
 aqntaSca#rati caratyaqnta raqntaSca#rati rocaqnA ro#caqnA ca#ratyaqnta raqntaSca#rati rocaqnA | 
-50)   1.5.3.1(43)-  caqraqtiq | roqcaqnA || (GS1.5-16)
+49)   1.5.3.1(43)-  caqraqtiq | roqcaqnA || (GS1.5-16)
 caqraqtiq roqcaqnA ro#caqnA ca#rati carati rocaqnA | 
-51)   1.5.3.1(44)-  roqcaqnA ||
+50)   1.5.3.1(44)-  roqcaqnA ||
 roqcaqneti# rocaqnA | 
-52)   1.5.3.1(45)-  vi | aqKyaqt | maqhiqShaH |
+51)   1.5.3.1(45)-  vi | aqKyaqt | maqhiqShaH |
 vya#KyadaKyaqd vi vya#Kyan mahiqSho ma#hiqSho$ &Kyaqd vi vya#Kyan mahiqShaH | 
-53)   1.5.3.1(46)-  aqKyaqt | maqhiqShaH | suva#H ||
+52)   1.5.3.1(46)-  aqKyaqt | maqhiqShaH | suva#H ||
 aqKyaqn maqhiqSho ma#hiqSho$ &KyadaKyan mahiqShaH suvaqH suva#r mahiqSho$ &KyadaKyan mahiqShaH suva#H | 
-54)   1.5.3.1(47)-  maqhiqShaH | suva#H ||
+53)   1.5.3.1(47)-  maqhiqShaH | suva#H ||
 maqhiqShaH suvaqH suva#r mahiqSho ma#hiqShaH suva#H | 
-55)   1.5.3.1(48)-  suva#H ||
+54)   1.5.3.1(48)-  suva#H ||
 suvaqritiq suva#H | 
-56)   1.5.3.1(49)-  yat | tvAq | kruqddhaH |
+55)   1.5.3.1(49)-  yat | tvAq | kruqddhaH |
 yat tvA$ tvAq yad yat tvA$ kruqddhaH kruqddhastvAq yad yat tvA$ kruqddhaH | 
-57)   1.5.3.1(50)-  tvAq | kruqddhaH | paqroqvapava# |
+56)   1.5.3.1(50)-  tvAq | kruqddhaH | paqroqvapava# |
 tvAq kruqddhaH kruqddhastvA$ tvA kruqddhaH pa#roqvapava# paroqvapava# kruqddhastvA$ tvA kruqddhaH pa#roqvapava# | 
 1)   1.5.3.2(1)-  kruqddhaH | paqroqvapava# | maqnyunA$ |
 kruqddhaH pa#roqvapava# paroqvapava# kruqddhaH kruqddhaH pa#roqvapava# maqnyunA# maqnyunA# paroqvapava# kruqddhaH kruqddhaH pa#roqvapava# maqnyunA$ | 
@@ -1323,11 +1322,11 @@ saqmidhaq iti# saM - idha#H |
 53)   1.5.3.2(48)-  saqpta | jiqhvAH | saqpta |
 saqpta jiqhvA jiqhvAH saqpta saqpta jiqhvAH saqpta saqpta jiqhvAH saqpta saqpta jiqhvAH saqpta | 
 54)   1.5.3.2(49)-  jiqhvAH | saqpta | RuSha#yaH |
-jiqhvAH saqpta saqpta jiqhvA jiqhvAH saqpta r.Sha#yaq RuSha#yaH saqpta jiqhvA jiqhvAH saqpta r.Sha#yaH | 
+jiqhvAH saqpta saqpta jiqhvA jiqhvAH saqpta r^^Sha#yaq RuSha#yaH saqpta jiqhvA jiqhvAH saqpta r^^Sha#yaH | 
 55)   1.5.3.2(50)-  saqpta | RuSha#yaH | saqpta |
-saqpta r.Sha#yaq RuSha#yaH saqpta saqpta r.Sha#yaH saqpta saqpta r.Sha#yaH saqpta saqpta r.Sha#yaH saqpta | 
+saqpta r^^Sha#yaq RuSha#yaH saqpta saqpta r^^Sha#yaH saqpta saqpta r^^Sha#yaH saqpta saqpta r^^Sha#yaH saqpta | 
 1)   1.5.3.3(1)-  RuSha#yaH | saqpta | dhAma# |
-RuSha#yaH saqpta saqpta r.Sha#yaq RuSha#yaH saqpta dhAmaq dhAma# saqpta r.Sha#yaq RuSha#yaH saqpta dhAma# | 
+RuSha#yaH saqpta saqpta r^^Sha#yaq RuSha#yaH saqpta dhAmaq dhAma# saqpta r^^Sha#yaq RuSha#yaH saqpta dhAma# | 
 2)   1.5.3.3(2)-  saqpta | dhAma# | priqyANi# ||
 saqpta dhAmaq dhAma# saqpta saqpta dhAma# priqyANi# priqyANiq dhAma# saqpta saqpta dhAma# priqyANi# | 
 3)   1.5.3.3(3)-  dhAma# | priqyANi# ||
@@ -1523,9 +1522,9 @@ taqnUrapApa# taqnU staqnU rapA$GnatAGnaqtApa# taqnU staqnUrapA$Gnata |
 28)   1.5.4.1(27)-  apa# | aqGnaqtaq | saqrpaqrAqj~jiyA$H |
 apA$GnatAGnaqtApApA$Gnata sarparAqj~jiyA$H sarparAqj~jiyA# aGnaqtApApA$Gnata sarparAqj~jiyA$H | 
 29)   1.5.4.1(28)-  aqGnaqtaq | saqrpaqrAqj~jiyA$H | RuqgBiH |
-aqGnaqtaq saqrpaqrAqj~jiyA$H sarparAqj~jiyA# aGnatAGnata sarparAqj~jiyA# RuqgBir.RuqgBiH sa#rparAqj~jiyA# aGnatAGnata sarparAqj~jiyA# RuqgBiH | 
+aqGnaqtaq saqrpaqrAqj~jiyA$H sarparAqj~jiyA# aGnatAGnata sarparAqj~jiyA# RuqgBir. RuqgBiH sa#rparAqj~jiyA# aGnatAGnata sarparAqj~jiyA# RuqgBiH | 
 30)   1.5.4.1(29)-  saqrpaqrAqj~jiyA$H | RuqgBiH | gAr.ha#patyam |
-saqrpaqrAqj~jiyA# RuqgBir.RuqgBiH sa#rparAqj~jiyA$H sarparAqj~jiyA# RuqgBir gAr.ha#patyaqm gAr.ha#patya mRuqgBiH sa#rparAqj~jiyA$H sarparAqj~jiyA# RuqgBir gAr.ha#patyam | 
+saqrpaqrAqj~jiyA# RuqgBir. RuqgBiH sa#rparAqj~jiyA$H sarparAqj~jiyA# RuqgBir gAr.ha#patyaqm gAr.ha#patya mRuqgBiH sa#rparAqj~jiyA$H sarparAqj~jiyA# RuqgBir gAr.ha#patyam | 
 31)   1.5.4.1(29)-  saqrpaqrAqj~jiyA$H |
 saqrpaqrAqj~jiyAq iti# sarpa - rAqj~jiyA$H | 
 32)   1.5.4.1(30)-  RuqgBiH | gAr.ha#patyam | A |
@@ -1723,7 +1722,7 @@ yo$ &gni maqgniM ~Myo yo$ &gni mu#dvAqsaya#ta udvAqsaya#teq &gniM ~Myo yo$ &gni 
 10)   1.5.4.3(10)-  aqgnim | uqdvAqsaya#te | bRuhaqspati#vatyA |
 aqgni mu#dvAqsaya#ta udvAqsaya#teq &gni maqgni mu#dvAqsaya#teq bRuhaqspati#vatyAq bRuhaqspati#vatyodvAqsaya#teq &gni maqgni mu#dvAqsaya#teq bRuhaqspati#vatyA | 
 11)   1.5.4.3(11)-  uqdvAqsaya#te | bRuhaqspati#vatyA | RuqcA |
-uqdvAqsaya#teq bRuhaqspati#vatyAq bRuhaqspati#vatyodvAqsaya#ta udvAqsaya#teq bRuhaqspati#vatyaqrcarcA bRuhaqspati#vatyodvAqsaya#ta udvAqsaya#teq bRuhaqspati#vatyaqrcA | 
+uqdvAqsaya#teq bRuhaqspati#vatyAq bRuhaqspati#vatyodvAqsaya#ta udvAqsaya#teq bRuhaqspati#vatyaq rcarcA bRuhaqspati#vatyodvAqsaya#ta udvAqsaya#teq bRuhaqspati#vatyaqrcA | 
 12)   1.5.4.3(11)-  uqdvAqsaya#te |
 uqdvAqsaya#taq ityu#t - vAqsaya#te | 
 13)   1.5.4.3(12)-  bRuhaqspati#vatyA | RuqcA | upa# | (GS1.5-21)
@@ -1975,9 +1974,9 @@ Ruddhiq mArddhnu#vaqn nArddhnu#vaqnn Ruddhiq mRuddhiq mArddhnu#vaqn tAm tA mArdd
 80)   1.5.4.4(72)-  Arddhnu#vann | tAm | eqva |
 Arddhnu#vaqn tAm tA mArddhnu#vaqn nArddhnu#vaqn tA meqvaiva tA mArddhnu#vaqn nArddhnu#vaqn tA meqva | 
 81)   1.5.4.4(73)-  tAm | eqva | Ruqddhnoqtiq ||
-tA meqvaiva tAm tA meqva rddhno$tyRuddhnotyeqva tAm tA meqva rddhno#ti | 
+tA meqvaiva tAm tA meqva r^^ddhno$ tyRuddhnotyeqva tAm tA meqva r^^ddhno#ti | 
 82)   1.5.4.4(74)-  eqva | Ruqddhnoqtiq ||
-eqva rddhno$tyRuddhnotyeqvaiva r^^ddhno#ti | 
+eqva r^^ddhno$ tyRuddhnotyeqvaiva r^^ddhno#ti | 
 83)   1.5.4.4(75)-  Ruqddhnoqtiq ||
 RuqddhnoqtItyRu#rddhnoti | 
 1)   1.5.5.1(1)-  uqpaqpraqyanta#H | aqddhvaqram | mantra$m | (GS1.5-24)
@@ -2423,7 +2422,7 @@ aqgaqthAqH sa(gm) sa ma#gathA agathAqH sa mRuShI#NAq mRuShI#NAq(gmq) sa ma#gathA
 60)   1.5.5.4(52)-  sam | RuShI#NAm | stuqtena# |
 sa mRuShI#NAq mRuShI#NAq(gmq) sa(gm) sa mRuShI#NA(gg) stuqtena# stuqtena r.ShI#NAq(gmq) sa(gm) sa mRuShI#NA(gg) stuqtena# | 
 61)   1.5.5.4(53)-  RuShI#NAm | stuqtena# | sam |
-RuShI#NA(gg) stuqtena# stuqtena r.ShI#NAq mRuShI#NA(gg) stuqtenaq sa(gm) sa(gg) stuqtena r.ShI#NAq mRuShI#NA(gg) stuqtenaq sam | 
+RuShI#NA(gg) stuqtena# stuqtena r^^ShI#NAq mRuShI#NA(gg) stuqtenaq sa(gm) sa(gg) stuqtena r^^ShI#NAq mRuShI#NA(gg) stuqtenaq sam | 
 62)   1.5.5.4(54)-  stuqtena# | sam | priqyeNa# |
 stuqtenaq sa(gm) sa(gg) stuqtena# stuqtenaq sam priqyeNa# priqyeNaq sa(gg) stuqtena# stuqtenaq sam priqyeNa# | 
 63)   1.5.5.4(55)-  sam | priqyeNa# | dhAmnA$ ||
@@ -2635,9 +2634,9 @@ iqmaqsItI#masi |
 36)   1.5.6.2(31)-  rAja#ntam | aqddhvaqrANA$m | goqpAm |
 rAja#nta maddhvaqrANA# maddhvaqrANAq(gmq) rAja#ntaq(gmq) rAja#nta maddhvaqrANA$m goqpAm goqpA ma#ddhvaqrANAq(gmq) rAja#ntaq(gmq) rAja#nta maddhvaqrANA$m goqpAm | 
 37)   1.5.6.2(32)-  aqddhvaqrANA$m | goqpAm | Ruqtasya# |
-aqddhvaqrANA$m goqpAm goqpA ma#ddhvaqrANA# maddhvaqrANA$m goqpA mRuqtasyaq rtasya# goqpA ma#ddhvaqrANA# maddhvaqrANA$m goqpA mRuqtasya# | 
+aqddhvaqrANA$m goqpAm goqpA ma#ddhvaqrANA# maddhvaqrANA$m goqpA mRuqtasyaq r^^tasya# goqpA ma#ddhvaqrANA# maddhvaqrANA$m goqpA mRuqtasya# | 
 38)   1.5.6.2(33)-  goqpAm | Ruqtasya# | dIdi#vim ||
-goqpA mRuqtasyaq rtasya# goqpAm goqpA mRuqtasyaq dIdi#viqm dIdi#vi mRuqtasya# goqpAm goqpA mRuqtasyaq dIdi#vim | 
+goqpA mRuqtasyaq r^^tasya# goqpAm goqpA mRuqtasyaq dIdi#viqm dIdi#vi mRuqtasya# goqpAm goqpA mRuqtasyaq dIdi#vim | 
 39)   1.5.6.2(33)-  goqpAm |
 goqpAmiti# go - pAm | 
 40)   1.5.6.2(34)-  Ruqtasya# | dIdi#vim ||
@@ -4917,9 +4916,9 @@ nvai vai nu nvai tam taM ~Mvai nu nvai tam |
 31)   1.5.9.6(26)-  vai | tam | upa# | (PS-9.17,JM-27,GS1.5-64)
 vai tam taM ~Mvai vai ta mupopaq taM ~Mvai vai ta mupa# | 
 32)   1.5.9.6(27)-  tam | upa# | RuqcCaqtiq | (GS1.5-64)
-ta mupopaq tam ta mupa# rcCatyRucCaqtyupaq tam ta mupa# rcCati | 
+ta mupopaq tam ta mupa# r^^cCatyRucCaqtyupaq tam ta mupa# r^^cCati | 
 33)   1.5.9.6(28)-  upa# | RuqcCaqtiq | atha# | (GS1.5-64)
-upa# rcCatyRucCaqtyupopa# rcCaqtyathAtha# rcCaqtyupopa# rcCaqtyatha# | 
+upa# r^^cCatyRucCaq tyupopa# r^^cCaqtyathAtha# rcCaqtyupopa# r^^cCaqtyatha# | 
 34)   1.5.9.6(29)-  RuqcCaqtiq | atha# | kaH | (GS1.5-64)
 RuqcCaqtyathAtha# rcCatyRucCaqtyathaq kaH ko &tha# rcCatyRucCaqtyathaq kaH | 
 35)   1.5.9.6(30)-  atha# | kaH | deqvAn | (GS1.5-64)
