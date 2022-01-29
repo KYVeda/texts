@@ -1463,6 +1463,7 @@ aqham de#vayaqjyayA# devayaqjyayAq &ha maqham de#vayaqjyayA# suqretA$H suqretA# 
 deqvaqyaqjyayA# suqretA$H suqretA# devayaqjyayA# devayaqjyayA# suqretAq retoq reta#H suqretA# devayaqjyayA# devayaqjyayA# suqretAq reta#H | 
 57)	1.6.4.3(50)-  deqvaqyaqjyayA$ |
 deqvaqyaqjyayeti# deva - yaqjyayA$ | 
+
 1)	1.6.4.4(1)-  suqretA$H | reta#H | dhiqShIqyaq |
 suqretAq retoq reta#H suqretA$H suqretAq reto# dhiShIya dhiShIyaq reta#H suqretA$H suqretAq reto# dhiShIya | 
 2)	1.6.4.4(1)-  suqretA$H |
@@ -2734,7 +2735,6 @@ BrAtRu#vyoq yad yad BrAtRu#vyoq BrAtRu#vyoq yadanA$SvAq nanA$SvAqnq. yad BrAtRu#
 yadanA$SvAq nanA$SvAqnq. yad yadanA$SvA nupaqvasa# tyupaqvasaq tyanA$SvAqnq. yad yadanA$SvA nupaqvasa#ti | 
 47)	1.6.7.4(46)-  anA$SvAn | uqpaqvasa#ti | vajre#Na |
 anA$SvA nupaqvasa# tyupaqvasaqtyanA$SvAq nanA$SvA nupaqvasa#tiq vajre#Naq vajre#Nopaqvasaq tyanA$SvAq nanA$SvA nupaqvasa#tiq vajre#Na | 
-xxxxxxxxxxx 2.03
 48)	1.6.7.4(47)-  uqpaqvasa#ti | vajre#Na | eqva |
 uqpaqvasa#tiq vajre#Naq vajre#Nopaqvasa# tyupaqvasa#tiq vajre#Naiqvaiva vajre#Nopaqvasa# tyupaqvasa#tiq vajre#Naiqva | 
 49)	1.6.7.4(47)-  uqpaqvasa#ti |
@@ -3232,11 +3232,11 @@ yuq~gkte yu#~jjAqneShu# yu~jjAqneShu# yuq~gkte yuq~gkte yu#~jjAqneShu# |
 68)	1.6.8.4(61)-  yuq~jjAqneShu# ||
 yuq~jjAqneShviti# yu~jjAqneShu# | 
 1)	1.6.9.1(1)-  praqjApa#tiH | yaqj~jAn | aqsRuqjaqtaq |
-praqjApa#tir yaqj~jAn yaqj~jAn praqjApa#tiH praqjApa#tir yaqj~jA na#sRujatAsRujata yaqj~jAn praqjApa#tiH praqjApa#tir yaqj~jA na#sRujata | 
+praqjApa#tir yaqj~jAn. yaqj~jAn praqjApa#tiH praqjApa#tir yaqj~jA na#sRujatAsRujata yaqj~jAn praqjApa#tiH praqjApa#tir yaqj~jA na#sRujata | 
 2)	1.6.9.1(1)-  praqjApa#tiH |
 praqjApa#tiqriti# praqjA - paqtiqH | 
 3)	1.6.9.1(2)-  yaqj~jAn | aqsRuqjaqtaq | aqgniqhoqtram |
-yaqj~jA na#sRujatAsRujata yaqj~jAn yaqj~jA na#sRujatAgnihoqtra ma#gnihoqtra ma#sRujata yaqj~jAn yaqj~jA na#sRujatAgnihoqtram | 
+yaqj~jA na#sRujatAsRujata yaqj~jAn. yaqj~jA na#sRujatAgnihoqtra ma#gnihoqtra ma#sRujata yaqj~jAn. yaqj~jA na#sRujatAgnihoqtram | 
 4)	1.6.9.1(3)-  aqsRuqjaqtaq | aqgniqhoqtram | caq |
 aqsRuqjaqtAqgniqhoqtra ma#gnihoqtra ma#sRujatA sRujatAgnihoqtram ca# cAgnihoqtra ma#sRujatA sRujatAgnihoqtram ca# | 
 5)	1.6.9.1(4)-  aqgniqhoqtram | caq | aqgniqShToqmam |
@@ -3340,7 +3340,7 @@ uqpAqpnotItyu#pa - Aqpnoti# |
 54)	1.6.9.1(40)-  tAva#t | upa# | Aqpnoqtiq |
 tAvaq dupopaq tAvaqt tAvaq dupA$pno tyApnoqtyupaq tAvaqt tAvaqdupA$pnoti | 
 55)	1.6.9.1(41)-  upa# | Aqpnoqtiq | yaH |
-upA$pno tyApnoqtyupopA$pnotiq yo ya A$pnoq tyupopA$pnotiq yaH | 
+upA$pno tyApnoq tyupopA$pnotiq yo ya A$pnoq tyupopA$pnotiq yaH | 
 56)	1.6.9.1(42)-  Aqpnoqtiq | yaH | eqvam |
 Aqpnoqtiq yo ya A$pnotyApnotiq ya eqva meqvaM ~Mya A$pnotyApnotiq ya eqvam | 
 57)	1.6.9.1(43)-  yaH | eqvam | viqdvAn |
@@ -3354,9 +3354,9 @@ pauqrNaqmAqsIM ~Myaja#teq yaja#te paurNamAqsIm pau$rNamAqsIM ~Myaja#teq yAvaqd y
 61)	1.6.9.1(46)-  pauqrNaqmAqsIm |
 pauqrNaqmAqsImiti# paurNa - mAqsIm | 
 62)	1.6.9.1(47)-  yaja#te | yAva#t | uqkthye#na |
-yaja#teq yAvaqd yAvaqd yaja#teq yaja#teq yAva# duqkthye#noqkthye#naq yAvaqd yaja#teq yaja#teq yAva# duqkthye#na | 
+yaja#teq yAvaqd yAvaqd yaja#teq yaja#teq yAva# duqkthye# noqkthye#naq yAvaqd yaja#teq yaja#teq yAva# duqkthye#na | 
 63)	1.6.9.1(48)-  yAva#t | uqkthye#na | uqpAqpnoti# |
-yAva# duqkthye#noqkthye#naq yAvaqd yAva# duqkthye#nopAqpno tyu#pAqpnotyuqkthye#naq yAvaqd yAva# duqkthye#nopAqpnoti# | 
+yAva# duqkthye# noqkthye#naq yAvaqd yAva# duqkthye#nopAqpno tyu#pAqpnotyuqkthye#naq yAvaqd yAva# duqkthye#nopAqpnoti# | 
 64)	1.6.9.1(49)-  uqkthye#na | uqpAqpnoti# | tAva#t |
 uqkthye#nopAqpno tyu#pAqpno tyuqkthye#noqkthye# nopAqpnotiq tAvaqt tAva# dupAqpno tyuqkthye#noqkthye# nopAqpnotiq tAva#t | 
 65)	1.6.9.1(50)-  uqpAqpnoti# | tAva#t | upa# |
@@ -3364,9 +3364,9 @@ uqpAqpnotiq tAvaqt tAva#dupAqpno tyu#pAqpnotiq tAvaqdupopaq tAva#dupAqpno tyu#pA
 66)	1.6.9.1(50)-  uqpAqpnoti# |
 uqpAqpnotItyu#pa - Aqpnoti# | 
 1)	1.6.9.2(1)-  tAva#t | upa# | Aqpnoqtiq |
-tAvaqdupopaq tAvaqt tAvaq dupA$pnotyApnoqtyupaq tAvaqt tAvaqdupA$pnoti | 
+tAvaqdupopaq tAvaqt tAvaq dupA$pno tyApnoqtyupaq tAvaqt tAvaqdupA$pnoti | 
 2)	1.6.9.2(2)-  upa# | Aqpnoqtiq | yaH |
-upA$pno tyApnoqtyupopA$pnotiq yo ya A$pnoq tyupopA$pnotiq yaH | 
+upA$pno tyApnoq tyupopA$pnotiq yo ya A$pnoq tyupopA$pnotiq yaH | 
 3)	1.6.9.2(3)-  Aqpnoqtiq | yaH | eqvam |
 Aqpnoqtiq yo ya A$pnotyApnotiq ya eqva meqvaM ~Mya A$pnotyApnotiq ya eqvam | 
 4)	1.6.9.2(4)-  yaH | eqvam | viqdvAn |
@@ -3380,9 +3380,9 @@ aqmAqvAqsyA$M ~Myaja#teq yaja#te &mAvAqsyA# mamAvAqsyA$M ~Myaja#teq yAvaqd yAvaq
 8)	1.6.9.2(7)-  aqmAqvAqsyA$m |
 aqmAqvAqsyA#mitya#mA - vAqsyA$m | 
 9)	1.6.9.2(8)-  yaja#te | yAva#t | aqtiqrAqtreNa# |
-yaja#teq yAvaqd yAvaqd yaja#teq yaja#teq yAva# datirAqtreNA#tirAqtreNaq yAvaqd yaja#teq yaja#teq yAva# datirAqtreNa# | 
+yaja#teq yAvaqd yAvaqd yaja#teq yaja#teq yAva# datirAqtre NA#tirAqtreNaq yAvaqd yaja#teq yaja#teq yAva# datirAqtreNa# | 
 10)	1.6.9.2(9)-  yAva#t | aqtiqrAqtreNa# | uqpAqpnoti# |
-yAva# datirAqtreNA#tirAqtreNaq yAvaqd yAva# datirAqtreNo#pAqpno tyu#pAqpnotya#tirAqtreNaq yAvaqd yAva#datirAqtreNo#pAqpnoti# | 
+yAva# datirAqtre NA#tirAqtreNaq yAvaqd yAva# datirAqtreNo#pAqpno tyu#pAqpnotya#tirAqtreNaq yAvaqd yAva#datirAqtreNo#pAqpnoti# | 
 11)	1.6.9.2(10)-  aqtiqrAqtreNa# | uqpAqpnoti# | tAva#t |
 aqtiqrAqtreNo#pAqpno tyu#pAqpno tya#tirAqtreNA# tirAqtreNo#pAqpnotiq tAvaqt tAva# dupAqpno tya#tirAqtreNA# tirAqtreNo#pAqpnotiq tAva#t | 
 12)	1.6.9.2(10)-  aqtiqrAqtreNa# |
@@ -3394,7 +3394,7 @@ uqpAqpnotItyu#pa - Aqpnoti# |
 15)	1.6.9.2(12)-  tAva#t | upa# | Aqpnoqtiq |
 tAvaqdupopaq tAvaqt tAvaqdupA$pno tyApnoqtyupaq tAvaqt tAvaqdupA$pnoti | 
 16)	1.6.9.2(13)-  upa# | Aqpnoqtiq | paqraqmeqShThina#H |
-upA$pno tyApnoqtyupopA$pnoti parameqShThina#H parameqShThina# Apnoq tyupopA$pnoti parameqShThina#H | 
+upA$pno tyApnoq tyupopA$pnoti parameqShThina#H parameqShThina# Apnoq tyupopA$pnoti parameqShThina#H | 
 17)	1.6.9.2(14)-  Aqpnoqtiq | paqraqmeqShThina#H | vai |
 Aqpnoqtiq paqraqmeqShThina#H parameqShThina# ApnotyApnoti parameqShThinoq vai vai pa#rameqShThina# ApnotyApnoti parameqShThinoq vai | 
 18)	1.6.9.2(15)-  paqraqmeqShThina#H | vai | eqShaH |
@@ -3442,9 +3442,9 @@ kAShThA# magacCa dagacCaqt kAShThAqm kAShThA# magacCaqt tenaq tenA#gacCaqt kAShT
 39)	1.6.9.2(33)-  aqgaqcCaqt | tena# | indra$m |
 aqgaqcCaqt tenaq tenA#gacCa dagacCaqt tene ndraq mindraqm tenA#gacCa dagacCaqt tene ndra$m | 
 40)	1.6.9.2(34)-  tena# | indra$m | niqravA#sAyayat |
-tene ndraq mindraqm tenaq tene ndra#m niqravA#sAyayan niqravA#sAyayaqdindraqm tenaq tene ndra#m niqravA#sAyayat | 
+tene ndraq mindraqm tenaq tene ndra#m niqravA#sAyayan niqravA#sAyayaq dindraqm tenaq tene ndra#m niqravA#sAyayat | 
 41)	1.6.9.2(35)-  indra$m | niqravA#sAyayat | tena# |
-indra#m niqravA#sAyayan niqravA#sAyayaqdindraq mindra#m niqravA#sAyayaqt tenaq tena# niqravA#sAyayaq dindraq mindra#m niqravA#sAyayaqt tena# | 
+indra#m niqravA#sAyayan niqravA#sAyayaq dindraq mindra#m niqravA#sAyayaqt tenaq tena# niqravA#sAyayaq dindraq mindra#m niqravA#sAyayaqt tena# | 
 42)	1.6.9.2(36)-  niqravA#sAyayat | tena# | indra#H |
 niqravA#sAyayaqt tenaq tena# niqravA#sAyayan niqravA#sAyayaqt tene ndraq indraqstena# niqravA#sAyayan niqravA#sAyayaqt tene ndra#H | 
 43)	1.6.9.2(36)-  niqravA#sAyayat |
@@ -3737,8 +3737,7 @@ uqgro$ &syasyuqgra uqgro$ &syuqgra uqgro$ &syuqgra uqgro$ &syuqgraH |
 aqsyuqgra uqgro$ &syasyuqgro# &ha maqha muqgro$ &syasyuqgro# &ham | 
 16)	1.6.10.1(15)-  uqgraH | aqham | saqjAqteShu# |
 uqgro# &ha maqha muqgra uqgro# &ha(gm) sa#jAqteShu# sajAqteShvaqha muqgra uqgro# &ha(gm) sa#jAqteShu# | 
-17)	1.6.10.1(16)-  aqham | saqjAqte
-Shu# | BUqyAqsaqm |
+17)	1.6.10.1(16)-  aqham | saqjAqteShu# | BUqyAqsaqm |
 aqha(gm) sa#jAqteShu# sajAqteShvaqha maqha(gm) sa#jAqteShu# BUyAsam BUyAsa(gm) sajAqteShvaqha maqha(gm) sa#jAqteShu# BUyAsam | 
 18)	1.6.10.1(17)-  saqjAqteShu# | BUqyAqsaqm | iti# |
 saqjAqteShu# BUyAsam BUyAsa(gm) sajAqteShu# sajAqteShu# BUyAsaq mitIti# BUyAsa(gm) sajAqteShu# sajAqteShu# BUyAsaq miti# | 
@@ -3841,21 +3840,21 @@ suqvaqrgam ~Mloqkam ~Mloqka(gm) su#vaqrga(gm) su#vaqrgam ~Mloqka mA#yan nAyan ~M
 10)	1.6.10.2(8)-  suqvaqrgam |
 suqvaqrgamiti# suvaH - gam | 
 11)	1.6.10.2(9)-  loqkam | Aqyaqnn | yaqj~jasya# |
-loqka mA#yan nAyan ~Mloqkam ~Mloqka mA#yan yaqj~jasya# yaqj~jasyA#yan ~Mloqkam ~Mloqka mA#yan yaqj~jasya# | 
+loqka mA#yan nAyan ~Mloqkam ~Mloqka mA#yan. yaqj~jasya# yaqj~jasyA#yan ~Mloqkam ~Mloqka mA#yan. yaqj~jasya# | 
 12)	1.6.10.2(10)-  Aqyaqnn | yaqj~jasya# | vyRu#ddhena |
-Aqyaqn yaqj~jasya# yaqj~jasyA#yan nAyan yaqj~jasyaq vyRu#ddhenaq vyRu#ddhena yaqj~jasyA#yan nAyan yaqj~jasyaq vyRu#ddhena | 
+Aqyaqnq. yaqj~jasya# yaqj~jasyA#yan nAyan. yaqj~jasyaq vyRu#ddhenaq vyRu#ddhena yaqj~jasyA#yan nAyan. yaqj~jasyaq vyRu#ddhena | 
 13)	1.6.10.2(11)-  yaqj~jasya# | vyRu#ddhena | asu#rAn |
-yaqj~jasyaq vyRu#ddhenaq vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddheqnAsu#rAq nasu#rAqnq. vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddheqnAsu#rAn | 
+yaqj~jasyaq vyRu#ddhenaq vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddheqnAsu#rAq nasu#rAqn vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddheqnAsu#rAn | 
 14)	1.6.10.2(12)-  vyRu#ddhena | asu#rAn | parA$ |
-vyRu#ddheqnAsu#rAq nasu#rAqnq. vyRu#ddhenaq vyRu#ddheqnAsu#rAqn parAq parA &su#rAqnq. vyRu#ddhenaq vyRu#ddheqnAsu#rAqn parA$ | 
+vyRu#ddheqnAsu#rAq nasu#rAqn vyRu#ddhenaq vyRu#ddheqnAsu#rAqn parAq parA &su#rAqn vyRu#ddhenaq vyRu#ddheqnAsu#rAqn parA$ | 
 15)	1.6.10.2(12)-  vyRu#ddhena |
 vyRu#ddheqnetiq vi - Ruqddheqnaq | 
 16)	1.6.10.2(13)-  asu#rAn | parA$ | aqBAqvaqyaqnn |
 asu#rAqn parAq parA &su#rAq nasu#rAqn parA# &BAvayan naBAvayaqn parA &su#rAq nasu#rAqn parA# &BAvayann | 
 17)	1.6.10.2(14)-  parA$ | aqBAqvaqyaqnn | yat |
-parA# &BAvayan naBAvayaqn parAq parA# &BAvayaqn yad yada#BAvayaqn parAq parA# &BAvayaqn yat | 
+parA# &BAvayan naBAvayaqn parAq parA# &BAvayaqnq. yad yada#BAvayaqn parAq parA# &BAvayaqnq. yat | 
 18)	1.6.10.2(15)-  aqBAqvaqyaqnn | yat | meq |
-aqBAqvaqyaqn yad yada#BAvayan naBAvayaqn yan me# meq yada#BAvayan naBAvayaqn yan me$ | 
+aqBAqvaqyaqnq. yad yada#BAvayan naBAvayaqnq. yan me# meq yada#BAvayan naBAvayaqnq. yan me$ | 
 19)	1.6.10.2(16)-  yat | meq | aqgneq |
 yan me# meq yad yan me# agne &gne meq yad yan me# agne | 
 20)	1.6.10.2(17)-  meq | aqgneq | aqsya |
@@ -3893,9 +3892,9 @@ loqka me$tyeti loqkam ~Mloqka me#ti yaqj~jasya# yaqj~jasyai#ti loqkam ~Mloqka me
 36)	1.6.10.2(31)-  eqtiq | yaqj~jasya# | vyRu#ddhena |
 eqtiq yaqj~jasya# yaqj~jasyai$tyeti yaqj~jasyaq vyRu#ddhenaq vyRu#ddhena yaqj~jasyai$tyeti yaqj~jasyaq vyRu#ddhena | 
 37)	1.6.10.2(32)-  yaqj~jasya# | vyRu#ddhena | BrAtRu#vyAn |
-yaqj~jasyaq vyRu#ddhenaq vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddhenaq BrAtRu#vyAqn BrAtRu#vyAqnq. vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddhenaq BrAtRu#vyAn | 
+yaqj~jasyaq vyRu#ddhenaq vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddhenaq BrAtRu#vyAqn BrAtRu#vyAqn vyRu#ddhena yaqj~jasya# yaqj~jasyaq vyRu#ddhenaq BrAtRu#vyAn | 
 38)	1.6.10.2(33)-  vyRu#ddhena | BrAtRu#vyAn | parA$ |
-vyRu#ddhenaq BrAtRu#vyAqn BrAtRu#vyAqnq. vyRu#ddhenaq vyRu#ddhenaq BrAtRu#vyAqn parAq parAq BrAtRu#vyAqnq. vyRu#ddhenaq vyRu#ddhenaq BrAtRu#vyAqn parA$ | 
+vyRu#ddhenaq BrAtRu#vyAqn BrAtRu#vyAqn vyRu#ddhenaq vyRu#ddhenaq BrAtRu#vyAqn parAq parAq BrAtRu#vyAqn vyRu#ddhenaq vyRu#ddhenaq BrAtRu#vyAqn parA$ | 
 39)	1.6.10.2(33)-  vyRu#ddhena |
 vyRu#ddheqnetiq vi - Ruqddheqnaq | 
 40)	1.6.10.2(34)-  BrAtRu#vyAn | parA$ | BAqvaqyaqtiq |
@@ -3955,9 +3954,9 @@ paqryAga#ta eqtABi# reqtABi#H paqryAga#te paqryAga#ta eqtABi# reqvaivaitABi#H pa
 5)	1.6.10.3(3)-  paqryAga#te |
 paqryAga#taq iti# pari - Aga#te | 
 6)	1.6.10.3(4)-  eqtABi#H | eqva | upa# | (GS1.6-24)
-eqtABi# reqvaivaitABi# reqtABi# reqvopopaiqvaitABi# reqtABi# reqvopa# | 
+eqtABi# reqvaivaitABi# reqtABi# reqvo popaiq vaitABi# reqtABi# reqvopa# | 
 7)	1.6.10.3(5)-  eqva | upa# | sAqdaqyeqt | (GS1.6-24)
-eqvopopaiqvaivopa# sAdayeth sAdayeq dupaiqvaivopa# sAdayet | 
+eqvo popaiq vaivopa# sAdayeth sAdayeq dupaiqvaivopa# sAdayet | 
 8)	1.6.10.3(6)-  upa# | sAqdaqyeqt | brahma#NA | (GS1.6-24)
 upa# sAdayeth sAdayeqdupopa# sAdayeqd brahma#NAq brahma#NA sAdayeqdupopa# sAdayeqd brahma#NA | 
 9)	1.6.10.3(7)-  sAqdaqyeqt | brahma#NA | eqva | (GS1.6-24)
@@ -3977,11 +3976,11 @@ pari# gRuhNAti gRuhNAtiq pariq pari# gRuhNAti dar.SapUrNamAqsau da#r.SapUrNamAqs
 16)	1.6.10.3(13)-  gRuqhNAqtiq | daqrq.SaqpUqrNaqmAqsau | cAqtuqrmAqsyAni# |
 gRuqhNAqtiq daqrq.SaqpUqrNaqmAqsau da#r.SapUrNamAqsau gRu#hNAti gRuhNAti dar.SapUrNamAqsau cA#turmAqsyAni# cAturmAqsyAni# dar.SapUrNamAqsau gRu#hNAti gRuhNAti dar.SapUrNamAqsau cA#turmAqsyAni# | 
 17)	1.6.10.3(14)-  daqrq.SaqpUqrNaqmAqsau | cAqtuqrmAqsyAni# | AqlaBa#mAnaH |
-daqrq.SaqpUqrNaqmAqsau cA#turmAqsyAni# cAturmAqsyAni# dar.SapUrNamAqsau da#r.SapUrNamAqsau cA#turmAqsyAnyAqlaBa#mAna AqlaBa#mAnaScAturmAqsyAni# dar.SapUrNamAqsau da#r.SapUrNamAqsau cA#turmAqsyAnyAqlaBa#mAnaH | 
+daqrq.SaqpUqrNaqmAqsau cA#turmAqsyAni# cAturmAqsyAni# dar.SapUrNamAqsau da#r.SapUrNamAqsau cA#turmAqsyA nyAqlaBa#mAna AqlaBa#mAna ScAturmAqsyAni# dar.SapUrNamAqsau da#r.SapUrNamAqsau cA#turmAqsyA nyAqlaBa#mAnaH | 
 18)	1.6.10.3(14)-  daqrq.SaqpUqrNaqmAqsau |
 daqrq.SaqpUqrNaqmAqsAviti# dar.Sa - pUqrNaqmAqsau | 
 19)	1.6.10.3(15)-  cAqtuqrmAqsyAni# | AqlaBa#mAnaH | eqtABi#H |
-cAqtuqrmAqsyAnyAqlaBa#mAna AqlaBa#mAna ScAturmAqsyAni# cAturmAqsyAnyAqlaBa#mAna eqtABi# reqtABi# rAqlaBa#mAna ScAturmAqsyAni# cAturmAqsyAnyAqlaBa#mAna eqtABi#H | 
+cAqtuqrmAqsyA nyAqlaBa#mAna AqlaBa#mAna ScAturmAqsyAni# cAturmAqsyA nyAqlaBa#mAna eqtABi# reqtABi# rAqlaBa#mAna ScAturmAqsyAni# cAturmAqsyA nyAqlaBa#mAna eqtABi#H | 
 20)	1.6.10.3(15)-  cAqtuqrmAqsyAni# |
 cAqtuqrmAqsyAnIti# cAtuH - mAqsyAni# | 
 21)	1.6.10.3(16)-  AqlaBa#mAnaH | eqtABi#H | vyAhRu#tIBiH |
@@ -4199,13 +4198,13 @@ aqsyaq yaqj~jasya# yaqj~jasyA$syAsya yaqj~jasyAqSI rAqSIr yaqj~jasyA$syAsya yaqj
 62)	1.6.10.4(50)-  yaqj~jasya# | AqSIH | gaqcCaqtiq |
 yaqj~jasyAqSI rAqSIr yaqj~jasya# yaqj~jasyAqSIr ga#cCati gacCatyAqSIr yaqj~jasya# yaqj~jasyAqSIr ga#cCati | 
 1)	1.6.10.5(1)-  AqSIH | gaqcCaqtiq | yAn |
-AqSIr ga#cCati gacCatyAqSI rAqSIr ga#cCatiq yAn yAn ga#cCatyAqSI rAqSIr ga#cCatiq yAn | 
+AqSIr ga#cCati gacCatyAqSI rAqSIr ga#cCatiq yAn. yAn ga#cCatyAqSI rAqSIr ga#cCatiq yAn | 
 2)	1.6.10.5(1)-  AqSIH |
 AqSIrityA$ - SIH | 
 3)	1.6.10.5(2)-  gaqcCaqtiq | yAn | kAqmaye#ta |
-gaqcCaqtiq yAn yAn ga#cCati gacCatiq yAn kAqmaye#ta kAqmaye#taq yAn ga#cCati gacCatiq yAn kAqmaye#ta | 
+gaqcCaqtiq yAn. yAn ga#cCati gacCatiq yAn kAqmaye#ta kAqmaye#taq yAn ga#cCati gacCatiq yAn kAqmaye#ta | 
 4)	1.6.10.5(3)-  yAn | kAqmaye#ta | yaja#mAnAn |
-yAn kAqmaye#ta kAqmaye#taq yAn yAn kAqmaye#taq yaja#mAnAqn yaja#mAnAn kAqmaye#taq yAn yAn kAqmaye#taq yaja#mAnAn | 
+yAn kAqmaye#ta kAqmaye#taq yAn. yAn kAqmaye#taq yaja#mAnAqn yaja#mAnAn kAqmaye#taq yAn. yAn kAqmaye#taq yaja#mAnAn | 
 5)	1.6.10.5(4)-  kAqmaye#ta | yaja#mAnAn | saqmAva#tI |
 kAqmaye#taq yaja#mAnAqn yaja#mAnAn kAqmaye#ta kAqmaye#taq yaja#mAnAn thsaqmAva#tI saqmAva#tIq yaja#mAnAn kAqmaye#ta kAqmaye#taq yaja#mAnAn thsaqmAva#tI | 
 6)	1.6.10.5(5)-  yaja#mAnAn | saqmAva#tI | eqnAqn |
@@ -4351,19 +4350,19 @@ yaqj~jo manoq mano# yaqj~jo yaqj~jo mana# eqvaiva mano# yaqj~jo yaqj~jo mana# eq
 15)	1.6.10.6(13)-  mana#H | eqva | yaqj~jam |
 mana# eqvaiva manoq mana# eqva yaqj~jaM ~Myaqj~ja meqva manoq mana# eqva yaqj~jam | 
 16)	1.6.10.6(14)-  eqva | yaqj~jam | Aqtmann |
-eqva yaqj~jaM ~Myaqj~ja meqvaiva yaqj~ja mAqtman nAqtman yaqj~ja meqvaiva yaqj~ja mAqtmann | 
+eqva yaqj~jaM ~Myaqj~ja meqvaiva yaqj~ja mAqtman nAqtman. yaqj~ja meqvaiva yaqj~ja mAqtmann | 
 17)	1.6.10.6(15)-  yaqj~jam | Aqtmann | dhaqtteq |
-yaqj~ja mAqtman nAqtman yaqj~jaM ~Myaqj~ja mAqtman dha#tte dhatta Aqtman yaqj~jaM ~Myaqj~ja mAqtman dha#tte | 
+yaqj~ja mAqtman nAqtman. yaqj~jaM ~Myaqj~ja mAqtman dha#tte dhatta Aqtman. yaqj~jaM ~Myaqj~ja mAqtman dha#tte | 
 18)	1.6.10.6(16)-  Aqtmann | dhaqtteq | vAk |
 Aqtman dha#tte dhatta Aqtman nAqtman dha#tteq vAg vAg dha#tta Aqtman nAqtman dha#tteq vAk | 
 19)	1.6.10.6(17)-  dhaqtteq | vAk | aqsiq |
 dhaqtteq vAg vAg dha#tte dhatteq vAga#syasiq vAg dha#tte dhatteq vAga#si | 
 20)	1.6.10.6(18)-  vAk | aqsiq | aiqndrI | (GS1.6-26)
-vAga#syasiq vAg vAga#syaiqnd^^ryai$(1q)nd^^rya#siq vAg vAga#syaiqndrI | ???
+vAga#syasiq vAg vAga#syaiq nd^^ryai$(1q)nd^^rya#siq vAg vAga#syaiqndrI | ???
 21)	1.6.10.6(19)-  aqsiq | aiqndrI | saqpaqtnaqkShaya#NI | (GS1.6-26)
-aqsyaiqnd^^ryai$(1q)nd^^rya#syasyaiqndrI sa#patnaqkShaya#NI sapatnaqkShaya#Nyaiqnd^^rya#syasyaiqndrI sa#patnaqkShaya#NI |?? 
+aqsyaiq nd^^ryai$(1q)nd^^rya# syasyaiqndrI sa#patnaqkShaya#NI sapatnaqkShaya#Nyaiq nd^^rya#syasyaiqndrI sa#patnaqkShaya#NI |?? 
 22)	1.6.10.6(20)-  aiqndrI | saqpaqtnaqkShaya#NI | vAqcA | (GS1.6-26)
-aiqndrI sa#patnaqkShaya#NI sapatnaqkShaya#Nyaiqnd^^ryai$ndrI sa#patnaqkShaya#NI vAqcA vAqcA sa#patnaqkShaya#Nyaiqnd^^ryai$ndrI sa#patnaqkShaya#NI vAqcA | ??
+aiqndrI sa#patnaqkShaya#NI sapatnaqkShaya#Nyaiq nd^^ryai$ndrI sa#patnaqkShaya#NI vAqcA vAqcA sa#patnaqkShaya#Nyaiq nd^^ryai$ndrI sa#patnaqkShaya#NI vAqcA | ??
 23)	1.6.10.6(21)-  saqpaqtnaqkShaya#NI | vAqcA | mAq | (GS1.6-26)
 saqpaqtnaqkShaya#NI vAqcA vAqcA sa#patnaqkShaya#NI sapatnaqkShaya#NI vAqcA mA# mA vAqcA sa#patnaqkShaya#NI sapatnaqkShaya#NI vAqcA mA$ | 
 24)	1.6.10.6(21)-  saqpaqtnaqkShaya#NI | (GS1.6-26)
@@ -4371,17 +4370,17 @@ saqpaqtnaqkShayaqNIti# sapatna - kShaya#NI |
 25)	1.6.10.6(22)-  vAqcA | mAq | iqndriqyeNa# | (GS1.6-26)
 vAqcA mA# mA vAqcA vAqcA me$ndriqyeNe$ ndriqyeNa# mA vAqcA vAqcA me$ndriqyeNa# | 
 26)	1.6.10.6(23)-  mAq | iqndriqyeNa# | A | (GS1.6-26)
-meqndriqyeNe$ ndriqyeNa# mA mendriqyeNendriqyeNa# mA mendriqyeNA | 
+meqndriqyeNe$ ndriqyeNa# mA mendriqye NendriqyeNa# mA mendriqyeNA | 
 27)	1.6.10.6(24)-  iqndriqyeNa# | A | viqSaq | (GS1.6-26)
-iqndriqyeNendriqyeNe$ ndriqyeNA vi#Sa viqSendriqyeNe$ ndriqyeNA vi#Sa | 
+iqndriqyeNe ndriqyeNe$ ndriqyeNA vi#Sa viqSendriqyeNe$ ndriqyeNA vi#Sa | 
 28)	1.6.10.6(25)-  A | viqSaq | iti# | (GS1.6-26)
 A vi#Sa viqSA viqSe tIti# viqSA viqSe ti# | 
 29)	1.6.10.6(26)-  viqSaq | iti# | Aqhaq | (GS1.6-26)
 viqSe tIti# viSa viqSe tyA#hAqhe ti# viSa viqSe tyA#ha | 
 30)	1.6.10.6(27)-  iti# | Aqhaq | aiqndrI | (GS1.6-26)
-ityA#hAqhe tItyA#haiqnd^^ryai$(1q)nd^^ryA#he tItyA#haiqndrI | ?? 
+ityA#hAqhe tItyA# haiqnd^^ryai$(1q)nd^^ryA#he tItyA#haiqndrI | ?? 
 31)	1.6.10.6(28)-  Aqhaq | aiqndrI | vai | (GS1.6-26)
-Aqhaiqnd^^ryai$(1q)nd^^ryA#hAhaiqndrI vai vA aiqnd^^ryA#hAhaiqndrI vai | ?? 
+Aqhaiqnd^^ryai$(1q)nd^^ryA#hA haiqndrI vai vA aiqnd^^ryA# hAhaiqndrI vai | ?? 
 32)	1.6.10.6(29)-  aiqndrI | vai | vAk | (GS1.6-26)
 aiqndrI vai vA aiqnd^^ryai$ndrI vai vAg vAg vA aiqnd^^ryai$ndrI vai vAk | ??
 33)	1.6.10.6(30)-  vai | vAk | vAca$m | (GS1.6-26)
@@ -4477,7 +4476,7 @@ vaqShaqTkAqra eqSha eqSha va#ShaTkAqro va#ShaTkAqra eqSha vai vA eqSha va#ShaTkA
 39)	1.6.11.1(30)-  vaqShaqTkAqraH |
 vaqShaqTkAqra iti# vaShaT - kAqraH | 
 40)	1.6.11.1(31)-  eqShaH | vai | saqptaqdaqSaH |
-eqSho vai vA eqSha eqSha vai sa#ptadaqSaH sa#ptadaqSo vA eqSha eqSha vai sa#ptadaqSaH | 
+eqSha vai vA eqSha eqSha vai sa#ptadaqSaH sa#ptadaqSo vA eqSha eqSha vai sa#ptadaqSaH | 
 41)	1.6.11.1(32)-  vai | saqptaqdaqSaH | praqjApa#tiH |
 vai sa#ptadaqSaH sa#ptadaqSo vai vai sa#ptadaqSaH praqjApa#tiH praqjApa#tiH saptadaqSo vai vai sa#ptadaqSaH praqjApa#tiH | 
 42)	1.6.11.1(33)-  saqptaqdaqSaH | praqjApa#tiH | yaqj~jam |
@@ -4514,13 +4513,14 @@ yaqj~jAd Bra(gm#)Sate Bra(gm)Sate yaqj~jAd yaqj~jAd Bra(gm#)Sateq yo yo Bra(gm#)
 Braq(gmq)Saqteq yo yo Bra(gm#)Sate Bra(gm)Sateq yo vai vai yo Bra(gm#)Sate Bra(gm)Sateq yo vai | 
 58)	1.6.11.1(46)-  yaH | vai | yaqj~jasya# |
 yo vai vai yo yo vai yaqj~jasya# yaqj~jasyaq vai yo yo vai yaqj~jasya# | 
-59)	1.6.11.1(47)-  vai | yaqj~jasya# | prAya#Naqm |
-vai yaqj~jasya# yaqj~jasyaq vai vai yaqj~jasyaq prAya#Naqm prAya#NaqM ~Myaqj~jasyaq vai vai yaqj~jasyaq prAya#Naqm | 
-60)	1.6.11.1(48)-  yaqj~jasya# | prAya#Naqm | praqtiqShThAm |
-yaqj~jasyaq prAya#Naqm prAya#NaqM ~Myaqj~jasya# yaqj~jasyaq prAya#Naqm pratiqShThAm pra#tiqShThAm prAya#NaqM ~Myaqj~jasya# yaqj~jasyaq prAya#Naqm pratiqShThAm | 
-61)	1.6.11.1(49)-  prAya#Naqm | praqtiqShThAm | uqdaya#nam |
+59)	1.6.11.1(47)-  vai | yaqj~jasya# | prAya#Nam |
+vai yaqj~jasya# yaqj~jasyaq vai vai yaqj~jasyaq prAya#Naqm prAya#NaM ~Myaqj~jasyaq vai vai yaqj~jasyaq prAya#Nam | 
+60)	1.6.11.1(48)-  yaqj~jasya# | prAya#Nam | praqtiqShThAm |
+yaqj~jasyaq prAya#Naqm prAya#NaM ~Myaqj~jasya# yaqj~jasyaq prAya#Naqm pratiqShThAm pra#tiqShThAm 
+prAya#NaM ~Myaqj~jasya# yaqj~jasyaq prAya#Naqm pratiqShThAm | 
+61)	1.6.11.1(49)-  prAya#Nam | praqtiqShThAm | uqdaya#nam |
 prAya#Naqm pratiqShThAm pra#tiqShThAm prAya#Naqm prAya#Naqm pratiqShThA muqdaya#na muqdaya#nam pratiqShThAm prAya#Naqm prAya#Naqm pratiqShThA muqdaya#nam | 
-62)	1.6.11.1(49)-  prAya#Naqm |
+62)	1.6.11.1(49)-  prAya#Nam |
 prAya#Naqmiti# pra - aya#nam | 
 63)	1.6.11.1(50)-  praqtiqShThAm | uqdaya#nam | veda# |
 praqtiqShThA muqdaya#na muqdaya#nam pratiqShThAm pra#tiqShThA muqdaya#naqM ~Mvedaq vedoqdaya#nam pratiqShThAm pra#tiqShThA muqdaya#naqM ~Mveda# | 
@@ -4672,6 +4672,7 @@ upA#sa dadasadaq dupopA#sadad vaShaTkAqreNa# vaShaTkAqre NA#sadaq dupopA#sadad v
 aqsaqdaqd vaqShaqTkAqreNa# vaShaTkAqre NA#sadadasadad vaShaTkAqreNa# dogdhi dogdhi vaShaTkAqre NA#sadadasadad vaShaTkAqreNa# dogdhi | 
 14)	1.6.11.3(13)-  vaqShaqTkAqreNa# | doqgdhiq | eqShaH | (GS1.6-28)
 vaqShaqTkAqreNa# dogdhi dogdhi vaShaTkAqreNa# vaShaTkAqreNa# dogdhyeqSha eqSha do$gdhi vaShaTkAqreNa# vaShaTkAqreNa# dogdhyeqShaH | 
+xxxxxxxxxx 3.30
 15)	1.6.11.3(13)-  vaqShaqTkAqreNa# | (GS1.6-28)
 vaqShaqTkAqreNeti# vaShaT - kAqreNa# | 
 16)	1.6.11.3(14)-  doqgdhiq | eqShaH | vai |
