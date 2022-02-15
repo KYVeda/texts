@@ -1688,7 +1688,7 @@ dakShi#NA &&Sviqna mA$Sviqnam dakShi#NAq dakShi#NA &&Sviqnam dvi#kapAqlam dvi#ka
 6)	1.8.9.2(5)-  AqSviqnam | dviqkaqpAqlam | saq~ggraqhIqtuH |
 AqSviqnam dvi#kapAqlam dvi#kapAqla mA$Sviqna mA$Sviqnam dvi#kapAqla(gm) sa#~ggrahIqtuH sa#~ggrahIqtur dvi#kapAqla mA$Sviqna mA$Sviqnam dvi#kapAqla(gm) sa#~ggrahIqtuH | 
 7)	1.8.9.2(6)-  dviqkaqpAqlam | saq~ggraqhIqtuH | gRuqhe |
-dviqkaqpAqla(gm) sa~g#grahIqtuH sa#~ggrahIqtur dvi#kapAqlam dvi#kapAqla(gm) sa#~ggrahIqtur gRuqhe gRuqhe sa#~ggrahIqtur dvi#kapAqlam dvi#kapAqla(gm) sa#~ggrahIqtur gRuqhe | 
+dviqkaqpAqla(gm) sa#~ggrahIqtuH sa#~ggrahIqtur dvi#kapAqlam dvi#kapAqla(gm) sa#~ggrahIqtur gRuqhe gRuqhe sa#~ggrahIqtur dvi#kapAqlam dvi#kapAqla(gm) sa#~ggrahIqtur gRuqhe | 
 8)	1.8.9.2(6)-  dviqkaqpAqlam |
 dviqkaqpAqlamiti# dvi - kaqpAqlam | 
 9)	1.8.9.2(7)-  saq~ggraqhIqtuH | gRuqhe | saqvAqtyau$ |
@@ -3243,7 +3243,6 @@ syAqmaq pata#yaqH pata#yaH syAma syAmaq pata#yo rayIqNA(gm) ra#yIqNAm pata#yaH s
 pata#yo rayIqNA(gm) ra#yIqNAm pata#yaqH pata#yo rayIqNAm | 
 69)	1.8.14.2(61)-  raqyIqNAm ||
 raqyIqNAmiti# rayIqNAm | 
-xxxxxxxxxxxxx 2.29 hrs
 1)	1.8.15.1(1)-  indra#sya | vajra#H | aqsiq |
 indra#syaq vajroq vajraq indraqsye ndra#syaq vajro$ &syasiq vajraq indraqsye ndra#syaq vajro# &si | 
 2)	1.8.15.1(2)-  vajra#H | aqsiq | vArtra#GnaH |
@@ -3389,7 +3388,7 @@ meq dheqhiq dheqhiq meq meq dheqhiq yu~g yu~g dhe#hi me me dhehiq yu~g~g |
 16)	1.8.15.2(16)-  dheqhiq | yu~g~g | aqsiq | (GS1.8-24)
 dheqhiq yu~g yu~g dhe#hi dhehiq yu~g ~ga#syasiq yu~g dhe#hi dhehiq yu~g ~ga#si | 
 17)	1.8.15.2(17)-  yu~g~g | aqsiq | varca#H | (GS1.8-24)
-yu~g ~ga#syasiq yu~g? yu~g ~ga#siq varcoq varco# &siq yu~g yu~g ~ga#siq varca#H | 
+yu~g ~ga#syasiq yu~g yu~g ~ga#siq varcoq varco# &siq yu~g yu~g ~ga#siq varca#H | 
 18)	1.8.15.2(18)-  aqsiq | varca#H | aqsiq | (GS1.8-24)
 aqsiq varcoq varco$ &syasiq varco$ &syasiq varco$ &syasiq varco# &si | 
 19)	1.8.15.2(19)-  varca#H | aqsiq | varca#H | (GS1.8-24)
@@ -3627,13 +3626,14 @@ rAqjaqn braqhmA braqhmA rA#jan rAjan braqhmA &sya#si braqhmA rA#jan rAjan braqhm
 braqhmA &sya#si braqhmA braqhmA &siq varu#Noq varu#No &si braqhmA braqhmA &siq varu#NaH | 
 14)	1.8.16.2(13)-  aqsiq | varu#NaH | aqsiq |
 aqsiq varu#Noq varu#No &syasiq varu#No &syasiq varu#No &syasiq varu#No &si | 
-15)	1.8.16.2(14)-  varu#NaH | aqsiq | saqtyadhaqrmAq |
-varu#No &syasiq varu#Noq varu#No &si saqtyadha#rmAq saqtyadha#rmAq &siq varu#Noq varu#No &si saqtyadha#rmAq | 
-16)	1.8.16.2(15)-  aqsiq | saqtyadhaqrmAq | indra#sya |
-aqsiq saqtyadha#rmAq saqtyadha#rmAq &syasi saqtyadhaqrmen draqsye ndra#sya saqtyadha#rmAq &syasi saqtyadhaqrme ndra#sya | 
-17)	1.8.16.2(16)-  saqtyadhaqrmAq | indra#sya | vajra#H |
-saqtyadhaqrme ndraqsye ndra#sya saqtyadha#rmAq saqtyadhaqrme ndra#syaq vajroq vajraq indra#sya saqtyadha#rmAq saqtyadhaqrme ndra#syaq vajra#H | 
-18)	1.8.16.2(16)-  saqtyadhaqrmAq |
+15)	1.8.16.2(14)-  varu#NaH | aqsiq | saqtyadha#rmA |
+varu#No &syasiq varu#Noq varu#No &si saqtyadha#rmA saqtyadha#rmA &siq varu#Noq varu#No &si saqtyadha#rmA | 
+16)	1.8.16.2(15)-  aqsiq | saqtyadha#rmA | indra#sya |
+aqsiq saqtyadha#rmA saqtyadha#rmA &syasi saqtyadhaqrme ndraqsye ndra#sya saqtyadha#rmA &syasi saqtyadhaqrme ndra#sya | 
+17)	1.8.16.2(16)-  saqtyadha#rmA | indra#sya | vajra#H |
+saqtyadhaqrme ndraqsye ndra#sya saqtyadha#rmA saqtyadhaqrme ndra#syaq vajroq vajraq indra#sya saqtyadha#rmA 
+saqtyadhaqrme ndra#syaq vajra#H | 
+18)	1.8.16.2(16)-  saqtyadha#rmA |
 saqtyadhaqrmeti# saqtya - dhaqrmAq | 
 19)	1.8.16.2(17)-  indra#sya | vajra#H | aqsiq |
 indra#syaq vajroq vajraq indraqsye ndra#syaq vajro$ &syasiq vajraq indraqsye ndra#syaq vajro# &si | 
@@ -3660,13 +3660,14 @@ aqya(gm) rAjAq rAjAq &ya maqya(gm) rAjA# &BUdaBUqd rAjAq &ya maqya(gm) rAjA# &BU
 30)	1.8.16.2(27)-  rAjA$ | aqBUqt | suSloqkA~M(4) | (GS1.8-28)
 rAjA# &BUdaBUqd rAjAq rAjA# &BUqth suSloqkA~M(4) suSloqkA~M(4) a#BUqd rAjAq rAjA# &BUqth suSloqkA~M(4) | 
 31)	1.8.16.2(28)-  aqBUqt | suSloqkA~M(4) | suma#~ggaqlA~M(4) | (GS1.8-28)
-aqBUqth suSloqkA~M(4) suSloqkA~M(4) a#BU daBUqth suSloqkA~M(4) suma~g#gaqlA~M(4) suma~g#gaqlA~M(4) suSloqkA~M(4) a#BU daBUqth suSloqkA~M(4) suma~g#gaqlA~M(4) | 
+aqBUqth suSloqkA~M(4) suSloqkA~M(4) a#BU daBUqth suSloqkA~M(4) suma#~ggaqlA~M(4) suma#~ggaqlA~M(4) suSloqkA~M(4) 
+a#BU daBUqth suSloqkA~M(4) suma#~ggaqlA~M(4) | 
 32)	1.8.16.2(29)-  suSloqkA~M(4) | suma#~ggaqlA~M(4) | satya#rAqjA(3)n || (GS1.8-28)
-suSloqkA~M(4) suma~g#gaqlA~M(4) suma~g#gaqlA~M(4) suSloqkA~M(4) suSloqkA~M(4) suma~g#gaqlA~M(4) satya#rAqjA(3)n thsatya#rAqjA(3)n thsuma~g#gaqlA~M(4) suSloqkA~M(4) suSloqkA~M(4) suma~g#gaqlA~M(4) satya#rAqjA(3)n | 
+suSloqkA~M(4) suma#~ggaqlA~M(4) suma#~ggaqlA~M(4) suSloqkA~M(4) suSloqkA~M(4) suma#~ggaqlA~M(4) satya#rAqjA(3)n thsatya#rAqjA(3)n thsuma#~ggaqlA~M(4) suSloqkA~M(4) suSloqkA~M(4) suma#~ggaqlA~M(4) satya#rAqjA(3)n | 
 33)	1.8.16.2(29)-  suSloqkA~M(4) | (GS1.8-28)
 suSloqkA~M(4) itiq su - SloqkA~M(4) | 
 34)	1.8.16.2(30)-  suma#~ggaqlA~M(4) | satya#rAqjA(3)n || (GS1.8-28)
-suma~g#gaqlA~M(4) satya#rAqjA(3)n thsatya#rAqjA(3)n thsuma~g#gaqlA~M(4) suma~g#gaqlA~M(4) satya#rAqjA(3)n | 
+suma#~ggaqlA~M(4) satya#rAqjA(3)n thsatya#rAqjA(3)n thsuma#~ggaqlA~M(4) suma#~ggaqlA~M(4) satya#rAqjA(3)n | 
 35)	1.8.16.2(30)-  suma#~ggaqlA~M(4) | (GS1.8-28)
 suma#~ggaqlA~M(4) itiq su - maq~ggaqlA~M(4) | 
 36)	1.8.16.2(31)-  satya#rAqjA(3)n || (GS1.8-28)
@@ -3876,11 +3877,11 @@ maiqtrAqvaqruqNAyeti# maitrA - vaqruqNAya# |
 41)	1.8.18.1(35)-  RuqShaqBam | brAqhmaqNAqcCaq(gm)qsine$ | vAsa#sI |
 RuqShaqBam brA$hmaNAcCaq(gm)qsine$ brAhmaNAcCaq(gm)qsina# RuShaqBa mRu#ShaqBam brA$hmaNAcCaq(gm)qsineq vAsa#sIq vAsa#sI brAhmaNAcCaq(gm)qsina# RuShaqBa mRu#ShaqBam brA$hmaNAcCaq(gm)qsineq vAsa#sI | 
 42)	1.8.18.1(36)-  brAqhmaqNAqcCaq(gm)qsine$ | vAsa#sI | neqShTAqpoqtRuByA$m |
-brAqhmaqNAqcCaq(gm)qsineq vAsa#sIq vAsa#sI brAhmaNAcCaq(gm)qsine$ brAhmaNAcCaq(gm)qsineq vAsa#sI neShTApoqtRuByA$nneShTApoqtRuByAqM ~MvAsa#sI brAhmaNAcCaq(gm)qsine$ brAhmaNAcCaq(gm)qsineq vAsa#sI neShTApoqtRuByA$m | 
+brAqhmaqNAqcCaq(gm)qsineq vAsa#sIq vAsa#sI brAhmaNAcCaq(gm)qsine$ brAhmaNAcCaq(gm)qsineq vAsa#sI neShTApoqtRuByA$n neShTApoqtRuByAqM ~MvAsa#sI brAhmaNAcCaq(gm)qsine$ brAhmaNAcCaq(gm)qsineq vAsa#sI neShTApoqtRuByA$m | 
 43)	1.8.18.1(37)-  vAsa#sI | neqShTAqpoqtRuByA$m | sthUri# |
 vAsa#sI neShTApoqtRuByA$n neShTApoqtRuByAqM ~MvAsa#sIq vAsa#sI neShTApoqtRuByAq(gg)q sthUriq sthUri# neShTApoqtRuByAqM ~MvAsa#sIq vAsa#sI neShTApoqtRuByAq(gg)q sthUri# | 
 44)	1.8.18.1(37)-  vAsa#sI |
-vAsa#sIq iti# vAsa#sI | 
+vAsa#sIq itiq vAsa#sI | 
 45)	1.8.18.1(38)-  neqShTAqpoqtRuByA$m | sthUri# | yaqvAqciqtam |
 neqShTAqpoqtRuByAq(gg)q sthUriq sthUri# neShTApoqtRuByA$n neShTApoqtRuByAq(gg)q sthUri# yavAciqtaM ~Mya#vAciqta(gg) sthUri# neShTApoqtRuByA$n neShTApoqtRuByAq(gg)q sthUri# yavAciqtam | 
 46)	1.8.18.1(38)-  neqShTAqpoqtRuByA$m |
@@ -4033,7 +4034,7 @@ saqtyapra#savAqyeti# saqtya - praqsaqvAqyaq |
 52)	1.8.19.1(43)-  puqroqDASa$m | dvAda#SakapAlam | tiqsRuqdhaqnvam |
 puqroqDASaqm dvAda#SakapAlaqm dvAda#SakapAlam puroqDASa#m puroqDASaqm dvAda#SakapAlam tisRudhaqnvam ti#sRudhaqnvam dvAda#SakapAlam puroqDASa#m puroqDASaqm dvAda#SakapAlam tisRudhaqnvam | 
 53)	1.8.19.1(44)-  dvAda#SakapAlam | tiqsRuqdhaqnvam | SuqShkaqdRuqtiH |
-dvAda#SakapAlam tisRudhaqnvam ti#sRudhaqnvam dvAda#SakapAlaqm dvAda#SakapAlam tisRudhaqnva(gm) Su#ShkadRuqtiH Su#ShkadRuqtisti#sRudhaqnvam dvAda#SakapAlaqm dvAda#SakapAlam tisRudhaqnva(gm) Su#ShkadRuqtiH | 
+dvAda#SakapAlam tisRudhaqnvam ti#sRudhaqnvam dvAda#SakapAlaqm dvAda#SakapAlam tisRudhaqnva(gm) Su#ShkadRuqtiH Su#ShkadRuqti sti#sRudhaqnvam dvAda#SakapAlaqm dvAda#SakapAlam tisRudhaqnva(gm) Su#ShkadRuqtiH | 
 54)	1.8.19.1(44)-  dvAda#SakapAlam |
 dvAda#SakapAlaqmitiq dvAda#Sa - kaqpAqlaqm | 
 55)	1.8.19.1(45)-  tiqsRuqdhaqnvam | SuqShkaqdRuqtiH | dakShi#NA ||
@@ -4244,7 +4245,7 @@ kRuqNuqtaq Boja#nAniq Boja#nAni kRuNuta kRuNutaq Boja#nAniq ye ye Boja#nAni kRuN
 56)	1.8.21.1(50)-  Boja#nAni | ye | baqrq.hiSha#H | (GS1.8-30)
 Boja#nAniq ye ye Boja#nAniq Boja#nAniq ye baqrq.hiSho# baqrq.hiShoq ye Boja#nAniq Boja#nAniq ye baqrq.hiSha#H | 
 57)	1.8.21.1(51)-  ye | baqrq.hiSha#H | namo#vRuktim |
-ye baqrq.hiSho# baqrq.hiShoq ye ye baqrq.hiShoq namo#vRuktiqnnamo#vRuktim baqrq.hiShoq ye ye baqrq.hiShoq namo#vRuktim | 
+ye baqrq.hiSho# baqrq.hiShoq ye ye baqrq.hiShoq namo#vRuktiqn namo#vRuktim baqrq.hiShoq ye ye baqrq.hiShoq namo#vRuktim | 
 58)	1.8.21.1(52)-  baqrq.hiSha#H | namo#vRuktim | na |
 baqrq.hiShoq namo#vRuktiqn namo#vRuktim baqrq.hiSho# baqrq.hiShoq namo#vRuktiqnna na namo#vRuktim baqrq.hiSho# baqrq.hiShoq namo#vRuktiqnna | 
 59)	1.8.21.1(53)-  namo#vRuktim | na | jaqgmuH ||
@@ -4502,11 +4503,11 @@ raqyIqNAmiti# rayIqNAm |
 42)	1.8.22.2(39)-  bRuha#spate | ati# | yat | (GS1.8-33)
 bRuha#spateq atyatiq bRuha#spateq bRuha#spateq atiq yad yadatiq bRuha#spateq bRuha#spateq atiq yat | 
 43)	1.8.22.2(40)-  ati# | yat | aqryaH | (GS1.8-33)
-atiq yad yadatyatiq yadaqryo$ &ryo yadatyatiq yadaqryaH | 
+atiq yad yadatyatiq yadaqryo aqryo yadatyatiq yadaqryaH | 
 44)	1.8.22.2(41)-  yat | aqryaH | ar.hA$t | (GS1.8-33)
-yadaqryo$ &ryo yad yadaqryo ar.hAq dar.hA# daqryo yad yadaqryo ar.hA$t | 
+yadaqryo aqryo yad yadaqryo ar.hAq dar.hA# daqryo yad yadaqryo ar.hA$t | 
 45)	1.8.22.2(42)-  aqryaH | ar.hA$t | dyuqmat | (GS1.8-33)
-aqryo ar.hAq dar.hA# daqryo$ &ryo ar.hA$d dyuqmad dyuqma dar.hA# daqryo$ &ryo ar.hA$d dyuqmat | 
+aqryo ar.hAq dar.hA# daqryo aqryo ar.hA$d dyuqmad dyuqma dar.hA# daqryo aqryo ar.hA$d dyuqmat | 
 46)	1.8.22.2(43)-  ar.hA$t | dyuqmat | viqBAti# | (GS1.8-33)
 ar.hA$d dyuqmad dyuqma dar.hAq dar.hA$d dyuqmad viqBAti# viqBAti# dyuqma dar.hAq dar.hA$d dyuqmad viqBAti# | 
 47)	1.8.22.2(44)-  dyuqmat | viqBAti# | kratu#mat |
