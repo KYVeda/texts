@@ -291,7 +291,7 @@ mo ShU No# naqH su mo mo ShU Na#H |
 21)	1.8.3.1(15)-  mo | (GS1.8-2)
 mo itiq mo | 
 22)	1.8.3.1(16)-  su | naqH | (GS1.8-2)
-su No# naqH su su Na#H | 
+sU No# naqH su sU Na#H | 
 23)	1.8.3.1(17)-  naqH | iqndraq | (GS1.8-2)
 naq iqndreq ndraq noq naq iqndraq | 
 24)	1.8.3.1(18)-  iqndraq | pRuqthsu | (GS1.8-2)
@@ -351,9 +351,9 @@ yacCUqdre SUqdre yad yacCUqdre |
 51)	1.8.3.1(44)-  SUqdre | yat | (GS1.8-3)
 SUqdre yad yacCUqdre SUqdre yat | 
 52)	1.8.3.1(45)-  yat | aqrye$ | (GS1.8-3)
-yadaqrye$(1q)&rye# yad yadaqrye$ | 
+yadaqrye$(1q) &rye# yad yadaqrye$ | 
 53)	1.8.3.1(46)-  aqrye$ | ena#H | (GS1.8-3)
-aqrya# enaq enoq &rye$(1q)&rya# ena#H | 
+aqrya# enaq enoq &rye$(1q) &rya# ena#H | 
 54)	1.8.3.1(47)-  ena#H | caqkRuqma | (GS1.8-3)
 ena#ScakRuqma ca#kRuqmainaq ena#ScakRuqma | 
 55)	1.8.3.1(48)-  caqkRuqma | vaqyam || (GS1.8-3)
@@ -713,7 +713,7 @@ pUqrNava#ndhuraq iti# pUqrNa - vaqndhuqraqH |
 54)	1.8.5.1(42)-  stuqtaH | yAqsiq |
 stuqto yA#si yAsi stuqtaH stuqto yA#si | 
 55)	1.8.5.1(43)-  yAqsiq | vaSAn# |
-yAqsiq vaSAqnq. vaSAn#. yAsi yAsiq vaSAn# | 
+yAqsiq vaSAqnq. vaSA$n yAsi yAsiq vaSAn# | 
 56)	1.8.5.1(44)-  vaSAn# | anu# ||
 vaSAq(gm)q anvanuq vaSAqnq. vaSAq(gm)q anu# | 
 57)	1.8.5.1(45)-  anu# ||
@@ -1051,7 +1051,7 @@ suqgamiti# su - gam |
 5)	1.8.6.2(4)-  meqShAya# | meqShyai$ | (GS1.8-11)
 meqShAya# meqShyai# meqShyai# meqShAya# meqShAya# meqShyai$ | 
 6)	1.8.6.2(5)-  meqShyai$ | ava# | (GS1.8-11)
-meqShyA# avAva# meqShyai# meqShyAq ava# | 
+meqShyA# avAva# meqShyai# meqShyA# ava# | 
 7)	1.8.6.2(6)-  ava# | aqMbaq | (GS1.8-11)
 avA$MbAqMbAvAvA$Mba | 
 8)	1.8.6.2(7)-  aqMbaq | ruqdram | (GS1.8-11)
@@ -1937,7 +1937,7 @@ caqrum bRuhaqspata#yeq bRuhaqspata#ye caqrum caqrum bRuhaqspata#ye |
 28)	1.8.10.1(23)-  bRuhaqspata#ye | vAqcaH |
 bRuhaqspata#ye vAqco vAqco bRuhaqspata#yeq bRuhaqspata#ye vAqcaH | 
 29)	1.8.10.1(24)-  vAqcaH | pata#ye |
-vAqcas pata#yeq pata#ye vAqco vAqcas pata#ye | 
+vAqcs pata#yeq pata#ye vAqco vAqcs pata#ye | 
 30)	1.8.10.1(25)-  pata#ye | naiqvAqram |
 pata#ye naivAqrannai#vAqram pata#yeq pata#ye naivAqram | 
 31)	1.8.10.1(26)-  naiqvAqram | caqrum |
@@ -2138,9 +2138,9 @@ uq triqtastriqta u# vu triqtaH |
 triqto ja#riqmANa#m jariqmANa#m triqtastriqto ja#riqmANa$m | 
 68)	1.8.10.2(64)-  jaqriqmANa$m | naqH | (GS1.8-17)
 jaqriqmANa#nno no jariqmANa#m jariqmANa#nnaH | 
-69)	1.8.10.2(65)-  naqH | AqnaqT | (GS1.8-17)
+69)	1.8.10.2(65)-  naqH | AqnaqT | (JM-53,GS1.8-17)
 naq AqnaqDAqnaqN Noq naq AqnaqT | 
-70)	1.8.10.2(66)-  AqnaqT | viShNo$H | (GS1.8-17)
+70)	1.8.10.2(66)-  AqnaqT | viShNo$H | (JM-53,GS1.8-17)
 AqnaqD viShNoqr viShNo#rAnaDAnaqD viShNo$H | 
 71)	1.8.10.2(67)-  viShNo$H | krama#H |
 viShNoqH kramaqH kramoq viShNoqr viShNoqH krama#H | 
@@ -2273,7 +2273,7 @@ miqtrAvaru#NA vaqByaShi#~jcan-naqByaShi#~jcan miqtrAvaru#Nau miqtrAvaru#NA vaqBy
 55)	1.8.11.1(45)-  miqtrAvaru#Nau |
 miqtrAvaru#NAqviti# miqtrA - varu#Nau | 
 56)	1.8.11.1(46)-  aqByaShi#~jcann | yABi#H |
-aqByaShi#~jcaqnq. yABiqr yABi#raqByaShi#~jcan-naqByaShi#~jcaqnq. yABi#H | 
+aqByaShi#~jcaqn yABiqr yABi#raqByaShi#~jcan-naqByaShi#~jcaqn yABi#H | 
 57)	1.8.11.1(46)-  aqByaShi#~jcann |
 aqByaShi#~jcaqnnitya#Bi - asi#~jcann | 
 58)	1.8.11.1(47)-  yABi#H | indra$m |
@@ -2821,17 +2821,17 @@ deqvatAq varcoq varco# deqvatA# deqvatAq varca#H |
 29)	1.8.13.2(24)-  varca#H | dravi#Nam |
 varcoq dravi#Naqm dravi#NaqM ~Mvarcoq varcoq dravi#Nam | 
 30)	1.8.13.2(25)-  dravi#Nam | IqdRu~g~g |
-dravi#Na-mIqdRu~g ~gIqdRu~g dravi#Naqm dravi#Na-mIqdRu~g~g | 
+dravi#Na-mIqdRu~g~g IqdRu~g dravi#Naqm dravi#Na-mIqdRu~g~g | 
 31)	1.8.13.2(26)-  IqdRu~g~g | caq | (GS1.8-22)
-IqdRu~g ca# ceqdRu~g ~gIqdRu~g ca# | 
+IqdRu~g ca# ceqdRu~g~g IqdRu~g ca# | 
 32)	1.8.13.2(27)-  caq | aqnyAqdRu~g~g | (GS1.8-22)
-cAqnyAqdRu~g ~ga#nyAqdRu~g ca# cAnyAqdRu~g | 
+cAqnyAqdRu~g~ga#nyAqdRu~g ca# cAnyAqdRu~g~g | 
 33)	1.8.13.2(28)-  aqnyAqdRu~g~g | caq | (GS1.8-22)
-aqnyAqdRu~g ca# cAnyAqdRu~g ~ga#nyAqdRu~g ca# | 
+aqnyAqdRu~g ca# cAnyAqdRu~g~ga#nyAqdRu~g ca# | 
 34)	1.8.13.2(29)-  caq | eqtAqdRu~g~g | (GS1.8-22)
-caiqtAqdRu~g ~ge#tAqdRu~g ca# caitAqdRu~g~g | 
+caiqtAqdRu~g~g e#tAqdRu~g ca# caitAqdRu~g~g | 
 35)	1.8.13.2(30)-  eqtAqdRu~g~g | caq | (GS1.8-22)
-eqtAqdRu~g ca# caitAqdRu~g ~ge#tAqdRu~g ca# | 
+eqtAqdRu~g ca# caitAqdRu~g~g e#tAqdRu~g ca# | 
 36)	1.8.13.2(31)-  caq | praqtiqdRu~g~g | (GS1.8-22)
 caq praqtiqdRu~g pra#tiqdRu~g ca# ca pratiqdRu~g~g | 
 37)	1.8.13.2(32)-  praqtiqdRu~g~g | caq |
@@ -3131,7 +3131,7 @@ aqsyatyatya#syaqsyati# |
 15)	1.8.14.2(13)-  ati# | diqvaH | (GS1.8-23)
 ati# diqvo diqvo &tyati# diqvaH | 
 16)	1.8.14.2(14)-  diqvaH | pAqhiq | (GS1.8-23)
-diqvas pA#hi pAhi diqvo diqvas pA#hi | 
+diqvs pAqhiq pAqhiq diqvo diqvs pAhi | 
 17)	1.8.14.2(15)-  pAqhiq | saqmAva#vRutrann | (GS1.8-23)
 pAqhiq saqmAva#vRutran thsaqmAva#vRutran pAhi pAhi saqmAva#vRutrann | 
 18)	1.8.14.2(16)-  saqmAva#vRutrann | aqdhaqrAk |
@@ -3383,7 +3383,7 @@ meq dheqhiq dheqhiq meq meq dheqhiq |
 16)	1.8.15.2(16)-  dheqhiq | yu~g~g | (GS1.8-24)
 dheqhiq yu~g yu~g dhe#hi dhehiq yu~g~g | 
 17)	1.8.15.2(17)-  yu~g~g | aqsiq | (GS1.8-24)
-yu~g ~ga#syasiq yu~g yu~g ~ga#si | 
+yu~g~ga#syasiq yu~g yu~g~ga#si | 
 18)	1.8.15.2(18)-  aqsiq | varca#H | (GS1.8-24)
 aqsiq varcoq varco$ &syasiq varca#H | 
 19)	1.8.15.2(19)-  varca#H | aqsiq | (GS1.8-24)
@@ -3478,7 +3478,7 @@ aqdriqjA RuqtaM Ruqta-ma#driqjA a#driqjA RuqtaM |
 aqdriqjA itya#dri - jAH | 
 64)	1.8.15.2(52)-  RuqtaM | bRuqhat || (GS1.8-25)
 RuqtaM bRuqhad bRuqhadRuqtaM RuqtaM bRuqhat | 
-65)	1.8.15.2(53)-  bRuqhat ||
+65)	1.8.15.2(53)-  bRuqhat || (GS1.8-25)
 bRuqhaditi# bRuqhat | 
 1)	1.8.16.1(1)-  miqtraH | aqsiq |
 miqtro$ &syasi miqtro miqtro# &si | 
@@ -4191,7 +4191,7 @@ pUqtaH paqvitre#Na paqvitre#Na pUqtaH pUqtaH paqvitre#Na |
 34)	1.8.21.1(31)-  paqvitre#Na | praqtya~g~g |
 paqvitre#Na praqtya~g praqtya~g paqvitre#Na paqvitre#Na praqtya~g~g | 
 35)	1.8.21.1(32)-  praqtya~g~g | soma#H | (GS1.8-29)
-praqtya~gKsomaqH soma#H praqtya~g praqtya~gKsoma#H | 
+praqtya~g~gKsomaqH soma#H praqtya~g praqtya~g~gKsoma#H | 
 36)	1.8.21.1(33)-  soma#H | ati#drutaH || (GS1.8-29)
 somoq ati#drutoq ati#drutaqH somaqH somoq ati#drutaH | 
 37)	1.8.21.1(34)-  ati#drutaH || (PS-11.17,GS1.8-29)
@@ -4902,7 +4902,7 @@ Summary stats:
 1.8.1.1 :	 11 	 0 	 0 	 0 	 0 	 0 	 50 	 61
 1.8.1.2 :	 7 	 0 	 0 	 0 	 1 	 0 	 34 	 41
 1.8.2.1 :	 6 	 1 	 0 	 0 	 1 	 0 	 18 	 23
-1.8.3.1 :	 11 	 3 	 1 	 0 	 9 	 0 	 70 	 79
+1.8.3.1 :	 11 	 3 	 1 	 0 	 9 	 1 	 70 	 79
 1.8.4.1 :	 10 	 0 	 1 	 1 	 3 	 1 	 50 	 60
 1.8.4.2 :	 10 	 1 	 0 	 0 	 2 	 0 	 30 	 39
 1.8.5.1 :	 12 	 0 	 1 	 1 	 3 	 0 	 50 	 62
@@ -4941,4 +4941,4 @@ Summary stats:
 1.8.22.3 :	 6 	 1 	 1 	 1 	 7 	 1 	 50 	 55
 1.8.22.4 :	 4 	 1 	 1 	 1 	 6 	 0 	 50 	 53
 1.8.22.5 :	 6 	 1 	 1 	 0 	 9 	 0 	 75 	 81
-42 :		 367 	 22 	 16 	 5 	 108 	 4 	 2094 	 2450
+42 :		 367 	 22 	 16 	 5 	 108 	 5 	 2094 	 2450
