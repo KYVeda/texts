@@ -4690,10 +4690,10 @@ Siro$ &cCinadacCinaqcCiraqH Siro$ &cCinat |
 aqcCiqnaqt tasyaiq tasyA# acCinadacCinaqt tasyai$ | 
 7)	2.1.7.1(6)-  tasyai$ | rasa#H |
 tasyaiq rasoq rasaqstasyaiq tasyaiq rasa#H | 
-8)	2.1.7.1(7)-  rasa#H | para# |
-rasaqH paraq paraq rasoq rasaqH para# | 
-9)	2.1.7.1(8)-  para# | aqpaqtaqt |
-parA#patadapataqt paraq parA#patat | 
+8)	2.1.7.1(7)-  rasa#H | parA# |
+rasaqH parAq parAq rasoq rasaqH parA$ | 
+9)	2.1.7.1(8)-  parA# | aqpaqtaqt |
+parA#patadapataqt parAq parA#patat | 
 10)	2.1.7.1(9)-  aqpaqtaqt | tam |
 aqpaqtaqt tam ta-ma#patadapataqt tam | 
 11)	2.1.7.1(10)-  tam | bRuhaqspati#H |
@@ -4809,7 +4809,7 @@ sa u#kShavaqSa u#kShavaqSaH sa sa u#kShavaqSaH |
 8)	2.1.7.2(8)-  uqkShaqvaqSaH | sam |
 uqkShaqvaqSaH sa(gm) sa-mu#kShavaqSa u#kShavaqSaH sam | 
 9)	2.1.7.2(8)-  uqkShaqvaqSaH |
-uqkShaqvaqSaityu#kSha - vaqSaH | 
+uqkShaqvaqSa ityu#kSha - vaqSaH | 
 10)	2.1.7.2(9)-  sam | aqBaqvaqt |
 sa-ma#BavadaBavaqth sa(gm) sa-ma#Bavat | 
 11)	2.1.7.2(10)-  aqBaqvaqt | yat |
@@ -5635,9 +5635,9 @@ braqhmaqvaqrcaqsIti# brahma - vaqrcaqsI |
 49)	2.1.8.1(45)-  eqva | Baqvaqtiq |
 eqva Ba#vati Bavatyeqvaiva Ba#vati | 
 50)	2.1.8.1(46)-  Baqvaqtiq | baiqlq.vaqH |
-Baqvaqtiq baiqlvoq baiqlvoq Baqvaqtiq Baqvaqtiq baiqlvaqH | 
+Baqvaqtiq baiql.voq baiql.voq Baqvaqtiq Baqvaqtiq baiql.vaqH | 
 51)	2.1.8.1(47)-  baiqlq.vaqH | yUpa#H |
-baiqlvoq yUpoq yUpo# bailvo bailvoq yUpa#H | 
+baiql.voq yUpoq yUpo# bail.vo bail.voq yUpa#H | 
 52)	2.1.8.1(48)-  yUpa#H | Baqvaqtiq |
 yUpo# Bavati Bavatiq yUpoq yUpo# Bavati | 
 53)	2.1.8.1(49)-  Baqvaqtiq | aqsau |
@@ -7313,7 +7313,7 @@ Bava#tiq praNI#tauq praNI#tauq Bava#tiq Bava#tiq praNI#tau |
 44)	2.1.11.4(40)-  praNI#tau ||
 praNI#tAqvitiq pra - nIqtauq | 
 45)	2.1.11.4(41)-  dhAqraya#ntaH | AqdiqtyAsa#H |
-dhAqraya#nta AdiqtyAsa# AdiqtyAsoq ahAqraya#nto dhAqraya#nta AdiqtyAsa#H | 
+dhAqraya#nta AdiqtyAsa# AdiqtyAsoq dhAqraya#nto dhAqraya#nta AdiqtyAsa#H | 
 46)	2.1.11.4(42)-  AqdiqtyAsa#H | jaga#t |
 AqdiqtyAsoq jagaqj jaga#dAdiqtyAsa# AdiqtyAsoq jaga#t | 
 47)	2.1.11.4(43)-  jaga#t | sthAH |
@@ -7339,7 +7339,7 @@ aqsuqrya#-mRuqtAvA#na RuqtAvA#no asuqrya#-masuqrya#-mRuqtAvA#naH |
 2)	2.1.11.5(2)-  RuqtAvA#naH | caya#mAnAH |
 RuqtAvA#naqScaya#mAnAqScaya#mAnA RuqtAvA#na RuqtAvA#naqScaya#mAnAH | 
 3)	2.1.11.5(2)-  RuqtAvA#naH |
-RuqtAvA#naqityRuqta - vAqnaqH | 
+RuqtAvA#naq ityRuqta - vAqnaqH | 
 4)	2.1.11.5(3)-  caya#mAnAH | RuqNAni# ||
 caya#mAnA RuqNAnyRuqNAniq caya#mAnAqScaya#mAnA RuqNAni# | 
 5)	2.1.11.5(4)-  RuqNAni# ||
@@ -7351,7 +7351,7 @@ BUmI$r dhArayan dhArayaqn BUmIqr BUmI$r dhArayann |
 8)	2.1.11.5(7)-  dhAqraqyaqnn | trIn |
 dhAqraqyaqn trI(gg)s trIn dhA#rayan dhArayaqn trIn | 
 9)	2.1.11.5(8)-  trIn | uqta |
-trI-nuqtota trI(gg)s trI-nuqta | 
+trI(gm) ruqtota trI(gg)s trI(gm) ruqta | 
 10)	2.1.11.5(9)-  uqta | dyUn |
 uqta dyUn dyU-nuqtota dyUn | 
 11)	2.1.11.5(10)-  dyUn | trINi# |
@@ -7361,11 +7361,11 @@ trINi# vraqtA vraqtA trINiq trINi# vraqtA |
 13)	2.1.11.5(12)-  vraqtA | viqdathe$ |
 vraqtA viqdathe# viqdathe$ vraqtA vraqtA viqdathe$ | 
 14)	2.1.11.5(13)-  viqdathe$ | aqntaH |
-viqdatheq &nta-raqntar viqdathe# viqdatheq &ntaH | 
+viqdathe# aqnta-raqntar viqdathe# viqdathe# aqntaH | 
 15)	2.1.11.5(14)-  aqntaH | eqShAqm ||
 aqnta-re#ShA-meShA-maqnta-raqnta-re#ShAm | 
 16)	2.1.11.5(15)-  eqShAqm ||
-eqShAqmitye#ShAqm | 
+eqShAqmitye#ShAm | 
 17)	2.1.11.5(16)-  Ruqtena# | AqdiqtyAqH |
 RuqtenA#dityA AdityA Ruqtenaq rtenA#dityAH | 
 18)	2.1.11.5(17)-  AqdiqtyAqH | mahi# |
