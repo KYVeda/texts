@@ -2959,9 +2959,9 @@ aqsmiqn paqSUn paqSU-na#smin-nasmin paqSUn |
 54)	2.2.5.3(43)-  paqSUn | daqdhAqtiq |
 paqSUn da#dhAti dadhAti paqSUn paqSUn da#dhAti | 
 55)	2.2.5.3(44)-  daqdhAqtiq | yasminn# |
-daqdhAqtiq yasmiqn. yasmi#n dadhAti dadhAtiq yasminn# | 
+daqdhAqtiq yasmiqnq. yasmi#n dadhAti dadhAtiq yasminn# | 
 56)	2.2.5.3(45)-  yasminn# | jAqte |
-yasmi#n jAqte jAqte yasmiqn. yasmi#n jAqte | 
+yasmi#n jAqte jAqte yasmiqnq. yasmi#n jAqte | 
 57)	2.2.5.3(46)-  jAqte | eqtAm |
 jAqta eqtA-meqtAm jAqte jAqta eqtAm | 
 58)	2.2.5.3(47)-  eqtAm | iShTi$m |
@@ -3209,9 +3209,9 @@ gAqyaqtrI gA#yaqtro gA#yaqtro gA#yaqtrI gA#yaqtrI gA#yaqtraH |
 47)	2.2.5.5(36)-  gAqyaqtraH | aqgniH |
 gAqyaqtro$ &gniraqgnir gA#yaqtro gA#yaqtro$ &gniH | 
 48)	2.2.5.5(37)-  aqgniH | yAvAn# |
-aqgnir yAvAqn. yAvA#-naqgniraqgnir yAvAn# | 
+aqgnir yAvAqnq. yAvA#-naqgniraqgnir yAvAn# | 
 49)	2.2.5.5(38)-  yAvAn# | eqva |
-yAvA#-neqvaiva yAvAqn. yAvA#-neqva | 
+yAvA#-neqvaiva yAvAqnq. yAvA#-neqva | 
 50)	2.2.5.5(39)-  eqva | aqgniH |
 eqvAgniraqgnireqvaivAgniH | 
 51)	2.2.5.5(40)-  aqgniH | tasmai$ |
@@ -3400,10 +3400,10 @@ Baqvaqtiq saqptaga#NAH saqptaga#NA Bavati Bavati saqptaga#NAH |
 saqptaga#NAq vai vai saqptaga#NAH saqptaga#NAq vai | 
 17)	2.2.5.7(13)-  saqptaga#NAH |
 saqptaga#NAq iti# saqpta - gaqNAqH | 
-18)	2.2.5.7(14)-  vai | maqrutaH# |
-vai maqruto maqruto vai vai maqrutaH | 
-19)	2.2.5.7(15)-  maqrutaH# | gaqNaqSaH |
-maqruto ga#NaqSo ga#NaqSo maqruto maqruto ga#NaqSaH | 
+18)	2.2.5.7(14)-  vai | maqruta#H |
+vai maqruto# maqrutoq vai vai maqruta#H | 
+19)	2.2.5.7(15)-  maqruta#H | gaqNaqSaH |
+maqruto# gaNaqSo ga#NaqSo maqruto# maqruto# gaNaqSaH | 
 20)	2.2.5.7(16)-  gaqNaqSaH | eqva |
 gaqNaqSa eqvaiva ga#NaqSo ga#NaqSa eqva | 
 21)	2.2.5.7(16)-  gaqNaqSaH |
@@ -3525,7 +3525,7 @@ deqvA asu#rAq-nasu#rAn deqvA deqvA asu#rAn |
 42)	2.2.6.1(34)-  asu#rAn | aqjaqyaqnn |
 asu#rA-najayan-najayaqn-nasu#rAq-nasu#rA-najayann | 
 43)	2.2.6.1(35)-  aqjaqyaqnn | yat |
-aqjaqyaqn. yad yada#jayan-najayaqn. yat | 
+aqjaqyaqnq. yad yada#jayan-najayaqnq. yat | 
 44)	2.2.6.1(36)-  yat | vaiqSvAqnaqram |
 yad vai$SvAnaqraM ~Mvai$SvAnaqraM ~Myad yad vai$SvAnaqram | 
 45)	2.2.6.1(37)-  vaiqSvAqnaqram | dvAda#SakapAlam |
@@ -7099,7 +7099,7 @@ BAqgaqdheyeqneti# BAga - dheye#na |
 16)	2.2.11.3(12)-  eqva | eqnAqn |
 eqvainA#-nenA-neqvaivainAn# | 
 17)	2.2.11.3(13)-  eqnAqn | yaqthAqyaqtham |
-eqnAqn. yaqthAqyaqthaM ~Mya#thAyaqtha-me#nA-nenAn. yathAyaqtham | 
+eqnAqnq. yaqthAqyaqthaM ~Mya#thAyaqtha-me#nA-nenAn. yathAyaqtham | 
 18)	2.2.11.3(14)-  yaqthAqyaqtham | kaqlpaqyaqtiq |
 yaqthAqyaqtham ka#lpayati kalpayati yathAyaqthaM ~Mya#thAyaqtham ka#lpayati | 
 19)	2.2.11.3(14)-  yaqthAqyaqtham |
