@@ -1317,11 +1317,11 @@ aqvaqrtaqtAgreq agre$ &varta,tAvartaqtAgre# BUqtasya# BUqtasyAgre# &vartatAvarta
 5. padam - agre$ | BUqtasya# | jAqtaH |
 agre# BUqtasya# BUqtasyAgreq agre# BUqtasya# jAqto jAqto BUqtasyAgreq agre# BUqtasya# jAqtaH | 
 6. padam - BUqtasya# | jAqtaH | pati#H |
-BUqtasya# jAqto jAqto BUqtasya# BUqtasya# jAqtaH patiqH pati#r jAqtO BUqtasya# BUqtasya# jAqtaH pati#H | 
+BUqtasya# jAqto jAqto BUqtasya# BUqtasya# jAqtaH patiqSh pati#r jAqtO BUqtasya# BUqtasya# jAqtaH pati#H | 
 7. padam - jAqtaH | pati#H | eka#H |
- jAqtaH patiqH pati#r jAqto jAqtaH patiqrekaq ekaqH pati#r jAqto jAqtaH patiqreka#H | 
+ jAqtaH patiqSh pati#r jAqto jAqtaH patiqrekaq ekaqs pati#r jAqto jAqtaH patiqreka#H | 
 8. padam - pati#H | eka#H | AqsIqt || 
-patiqrekaq ekaqH patiqH patiqreka# AsIdAsIqdekaqH patiqH patiqreka# AsIt | 
+patiqrekaq ekaqs patiqSh patiqreka# AsIdAsIqdekaqs patiqSh patiqreka# AsIt | 
 9. padam - eka#H | AqsIqt || 
 eka# AsIqdAsIqdekaq eka# AsIt | 
 10. padam - AqsIqt || 
@@ -1380,9 +1380,9 @@ baqBUveti# baqBUva# |
 13. padam - yaH | ISe$ | aqsya |
 ya ISaq ISeq yo ya ISe# aqsyAsya ISeq yo ya ISe# aqsya | 
 14. padam - ISe$ | aqsya | dviqpada#H |
-ISe# aqsyAsya ISaq ISe# aqsya dviqpado# dviqpado&sya ISaq ISe# aqsya dviqpada#H | 
+ISe# aqsyAsya ISaq ISe# aqsya dviqpado# dviqpado# aqsya ISaq ISe# aqsya dviqpada#H | 
 15. padam - aqsya | dviqpada#H | catu#ShpadaH |
-aqsya dviqpado# dviqpado&syAsya dviqpadaq Scatu#Shpadaq Scatu#Shpado dviqpado&syAsya dviqpadaq Scatu#ShpadaH | 
+aqsya dviqpado# dviqpado# aqsyAsya dviqpadaq Scatu#Shpadaq Scatu#Shpado dviqpado# aqsyAsya dviqpadaq Scatu#ShpadaH | 
 16. padam - dviqpada#H | catu#ShpadaH | kasmai$ |
 dviqpadaq Scatu#Shpadaq catu#Shpado dviqpado# dviqpada# Scatu#ShpadaqH kasmaiq kasmaiq catu#Shpado dviqpado# dviqpadaq Scatu#Shpadaq kasmai$ |
 17. padam - dviqpada#H | 
@@ -1504,7 +1504,8 @@ soma#H paqvitra#m paqvitraq(gm)q somaqH soma#H paqvitraqmatyati# paqvitraq(gm)q 
 16. padam - paqvitra$m | ati# | eqtiq | 
 paqvitraqmatyati# paqvitra#m paqvitraq,matye#tyeq,tyati# paqvitra#m paqvitraq matye#ti | 
 17. padam - ati# | eqtiq | reBa#nn || 
-atye#tyeqtyatyatye#tiq reBaqn reBa#n neqtyatya,tye#tiq reBa#nn |
+atye# tyeqtyatyatye#tiq reBaqn reBa#n neqtyatya,tye#tiq reBa#nn |
+atye# tyeqtyatyatye#tiq  reBaqn reBa#n neqtyatyatye#tiq reBa#nn  
 18. padam - eqtiq | reBa#nn || 
 eqtiq reBaqn reBa#n netyetiq reBa#nn | 
 19. padam - reBa#nn || 
@@ -1517,9 +1518,9 @@ saMhitA - tvama#gneq dyuBiq stvamA#Su SuqkShaNiq stvamaqdBya stvamaSma#naqspari#
 padam - tvam | aqgneq | dyuBi#H | tvam | AqSuqSuqkShaNi#H | tvam | aqdByaH | tvam | aSma#naH | pari# | tvam | vane$ByaH | tvam | oSha#dhIByaH | tvam | nRuqNAm | nRuqpaqteq | jAqyaqseq | Suci#H || 
 
 1. padam - tvam | aqgneq | dyuBi#H | 
-tvama#gne &gneq tvan tvama#gneq dyuBiqr,dyuBi#ragneq tvan tvama#gneq dyuBi#H | 
+tvama#gne agneq tvan tvama#gneq dyuBiqr,dyuBi#ragneq tvan tvama#gneq dyuBi#H | 
 2. padam - aqgneq | dyuBi#H | tvam | 
-aqgneq dyuBiqr,dyuBi#ragne &gneq dyuBiqstvan tvan dyuBi#ragne &gneq dyuBiqstvam | 
+aqgneq dyuBiqr,dyuBi#ragne agneq dyuBiqstvan tvan dyuBi#ragne agneq dyuBiqstvam | 
 3. padam - dyuBi#H | tvam | AqSuqSuqkShaNi#H | 
 dyuBiqstvan tvan dyuBiqr,dyuBiqstva mA#SuSuqkShaNi# rASuSuqkShaNiqstvan dyuBiqr,dyuBiqstva mA#SuSuqkShaNi#H | 
 4. padam - dyuBi#H | 
@@ -1527,11 +1528,11 @@ dyuBiqritiq dyu - BiqH |
 5. padam - tvam | AqSuqSuqkShaNi#H | tvam | 
 tva,mA#SuSuqkShaNi# rASuSuqkShaNiqstvan tvamA#SuSuqkShaNiqstvan tvamA#SuSuqkShaNiqstvan tvamA#SuSuqkShaNiqstvam | 
 6. padam - AqSuqSuqkShaNi#H | tvam | aqdByaH | 
-AqSuqSuqkShaNiqstvan tvamA#SuSuqkShaNi# rASuSuqkShaNiqstva maqdByo &dByastva,mA#SuSuqkShaNi# rASuSuqkShaNiq stvamaqdByaH | 
+AqSuqSuqkShaNiqstvan tvamA#SuSuqkShaNi# rASuSuqkShaNiqstva maqdByo aqdByastva,mA#SuSuqkShaNi# rASuSuqkShaNiq stvamaqdByaH | 
 7. padam - tvam | aqdByaH | tvam | 
-tvamaqdByo &dByastvan tvamaqdByastvan tvamaqdByastvan tvamaqdByastvam | 
+tvamaqdByo aqdByastvan tvamaqdByastvan tvamaqdByastvan tvamaqdByastvam | 
 8. padam - aqdByaH | tvam | aSma#naH | 
-aqdByastvan tvamaqdByo &dByastva,maSma#noq aSma#naqstva,maqdByo &dByastva,maSma#naH | 
+aqdByastvan tvamaqdByoq aqdByastva,maSma#noq aSma#naqstva,maqdByo aqdByastva,maSma#naH | 
 9. padam - aqdByaH | 
 aqdBya itya#t - ByaH | 
 10. padam - tvam | aSma#naH | pari# || 
