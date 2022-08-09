@@ -1885,7 +1885,7 @@ prAqNa iti# pra - aqnaH |
 A &ya#tya yaqtyA &ya#tiq parAq parA# &yaqtyA &ya#tiq parA$ |  
 13. padam - aqyaqtiq | parA$# | yakShma$m | 
  aqyaqtiq paraq parA&ya tyayatiq parAq yakShmaqm ~MyakShmaqm parA# &ya tyayati parAq yakShma$m |   
-14. padam - parA$? | yakShma$m | suqvAqmiq | 
+14. padam - parA$ | yakShma$m | suqvAqmiq | 
 parAq yakShmaqm ~MyakShmaqm parAq parAq yakShma(gm)# suvAmi suvAmiq yakShmaqm parAq parAq yakShma(gm)# suvAmi |   
 15. padam - yakShma$m | suqvAqmiq | teq || 
 yakShma(gm)# suvAmi suvAmiq yakShmaqm ~MyakShma(gm)# suvAmi te te suvAmiq yakShmaqm ~MyakShma(gm)# suvAmi te ||   
@@ -2546,11 +2546,11 @@ bRuhaqspate$ stvA  tvAq bRuhaqspate$r bRuhaqspate$ stvAq sAmrA$jyenaq sAmrA$jyen
 34. padam - tvAq | sAmrA$jyena | aqBi | 
  tvAq sAmrA$jyenaq sAmrA$jyena tvA  tvAq sAmrA$jyenAqBya#Bi sAmrA$jyena tvA  tvAq sAmrA$jyenAqBi |   
 35. padam - sAmrA$jyena | aqBi | siq~jcAqmiq || 
-sAmrA$jyenAqBya#Bi sAmrA$jyena sAmrA$jyenAqBi Shi#~jcAmi si?~jcAmyaqBi sAmrA$jyenaq sAmrA$jyenAqBi Shi#~jcqmi || 
+sAmrA$jyenAqBya#Bi sAmrA$jyena sAmrA$jyenAqBi Shi#~jcAmi si~jcAmyaqBi sAmrA$jyenaq sAmrA$jyenAqBi Shi#~jcqmi || 
 36. padam - sAmrA$jyena |
 sAmrA$jyeqnetiq sAM - rAqjyeqnaq |   
 37. padam - aqBi | siq~jcAqmiq || 
-aqBiShi#~jcAmi Shi~jcAmyaqBya#?Bi Shi#~jcAmi ||   
+aqBiShi#~jcAmi Shi~jcAmyaqBya#Bi Shi#~jcAmi ||   
 38. padam - siq~jcAqmiq || 
 siq~jcAqmIti# siq~jcAqmiq || 
 ==========================  
@@ -3803,18 +3803,20 @@ AtvAq mantrA$H kaviSaqstA va#hantveqnA rA#jan haqviShA# mAdayasva | (T.S.2.6.12.
 padam - iqmam | yaqmaq | praqstaqram | A | hi | sIda# | a~g^gi#roBiH | piqtRuBi#H | saqm~MviqdAqnaH || A | tvAq | mantrA$H | kaqviqSaqstAH | vaqhaqntuq | eqnA | rAqjaqnn | haqviShA$ | mAqdaqyaqsvaq || 
 
 1. padam - iqmam | yaqmaq | praqstaqram |
- iqmam ~Mya#ma yama iqmamiqmam ~Mya#ma prastaqram pra#taqram ~Mya#meqma,miqmam ~Mya#ma prastaqram | 
+ iqmam ~Mya#ma yameqmamiqmam ~Mya#ma prastaqram pra#taqram ~Mya#meq ma,miqmam 
+~Mya#ma prastaqram | 
 2. padam - yaqmaq | praqstaqram | A |
- yaqmaq praqstaqram pra#staqram ~Mya#ma yama praqstaqramA pra#staqram ~Mya#ma yama praqstaqramA | 
+ yaqmaq praqstaqram pra#staqram ~Mya#ma yama praqstaqra mA pra#staqram ~Mya#ma 
+yama praqstaqramA | 
 3. padam - praqstaqram | A | hi |
- praqstaqramA pra#staqram pra#staqramAhi hyA pra#staqram pra#staqramA hi |
+ praqstaqramA pra#staqram pra#staqra mAhi hyA pra#staqram pra#staqramA hi |
 4. praqstaqram | 
  praqstaqramiti# pra - staqram | 
 5. padam - A | hi | sIda# |
- Ahi hyAhi sIdaq sIdaq hyAhi sIda# | 
+ A hi hyA hi sIdaq sIdaq hyA hi sIda# | 
 6. padam - hi | sIda# | a~g^gi#roBiH |
  hi sIdaq sIdaq hi hi sIdA~g^gi#roBiq ra~g^gi#roBiqH sIdaq hi hi sIdA~g^gi#roBiH | 
-7. padam - sIda# | a~g^gi#roBiH | piqtRuBi#H |
+7. padam - sIda# | a~g^gi#roBiH | piqtRuBi#H | not ok in 2.6
  sIdA~g^gi#roBiq ra~g^gi#roBiqH sIdaq sIdA~g^gi#roBiH piqtRuBi#H piqtRuBiq ra~g^gi#roBiq sIdaq sIdA~g^gi#roBiH piqtRuBi#H | 
 8. padam - a~g^gi#roBiH | piqtRuBi#H | saqm~MviqdAqnaH ||
  a~g^gi#roBiH piqtRuBi#H piqtRuBiq ra~g^gi#roBiq ra~g^gi#roBiH piqtRuBi#H sam~MvidAqnaH sa#m~MvidAqnaH piqtRuBiq ra~g^gi#roBiq ra~g^gi#roBiH piqtRuBi#H sam~MvidAqnaH |
@@ -3827,19 +3829,19 @@ padam - iqmam | yaqmaq | praqstaqram | A | hi | sIda# | a~g^gi#roBiH | piqtRuBi#
 12. padam - saqm~MviqdAqnaH || 
  saqm~MviqdAqna iti# sam - viqdAqnaH | 
 13. padam - A | tvAq | mantrA$H |
- A tvA$ tvA tvAq mantrAq mantrA$ tvA tvAq mantrA$H | 
+ A tvA$ tvA &&tvAq mantrAq mantrA$ tvA &&tvAq mantrA$H | 
 14. padam - tvAq | mantrA$H | kaqviqSaqstAH |
- tvAq mantrAq mantrA$ tvA tvAq mantrA$H kaviSaqstAH ka#viSaqstA mantrA$ tvA tvAq mantrA$H kaviSaqstAH | 
+ tvAq mantrAq mantrA$ stvA tvAq mantrA$H kaviSaqstAH ka#viSaqstA mantrA$stvA tvAq mantrA$H kaviSaqstAH | 
  15. padam - mantrA$H | kaqviqSaqstAH | vaqhaqntuq |
- mantrA$H kaviSaqstAH ka#viSaqstAH mantrAq mantrA$H kaviSaqstAH va#hantu vahantu kaviSaqstAH mantrAq mantrA$H kaviSaqstAH va#hantu | 
+ mantrA$H kaviSaqstAH ka#viSaqstA mantrAq mantrA$H kaviSaqstA va#hantu vahantu kaviSaqstA mantrAq mantrA$H kaviSaqstA va#hantu | 
 16. padam - kaqviqSaqstAH | vaqhaqntuq | eqnA |
  kaqviqSaqstA va#hantu vahantu kaviSaqstAH ka#viSaqstA va#hantveqnainA va#hantu kaviSaqstAH ka#viSaqstAH va#hantveqnA | 
 17. padam - vaqhaqntuq | eqnA | rAqjaqn |
- vaqhaqntveqnainA va#hantu vahantveqnA rA#jan. rAjaneqnA va#hantu vahantveqnA rA#jann | 
-18. padam - eqnA | rAqjaqn | haqviShA$ |
- eqnA rAqjaqn rAqjaqneqnainA rA#jan haqviShA# haqviShA# rAjaneqnaiqnA rA#jan haqviShA$ | 
+ vaqhaqntveqnainA va#hantu vahantveqnA rA#jan rAjaneqnA va#hantu vahantveqnA rA#jann | 
+ 18. padam - eqnA | rAqjaqn | haqviShA$ |
+ eqnA rAqjaqn rAqjaqneqnainA rA#jan. haqviShA# haqviShA# rAjaneqnaiqnA rA#jan. haqviShA$ | 
 19. padam - rAqjaqn | haqviShA$ | mAqdaqyaqsvaq ||
- rAqjaqn haqviShA# haqviShA# rAjan rAjan haqviShA# mAdayasva mAdayasva haqviShA# rAjan rAjan haqviShA# mAdayasva | 
+ rAqjaqn. haqviShA# haqviShA# rAjan rAjan. haqviShA# mAdayasva mAdayasva haqviShA# rAjan rAjan. haqviShA# mAdayasva | 
 20. padam - haqviShA$ | mAqdaqyaqsvaq ||
  haqviShA# mAdayasva mAdayasva haqviShA# haqviShA# mAdayasva | 
 21. padam - mAqdaqyaqsvaq || 
@@ -3852,17 +3854,17 @@ saMhitA - udI#ratAqmava#raq ut parA#saq unma#ddhyaqmAH piqtara#H soqmyAsa#H | as
 padam - uditi# | IqraqtAqm | ava#re | udIti# | parA#saH | udIti# | maqddhyaqmAH | piqtara#H | soqmyAsa#H || asu$m | ye | IqyuH | aqvRuqkAH | Ruqtaqj~jAH | te | naqH | aqvaqntuq | piqtara#H | have#Shu || 
 
 1. padam - ut | IqraqtAqm | ava#re |
- udI#ratA mIratAq, mudu dI#ratAq mavaqre &va#ra IratAq mudu dI#ratAq mava#re | 
+ udI#ratA mIratAq, mudu dI#ratAq mavaqre &va#ra IratAq-mudu dI#ratAq mava#re | 
 2. padam - IqraqtAqm | ava#re | ut |
  IqraqtAq mavaqre &va#ra IratA mIratAq mava#raq udu dava#ra IratA mIratAq mava#raq ut | 
 3. padam - ava#re | ut | parA#saH |
- ava#raq udu davaqre &va#raq utparA#saH parA#saq udavaqre &va#raq utparA#saH | 
+ ava#raq udu davaqre &va#raq utparA#saqH parA#saq udavaqre &va#raq ut parA#saH | 
 4.padam - ut | parA#saH | ut |
- ut parA#saqH parA#saq udut parA#saq udut parA#saq udut,parA#saq ut | 
+ ut parA#saqH parA#saq udut parA#saq udut parA#saq udut,parA#saq ut |
 5. padam - parA#saH | ut | maqddhyaqmAH |
- parA#saq udut parA#saqH parA#saq unma#ddhyaqmA ma#ddhyaqmA utparA#saqH parA#saq unma#ddhyaqmAH | 
+ parA#saq udut parA#saqH parA#saq un ma#ddhyaqmA ma#ddhyaqmA ut parA#saqH parA#saq un ma#ddhyaqmAH | 
 6. padam - ut | maqddhyaqmAH | piqtara#H |
- unma#ddhyaqmA ma#ddhyaqmA udunma#ddhyaqmA piqtara#H piqtaro# maddhyaqmA udunma#ddhyaqmAH piqtara#H | 
+ unma#ddhyaqmA ma#ddhyaqmA udun ma#ddhyaqmAH piqtara#H piqtaro# maddhyaqmA udun ma#ddhyaqmAH piqtara#H | 
 7. padam - maqddhyaqmAH | piqtara#H | soqmyAsa#H ||
  maqddhyaqmAH piqtara#H piqtaro# maddhyaqmA ma#ddhyaqmAH piqtara#H soqmyAsa#H soqmyAsa#H piqtaro# maddhyaqmA ma#ddhyaqmAH piqtara#H soqmyAsa#H | 
 8. padam - piqtara#H | soqmyAsa#H ||
@@ -3876,7 +3878,7 @@ padam - uditi# | IqraqtAqm | ava#re | udIti# | parA#saH | udIti# | maqddhyaqmAH 
 12. padam - IqyuH | aqvRuqkAH | Ruqtaqj~jAH |
  Iqyu ra#vRuqkA a#vRuqkA Iqyu rIqyu ra#vRuqkA Ru#taqj~jA Ru#taqj~jA a#vRuqkA Iqyu rIqyu ra#vRuqkA Ru#taqj~jAH | 
 13. padam - aqvRuqkAH | Ruqtaqj~jAH | te |
- aqvRuqkAH Ru#taqj~jA Ru#taqj~jA a#vRuqkA a#vRuqkA Ru#taqj~jAste ta Ru#taqj~jA a#vRuqkA a#vRuqkA Ru#taqj~jAste | 
+ aqvRuqkA Ru#taqj~jA Ru#taqj~jA a#vRuqkA a#vRuqkA Ru#taqj~jAste ta Ru#taqj~jA a#vRuqkA a#vRuqkA Ru#taqj~jAste | 
 14. padam - Ruqtaqj~jAH | te | naqH |
  Ruqtaqj~jAste ta Ru#taqj~jA Ru#taqj~jAste no# naqsta Ru#taqj~jA Ru#taqj~jAste na#H |
 15. padam - Ruqtaqj~jAH | 
@@ -3886,7 +3888,7 @@ padam - uditi# | IqraqtAqm | ava#re | udIti# | parA#saH | udIti# | maqddhyaqmAH 
 17. padam - naqH | aqvaqntuq | piqtara#H |
  noq &vaqntvaq,vaqntuq noq noq &vaqntuq piqtara#H piqtaro# &vantu no no &vantu piqtara#H | 
 18. padam - aqvaqntuq | piqtara#H | have#Shu ||
- aqvaqntuq piqtara#H piqtaro# &vantva,vantu piqtaroq have#Shuq have#Shu piqtaro# &vantva,vantu piqtaro# have#Shu | 
+ aqvaqntuq piqtara#H piqtaro# &vantva,vantu piqtaroq have#Shuq have#Shu piqtaro# &vantva,vantu piqtaroq have#Shu | 
 19. padam - piqtara#H | have#Shu ||
  piqtaroq have#Shuq have#Shu piqtara#H piqtaroq have#Shu | 
 20. padam - have#Shu || 
@@ -3904,7 +3906,7 @@ padam - a~g^gi#rasaH | naqH | piqtara#H | nava#gvAH | atha#rvANaH | BRuga#vaH | 
  a~g^gi#raso no noq a~g^gi#rasoq a~g^gi#raso naH piqtara#H piqtaro# noq a~g^gi#rasoq a~g^gi#raso naH piqtara#H | 
 2. padam - naqH | piqtara#H | nava#gvAH |
  naqH piqtara#H piqtaro# no naH piqtaroq nava#gvAq nava#gvAH piqtaro# no naH piqtaroq nava#gvAH | 
-3. padam - piqtara#H | nava#gvAH | atha#rvANaH |
+ 3. padam - piqtara#H | nava#gvAH | atha#rvANaH |
  piqtaroq nava#gvAq nava#gvAH piqtara#H piqtaroq nava#gvAq atha#rvANoq atha#rvANoq nava#gvA piqtara#H piqtaroq nava#gvAq atha#rvANaH | 
 4. padam - nava#gvAH | atha#rvANaH | BRuga#vaH |
  nava#gvAq atha#rvANoq atha#rvANoq nava#gvAq nava#gvAq atha#rvANoq BRuga#voq BRuga#voq atha#rvANoq nava#gvAq nava#gvAq atha#rvANoq BRuga#vaH | 
@@ -3918,14 +3920,15 @@ padam - a~g^gi#rasaH | naqH | piqtara#H | nava#gvAH | atha#rvANaH | BRuga#vaH | 
  teShA$m ~Mvaqyam ~Mvaqyam teShAqm teShA$m ~Mvaqya(gm) sumaqtau su#maqtau vaqyam teShAqm teShA$m ~Mvaqya(gm) su#maqtau | 
 9. padam - vaqyam | suqmaqtau | yaqj~jiyA#nAm |
  vaqya(gm) su#maqtau su#maqtau vaqyam ~Mvaqya(gm) su#maqtau yaqj~jiyA#nAm ~Myaqj~jiyA#nAq(gm) sumaqtau vaqyam ~Mvaqya(gm) su#maqtau yaqj~jiyA#nAm | 
+ 
 10.padam - suqmaqtau | yaqj~jiyA#nAm | api# |
  suqmaqtau yaqj~jiyA#nAm ~Myaqj~jiyA#nA(gm) sumaqtau su#maqtau yaqj~jiyA#nAq, mapyapi# yaqj~jiyA#nA(gm) sumaqtau su#maqtau yaqj~jiyA#nAq,mapi# |
 11.padam - suqmaqtau || 
  suqmaqtAviti# su - maqtau | 
 12. padam - yaqj~jiyA#nAm | api# | Baqdre |
- yaqj~jiyA#nAq mapyapi# yaqj~jiyA#nAm ~Myaqj~jiyA#nAq, mapi# Baqdre Baqdre &pi# yaqj~jiyA#nAm ~Myaqj~jiyA#nAq mapi# Baqdre | 
-13. padam - api# | Baqdre | sauqmaqnaqse |
- api# Baqdre Baqdre &pyapi# Baqdre sau#manaqse sau#manaqse Baqdre &pyapi# Baqdre sau#manaqse | 
+ yaqj~jiyA#nAq mapyapi# yaqj~jiyA#nAm ~Myaqj~jiyA#nAq, mapi# Baqdre Baqdre api# yaqj~jiyA#nAm ~Myaqj~jiyA#nAq mapi# Baqdre | 
+ 13. padam - api# | Baqdre | sauqmaqnaqse |
+ api# Baqdre Baqdre apyapi# Baqdre sau#manaqse sau#manaqse Baqdre apyapi# Baqdre sau#manaqse | 
 14. padam - Baqdre | sauqmaqnaqse | syAqmaq ||
  Baqdre sau#manaqse sau#manaqse Baqdre Baqdre sau#manaqse syA#ma syAma saumanaqse Baqdre Baqdre saumanaqse syA#ma | 
 15. sauqmaqnaqse | syAqmaq ||
