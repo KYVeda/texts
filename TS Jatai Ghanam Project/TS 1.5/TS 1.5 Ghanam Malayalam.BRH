@@ -89,7 +89,7 @@ sahaqsA &&saha#sAq sahaqsA &di#thsantAdithsaqntA saha#sAq sahaqsA &di#thsanta |
 44)   1.5.1.1(38)-  A | aqdiqthsaqntaq | saH | (GS1.5-2)
 A &di#thsantAdithsaqntA &di#thsantaq sa sO# &dithsaqntA &di#thsantaq saH | 
 45)   1.5.1.1(39)-  aqdiqthsaqntaq | saH | aqrOqdIqt | (GS1.5-2)
-aqdiqthsaqntaq sa sO# &dithsantAdithsantasO# &rOdIdarOdIthsO# &dithsantAdithsantasO# &rOdIt | 
+aqdiqthsaqntaq sa sO# &dithsantA dithsantaqsO# &rOdIdarOdIqthsO# &dithsantAdithsantaqsO# &rOdIt | 
 46)   1.5.1.1(40)-  saH | aqrOqdIqt | yat | (GS1.5-2)
 sO# &rOdIdarOdIqth sa sO# &rOdIqd yad yada#rOdIqth sa sO# &rOdIqd yat | 
 47)   1.5.1.1(41)-  aqrOqdIqt | yat | arO#dIt | (GS1.5-2)
@@ -1893,7 +1893,7 @@ aqmum ~MlOqkam ~MlOqka maqmu maqmum ~MlOqka mA#yan nAyann ~MlOqka maqmu maqmum ~
 39)   1.5.4.4(36)-  lOqkam | Aqyaqnn | tE |
 lOqka mA#yan nAyann ~MlOqkam ~MlOqka mA#yaqn tE ta A#yann ~MlOqkam ~MlOqka mA#yaqn tE | 
 40)   1.5.4.4(37)-  Aqyaqnn | tE | aqmuShminn# |
-Aqyaqn tE ta A#yan nAyan tE# &muShmi#n naqmuShmiqn ta A#yan nAyan tE# &muShminn# | 
+Aqyaqn tE ta A#yan nAyaqn tE# &muShmi#n naqmuShmiqn ta A#yan nAyaqn tE# &muShminn# | 
 41)   1.5.4.4(38)-  tE | aqmuShminn# | lOqkE |
 tE# &muShmi#n naqmuShmiqn tE tE# &muShmi#nn ~MlOqkE lOqkE# &muShmiqn tE tE# &muShmi#nn ~MlOqkE | 
 42)   1.5.4.4(39)-  aqmuShminn# | lOqkE | vi |
@@ -1927,7 +1927,7 @@ EqtAn. hOmAqnq. hOmA# nEqtA nEqtAn. hOmA# najuhavu rajuhavuqrq. hOmA# nEqtA nEqt
 56)   1.5.4.4(51)-  hOmAn# | aqjuqhaqvuqH | tE | (GD-65)
 hOmA# najuhavu rajuhavuqrq. hOmAqnq. hOmA# najuhavuqstE tE# &juhavuqrq. hOmAqnq. hOmA# najuhavuqstE | 
 57)   1.5.4.4(52)-  aqjuqhaqvuqH | tE | Aqrddhnuqvaqnn | (GD-65)
-aqjuqhaqvuqstE tE# &juhavu rajuhavuqsta A$rddhnuvan nArddhnuvan tE# &juhavu rajuhavuqsta A$rddhnuvann | 
+aqjuqhaqvuqstE tE# &juhavu rajuhavuqsta A$rddhnuvan nArddhnuvaqn tE# &juhavu rajuhavuqsta A$rddhnuvann | 
 58)   1.5.4.4(53)-  tE | Aqrddhnuqvaqnn | tE |
 ta A$rddhnuvan nArddhnuvaqn tE ta A$rddhnuvaqn tE ta A$rddhnuvaqn tE ta A$rddhnuvaqn tE | 
 59)   1.5.4.4(54)-  Aqrddhnuqvaqnn | tE | suqvaqrgam |
@@ -4544,7 +4544,7 @@ dEqvA hIqnA hIqnA dEqvA dEqvA hIqnA a#manyantAmanyanta hIqnA dEqvA dEqvA hIqnA a
 6)   1.5.9.3(6)-  hIqnAH | aqmaqnyaqntaq | tE |
 hIqnA a#manyantAmanyanta hIqnA hIqnA a#manyantaq tE tE# &manyanta hIqnA hIqnA a#manyantaq tE | 
 7)   1.5.9.3(7)-  aqmaqnyaqntaq | tE | aqpaqSyaqnn |
-aqmaqnyaqntaq tE tE# &manyantAmanyanta tE# &paSyan napaSyan tE# &manyantAmanyanta tE# &paSyann | 
+aqmaqnyaqntaq tE tE# &manyantA manyantaq tE# &paSyan napaSyaqn tE# &manyantAmanyantaq tE# &paSyann | 
 8)   1.5.9.3(8)-  tE | aqpaqSyaqnn | AqgnEqyI |
 tE# &paSyan napaSyaqn tE tE# &paSyan nAgnEqyyA$gnEqyya#paSyaqn tE tE# &paSyan nAgnEqyI | 
 9)   1.5.9.3(9)-  aqpaqSyaqnn | AqgnEqyI | rAtri#H |
@@ -4648,7 +4648,7 @@ aqmum ~MlOqkam ~MlOqka maqmu maqmum ~MlOqka mai#daillOqka maqmu maqmum ~MlOqka m
 6)   1.5.9.4(6)-  lOqkam | aiqt | saH |
 lOqka mai#daillOqkam ~MlOqka maiqth sa sa ai$llOqkam ~MlOqka maiqth saH | 
 7)   1.5.9.4(7)-  aiqt | saH | aqmum |
-aiqth sa sa ai#daitsO# &mu maqmu(gm) sa ai#daitsO# &mum | 
+aiqth sa sa ai#daiqthsO# &mu maqmu(gm) sa ai#daiqthsO# &mum | 
 8)   1.5.9.4(8)-  saH | aqmum | lOqkam | (GS1.5-61)
 sO# &mu maqmu(gm) sa sO# &mum ~MlOqkam ~MlOqka maqmu(gm) sa sO# &mum ~MlOqkam | 
 9)   1.5.9.4(9)-  aqmum | lOqkam | gaqtvA | (GS1.5-61)
