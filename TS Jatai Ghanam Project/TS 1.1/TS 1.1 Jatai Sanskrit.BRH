@@ -429,7 +429,7 @@ sAqtayeq some#naq some#na sAqtaye# sAqtayeq some#na |
 60)	1.1.3.1(50)-  some#na | tvAq | (GS-1.1-8)
 some#na tvA tvAq some#naq some#na tvA | 
 61)	1.1.3.1(51)-  tvAq | A | (GS-1.1-8)
-tvA &&tvA$ tvA | 
+tvA&& tvAq tvA | 
 62)	1.1.3.1(52)-  A | taqnaqcmiq | (GS-1.1-8)
 A ta#nacmi tanaqcmyA ta#nacmi | 
 63)	1.1.3.1(53)-  taqnaqcmiq | indrA#ya | (GS-1.1-8)
@@ -3046,11 +3046,11 @@ vAte# dhA dhAq vAteq vAte# dhAH |
 dhAq iti# dhAH | 
 1)	1.1.14.1(1)-  uqBA | vAqm | (JD-38,GS-1.1-37)
 uqBA vA$M ~MvA muqBoBA vA$m | 
-2)	1.1.14.1(2)-  vAqm | iqndrAqgnI | (JD-38,GS-1.1-37)
-vAq miqndrAqgnI i#ndrAqgnI vA$M ~MvA mindrAqgnI | 
-3)	1.1.14.1(3)-  iqndrAqgnI | Aqhuqvaddhyai$ | (JD-38,GS-1.1-37)
-iqndrAqgnI A#huqvaddhyA# AhuqvaddhyA# indrAqgnI i#ndrAqgnI A#huqvaddhyai$ | 
-4)	1.1.14.1(3)-  iqndrAqgnI | (JD-38,GS-1.1-37)
+2)	1.1.14.1(2)-  vAqm | iqndrAqgnIq | (JD-38,GS-1.1-37)
+vAq miqndrAqgnIq iqndrAqgnIq vAqM ~MvAq miqndrAqgnIq | 
+3)	1.1.14.1(3)-  iqndrAqgnIq | Aqhuqvaddhyai$ | (JD-38,GS-1.1-37)
+iqndrAqgnIq AqhuqvaddhyA# AhuqvaddhyA# indrAgnI indrAgnI Ahuqvaddhyai$ | 
+4)	1.1.14.1(3)-  iqndrAqgnIq | (JD-38,GS-1.1-37)
 iqndrAqgnIq itI$ndra - aqgnIq | 
 5)	1.1.14.1(4)-  Aqhuqvaddhyai$ | uqBA |
 AqhuqvaddhyA# uqBoBA &&huqvaddhyA# AhuqvaddhyA# uqBA | 
