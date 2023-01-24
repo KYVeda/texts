@@ -613,11 +613,11 @@ tEByOq namOq namaq stEByaq stEByOq namaq stEByaq stEByOq namaq stEByaq stEByOq n
 33)	1.2.3.1(25)-  nama#H | tEBya#H | svAhA$ |
 namaq stEByaq stEByOq namOq namaqstEByaqH svAhAq svAhAq tEByOq namOq namaqstEByaqH svAhA$ | 
 34)	1.2.3.1(26)-  tEBya#H | svAhA$ | agnE$ |
-tEByaqH svAhAq svAhAq tEByaqstEByaqH svAhA &gnEq agnEq svAhAq tEByaqstEByaqH svAhA &gnE$ | 
+tEByaqH svAhAq svAhAq tEByaqstEByaqH svAhA &gnE &gnEq svAhAq tEByaqstEByaqH svAhA &gnE$ | 
 35)	1.2.3.1(27)-  svAhA$ | agnE$ | tvam |
-svAhA &gnEq agnEq svAhAq svAhA &gnEq tvam tva magnEq svAhAq svAhA &gnEq tvam | 
+svAhA &gnE &gnEq svAhAq svAhA &gnEq tvam tva magnEq svAhAq svAhA &gnEq tvam | 
 36)	1.2.3.1(28)-  agnE$ | tvam | su | (JM-74)
-agnEq tvam tva magnEq agnEq tva(gm) su su tva magnEq agnEq tva(gm) su | 
+agnEq tvam tva magnE &gnEq tva(gm) su su tva magnE &gnEq tva(gm) su | 
 37)	1.2.3.1(29)-  tvam | su | jAqgRuqhiq | (JM-74)
 tva(gm) su su tvam tva(gm) su jA#gRuhi jAgRuhiq su tvam tva(gm) su jA#gRuhi | 
 38)	1.2.3.1(30)-  su | jAqgRuqhiq | vaqyam |
@@ -1136,7 +1136,7 @@ indrA#yaq sOmaq(gmq) sOmaq mindrAqyE ndrA#yaq sOma(gm#) ruqdrO ruqdraH sOmaq min
 48)	1.2.4.2(42)-  sOma$m | ruqdraH | tvAq | (GS-1.2-15)
 sOma(gm#) ruqdrO ruqdraH sOmaq(gmq) sOma(gm#) ruqdrastvA$ tvA ruqdraH sOmaq(gmq) sOma(gm#) ruqdrastvA$ | 
 49)	1.2.4.2(43)-  ruqdraH | tvAq | A |
-ruqdrastvA$ tvA ruqdrO ruqdrastvA &&tvA# ruqdrO ruqdrastvA$ | 
+ruqdrastvA$ tvA ruqdrO ruqdrastvA &&tvA# ruqdrO ruqdrastvA | 
 50)	1.2.4.2(44)-  tvAq | A | vaqrtaqyaqtuq |
 tvA &&tvAq tvA &&va#rtayatu vartayaqtvA tvAq tvA &&va#rtayatu | 
 51)	1.2.4.2(45)-  A | vaqrtaqyaqtuq | miqtrasya# |
@@ -1256,7 +1256,7 @@ kRuqntAqmiq yO yaH kRu#ntAmi kRuntAmiq yO$ &smA naqsmAn. yaH kRu#ntAmi kRuntAmiq
 46)	1.2.5.1(41)-  yaH | aqsmAn | dvEShTi# |
 yO$ &smA naqsmAn. yO yO$ &smAn dvEShTiq dvEShTyaqsmAn. yO yO$ &smAn dvEShTi# | 
 47)	1.2.5.1(42)-  aqsmAn | dvEShTi# | yam |
-aqsmAn dvEShTiq dvEShtyaqsmA naqsmAn dvEShTiq yaM ~Myam dvEShTyaqsmA naqsmAn dvEShTiq yam | 
+aqsmAn dvEShTiq dvEShTyaqsmA naqsmAn dvEShTiq yaM ~Myam dvEShTyaqsmA naqsmAn dvEShTiq yam | 
 48)	1.2.5.1(43)-  dvEShTi# | yam | caq |
 dvEShTiq yaM ~Myam dvEShTiq dvEShTiq yam ca# caq yam dvEShTiq dvEShTiq yam ca# | 
 49)	1.2.5.1(44)-  yam | caq | vaqyam |
@@ -2487,7 +2487,7 @@ pRuqthiqvyA masyasi# pRuthiqvyAm pRu#thiqvyA masyAyuqShA &&yuqShA &si# pRuthiqvy
 24)	1.2.12.1(22)-  asi# | Ayu#ShA | nAmnA$ | (GS-1.2-32)
 asyAyuqShA &&yuqShA &syasyAyu#ShAq nAmnAq nAmnA &&yuqShA &syasyAyu#ShAq nAmnA$ | 
 25)	1.2.12.1(23)-  Ayu#ShA | nAmnA$ | A | (GS-1.2-32)
-Ayu#ShAq nAmnAq nAmnA &&yuqShA &&yu#ShAq nAmnA &&nAmnA &&yuqShA &&yu#ShAq nAmnA$ | 
+Ayu#ShAq nAmnAq nAmnA &&yuqShA &&yu#ShAq nAmnA &&nAmnA &&yuqShA &&yu#ShAq nAmnA | 
 26)	1.2.12.1(24)-  nAmnA$ | A | iqhiq | (GS-1.2-32)
 nAmnA nAmnAq nAmnEhIqhyA nAmnAq nAmnEhi# | 
 27)	1.2.12.1(25)-  A | iqhiq | yat | (GS-1.2-32)
@@ -2507,7 +2507,7 @@ nAma# yaqj~jiya#M ~Myaqj~jiyaqnnAmaq nAma# yaqj~jiyaqm tEnaq tEna# yaqj~jiyaqnnA
 34)	1.2.12.1(31)-  yaqj~jiya$m | tEna# | tvAq | (GS-1.2-32)
 yaqj~jiyaqm tEnaq tEna# yaqj~jiya#M ~Myaqj~jiyaqm tEna# tvA tvAq tEna# yaqj~jiya#M ~Myaqj~jiyaqm tEna# tvA | 
 35)	1.2.12.1(32)-  tEna# | tvAq | A | (GS-1.2-32)
-tEna# tvA tvAq tEnaq tEnaq tvA &&tvAq tEnaq tEna# tvA | 
+tEna# tvA tvAq tEnaq tEnaq tvA &&tvAq tEnaq tEnaq tvA | 
 36)	1.2.12.1(33)-  tvAq | A | daqdhEq | (GS-1.2-32)
 tvA &&tvAq tvA &&da#dhE dadhaq A tvAq tvA &&da#dhE | 
 37)	1.2.12.1(34)-  A | daqdhEq | agnE$ | (GS-1.2-32)
@@ -2529,7 +2529,7 @@ pRuqthiqvyA masyasi# pRuthiqvyAm pRu#thiqvyA masyAyuqShA &&yuqShA &si# pRuthiqvy
 45)	1.2.12.1(42)-  asi# | Ayu#ShA | nAmnA$ |
 asyAyuqShA &&yuqShA &syasyAyu#ShAq nAmnAq nAmnA &&yuqShA &syasyAyu#ShAq nAmnA$ | 
 46)	1.2.12.1(43)-  Ayu#ShA | nAmnA$ | A |
-Ayu#ShAq nAmnAq nAmnA &&yuqShA &&yu#ShAq nAmnA nAmnA &&yuqShA &&yu#ShAq nAmnA$ | 
+Ayu#ShAq nAmnAq nAmnA &&yuqShA &&yu#ShAq nAmnA nAmnA &&yuqShA &&yu#ShAq nAmnA | 
 47)	1.2.12.1(44)-  nAmnA$ | A | iqhiq |
 nAmnA nAmnAq nAmnEhIqhyA nAmnAq nAmnEhi# | 
 48)	1.2.12.1(45)-  A | iqhiq | yat |
@@ -2549,7 +2549,7 @@ nAma# yaqj~jiya#M ~Myaqj~jiyaqnnAmaq nAma# yaqj~jiyaqm tEnaq tEna# yaqj~jiyaqnnA
 1)	1.2.12.2(1)-  yaqj~jiya$m | tEna# | tvAq |
 yaqj~jiyaqm tEnaq tEna# yaqj~jiya#M ~Myaqj~jiyaqm tEna# tvA tvAq tEna# yaqj~jiya#M ~Myaqj~jiyaqm tEna# tvA | 
 2)	1.2.12.2(2)-  tEna# | tvAq | A |
-tEna# tvA tvAq tEnaq tEnaq tvA &&tvAq tEnaq tEna# tvA | 
+tEna# tvA tvAq tEnaq tEnaq tvA &&tvAq tEnaq tEnaq tvA | 
 3)	1.2.12.2(3)-  tvAq | A | daqdhEq |
 tvA &&tvAq tvA &&da#dhE dadhaq A tvAq tvA &&da#dhE | 
 4)	1.2.12.2(4)-  A | daqdhEq | siq(gmq)hIH |
@@ -2863,7 +2863,7 @@ pAq(gmq)suqra irA#vatIq irA#vatI pA(gm)suqrE pA(gm#)suqra irA#vatI dhEnuqmatI# d
 2)	1.2.13.2(2)-  irA#vatI | dhEqnuqmatI$ | hi |
 irA#vatI dhEnuqmatI# dhEnuqmatIq irA#vatIq irA#vatI dhEnuqmatIq hi hi dhE#nuqmatIq irA#vatIq irA#vatI dhEnuqmatIq hi | 
 3)	1.2.13.2(2)-  irA#vatI |
-irA#vatIq itirA$ - vaqtIq | 
+irA#vatIq itIrA$ - vaqtIq | 
 4)	1.2.13.2(3)-  dhEqnuqmatI$ | hi | BUqtam |
 dhEqnuqmatIq hi hi dhE#nuqmatI# dhEnuqmatIq hi BUqtam BUqta(gm) hi dhE#nuqmatI# dhEnuqmatIq hi BUqtam | 
 5)	1.2.13.2(3)-  dhEqnuqmatI$ |
@@ -2931,7 +2931,7 @@ atra# ramEthA(gm) ramEthAq matrAtra# ramEthAqM ~MvarShmaqnq varShma#n ramEthAq m
 36)	1.2.13.2(29)-  raqmEqthAqm | var.Shmann# | pRuqthiqvyAH |
 raqmEqthAqM ~MvarShmaqnq. varShma#n ramEthA(gm) ramEthAqM ~MvarShma#n pRuthiqvyAH pRu#thiqvyA varShma#n ramEthA(gm) ramEthAqM ~MvarShma#n pRuthiqvyAH | 
 37)	1.2.13.2(30)-  var.Shmann# | pRuqthiqvyAH | diqvaH |
-varShma#n pRuthiqvyAH pRu#thiqvyA varShmaqnq varShma#n pRuthiqvyA diqvO diqvaH pRu#thiqvyA varShmaqnq varShma#n pRuthiqvyA diqvaH | 
+varShma#n pRuthiqvyAH pRu#thiqvyA varShmaqnq. varShma#n pRuthiqvyA diqvO diqvaH pRu#thiqvyA varShmaqnq. varShma#n pRuthiqvyA diqvaH | 
 38)	1.2.13.2(31)-  pRuqthiqvyAH | diqvaH | vAq |
 pRuqthiqvyA diqvO diqvaH pRu#thiqvyAH pRu#thiqvyA diqvO vA# vA diqvaH pRu#thiqvyAH pRu#thiqvyA diqvO vA$ | 
 39)	1.2.13.2(32)-  diqvaH | vAq | viqShNOq |
@@ -3203,7 +3203,7 @@ pratyA pratiq pratyA ta#nuShva tanuqShvA pratiq pratyA ta#nuShva |
 13)	1.2.14.2(13)-  A | taqnuqShvaq | ni | (GS-1.2-43)
 A ta#nuShva tanuqShvA ta#nuShvaq ni ni ta#nuqShvA ta#nuShvaq ni | 
 14)	1.2.14.2(14)-  taqnuqShvaq | ni | aqmitrAn# | (GS-1.2-43)
-taqnuqShvaq ni ni ta#nuShva tanuShva nyaqmitrA(gm#) aqmitrAqn ni ta#nuShva tanuShva nyaqmitrAn# | 
+taqnuqShvaq ni ni ta#nuShva tanuShvaq nya#mitrA(gm#) aqmitrAqn ni ta#nuShva tanuShva nyaqmitrAn# | 
 15)	1.2.14.2(15)-  ni | aqmitrAn# | OqShaqtAqt | (GS-1.2-43)
 nya#mitrA(gm#) aqmitrAqn ni nya#mitrA(gm#) OShatAdOShatA daqmitrAqn ni nya#mitrA(gm#) OShatAt | 
 16)	1.2.14.2(16)-  aqmitrAn# | OqShaqtAqt | tiqgmaqhEqtEq || (GS-1.2-43)
