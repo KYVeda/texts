@@ -319,9 +319,9 @@ pArtthi#vEByOq manOq manaqH pArtthi#vEByaqH pArtthi#vEByOq mana# stvA tvAq manaq
 32)	1.4.2.1(29)- mana#H | tvAq | aqShTuq | (GS-1.4-4)
 mana# stvA tvAq manOq mana# stvA &ShTvaShTu tvAq manOq mana# stvA &ShTu | 
 33)	1.4.2.1(30)- tvAq | aqShTuq | uqru | (GS-1.4-4)
-tvAq &ShTvaqShTuq tvAq tvAq &ShTUrU$(1q) r^va#ShTu tvA tvA &ShTU#ru | 
+tvAq &ShTvaqShTuq tvAq tvAq &ShTUqrU$(1q) r^va#ShTu tvA tvA &ShTU#ru | 
 34)	1.4.2.1(31)- aqShTuq | uqru | aqntari#kSham | (GS-1.4-4)
-aqShTUrU$(1q)r^va#ShTvaShTur^va#ntari#kSha maqntari#kSha muqr^va#ShTvaShTur^va#ntari#kSham | 
+aqShTUqrU$(1q)r^va#ShTvaShTUqr^va#ntari#kSha maqntari#kSha muqr^va#ShTvaShTUqr^va#ntari#kSham | 
 35)	1.4.2.1(32)- uqru | aqntari#kSham | anu# | (GS-1.4-4)
 uqr^va#ntari#kSha maqntari#kSha muqrU$(1q)r^va#ntari#kShaq manvanvaqntari#kSha muqrU$(1q)r^va#ntari#kShaq manu# | 
 36)	1.4.2.1(33)- aqntari#kSham | anu# | iqhiq | (GS-1.4-4)
@@ -453,9 +453,9 @@ pArtthi#vEByOq manOq manaqH pArtthi#vEByaqH pArtthi#vEByOq mana# stvA tvAq manaq
 46)	1.4.3.1(39)- mana#H | tvAq | aqShTuq | (GS-1.4-6)
 mana# stvA tvAq manOq mana# stvA &ShTvaShTu tvAq manOq mana# stvA &ShTu | 
 47)	1.4.3.1(40)- tvAq | aqShTuq | uqru | (GS-1.4-6) 
-tvAq &ShTvaqShTuq tvAq tvAq &ShTUrU$(1q)r^va#ShTu tvA tvA &ShTU#ru | 
+tvAq &ShTvaqShTuq tvAq tvAq &ShTUqrU$(1q)r^va#ShTu tvA tvA &ShTU#ru | 
 48)	1.4.3.1(41)- aqShTuq | uqru | aqntari#kSham | (GS-1.4-6) 
-aqShTUrU$(1q)r^va#ShTvaShTU r^va#ntari#kSha maqntari#kSha muqr^va#ShTvaShTU r^va#ntari#kSham |
+aqShTUqrU$(1q)r^va#ShTvaShTUq r^va#ntari#kSha maqntari#kSha muqr^va#ShTvaShTUq r^va#ntari#kSham |
 49)	1.4.3.1(42)- uqru | aqntari#kSham | anu# | (GS-1.4-6)
 uqr^va#ntari#kSha maqntari#kSha muqrU$(1q)r^va#ntari#kShaq manvanvaqntari#kSha muqrU$(1q)r^va#ntari#kShaq manu# | 
 50)	1.4.3.1(43)- aqntari#kSham | anu# | iqhiq | (GS-1.4-6)
@@ -780,7 +780,7 @@ riqhaqntIti# rihanti |
 21)	1.4.8.1(17)- uqpaqyAqmagRu#hItaH | aqsiq | SaNDA#ya |
 uqpaqyAqmagRu#hItO &sya syupayAqmagRu#hIta upayAqmagRu#hItO &siq SaNDA#yaq SaNDA# yAsyupayAqmagRu#hIta upayAqmagRu#hItO &siq SaNDA#ya | 
 22)	1.4.8.1(17)- uqpaqyAqmagRu#hItaH |
-uqpaqyAqmagRu#hItaq ityu#payAqma - gRuhIqtaqH | 
+uqpaqyAqmagRu#hItaq ityu#payAqma - gRuqhIqtaqH | 
 23)	1.4.8.1(18)- aqsiq | SaNDA#ya | tvAq |
 aqsiq SaNDA#yaq SaNDA# yAsyasiq SaNDA#ya tvA tvAq SaNDA# yAsyasiq SaNDA#ya tvA | 
 24)	1.4.8.1(19)- SaNDA#ya | tvAq | EqShaH |
@@ -1230,7 +1230,7 @@ uqpaqyAqmagRu#hItaq ityu#payAqma - gRuqhIqtaqH |
 27)	1.4.14.1(26)- aqsiq | saq(gm)qsarpa#H | aqsiq |
 aqsiq saq(gm)qsarpa#H saq(gm)qsarpO$ &syasi saq(gm)qsarpO$ &syasi saq(gm)qsarpO$ &syasi saq(gm)qsarpO# &si | 
 28)	1.4.14.1(27)- saq(gm)qsarpa#H | aqsiq | aq(gm)qhaqspaqtyAya# | (GS-1.4-14)
-saq(gm)qsarpO$ &syasi saq(gm)qsarpa#H saq(gm)qsarpO$ &sya(gm)haspaqtyA yA(gm#)haspaqtyA A#si saq(gm)qsarpa#H saq(gm)qsarpO$ &sya(gm)haspaqtyAya# | 
+saq(gm)qsarpO$ &syasi saq(gm)qsarpa#H saq(gm)qsarpO$ &sya(gm)haspaqtyA yA(gm#)haspaqtyA yA#si saq(gm)qsarpa#H saq(gm)qsarpO$ &sya(gm)haspaqtyAya# | 
 29)	1.4.14.1(27)- saq(gm)qsarpa#H | (GS-1.4-14)
 saq(gm)qsarpaq iti# saM - sarpa#H | 
 30)	1.4.14.1(28)- aqsiq | aq(gm)qhaqspaqtyAya# | tvAq || (GS-1.4-14)
@@ -1526,11 +1526,11 @@ indrOq yO ya indraq indrOq ya Ojaq sauja#sAq ya indraq indrOq ya Oja#sA |
 3)	1.4.20.1(3)- yaH | Oja#sA | paqrjanya#H |
 ya Ojaq sauja#sAq yO ya Oja#sA paqrjanya#H paqrjanyaq Oja#sAq yO ya Oja#sA paqrjanya#H | 
 4)	1.4.20.1(4)- Oja#sA | paqrjanya#H | vRuqShTiqmAn |
-Oja#sA paqrjanya#H paqrjanyaq Ojaq sauja#sA paqrjanyO# vRuShTiqmAn. vRu#ShTiqmAn paqrjanyaq Ojaq sauja#sA paqrjanyO# vRuShTiqmAn | 
+Oja#sA paqrjanya#H paqrjanyaq Ojaq sauja#sA paqrjanyO# vRuShTiqmAn vRu#ShTiqmAn paqrjanyaq Ojaq sauja#sA paqrjanyO# vRuShTiqmAn | 
 5)	1.4.20.1(5)- paqrjanya#H | vRuqShTiqmAn | iqvaq ||
-paqrjanyO# vRuShTiqmAn. vRu#ShTiqmAn paqrjanya#H paqrjanyO# vRuShTiqmA(gm) i#vE va vRuShTiqmAn paqrjanya#H paqrjanyO# vRuShTiqmA(gm) i#va | 
+paqrjanyO# vRuShTiqmAn vRu#ShTiqmAn paqrjanya#H paqrjanyO# vRuShTiqmA(gm) i#vE va vRuShTiqmAn paqrjanya#H paqrjanyO# vRuShTiqmA(gm) i#va | 
 6)	1.4.20.1(6)- vRuqShTiqmAn | iqvaq ||
-vRuqShTiqmA(gm) i#vE va vRuShTiqmAn. vRu#ShTiqmA(gm) i#va | 
+vRuqShTiqmA(gm) i#vE va vRuShTiqmAn vRu#ShTiqmA(gm) i#va | 
 7)	1.4.20.1(6)- vRuqShTiqmAn |
 vRuqShTiqmAniti# vRuShTi - mAn | 
 8)	1.4.20.1(7)- iqvaq ||
@@ -1610,7 +1610,7 @@ kaqrtRuBi#r BUd BUt kaqrtRuBi#H kaqrtRuBi#r BUt |
 22)	1.4.21.1(16)- kaqrtRuBi#H |
 kaqrtRuBiqriti# kaqrtRu - BiqH | 
 23)	1.4.21.1(17)- BUqt ||
-Buqditi# BUt | 
+BUqditi# BUt | 
 24)	1.4.21.1(18)- uqpaqyAqmagRu#hItaH | aqsiq | maqhEqndrAya# |
 uqpaqyAqmagRu#hItO &sya syupayAqmagRu#hIta upayAqmagRu#hItO &si mahEqndrAya# mahEqndrAyA$ syupayAqmagRu#hIta upayAqmagRu#hItO &si mahEqndrAya# | 
 25)	1.4.21.1(18)- uqpaqyAqmagRu#hItaH |
@@ -1762,7 +1762,7 @@ vaqriqvOqvittaqrA &saq dasa#d varivOqvitta#rA varivOqvittaqrA &sa#t |
 63)	1.4.22.1(57)- vaqriqvOqvitta#rA |
 vaqriqvOqvittaqrEti# varivOqvit - taqrAq | 
 64)	1.4.22.1(58)- asa#t ||
-asaqdiyasa#t | 
+asaqdityasa#t | 
 65)	1.4.22.1(59)- viva#svaH | Aqdiqtyaq | EqShaH |
 viva#sva AdityAdityaq viva#svOq viva#sva AdityaiqSha EqSha A#dityaq viva#svOq viva#sva AdityaiqShaH | 
 66)	1.4.22.1(60)- Aqdiqtyaq | EqShaH | tEq |
@@ -1865,7 +1865,7 @@ ada#bdhEBiH savitaH savitaq rada#bdhEBiq rada#bdhEBiH savitaH pAqyuBi#H pAqyuBi#
 2)	1.4.24.1(2)- saqviqtaqH | pAqyuBi#H | tvam |
 saqviqtaqH pAqyuBi#H pAqyuBi#H savitaH savitaH pAqyuBiq ShTvam tvam pAqyuBi#H savitaH savitaH pAqyuBiq ShTvam | 
 3)	1.4.24.1(3)- pAqyuBi#H | tvam | SiqvEBi#H |
-pAqyuBiq ShTvam tva(gm) ShAqyuBi#H pAqyuBiq ShTva(gm) SiqvEBi#H SiqvEBiq stvam pAqyuBi#H pAqyuBiq ShTva(gm) SiqvEBi#H | 
+pAqyuBiq ShTvam tvam pAqyuBi#H pAqyuBiq ShTva(gm) SiqvEBi#H SiqvEBiq stvam pAqyuBi#H pAqyuBiq ShTva(gm) SiqvEBi#H | 
 4)	1.4.24.1(3)- pAqyuBi#H |
 pAqyuBiqriti# pAqyu - BiqH | 
 5)	1.4.24.1(4)- tvam | SiqvEBi#H | aqdya |
@@ -2143,7 +2143,7 @@ SiprE# avEpayO &vEpayaqH SiprEq SiprE# avEpayaH |
 7)	1.4.30.1(5)- SiprE$ | (GS-1.4-18)
 SiprEq itiq SiprE$ | 
 8)	1.4.30.1(6)- aqvEqpaqyaqH || (GS-1.4-18)
-aqvEqpaqyaq iti# avEpayaH | 
+aqvEqpaqyaq itya#vEpayaH | 
 9)	1.4.30.1(7)- sOma$m | iqndraq | caqmU |
 sOma# mindrE ndraq sOmaq(gmq) sOma# mindra caqmU caqmU i#ndraq sOmaq(gmq) sOma# mindra caqmU | 
 10)	1.4.30.1(8)- iqndraq | caqmU | suqtam ||

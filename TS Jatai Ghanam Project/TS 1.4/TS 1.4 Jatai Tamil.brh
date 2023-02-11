@@ -319,7 +319,7 @@ mana+ stvA tvA/ manO/ mana+ stvA |
 33)	1.4.2.1(30)-  tvA/ | a/ShTu/ | (G4S-1.4-4)
 tvA/ &ShTva/ShTu/ tvA/ tvA/ &ShTu/ | 
 34)	1.4.2.1(31)-  a/ShTu/ | u/ru | (G4S-1.4-4)
-a/ShTUrU%(1/)rva+ShTvaShTU+ru | 
+a/ShTU/rU%(1/)rva+ShTvaShTU+ru | 
 35)	1.4.2.1(32)-  u/ru | a/~ntari+kSham | (G4S-1.4-4)
 u/rva+~ntari+kSha ma/~ntari+kSha mu/rU%(1/)rva+~ntari+kSham | 
 36)	1.4.2.1(33)-  a/~ntari+kSham | anu+ | (G4S-1.4-4)
@@ -453,7 +453,7 @@ mana+ stvA tvA/ manO/ mana+ stvA |
 47)	1.4.3.1(40)-  tvA/ | a/ShTu/ | (G4S-1.4-6)
 tvA/ &ShTva/ShTu/ tvA/ tvA/ &ShTu/ | 
 48)	1.4.3.1(41)-  a/ShTu/ | u/ru | (G4S-1.4-6)
-a/ShTUrU%(1/)rva+ShTvaShTU+ru |
+a/ShTU/rU%(1/)rva+ShTvaShTU+ru |
 49)	1.4.3.1(42)-  u/ru | a/~ntari+kSham | (G4S-1.4-6)
 u/rva+~ntari+kSha ma/~ntari+kSha mu/rU%(1/)rva+~ntari+kSham | 
 50)	1.4.3.1(43)-  a/~ntari+kSham | anu+ | (G4S-1.4-6)
@@ -777,7 +777,7 @@ ri/ha/~ntIti+ riha~nti |
 21)	1.4.8.1(17)-  u/pa/yA/mag3Ru+hItaH | a/si/ |
 u/pa/yA/mag3Ru+hItO &syasyupayA/mag3Ru+hIta upayA/mag3Ru+hItO &si | 
 22)	1.4.8.1(17)-  u/pa/yA/mag3Ru+hItaH |
-u/pa/yA/mag3Ru+hIta/ ityu+payA/ma - g3RuhI/ta/H | 
+u/pa/yA/mag3Ru+hIta/ ityu+payA/ma - g3Ru/hI/ta/H | 
 23)	1.4.8.1(18)-  a/si/ | SaNDA+3ya |
 a/si/ SaNDA+3ya/ SaNDA+3yAsyasi/ SaNDA+3ya | 
 24)	1.4.8.1(19)-  SaNDA+3ya | tvA/ |
@@ -1527,7 +1527,7 @@ Oja+sA pa/rjanya+H pa/rjanya/ Oja/sauja+sA pa/rjanya+H |
 5)	1.4.20.1(5)-  pa/rjanya+H | vRu/ShTi/mAn |
 pa/rjanyO+ vRuShTi/mAn vRu+ShTi/mAn pa/rjanya+H pa/rjanyO+ vRuShTi/mAn | 
 6)	1.4.20.1(6)-  vRu/ShTi/mAn | i/va/ ||
-vRu/ShTi/mA(gm) i+vE va vRuShTi/mAn. vRu+ShTi/mA(gm) i+va | 
+vRu/ShTi/mA(gm) i+vE va vRuShTi/mAn vRu+ShTi/mA(gm) i+va | 
 7)	1.4.20.1(6)-  vRu/ShTi/mAn |
 vRu/ShTi/mAniti+ vRuShTi - mAn | 
 8)	1.4.20.1(7)-  i/va/ ||
@@ -1607,7 +1607,7 @@ ka/rtRuBi+4r BU4d3 BU4t ka/rtRuBi+4H ka/rtRuBi+4r BU4t |
 22)	1.4.21.1(16)-  ka/rtRuBi+4H |
 ka/rtRuBi/4riti+ ka/rtRu - Bi/4H | 
 23)	1.4.21.1(17)-  BU/4t ||
-Bu/4di3ti+ BU4t | 
+BU/4di3ti+ BU4t | 
 24)	1.4.21.1(18)-  u/pa/yA/mag3Ru+hItaH | a/si/ |
 u/pa/yA/mag3Ru+hItO &syasyupayA/mag3Ru+hIta upayA/mag3Ru+hItO &si | 
 25)	1.4.21.1(18)-  u/pa/yA/mag3Ru+hItaH |
@@ -1759,7 +1759,7 @@ va/ri/vO/vitta/rA &sa/da3sa+d3 varivO/vitta+rA varivO/vitta/rA &sa+t |
 63)	1.4.22.1(57)-  va/ri/vO/vitta+rA |
 va/ri/vO/vitta/rEti+ varivO/vit - ta/rA/ | 
 64)	1.4.22.1(58)-  asa+t ||
-asa/di3yasa+t | 
+asa/di3tyasa+t | 
 65)	1.4.22.1(59)-  viva+svaH | A/di/3tya/ |
 viva+sva Adi3tyAdi3tya/ viva+svO/ viva+sva Adi3tya | 
 66)	1.4.22.1(60)-  A/di/3tya/ | E/ShaH |
@@ -2139,7 +2139,7 @@ SiprE+ avEpayO &vEpaya/H SiprE/ SiprE+ avEpayaH |
 7)	1.4.30.1(5)-  SiprE% | (G4S-1.4-18)
 SiprE/ iti/ SiprE% | 
 8)	1.4.30.1(6)-  a/vE/pa/ya/H || (G4S-1.4-18)
-a/vE/pa/ya/ iti+ avEpayaH | 
+a/vE/pa/ya/ itya+vEpayaH | 
 9)	1.4.30.1(7)-  sOma%m | i/~nd3ra/ |
 sOma+ mi~nd3rE~nd3ra/ sOma/(gm/) sOma+ mi~nd3ra | 
 10)	1.4.30.1(8)-  i/~nd3ra/ | ca/mU |
