@@ -1,17 +1,17 @@
 (1)[P1] 4.3.1.1(1)-  aqpAm | tvAq |
 aqpAm tvA$ tvAq &pA maqpAm tvA$ | 
 (2)[P1] 4.3.1.1(2)-  tvAq | emann# |
-tvemaqn nema#n tvAq tvemann# | 
+tvemaqn-nema#n tvAq tvemann# | 
 (3)[P1] 4.3.1.1(3)-  emann# | sAqdaqyAqmiq |
-eman$ thsAdayAmi sAdayAq myemaqn neman$ thsAdayAmi | 
+eman$ thsAdayAmi sAdayAq myemaqn-neman$ thsAdayAmi | 
 (4)[P1] 4.3.1.1(4)-  sAqdaqyAqmiq | aqpAm |
 sAqdaqyAq myaqpA maqpA(gm) sA#dayAmi sAdayA myaqpAm | 
 (5)[P1] 4.3.1.1(5)-  aqpAm | tvAq |
 aqpAm tvA$ tvAq &pA maqpAm tvA$ | 
 (6)[P1] 4.3.1.1(6)-  tvAq | odmann# |
-tvodmaqn nodma#n tvAq tvodmann# | 
+tvodmaqn-nodma#n tvAq tvodmann# | 
 (7)[P1] 4.3.1.1(7)-  odmann# | sAqdaqyAqmiq |
-odman$ thsAdayAmi sAdayAq myodmaqn nodman$ thsAdayAmi | 
+odman$ thsAdayAmi sAdayAq myodmaqn-nodman$ thsAdayAmi | 
 (8)[P1] 4.3.1.1(8)-  sAqdaqyAqmiq | aqpAm |
 sAqdaqyAq myaqpA maqpA(gm) sA#dayAmi sAdayA myaqpAm | 
 (9)[P1] 4.3.1.1(9)-  aqpAm | tvAq |
@@ -755,13 +755,13 @@ te no# naq ste te na#H |
 (82)[P6] 4.3.3.2(65)-  naqH | aqvaqntuq |
 noq &vaqn tvaq vaqntuq noq noq &vaqntuq | 
 (83)[P6] 4.3.3.2(66)-  aqvaqntuq | aqsminn |
-aqvaqn tvaqsmin naqsmin na#van tvavan tvaqsminn | 
+aqvaqn tvaqsmin-naqsmin-na#van tvavan tvaqsminn | 
 (84)[P6] 4.3.3.2(67)-  aqsminn | brahmann# |
-aqsmin brahmaqn brahma#n naqsmin naqsmin brahmann# | 
+aqsmin brahmaqn brahma#n-naqsmin-naqsmin brahmann# | 
 (85)[P6] 4.3.3.2(68)-  brahmann# | aqsminn |
-brahma#n naqsmin naqsmin brahmaqn brahma#n naqsminn | 
+brahma#n-naqsmin-naqsmin brahmaqn brahma#n-naqsminn | 
 (86)[P6] 4.3.3.2(69)-  aqsminn | kShaqtre |
-aqsmin kShaqtre kShaqtre$ &smin naqsmin kShaqtre | 
+aqsmin kShaqtre kShaqtre$ &smin-naqsmin kShaqtre | 
 (87)[P6] 4.3.3.2(70)-  kShaqtre | aqsyAm |
 kShaqtre$ &syA maqsyAm kShaqtre kShaqtre$ &syAm | 
 (88)[P6] 4.3.3.2(71)-  aqsyAm | AqSiShi# |
@@ -773,13 +773,13 @@ AqSiShItyA$ - SiShi# |
 (91)[P6] 4.3.3.2(73)-  aqsyAm | puqroqdhAyA$m |
 aqsyAm pu#roqdhAyA$m puroqdhAyA# maqsyA maqsyAm pu#roqdhAyA$m | 
 (92)[P6] 4.3.3.2(74)-  puqroqdhAyA$m | aqsminn |
-puqroqdhAyA# maqsmin naqsmin pu#roqdhAyA$m puroqdhAyA# maqsminn | 
+puqroqdhAyA# maqsmin-naqsmin pu#roqdhAyA$m puroqdhAyA# maqsminn | 
 (93)[P6] 4.3.3.2(74)-  puqroqdhAyA$m |
 puqroqdhAyAqmiti# puraH - dhAyA$m | 
 (94)[P6] 4.3.3.2(75)-  aqsminn | karmann# |
-aqsmin karmaqn karma#n naqsmin naqsmin karmann# | 
+aqsmin karmaqn karma#n-naqsmin-naqsmin karmann# | 
 (95)[P6] 4.3.3.2(76)-  karmann# | aqsyAm |
-karma#n naqsyA maqsyAm karmaqn karma#n naqsyAm | 
+karma#n-naqsyA maqsyAm karmaqn karma#n-naqsyAm | 
 (96)[P6] 4.3.3.2(77)-  aqsyAm | deqvahU$tyAm ||
 aqsyAm deqvahU$tyAm deqvahU$tyA maqsyA maqsyAm deqvahU$tyAm | 
 (97)[P6] 4.3.3.2(78)-  deqvahU$tyAm ||
@@ -2489,9 +2489,9 @@ AqdiqtyA anvan vA#diqtyA A#diqtyA anu# |
 (5)[P20] 4.3.10.3(5)-  anu# | vi |
 anuq vi vyan vanuq vi | 
 (6)[P20] 4.3.10.3(6)-  vi | Aqyaqnn |
-vyA#yan nAyaqnq. vi vyA#yann | 
+vyA#yan-nAyaqnq. vi vyA#yann | 
 (7)[P20] 4.3.10.3(7)-  Aqyaqnn | teShA$m |
-Aqyaqn teShAqm teShA# mAyan nAyaqn teShA$m | 
+Aqyaqn teShAqm teShA# mAyan-nAyaqn teShA$m | 
 (8)[P20] 4.3.10.3(8)-  teShA$m | Adhi#patyam |
 teShAq mAdhi#patyaq mAdhi#patyaqm teShAqm teShAq mAdhi#patyam | 
 (9)[P20] 4.3.10.3(9)-  Adhi#patyam | AqsIqt |
@@ -2551,9 +2551,9 @@ traya#stri(gm)Saqtetiq traya#H - triq(gm)qSaqtAq |
 (36)[P20] 4.3.10.3(29)-  aqstuqvaqtaq | BUqtAni# |
 aqstuqvaqtaq BUqtAni# BUqtAnya# stuvatA stuvata BUqtAni# | 
 (37)[P20] 4.3.10.3(30)-  BUqtAni# | aqSAqmyaqnn |
-BUqtA nya#SAmyan naSAmyan BUqtAni# BUqtA nya#SAmyann | 
+BUqtA nya#SAmyan-naSAmyan BUqtAni# BUqtA nya#SAmyann | 
 (38)[P20] 4.3.10.3(31)-  aqSAqmyaqnn | praqjApa#tiH |
-aqSAqmyaqn praqjApa#tiH praqjApa# tiraSAmyan naSAmyan praqjApa#tiH | 
+aqSAqmyaqn praqjApa#tiH praqjApa# tiraSAmyan-naSAmyan praqjApa#tiH | 
 (39)[P20] 4.3.10.3(32)-  praqjApa#tiH | paqraqmeqShThI |
 praqjApa#tiH parameqShThI pa#rameqShThI praqjApa#tiH praqjApa#tiH parameqShThI | 
 (40)[P20] 4.3.10.3(32)-  praqjApa#tiH |
@@ -2729,9 +2729,9 @@ yuq~jjAqnAH suvaqH suva#r yu~jjAqnA yu#~jjAqnAH suva#H |
 (22)[P22] 4.3.11.2(20)-  suva#H | A |
 suvaqrA suvaqH suvaqrA | 
 (23)[P22] 4.3.11.2(21)-  A | aqBaqraqnn |
-A &Ba#ran naBaraqn nA &Ba#rann | 
+A &Ba#ran-naBaraqn-nA &Ba#rann | 
 (24)[P22] 4.3.11.2(22)-  aqBaqraqnn | iqdam ||
-aqBaqraqn niqda miqda ma#Baran naBaran niqdam | 
+aqBaqraqn-niqda miqda ma#Baran-naBaran-niqdam | 
 (25)[P22] 4.3.11.2(23)-  iqdam ||
 iqdamitIqdam | 
 (26)[P22] 4.3.11.2(24)-  paq~jcaBi#H | dhAqtA |
@@ -3207,11 +3207,11 @@ aqsme ityaqsme |
 (14)[P26] 4.3.12.1(12)-  dIqdiqhiq | suqmanA$H |
 dIqdiqhiq suqmanA$H suqmanA# dIdihi dIdihi suqmanA$H | 
 (15)[P26] 4.3.12.1(13)-  suqmanA$H | ahe#Dann |
-suqmanAq ahe#Daqn nahe#Dan thsuqmanA$H suqmanAq ahe#Dann | 
+suqmanAq ahe#Daqn-nahe#Dan thsuqmanA$H suqmanAq ahe#Dann | 
 (16)[P26] 4.3.12.1(13)-  suqmanA$H |
 suqmanAq iti# su - manA$H | 
 (17)[P26] 4.3.12.1(14)-  ahe#Dann | tava# |
-ahe#Daqn tavaq tavA he#Daqn nahe#Daqn tava# | 
+ahe#Daqn tavaq tavA he#Daqn-nahe#Daqn tava# | 
 (18)[P26] 4.3.12.1(15)-  tava# | syAqm |
 tava# syA(gg) syAqm tavaq tava# syAm | 
 (19)[P26] 4.3.12.1(16)-  syAqm | Sarmann# |
@@ -3587,9 +3587,9 @@ Baqdram te# te Baqdram Baqdram te$ |
 (47)[P29] 4.3.13.1(43)-  teq | aqgneq |
 teq aqgneq aqgneq teq teq aqgneq | 
 (48)[P29] 4.3.13.1(44)-  aqgneq | saqhaqsiqnn |
-aqgneq saqhaqsiqn thsaqhaqsiqn naqgneq aqgneq saqhaqsiqnn | 
+aqgneq saqhaqsiqn thsaqhaqsiqn-naqgneq aqgneq saqhaqsiqnn | 
 (49)[P29] 4.3.13.1(45)-  saqhaqsiqnn | anI#kam | (GS-4.3-23)
-saqhaqsiqn nanI#kaq manI#ka(gm) sahasin thsahasiqn nanI#kam | 
+saqhaqsiqn-nanI#kaq manI#ka(gm) sahasin thsahasiqn-nanI#kam | 
 (50)[P29] 4.3.13.1(46)-  anI#kam | uqpAqke | (GS-4.3-23)
 anI#ka mupAqka u#pAqke &nI#kaq manI#ka mupAqke | 
 (51)[P29] 4.3.13.1(47)-  uqpAqke | A | (GS-4.3-23)
@@ -3741,9 +3741,9 @@ aqdya sa#maqnA sa#maqnA &dyAdya sa#maqnA |
 (11)[P31] 4.3.13.3(9)-  saqmaqnA | saqmAqnAn | (GS-4.3-26)
 saqmaqnA sa#mAqnAn thsa#mAqnAn thsa#maqnA sa#maqnA sa#mAqnAn | 
 (12)[P31] 4.3.13.3(10)-  saqmAqnAn | uqSann | (GS-4.3-26)
-saqmAqnA-nuqSan nuqSan thsa#mAqnAn thsa#mAqnA-nuqSann | 
+saqmAqnA-nuqSan-nuqSan thsa#mAqnAn thsa#mAqnA-nuqSann | 
 (13)[P31] 4.3.13.3(11)-  uqSann | aqgneq | (GS-4.3-26)
-uqSan na#gne agna uqSan nuqSan na#gne | 
+uqSan-na#gne agna uqSan-nuqSan-na#gne | 
 (14)[P31] 4.3.13.3(12)-  aqgneq | uqSaqtaH |
 aqgnaq uqSaqta u#Saqto a#gne agna uSaqtaH | 
 (15)[P31] 4.3.13.3(13)-  uqSaqtaH | yaqkShiq |
