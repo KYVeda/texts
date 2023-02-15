@@ -21,9 +21,9 @@ dharmA#ya tvA tvAq dharmA#yaq dharmA#ya tvAq dharmaqm dharma#m tvAq dharmA#yaq d
 (11)[P1] 4.4.1.1(10)-  tvAq | dharma$m | jiqnvaq |
 tvAq dharmaqm dharma#m tvA tvAq dharma#m jinva jinvaq dharma#m tvA tvAq dharma#m jinva | 
 (12)[P1] 4.4.1.1(11)-  dharma$m | jiqnvaq | anvi#tiH |
-dharma#m jinva jinvaq dharmaqm dharma#m jiqnvAnvi#tiq ranvi#tir jinvaq dharmaqm dharma#m jiqnvAnvi#tiH | 
+dharma#m jinva jinvaq dharmaqm dharma#m jiqnvAn^^vi#tiq ranvi#tir jinvaq dharmaqm dharma#m jiqnvAn^^vi#tiH | 
 (13)[P1] 4.4.1.1(12)-  jiqnvaq | anvi#tiH | aqsiq | (GS-4.4-1)
-jiqnvAnvi#tiq ranvi#tir jinva jiqnvAnvi#ti rasyaq syanvi#tir jinva jiqnvAnvi# tirasi | 
+jiqnvAn^^ vi#tiq ranvi#tir jinva jiqnvAn^^ vi#ti rasyaq syan vi#tir jinva jiqnvAn vi#tirasi | 
 (14)[P1] 4.4.1.1(13)-  anvi#tiH | aqsiq | diqve | (GS-4.4-1)
 anvi#ti rasyaq syanvi#tiq ranvi#ti rasi diqve diqve$ &syanvi#tiq ranvi#ti rasi diqve | 
 (15)[P1] 4.4.1.1(13)-  anvi#tiH | (GS-4.4-1)
@@ -37,7 +37,7 @@ tvAq divaqm diva#m tvA tvAq diva#m jinva jinvaq diva#m tvA tvAq diva#m jinva |
 (19)[P1] 4.4.1.1(17)-  diva$m | jiqnvaq | saqndhiH | (GS-4.4-1)
 diva#m jinva jinvaq divaqm diva#m jinva saqndhiH saqndhir ji#nvaq divaqm diva#m jinva saqndhiH | 
 (20)[P1] 4.4.1.1(18)-  jiqnvaq | saqndhiH | aqsiq |
-jiqnvaq saqndhiH saqndhir ji#nva jinva saqndhi ra#syasi saqndhir ji#nva jinva saqndhira#si | 
+jiqnvaq saqndhiH saqndhir ji#nva jinva saqndhi ra#syasi saqndhir ji#nva jinva saqndhi ra#si | 
 (21)[P1] 4.4.1.1(19)-  saqndhiH | aqsiq | aqntari#kShAya |
 saqndhi ra#syasi saqndhiH saqndhi ra#syaq ntari#kShAyAq ntari#kShAyAsi saqndhiH saqndhi ra#syaq ntari#kShAya | 
 (22)[P1] 4.4.1.1(19)-  saqndhiH |
@@ -113,13 +113,13 @@ uqSi ga#syasyuqSi guqSi ga#siq vasu#Byoq vasu#Byo &syuqSi guqSi ga#siq vasu#ByaH
 (57)[P1] 4.4.1.1(50)-  aqsiq | vasu#ByaH | tvAq |
 aqsiq vasu#Byoq vasu#Byo &syasiq vasu#Bya stvA tvAq vasu#Byo &syasiq vasu#Bya stvA | 
 (1)[P2] 4.4.1.2(1)-  vasu#ByaH | tvAq | vasUn# |
-vasu#Bya stvA tvAq vasu#Byoq vasu#Bya stvAq vasUqnq. vasUn$ tvAq vasu#Byoq vasu#Bya stvAq vasUn# | 
+vasu#Bya stvA tvAq vasu#Byoq vasu#Bya stvAq vasUqnq. vasU$n tvAq vasu#Byoq vasu#Bya stvAq vasUn# | 
 (2)[P2] 4.4.1.2(1)-  vasu#ByaH |
 vasu#Byaq itiq vasu# - ByaqH | 
 (3)[P2] 4.4.1.2(2)-  tvAq | vasUn# | jiqnvaq |
-tvAq vasUqnq. vasUn$ tvA tvAq vasUn$ jinva jinvaq vasUn$ tvA tvAq vasUn$ jinva | 
+tvAq vasUqnq. vasU$n tvA tvAq vasU$n jinva jinvaq vasU$n tvA tvAq vasU$n jinva | 
 (4)[P2] 4.4.1.2(3)-  vasUn# | jiqnvaq | praqkeqtaH |
-vasUn$ jinva jinvaq vasUqnq. vasUn$ jinva prakeqtaH pra#keqto ji#nvaq vasUqnq. vasUn$ jinva prakeqtaH | 
+vasU$n jinva jinvaq vasUqnq. vasU$n jinva prakeqtaH pra#keqto ji#nvaq vasUqnq. vasU$n jinva prakeqtaH | 
 (5)[P2] 4.4.1.2(4)-  jiqnvaq | praqkeqtaH | aqsiq |
 jiqnvaq praqkeqtaH pra#keqto ji#nva jinva prakeqto$ &syasi prakeqto ji#nva jinva prakeqto# &si | 
 (6)[P2] 4.4.1.2(5)-  praqkeqtaH | aqsiq | ruqdreBya#H |
@@ -195,35 +195,36 @@ paqSUn ji#nva jinva paqSUn paqSUn ji#nva reqvad reqvaj ji#nva paqSUn paqSUn ji#n
 (41)[P2] 4.4.1.2(34)-  jiqnvaq | reqvat | aqsiq |
 jiqnvaq reqvad reqvaj ji#nva jinva reqva da#syasi reqvaj ji#nva jinva reqvada#si | 
 (42)[P2] 4.4.1.2(35)-  reqvat | aqsiq | oSha#dhIByaH |
-reqva da#syasi reqvad reqva daqsyo Sha#dhIByaq oSha#dhIByo &si reqvad reqva daqsyo Sha#dhIByaH | 
+reqva da#syasi reqvad reqva daqsyoSha#dhIByaq oSha#dhIByo &si reqvad reqva daqsyoSha#dhIByaH | 
 (43)[P2] 4.4.1.2(36)-  aqsiq | oSha#dhIByaH | tvAq |
-aqsyo Sha#dhIByaq oSha#dhIByo &syaqsyo Sha#dhIBya stvAq tvauSha#dhIByo &syaqsyo Sha#dhIBya stvA | 
+aqsyoSha#dhIByaq oSha#dhIByo &syaq syoSha#dhIBya stvAq tvauSha#dhIByo &syaqsyoSha#dhIBya stvA | 
 (44)[P2] 4.4.1.2(37)-  oSha#dhIByaH | tvAq | oSha#dhIH |
-oSha#dhIBya stvAq tvau Sha#dhIByaq oSha#dhIByaq stvau Sha#dhIq roSha#dhIqstvau Sha#dhIByaq oSha#dhIByaq stvau Sha#dhIH | 
+oSha#dhIBya stvAq tvauSha#dhIByaq oSha#dhIByaq stvauSha#dhIq roSha#dhIq stvauSha#dhIByaq oSha#dhIByaq 
+stvauSha#dhIH | 
 (45)[P2] 4.4.1.2(37)-  oSha#dhIByaH |
 oSha#dhIByaq ityoSha#dhi - ByaqH | 
 (46)[P2] 4.4.1.2(38)-  tvAq | oSha#dhIH | jiqnvaq |
-tvau Sha#dhIq roSha#dhI stvAq tvau Sha#dhIr jinva jiqnvau Sha#dhI stvAq tvau Sha#dhIr jinva | 
+tvauSha#dhIq roSha#dhI stvAq tvauSha#dhIr jinva jiqnvauSha#dhI stvAq tvauSha#dhIr jinva | 
 (47)[P2] 4.4.1.2(39)-  oSha#dhIH | jiqnvaq | aqBiqjit |
-oSha#dhIr jinva jiqnvau Sha#dhIq roSha#dhIr jinvA Biqji da#Biqjij jiqnv auSha#dhIq roSha#dhIr jinvA Biqjit | 
+oSha#dhIr jinva jiqnvauSha#dhIq roSha#dhIr jinvA Biqji da#Biqjij jiqnv auSha#dhIq roSha#dhIr jinvA Biqjit | 
 (48)[P2] 4.4.1.2(40)-  jiqnvaq | aqBiqjit | aqsiq |
-jiqnvAq Biqji da#Biqjij ji#nva jinvA Biqjida# syasyaBiqjij ji#nva jinvA Biqji da#si | 
+jiqnvAq Biqji da#Biqjij ji#nva jinvA Biqjida# syasya Biqjij ji#nva jinvA Biqji da#si | 
 (49)[P2] 4.4.1.2(41)-  aqBiqjit | aqsiq | yuqktagrA#vA |
 aqBiqji da#syasya Biqji da#Biqjida#si yuqktagrA#vA yuqktagrA#vA &syaBiqji da#Biqji da#si yuqktagrA#vA | 
 (50)[P2] 4.4.1.2(41)-  aqBiqjit |
 aqBiqjiditya#Bi - jit | 
 (51)[P2] 4.4.1.2(42)-  aqsiq | yuqktagrA#vA | indrA#ya |
-aqsiq yuqktagrA#vA yuqktagrA#vA &syasi yuqktagrAq vendrAqye ndrA#ya yuqktagrA#vA &syasi yuqktagrAq vendrA#ya | 
+aqsiq yuqktagrA#vA yuqktagrA#vA &syasi yuqktagrAq vendrAq yendrA#ya yuqktagrA#vA &syasi yuqktagrAq vendrA#ya | 
 (52)[P2] 4.4.1.2(43)-  yuqktagrA#vA | indrA#ya | tvAq |
-yuqktagrAq vendrAqye ndrA#ya yuqktagrA#vA yuqktagrAq vendrA#ya tvAq tvendrA#ya yuqktagrA#vA yuqktagrAq vendrA#ya tvA | 
+yuqktagrAq vendrAq yendrA#ya yuqktagrA#vA yuqktagrAq vendrA#ya tvAq tvendrA#ya yuqktagrA#vA yuqktagrAq vendrA#ya tvA | 
 (53)[P2] 4.4.1.2(43)-  yuqktagrA#vA |
 yuqktagrAqveti# yuqkta - grAqvAq | 
 (54)[P2] 4.4.1.2(44)-  indrA#ya | tvAq | indra$m |
-indrA#ya tvAq tvendrAqye ndrA#yaq tvendraq mindraqm tvendrAqye ndrA#yaq tvendra$m | 
+indrA#ya tvAq tvendrAq yendrA#yaq tvendraq mindraqm tvendrAq yendrA#yaq tvendra$m | 
 (55)[P2] 4.4.1.2(45)-  tvAq | indra$m | jiqnvaq |
 Tvendraq mindra#m tvAq tvendra#m jinva jiqnve ndra#m tvAq tvendra#m jinva | 
 (56)[P2] 4.4.1.2(46)-  indra$m | jiqnvaq | adhi#patiH |
-indra#m jinva jiqnve ndraq mindra#m jiqnvA dhi#patiq radhi#patir jiqnve ndraq mindra#m jiqnvA dhi#patiH | 
+indra#m jinva jiqnvendraq mindra#m jiqnvA dhi#patiq radhi#patir jiqnvendraq mindra#m jiqnvA dhi#patiH | 
 (57)[P2] 4.4.1.2(47)-  jiqnvaq | adhi#patiH | aqsiq |
 jiqnvA dhi#patiq radhi#patir jinva jiqnvA dhi#pati rasyaq syadhi#patir jinva jiqnvA dhi#pati rasi | 
 (58)[P2] 4.4.1.2(48)-  adhi#patiH | aqsiq | prAqNAya# |
@@ -236,6 +237,7 @@ aqsiq prAqNAya# prAqNAyA$ syasi prAqNAya# tvA tvA prAqNAyA$ syasi prAqNAya# tvA 
 prAqNAya# tvA tvA prAqNAya# prAqNAya# tvA prAqNam prAqNam tvA$ prAqNAya# prAqNAya# tvA prAqNam | 
 (62)[P2] 4.4.1.2(50)-  prAqNAya# |
 prAqNAyeti# pra - aqnAya# | 
+xxxxxxxxxxx 11.04 min
 (1)[P3] 4.4.1.3(1)-  tvAq | prAqNam | jiqnvaq |
 tvAq prAqNam prAqNam tvA$ tvA prAqNam ji#nva jinva prAqNam tvA$ tvA prAqNam ji#nva | 
 (2)[P3] 4.4.1.3(2)-  prAqNam | jiqnvaq | yaqntA |
@@ -249,7 +251,7 @@ yaqntA &sya#si yaqntA yaqntA &sya# pAqnAyA# pAqnAyA#si yaqntA yaqntA &sya# pAqnA
 (6)[P3] 4.4.1.3(5)-  aqsiq | aqpAqnAya# | tvAq |
 aqsyaq pAqnAyA# pAqnAyA$ syasya pAqnAya# tvA tvA &pAqnAyA$ syasya pAqnAya# tvA | 
 (7)[P3] 4.4.1.3(6)-  aqpAqnAya# | tvAq | aqpAqnam |
-aqpAqnAya# tvA tvA &pAqnAyA# pAqnAya# tvA &pAqna ma#pAqnam tvA# &pAqnAyA#pAqnAya# tvA &pAqnam | 
+aqpAqnAya# tvA tvA &pAqnAyA# pAqnAya# tvA &pAqna ma#pAqnam tvA# &pAqnAyA# pAqnAya# tvA &pAqnam | 
 (8)[P3] 4.4.1.3(6)-  aqpAqnAya# |
 aqpAqnAyetya#pa - aqnAya# | 
 (9)[P3] 4.4.1.3(7)-  tvAq | aqpAqnam | jiqnvaq |
@@ -269,7 +271,7 @@ aqsiq cakShu#Sheq cakShu#She &syasiq cakShu#She tvA tvAq cakShu#She &syasiq cakS
 (16)[P3] 4.4.1.3(12)-  cakShu#She | tvAq | cakShu#H |
 cakShu#She tvA tvAq cakShu#Sheq cakShu#She tvAq cakShuq ScakShu# stvAq cakShu#Sheq cakShu#She tvAq cakShu#H | 
 (17)[P3] 4.4.1.3(13)-  tvAq | cakShu#H | jiqnvaq |
-tvAq cakShuq ScakShu# stvA tvAq cakShu#r jinva jinvaq cakShu#stvA tvAq cakShu#r jinva | 
+tvAq cakShuq ScakShu# stvA tvAq cakShu#r jinva jinvaq cakShu# stvA tvAq cakShu#r jinva | 
 (18)[P3] 4.4.1.3(14)-  cakShu#H | jiqnvaq | vaqyoqdhAH |
 cakShu#r jinva jinvaq cakShuq ScakShu#r jinva vayoqdhA va#yoqdhA ji#nvaq cakShuq ScakShu#r jinva vayoqdhAH | 
 (19)[P3] 4.4.1.3(15)-  jiqnvaq | vaqyoqdhAH | aqsiq |
@@ -329,9 +331,9 @@ praqroqho$ &syasi praroqhaH pra#roqho$ &syanuroqho# &nuroqho# &si praroqhaH pra#
 (46)[P3] 4.4.1.3(34)-  praqroqhaH |
 praqroqha iti# pra - roqhaH | 
 (47)[P3] 4.4.1.3(35)-  aqsiq | aqnuqroqhaH | aqsiq |
-aqsyaqnuq roqho# &nuroqho$ &syasyanu roqho$ &syasyanu roqho$ &syasyanu roqho# &si | 
+aqsyaqnuqroqho# &nuroqho$ &sya syanuroqho$ &sya syanuroqho$ &sya syanuroqho# &si | 
 (48)[P3] 4.4.1.3(36)-  aqnuqroqhaH | aqsiq | vaqsuqkaH |
-aqnuqroqho$ &syasyanu roqho# &nuroqho# &si vasuqko va#suqko$ &syanu roqho# &nuroqho# &si vasuqkaH | 
+aqnuqroqho$ &sya syanuroqho# &nuroqho# &si vasuqko va#suqko$ &syanuroqho# &nuroqho# &si vasuqkaH | 
 (49)[P3] 4.4.1.3(36)-  aqnuqroqhaH |
 aqnuqroqha itya#nu - roqhaH | 
 (50)[P3] 4.4.1.3(37)-  aqsiq | vaqsuqkaH | aqsiq |
@@ -341,7 +343,7 @@ vaqsuqko$ &syasi vasuqko va#suqko# &siq veSha#Sriqr veSha#Srirasi vasuqko va#suq
 (52)[P3] 4.4.1.3(39)-  aqsiq | veSha#SriH | aqsiq |
 aqsiq veSha#Sriqr veSha#Sri rasyasiq veSha#Sri rasyasiq veSha#Sri rasyasiq veSha#Srirasi | 
 (53)[P3] 4.4.1.3(40)-  veSha#SriH | aqsiq | vasya#ShTiH |
-veSha#Sri rasyasiq veSha#Sriqr veSha#Srirasiq vasya#ShTiqr vasya#ShTirasiq veSha#Sriqr veSha#Srirasiq vasya#ShTiH | 
+veSha#Sri rasyasiq veSha#Sriqr veSha#Sri rasiq vasya#ShTiqr vasya#ShTirasiq veSha#Sriqr veSha#Sri rasiq vasya#ShTiH | 
 (54)[P3] 4.4.1.3(40)-  veSha#SriH |
 veSha#Sriqritiq veSha# - SriqH | 
 (55)[P3] 4.4.1.3(41)-  aqsiq | vasya#ShTiH | aqsiq ||
