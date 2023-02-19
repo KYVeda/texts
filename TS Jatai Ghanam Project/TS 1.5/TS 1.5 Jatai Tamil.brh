@@ -84,7 +84,7 @@ tada+3syAsya/ tat tada+3sya |
 42)	1.5.1.1(36)-  a/sya/ | saha+sA | (G4S1.5-2)
 a/sya/ saha+sA/ saha+sA &syAsya/ saha+sA | 
 43)	1.5.1.1(37)-  saha+sA | A | (G4S1.5-2)
-saha/sA &&saha+sA/ saha+sA | 
+saha/sA &&saha+sA/ saha/sA | 
 44)	1.5.1.1(38)-  A | a/di/3th2sa/~nta/ | (G4S1.5-2)
 A &di+3th2sa~ntAdi3th2sa/~ntA &di+3th2sa~nta | 
 45)	1.5.1.1(39)-  a/di/3th2sa/~nta/ | saH | (G4S1.5-2)
@@ -215,8 +215,8 @@ A/da3dhA+4tA/ ityA% - da3dhA+4tai |
 iti/ tam ta mitIti/ tam | 
 51)	1.5.1.2(46)-  tam | pU/ShA | (J2D3-5,G4D3-26,G4S1.5-5)
 tam pU/ShA pU/ShA tam tam pU/ShA | 
-52)	1.5.1.2(47)-  pU/ShA | A | (J2D3-5,G4D3-26,G4S1.5-5)
-pU/ShA &&pU/ShA pU/ShA | 
+52)   1.5.1.2(47)-  pU/ShA | A | a/dha/4tta/ | (J2D3-5,G4D3-26,G4S1.5-5)
+pU/ShA &dha+4ttAdha/4ttA pU/ShA pU/ShA &dha+4tta |
 53)	1.5.1.2(48)-  A | a/dha/4tta/ | (J2D3-5,G4D3-26,G4S1.5-5)
 A &dha+4ttAdha/4ttA &dha+4tta | 
 54)	1.5.1.2(49)-  a/dha/4tta/ | tEna+ | (J2D3-5,G4D3-26,G4S1.5-5)
@@ -238,7 +238,7 @@ u/cya/~ntE/ tam ta mu+cya~nta ucya~ntE/ tam |
 7)	1.5.1.3(7)-  tam | tvaShTA% |
 tam tvaShTA/ tvaShTA/ tam tam tvaShTA% | 
 8)	1.5.1.3(8)-  tvaShTA% | A |
-tvaShTA &&tvaShTA/ tvaShTA% | 
+tvaShTA &&tvaShTA/ tvaShTA | 
 9)	1.5.1.3(9)-  A | a/dha/4tta/ |
 A &dha+4ttAdha/4ttA &dha+4tta | 
 10)	1.5.1.3(10)-  a/dha/4tta/ | tEna+ |
@@ -526,7 +526,7 @@ parA/ vai vai parA/ parA/ vai |
 2)	1.5.2.1(2)-  vai | E/ShaH |
 vA E/Sha E/Sha vai vA E/ShaH | 
 3)	1.5.2.1(3)-  E/ShaH | ya/j~jam |
-E/Sha ya/j~jaM ~Mya/j~ja mE/Sha E/ShO ya/j~jam | 
+E/Sha ya/j~jaM ~Mya/j~ja mE/Sha E/Sha ya/j~jam | 
 4)	1.5.2.1(4)-  ya/j~jam | pa/SUn |
 ya/j~jam pa/SUn pa/SUn. ya/j~jaM ~Mya/j~jam pa/SUn | 
 5)	1.5.2.1(5)-  pa/SUn | va/pa/ti/ |
@@ -1896,7 +1896,7 @@ A/ya/n tE ta A+yannAya/n tE |
 41)	1.5.4.4(38)-  tE | a/muShminn+ |
 tE+ &muShmi+nna/muShmi/n tE tE+ &muShminn+ | 
 42)	1.5.4.4(39)-  a/muShminn+ | lO/kE |
-a/muShmi+nn ~MlO/kE lO/kE+ &muShmi+nna/muShmi+nn ~MlO/kE | 
+a/muShmi+n ~MlO/kE lO/kE+ &muShmi+ nna/muShmi+n ~MlO/kE | 
 43)	1.5.4.4(40)-  lO/kE | vi |
 lO/kE vi vi lO/kE lO/kE vi | 
 44)	1.5.4.4(41)-  vi | a/tRu/Shya/nn |
@@ -1978,7 +1978,7 @@ tA mE/vaiva tAm tA mE/va |
 82)	1.5.4.4(74)-  E/va | Ru/d3dh4nO/ti/ ||
 E/va rd3dh4nO%tyRud3dh4nOtyE/vaiva rd3dh4nO+ti | 
 83)	1.5.4.4(75)-  Ru/d3dh4nO/ti/ ||
-Ru/d3dh4nO/tItyRu+rd3dh4nOti | 
+Ru/d3dh4nO/tItyRu+d3dh4nOti | 
 1)	1.5.5.1(1)-  u/pa/pra/ya~nta+H | a/d3dh4va/ram | (G4S1.5-24)
 u/pa/pra/ya~ntO+ ad3dh4va/ra ma+d3dh4va/ra mu+papra/ya~nta+ upapra/ya~ntO+ ad3dh4va/ram | 
 2)	1.5.5.1(1)-  u/pa/pra/ya~nta+H | (G4S1.5-24)
@@ -2226,9 +2226,9 @@ sa ~nO+ ~na/H sa sO ~na+H |
 14)	1.5.5.3(14)-  ~na/H | pA/va/ka/ |
 ~na/H pA/va/ka/ pA/va/ka/ ~nO/ ~na/H pA/va/ka/ | 
 15)	1.5.5.3(15)-  pA/va/ka/ | dI/3di/3vaH |
-pA/va/ka/ dI/3di/3vO dI+3di/3vaH pA+vaka pAvaka dI3di/3vaH | 
+pA/va/ka/ dI/3di/3vO dI/3di/3va/H pA/va/ka/ pA/va/ka/ dI3/di/3va/H | 
 16)	1.5.5.3(16)-  dI/3di/3vaH | ag3nE% |
-dI/3di/3vO &g3nE &g3nE+ dI3di/3vO dI+3di/3vO &g3nE% | 
+dI/3di/3vO &g3nE% &g3nE dI3di3vO dI3di/3vO &g3nE% | 
 17)	1.5.5.3(17)-  ag3nE% | dE/3vAn | (G4S1.5-26)
 ag3nE+ dE/3vAn dE/3vA(gm) ag3nE &g3nE+ dE/3vAn | 
 18)	1.5.5.3(18)-  dE/3vAn | i/ha | (G4S1.5-26)
@@ -2764,7 +2764,7 @@ ma/dhu/4kRuta/ iti+ madhu4 - kRuta+H |
 44)	1.5.6.3(42)-  syO/nAH | mA/ | (J2M-5)
 syO/nA mA+ mA syO/nAH syO/nA mA% | 
 45)	1.5.6.3(43)-  mA/ | A | (J2M-5)
-mA &&mA+ mA | 
+mA &&mA/ mA | 
 46)	1.5.6.3(44)-  A | vi/Sa/ta/ | (J2M-5)
 A vi+Sata viSa/tA vi+Sata | 
 47)	1.5.6.3(45)-  vi/Sa/ta/ | irA%H | (J2M-5)
@@ -3188,9 +3188,9 @@ ShaD3 vai vai ShaT th2 ShaD3 vai |
 56)	1.5.7.2(50)-  vai | Ru/tava+H |
 vA Ru/tava+ Ru/tavO/ vai vA Ru/tava+H | 
 1)	1.5.7.3(1)-  Ru/tava+H | Ru/tuShu+ | (G4S1.5-40)
-Ru/tava+ Ru/tuShu+ Ru/tuShu+ Ru/tava+ Ru/tava+ Ru/tuShu+ | 
+Ru/tava+ Ru/tuSha/ rtuShaq rtava+ Ru/tava+ Ru/tuShu+ | 
 2)	1.5.7.3(2)-  Ru/tuShu+ | E/va | (G4S1.5-40)
-Ru/tuShvE/vaiva rtuShu+ Ru/tuShvE/va | 
+Ru/tuShvE/vaiva rtuShuq rtuShvE/va | 
 3)	1.5.7.3(3)-  E/va | prati+ | (G4S1.5-40)
 E/va prati/ pratyE/vaiva prati+ | 
 4)	1.5.7.3(4)-  prati+ | ti/ShTha/2ti/ | (G4S1.5-40)
@@ -3398,7 +3398,7 @@ va/rcO/dA3 iti+ varcaH - dA3H |
 46)	1.5.7.4(41)-  hi | E/ShaH |
 hyE+Sha E/Sha hi hyE+ShaH | 
 47)	1.5.7.4(42)-  E/ShaH | ta/nU/pAH |
-E/Sha ta+nU/pA sta+nU/pA E/Sha E/Shasta+nU/pAH | 
+E/Sha ta+nU/pA sta+nU/pA E/Sha E/Sha ta+nU/pAH | 
 48)	1.5.7.4(43)-  ta/nU/pAH | a/g3nE/ | (G4S1.5-47)
 ta/nU/pA a+g3nE ag3nE tanU/pA sta+nU/pA a+g3nE | 
 49)	1.5.7.4(43)-  ta/nU/pAH | (G4S1.5-47)
@@ -4610,7 +4610,7 @@ dE/3vAH pa/SUn pa/SUn dE/3vA dE/3vAH pa/SUn |
 40)	1.5.9.3(40)-  pa/SUn | vi/ttvA |
 pa/SUn. vi/ttvA vi/ttvA pa/SUn pa/SUn. vi/ttvA | 
 41)	1.5.9.3(41)-  vi/ttvA | kAmAn+ |
-vi/ttvA kAmA/n kAmA+n. vi/ttvA vi/ttvA kAmAn+ | 
+vi/ttvA kAmA/n kAmAn+. vi/ttvA vi/ttvA kAmAn+ | 
 42)	1.5.9.3(42)-  kAmAn+ | a/ku/rva/ta/ |
 kAmA(gm+) akurvatAkurvata/ kAmA/n kAmA(gm+) akurvata | 
 43)	1.5.9.3(43)-  a/ku/rva/ta/ | yaH |
@@ -4774,7 +4774,7 @@ vA E/Sha E/Sha vai vA E/ShaH |
 16)	1.5.9.5(14)-  E/ShaH | a/g3nI | (G4S1.5-62)
 E/ShO%&g3nI a/g3nI E/Sha E/ShO%&g3nI | 
 17)	1.5.9.5(15)-  a/g3nI | A |
-a/g3nI A a/g3nI a/g3nI A | 
+a/g3nI A &3nI a/g3nI A | 
 18)	1.5.9.5(15)-  a/g3nI |
 a/g3nI itya/g3nI | 
 19)	1.5.9.5(16)-  A | rO/ha/ti/ |
@@ -5970,7 +5970,7 @@ ta/tA/nEti+ tatAna |
 31)	1.5.11.4(29)-  sa/ha/sra/sAH | Sa/ta/sAH |
 sa/ha/sra/sAH Sa+ta/sAH Sa+ta/sAH sa+hasra/sAH sa+hasra/sAH Sa+ta/sAH | 
 32)	1.5.11.4(29)-  sa/ha/sra/sAH |
-sa/ha/sra/sA iti+ sa/ha/sra - sAH | 
+sa/ha/sra/sA iti+ sahasra - sAH | 
 33)	1.5.11.4(30)-  Sa/ta/sAH | vA/jI |
 Sa/ta/sA vA/jI vA/jI Sa+ta/sAH Sa+ta/sA vA/jI | 
 34)	1.5.11.4(30)-  Sa/ta/sAH |
