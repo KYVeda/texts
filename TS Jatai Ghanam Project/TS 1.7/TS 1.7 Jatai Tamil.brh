@@ -44,7 +44,7 @@ lO/kE &va+hi/tA &va+hitA lO/kE lO/kE &va+hitA |
 22)	1.7.1.1(18)-  ava+hitA | tAm |
 ava+hitA/ tAm tA mava+hi/tA &va+hitA/ tAm | 
 23)	1.7.1.1(18)-  ava+hitA |
-ava+hi/tEyava+ - hi/tA/ | 
+ava+hi/tEtyava+ - hi/tA/ | 
 24)	1.7.1.1(19)-  tAm | A/hri/yamA+NAm | (G4S-1.7-1)
 tA mA%hri/yamA+NA mAhri/yamA+NA/m tAm tA mA%hri/yamA+NAm | 
 25)	1.7.1.1(20)-  A/hri/yamA+NAm | a/Bi4 | (G4S-1.7-1)
@@ -548,7 +548,7 @@ E/va ya/j~jaM ~Mya/j~ja mE/vaiva ya/j~jam |
 48)	1.7.1.5(45)-  ya/j~jam | dE/3vEB4ya+H |
 ya/j~jam dE/3vEB4yO+ dE/3vEB4yO+ ya/j~jaM ~Mya/j~jam dE/3vEB4ya+H | 
 49)	1.7.1.5(46)-  dE/3vEB4ya+H | anu+ |
-dE/3vEB4yO/ anvanu+ dE/3vEB4yO+ dE/3vEB4yO &nu+ | 
+dE/3vEB4yO &nvanu+ dE/3vEB4yO+ dE/3vEB4yO &nu+ | 
 50)	1.7.1.5(47)-  anu+ | di/3Sa/ti/ |
 anu+ di3Sati di3Sa/ tyanvanu+ di3Sati | 
 51)	1.7.1.5(48)-  di/3Sa/ti/ | yAm |
@@ -568,7 +568,7 @@ tA ma+syAsya/ tAm tA ma+sya |
 5)	1.7.1.6(5)-  a/sya/ | pa/Sava+H |
 a/sya/ pa/Sava+H pa/SavO% &syAsya pa/Sava+H | 
 6)	1.7.1.6(6)-  pa/Sava+H | anu+ |
-pa/SavO/ anvanu+ pa/Sava+H pa/SavO &nu+ | 
+pa/SavO &nvanu+ pa/Sava+H pa/SavO &nu+ | 
 7)	1.7.1.6(7)-  anu+ | sam |
 anu/ sa(gm) sa manvanu/ sam | 
 8)	1.7.1.6(8)-  sam | krA/ma/~nti/ |
@@ -2451,9 +2451,9 @@ vai ricya+mAnA/(gm)/ ricya+mAnA/M ~Mvai vai ricya+mAnAm |
 3)	1.7.5.1(3)-  ricya+mAnAm | ya/j~jaH |
 ricya+mAnAM ~Mya/j~jO ya/j~jO ricya+mAnA/(gm)/ ricya+mAnAM ~Mya/j~jaH | 
 4)	1.7.5.1(4)-  ya/j~jaH | anu+ |
-ya/j~jO anvanu+ ya/j~jO ya/j~jO &nu+ | 
+ya/j~jO &nvanu+ ya/j~jO ya/j~jO &nu+ | 
 5)	1.7.5.1(5)-  anu+ | ri/cya/tE/ |
-anu+ ricyatE ricya/tE anvanu+ ricyatE | 
+anu+ ricyatE ricya/tE &nvanu+ ricyatE | 
 6)	1.7.5.1(6)-  ri/cya/tE/ | ya/j~jam |
 ri/cya/tE/ ya/j~jaM ~Mya/j~ja(gm) ri+cyatE ricyatE ya/j~jam | 
 7)	1.7.5.1(7)-  ya/j~jam | yaja+mAnaH |
@@ -2473,7 +2473,7 @@ A/pyAya+mAnAM ~Mya/j~jO ya/j~ja A/pyAya+mAnA mA/pyAya+mAnAM ~Mya/j~jaH |
 14)	1.7.5.1(12)-  A/pyAya+mAnAm |
 A/pyAya+mAnA/mityA% - pyAya+mAnAm | 
 15)	1.7.5.1(13)-  ya/j~jaH | anu+ |
-ya/j~jO anvanu+ ya/j~jO ya/j~jO &nu+ | 
+ya/j~jO &nvanu+ ya/j~jO ya/j~jO &nu+ | 
 16)	1.7.5.1(14)-  anu+ | A |
 anvA anvanvA | 
 17)	1.7.5.1(15)-  A | pyA/ya/tE/ |
@@ -2517,7 +2517,7 @@ A/pyAya+mAnAM ~Mya/j~jO ya/j~ja A/pyAya+mAnA mA/pyAya+mAnAM ~Mya/j~jaH |
 36)	1.7.5.1(32)-  A/pyAya+mAnAm | (G4S-1.7-17)
 A/pyAya+mAnA/mityA% - pyAya+mAnAm | 
 37)	1.7.5.1(33)-  ya/j~jaH | anu+ |
-ya/j~jO anvanu+ ya/j~jO ya/j~jO &nu+ | 
+ya/j~jO &nvanu+ ya/j~jO ya/j~jO &nu+ | 
 38)	1.7.5.1(34)-  anu+ | A |
 anvA anvanvA | 
 39)	1.7.5.1(35)-  A | pyA/ya/tE/ |
@@ -5072,7 +5072,7 @@ sAmrA%jyE/nEti/ sAM - rA/jyE/na/ |
 39)	1.7.10.3(35)-  a/Bi4 | si/~jcA/mi/ ||
 a/Bi4 Shi+~jcAmi si~jcAmya/B4ya+Bi4 Shi+~jcAmi | 
 40)	1.7.10.3(36)-  si/~jcA/mi/ ||
-si/~jcA/mI/ti+ si~jcAmi | 
+si/~jcA/mIti+ si~jcAmi | 
 1)	1.7.11.1(1)-  a/g3niH | EkA%kSharENa | (G4S-1.7-37)
 a/g3nirEkA%kSharE/NaikA%kSharENA/g3nira/g3nirEkA%kSharENa | 
 2)	1.7.11.1(2)-  EkA%kSharENa | vAca%m | (G4S-1.7-37)
@@ -5320,7 +5320,7 @@ stOma/ mudu3th2 stOma/(gg)/ stOma/ mut |
 59)	1.7.11.2(45)-  ut | a/ja/ya/t ||
 uda+3jayada3jaya/du3du3da+3jayat | 
 60)	1.7.11.2(46)-  a/ja/ya/t ||
-a/ja/ya/di/3tya+jayat | 
+a/ja/ya/di3tya+jayat | 
 1)	1.7.12.1(1)-  u/pa/yA/mag3Ru+hItaH | a/si/ | (G4S-1.7-40)
 u/pa/yA/mag3Ru+hItO &syasyupayA/mag3Ru+hIta upayA/mag3Ru+hItO &si | 
 2)	1.7.12.1(1)-  u/pa/yA/mag3Ru+hItaH | (G4S-1.7-40)
@@ -5462,7 +5462,7 @@ Urja/(gm)/ sa(gm) sa mUrja/ mUrja/(gm)/ sam |
 7)	1.7.12.2(6)-  sam | a/g3ra/BI/4m |
 sa ma+g3raBI4 mag3raBI/4(gm)/ sa(gm) sa ma+g3raBI4m | 
 8)	1.7.12.2(7)-  a/g3ra/BI/4m | E/ShaH |
-a/g3ra/BI/4 mE/ShaE/ShO%&g3raBI4 mag3raBI4 mE/ShaH | 
+a/g3ra/BI/4 mE/ShaE/ShO+ ag3raBI4 mag3raBI4 mE/ShaH | 
 9)	1.7.12.2(8)-  E/ShaH | tE/ |
 E/Sha tE+ ta E/Sha E/Sha tE% | 
 10)	1.7.12.2(9)-  tE/ | yOni+H |
