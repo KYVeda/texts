@@ -973,9 +973,9 @@ nArtiq mArtiqm na nArtiq mA &&rtiqm na nArtiq mA |
 (47)[P9] 5.4.3.1(42)-  Arti$m | A | RuqcCaqtiq |
 Artiq mA &&rtiq mArtiq mArcCa# tyRucCaq tyA&&rtiq mArtiq mArcCa#ti | 
 (48)[P9] 5.4.3.1(43)-  A | RuqcCaqtiq | aqddhvaqryuH |
-ArcCa# tyRucCaq tyArcCa# tyaddhvaqryu ra#ddhvaqryur.?? Ru#cCaq tyArcCa# tyaddhvaqryuH | 
+ArcCa# tyRucCaq tyArcCa# tyaddhvaqryu ra#ddhvaqryur. Ru#cCaq tyArcCa# tyaddhvaqryuH | 
 (49)[P9] 5.4.3.1(44)-  RuqcCaqtiq | aqddhvaqryuH | na |
-RuqcCaq tyaqddhvaqryu ra#ddhvaqryur.?? Ru#cCa tyRucCa tyaddhvaqryur na nAddhvaqryur.?? Ru#cCa tyRucCa tyaddhvaqryur na | 
+RuqcCaq tyaqddhvaqryu ra#ddhvaqryur. Ru#cCa tyRucCa tyaddhvaqryur na nAddhvaqryur. Ru#cCa tyRucCa tyaddhvaqryur na | 
 (50)[P9] 5.4.3.1(45)-  aqddhvaqryuH | na | yaja#mAnaH |
 aqddhvaqryur na nAddhvaqryu ra#ddhvaqryur na yaja#mAnoq yaja#mAnoq nAddhvaqryu ra#ddhvaqryur na yaja#mAnaH | 
 (51)[P9] 5.4.3.1(46)-  na | yaja#mAnaH | yat |
@@ -1210,11 +1210,11 @@ saqmAva#dvIryAn karoti karoti saqmAva#dvIryAn thsaqmAva#dvIryAn karoqtI yaqtIya#
 (53)[P11] 5.4.3.3(46)-  saqmAva#dvIryAn |
 saqmAva#dvIryAqniti# saqmAva#t - vIqryAqn | 
 (54)[P11] 5.4.3.3(47)-  kaqroqtiq | iya#ti | agre$ |
-kaqroqtIyaq tIya#ti karoti karoqtI yaqtyagre ??&graq iya#ti karoti karoqtI yaqtyagre$ | 
+kaqroqtIyaq tIya#ti karoti karoqtI yaqtyagre &graq iya#ti karoti karoqtI yaqtyagre$ | 
 (55)[P11] 5.4.3.3(48)-  iya#ti | agre$ | juqhoqtiq |
-iyaqtyagre ??&graq iyaqtI yaqtyagre# juhoti juhoq tyagraq iyaqtI yaqtyagre# juhoti | 
+iyaqtyagre &graq iyaqtI yaqtyagre# juhoti juhoq tyagraq iyaqtI yaqtyagre# juhoti | 
 (56)[P11] 5.4.3.3(49)-  agre$ | juqhoqtiq | atha# |
-agre# juhoti juhoq tyagre ??&gre# juhoqtya thAtha# juhoq tyagre ??&gre# juhoq tyatha# | 
+agre# juhoti juhoq tyagre &gre# juhoqtya thAtha# juhoq tyagre &gre# juhoq tyatha# | 
 (57)[P11] 5.4.3.3(50)-  juqhoqtiq | atha# | iya#ti |
 juqhoq tyathAtha# juhoti juhoq tyathe yaqtIyaq tyatha# juhoti juhoq tyathe ya#ti | 
 (1)[P12] 5.4.3.4(1)-  atha# | iya#ti | atha# | (GS-5.4-06)
@@ -1504,9 +1504,9 @@ aSma(gg)# ste teq aSmaqn-naSma(gg)# steq kShut kShut teq aSmaqn-naSma(gg)# steq 
 (50)[P14] 5.4.4.1(46)-  teq | kShut | aqmum | (JD-36,GS-5.4-08)
 teq kShut kShut te# teq kShudaqmu maqmum kShut te# teq kShudaqmum | 
 (51)[P14] 5.4.4.1(47)-  kShut | aqmum | teq | (JD-36,GS-5.4-08)
-kShudaqmu maqmum kShut kShudaqmum te# te ??aqmum kShut kShudaqmum te$ | 
+kShudaqmu maqmum kShut kShudaqmum te# te aqmum kShut kShudaqmum te$ | 
 (52)[P14] 5.4.4.1(48)-  aqmum | teq | Suk | (JD-36,GS-5.4-08)
-aqmum te# te ??aqmu maqmum teq Suk Cuk te# ??aqmu maqmum teq Suk | 
+aqmum te# te aqmu maqmum teq Suk Cuk te# aqmu maqmum teq Suk | 
 (53)[P14] 5.4.4.1(49)-  teq | Suk | RuqcCaqtuq |
 teq Suk Cuk te# teq SugRu#cCa tvRucCatuq Suk te# teq SugRu#cCatu | 
 (54)[P14] 5.4.4.1(50)-  Suk | RuqcCaqtuq | yam |
@@ -2630,7 +2630,7 @@ api# dadhAti dadhAq tyapyapi# dadhAq tyudud da#dhAq tyapyapi# dadhAq tyut |
 (42)[P24] 5.4.6.1(38)-  daqdhAqtiq | ut | uq |
 daqdhAq tyudud da#dhAti dadhAq tyudu# vuq vud da#dhAti dadhAq tyudu# | 
 (43)[P24] 5.4.6.1(39)-  ut | uq | tvAq |
-udu# vuq vududu# tvA tvaq?? vududu# tvA | 
+udu# vuq vududu# tvA tvaq vududu# tvA | 
 (44)[P24] 5.4.6.1(40)-  uq | tvAq | viSve$ | (JM-33)
 uq tvAq tvaq vuq tvAq viSveq viSve$ tva vu tvAq viSve$ | 
 (45)[P24] 5.4.6.1(41)-  tvAq | viSve$ | deqvAH | (JM-33)
@@ -3862,7 +3862,6 @@ praqjApa#tiqriti# praqjA - paqtiqH |
 praqjApa#teq rAptyAq Aptyai$ praqjApa#teH praqjApa#teq rAptyaiq nyU#nayAq nyU#naqyA &&ptyai$ praqjApa#teH praqjApa#teq rAptyaiq nyU#nayA | 
 (56)[P34] 5.4.7.5(50)-  praqjApa#teH |
 praqjApa#teqriti# praqjA - paqteqH | 
-xxxxx 29.30 min
 (1)[P35] 5.4.7.6(1)-  Aptyai$ | nyU#nayA | juqhoqtiq |
 Aptyaiq nyU#nayAq nyU#naqyA &&ptyAq Aptyaiq nyU#nayA juhoti juhotiq nyU#naqyA &&ptyAq Aptyaiq nyU#nayA juhoti | 
 (2)[P35] 5.4.7.6(2)-  nyU#nayA | juqhoqtiq | nyU#nAt |
@@ -3901,10 +3900,10 @@ deqveByoq nilA#yataq nilA#yata deqveByo# deqveByoq nilA#yataq sa sa nilA#yata de
 nilA#yataq sa sa nilA#yataq nilA#yataq sa diSoq diSaqH sa nilA#yataq nilA#yataq sa diSa#H | 
 (19)[P35] 5.4.7.6(14)-  saH | diSa#H | anu# |
 sa diSoq diSaqH sa sa diSo &nvanuq diSaqH sa sa diSo &nu# | 
-(20)[P35] 5.4.7.6(15)-  diSa#H | anu# | pra | check prANU??
-diSo &nvanuq diSoq diSo &nuq pra prAnuq diSoq diSo &nuq pra | 
+(20)[P35] 5.4.7.6(15)-  diSa#H | anu# | pra | 
+diSo &nvanuq diSoq diSo &nuq pra prANuq diSoq diSo &nuq pra | 
 (21)[P35] 5.4.7.6(16)-  anu# | pra | aqviqSaqt |
-anuq pra prAnvanuq prAvi#Sa daviSaqt prAnvanuq prAvi#Sat | 
+anuq pra prANvanuq prAvi#Sa daviSaqt prANvanuq prAvi#Sat | 
 (22)[P35] 5.4.7.6(17)-  pra | aqviqSaqt | juhva#t |
 prAvi#Sa daviSaqt pra prAvi#Saqj juhvaqj juhva# daviSaqt pra prAvi#Saqj juhva#t | 
 (23)[P35] 5.4.7.6(18)-  aqviqSaqt | juhva#t | mana#sA |
@@ -4054,7 +4053,7 @@ uqccair vai$SvAnaqrasya# vaiSvAnaqra syoqccai ruqccair vai$SvAnaqrasyA vai$SvAna
 (34)[P36] 5.4.7.7(30)-  vaiqSvAqnaqrasya# | A | SrAqvaqyaqtiq |
 vaiqSvAqnaqrasyA vai$SvAnaqrasya# vaiSvAnaqrasyA SrA#vayati SrAvayaqtyA vai$SvAnaqrasya# vaiSvAnaqrasyA SrA#vayati | 
 (35)[P36] 5.4.7.7(31)-  A | SrAqvaqyaqtiq | uqpAq(gm)qSu |
-A SrA#vayati SrAvayaqtyA SrA#vayatyupAq(gm)q SU#pAq(gm)qSu SrA#vayaqtyA SrA#vaya tyupAq(gm)qSu | 
+A SrA#vayati SrAvayaqtyA SrA#vaya tyupAq(gm)q SU#pAq(gm)qSu SrA#vayaqtyA SrA#vaya tyupAq(gm)qSu | 
 (36)[P36] 5.4.7.7(32)-  SrAqvaqyaqtiq | uqpAq(gm)qSu | mAqruqtAn |
 SrAqvaqyaqtyuq pAq(gm)qSU# pAq(gm)qSu SrA#vayati SrAvayatyu pAq(gm)qSu mA#ruqtAn mA#ruqtA-nu#pAq(gm)qSu SrA#vayati SrAvayatyu pAq(gm)qSu mA#ruqtAn | 
 (37)[P36] 5.4.7.7(33)-  uqpAq(gm)qSu | mAqruqtAn | juqhoqtiq |
@@ -4086,9 +4085,9 @@ vai deqvAnA$m deqvAnAqM ~Mvai vai deqvAnAqM ~MviSoq viSo# deqvAnAqM ~Mvai vai de
 (50)[P36] 5.4.7.7(45)-  deqvAnA$m | viSa#H | deqvaqviqSena# |
 deqvAnAqM ~MviSoq viSo# deqvAnA$m deqvAnAqM ~MviSo# devaviqSena# devaviqSenaq viSo# deqvAnA$m deqvAnAqM ~MviSo# devaviqSena# | 
 (51)[P36] 5.4.7.7(46)-  viSa#H | deqvaqviqSena# | eqva |
-viSo# devaviqSena# devaviqSenaq viSoq viSo# devaviqSenaiq vaiva de#vaviqSenaq viSoq viSo# devaviqSenaiqva | 
+viSo# devaviqSena# devaviqSenaq viSoq viSo# devaviqSe naiqvaiva de#vaviqSenaq viSoq viSo# devaviqSenaiqva | 
 (52)[P36] 5.4.7.7(47)-  deqvaqviqSena# | eqva | aqsmaiq |
-deqvaqviqSenaiq vaiva de#vaviqSena# devaviqSenaiq vAsmA# asmA eqva de#vaviqSena# devaviqSenaiq vAsmai$ | 
+deqvaqviqSe naiqvaiva de#vaviqSena# devaviqSe naiqvAsmA# asmA eqva de#vaviqSena# devaviqSe naiqvAsmai$ | 
 (53)[P36] 5.4.7.7(47)-  deqvaqviqSena# |
 deqvaqviqSeneti# deva - viqSena# | 
 (54)[P36] 5.4.7.7(48)-  eqva | aqsmaiq | maqnuqShyaqviqSam |
@@ -4130,7 +4129,7 @@ ruqndheq gaqNena# gaqNena# rundhe rundhe gaqNena# gaqNam gaqNam gaqNena# rundhe 
 (72)[P36] 5.4.7.7(63)-  gaqNena# | gaqNam | aqnuqdrutya# |
 gaqNena# gaqNam gaqNam gaqNena# gaqNena# gaqNa ma#nuqdrutyA# nuqdrutya# gaqNam gaqNena# gaqNena# gaqNa ma#nuqdrutya# | 
 (73)[P36] 5.4.7.7(64)-  gaqNam | aqnuqdrutya# | juqhoqtiq |
-gaqNa ma#nuqdrutyA# nuqdrutya# gaqNam gaqNa ma#nuqdrutya# juhoti juhotya nuqdrutya# gaqNam gaqNa ma#nuqdrutya# juhoti | 
+gaqNa ma#nuqdrutyA# nuqdrutya# gaqNam gaqNa ma#nuqdrutya# juhoti juho tyanuqdrutya# gaqNam gaqNa ma#nuqdrutya# juhoti | 
 (74)[P36] 5.4.7.7(65)-  aqnuqdrutya# | juqhoqtiq | viSa$m |
 aqnuqdrutya# juhoti juho tyanuqdrutyA# nuqdrutya# juhotiq viSaqM ~MviSa#m juho tyanuqdrutyA# nuqdrutya# juhotiq viSa$m | 
 (75)[P36] 5.4.7.7(65)-  aqnuqdrutya# |
@@ -4142,9 +4141,9 @@ viSa# meqvaiva viSaqM ~MviSa# meqvAsmA# asmA eqva viSaqM ~MviSa# meqvAsmai$ |
 (78)[P36] 5.4.7.7(68)-  eqva | aqsmaiq | anu#vartmAnam |
 eqvAsmA# asmA eqvai vAsmAq anu#vartmAnaq manu#vartmAna masmA eqvai vAsmAq anu#vartmAnam | 
 (79)[P36] 5.4.7.7(69)-  aqsmaiq | anu#vartmAnam | kaqroqtiq ||
-aqsmAq anu#vartmAnaq manu#vartmAna masmA asmAq anu#vartmAnam karoti karoq tyanu# vartmAna masmA asmAq anu#vartmAnam karoti | 
+aqsmAq anu#vartmAnaq manu#vartmAna masmA asmAq anu#vartmAnam karoti karoq tyanu#vartmAna masmA asmAq anu#vartmAnam karoti | 
 (80)[P36] 5.4.7.7(70)-  anu#vartmAnam | kaqroqtiq ||
-anu#vartmAnam karoti karoq tyanu# vartmAnaq manu#vartmAnam karoti | 
+anu#vartmAnam karoti karoq tyanu#vartmAnaq manu#vartmAnam karoti | 
 (81)[P36] 5.4.7.7(70)-  anu#vartmAnam |
 anu#vartmAnaqmityanu# - vaqrtmAqnaqm | 
 (82)[P36] 5.4.7.7(71)-  kaqroqtiq ||
@@ -4158,9 +4157,9 @@ juqhoqtiq vasoqr vaso$r juhoti juhotiq vaso$r me meq vaso$r juhoti juhotiq vaso$
 (4)[P37] 5.4.8.1(4)-  vaso$H | meq | dhArA$ |
 vaso$r me meq vasoqr vaso$r meq dhArAq dhArA# meq vasoqr vaso$r meq dhArA$ | 
 (5)[P37] 5.4.8.1(5)-  meq | dhArA$ | aqsaqt |
-meq dhArAq dhArA# me meq dhArA# &sadasaqd dhArA# me meq dhArA# &sat | 
+meq dhArAq dhArA# me meq dhArA# &sa dasaqd dhArA# me meq dhArA# &sat | 
 (6)[P37] 5.4.8.1(6)-  dhArA$ | aqsaqt | iti# |
-dhArA# &sadasaqd dhArAq dhArA# &saqdi tItya#saqd dhArAq dhArA# &saqditi# | 
+dhArA# &sa dasaqd dhArAq dhArA# &saqdi tItya#saqd dhArAq dhArA# &saqditi# | 
 (7)[P37] 5.4.8.1(7)-  aqsaqt | iti# | vai |
 aqsaq ditItya# sadasaq ditiq vai vA itya#sa dasaq ditiq vai | 
 (8)[P37] 5.4.8.1(8)-  iti# | vai | eqShA |
@@ -4176,7 +4175,7 @@ GRuqtasyaq vai vai GRuqtasya# GRuqtasyaq vA e#na menaqM ~Mvai GRuqtasya# GRuqtas
 (13)[P37] 5.4.8.1(13)-  vai | eqnaqm | eqShA | (GS-5.4-32)
 vA e#na menaqM ~Mvai vA e#na meqShaiShainaqM ~Mvai vA e#na meqShA | 
 (14)[P37] 5.4.8.1(14)-  eqnaqm | eqShA | dhArA$ | (GS-5.4-32)
-eqnaq meqShai Shaina# mena meqShA dhArAq dhAraiq Shaina# mena meqShA dhArA$ | 
+eqnaq meqShai Shaina# mena meqShA dhArAq dhAraiqShaina# mena meqShA dhArA$ | 
 (15)[P37] 5.4.8.1(15)-  eqShA | dhArA$ | aqmuShminn# | (GS-5.4-32)
 eqShA dhArAq dhAraiqShaiShA dhArAq &muShmi#n-naqmuShmiqn dhAraiqShaiShA dhArAq &muShminn# | 
 (16)[P37] 5.4.8.1(16)-  dhArA$ | aqmuShminn# | loqke | (GS-5.4-32)
@@ -4208,7 +4207,7 @@ vasoqr dhArAq dhArAq vasoqr vasoqr dhArAq teja#sAq teja#sAq dhArAq vasoqr vasoqr
 (29)[P37] 5.4.8.1(29)-  dhArA$ | teja#sA | eqva |
 dhArAq teja#sAq teja#sAq dhArAq dhArAq teja# saiqvaiva teja#sAq dhArAq dhArAq teja#saiqva | 
 (30)[P37] 5.4.8.1(30)-  teja#sA | eqva | aqsmaiq |
-teja# saiqvaiva teja#sAq teja#saiq vAsmA# asmA eqva teja#sAq teja# saiqvAsmai$ | 
+teja# saiqvaiva teja#sAq teja# saiqvAsmA# asmA eqva teja#sAq teja# saiqvAsmai$ | 
 (31)[P37] 5.4.8.1(31)-  eqva | aqsmaiq | teja#H |
 eqvAsmA# asmA eqvai vAsmaiq tejaq stejo$ &smA eqvai vAsmaiq teja#H | 
 (32)[P37] 5.4.8.1(32)-  aqsmaiq | teja#H | ava# |
@@ -4299,13 +4298,13 @@ aqnnAdyaq(gm)q sa(gm) sa maqnnAdya# maqnnAdyaq(gm)q sam ta#nuyAm tanuyAq(gm)q sa
 aqnnAdyaqmitya#nna - adya$m | 
 (22)[P38] 5.4.8.2(17)-  sam | taqnuqyAqm | iti# |
 sam ta#nuyAm tanuyAq(gm)q sa(gm) sam ta#nuyAq mitIti# tanuyAq(gm)q sa(gm) sam ta#nuyAq miti# | 
-(23)[P38] 5.4.8.2(18)-  taqnuqyAqm | iti# | santa#tAq |
-taqnuqyAq mitIti# tanuyAm tanuyAq mitiq santa#tAq santaqteti# tanuyAm tanuyAq mitiq santa#tAq | 
-(24)[P38] 5.4.8.2(19)-  iti# | santa#tAq | tasya# |
-itiq santa#tAq santaqte tItiq santa#tAq tasyaq tasyaq santaqte tItiq santa#tAq tasya# | 
-(25)[P38] 5.4.8.2(20)-  santa#tAq | tasya# | juqhuqyAqt |
-santa#tAq tasyaq tasyaq santa#tAq santa#tAq tasya# juhuyAj juhuyAqt tasyaq santa#tAq santa#tAq tasya# juhuyAt | 
-(26)[P38] 5.4.8.2(20)-  santa#tAq |
+(23)[P38] 5.4.8.2(18)-  taqnuqyAqm | iti# | santa#tAm |
+taqnuqyAq mitIti# tanuyAm tanuyAq mitiq santa#tAq(gm)q santa#tAq miti# tanuyAm tanuyAq mitiq santa#tAm | 
+(24)[P38] 5.4.8.2(19)-  iti# | santa#tAm | tasya# |
+itiq santa#tAq(gm)q santatAq mitItiq santa#tAqm tasyaq tasyaq santa#tAq mitItiq santa#tAqm tasya# | 
+(25)[P38] 5.4.8.2(20)-  santa#tAm | tasya# | juqhuqyAqt |
+santa#tAqm tasyaq tasyaq santa#tAq(gm)q santa#tAqm tasya# juhuyAj juhuyAqt tasyaq santa#tAq(gm)q santa#tAqm tasya# juhuyAt | 
+(26)[P38] 5.4.8.2(20)-  santa#tAm |
 santa#tAqmitiq saM - taqtAqm | 
 (27)[P38] 5.4.8.2(21)-  tasya# | juqhuqyAqt | prAqNAn |
 tasya# juhuyAj juhuyAqt tasyaq tasya# juhuyAt prAqNAn prAqNAn ju#huyAqt tasyaq tasya# juhuyAt prAqNAn | 
@@ -4338,7 +4337,7 @@ dvAda#Saq mAsAq mAsAq dvAda#Saq dvAda#Saq mAsA$H saM~MvathsaqraH sa#M~Mvathsaqro
 (41)[P38] 5.4.8.2(33)-  mAsA$H | saqM~MvaqthsaqraH | saqM~MvaqthsaqreNa# |
 mAsA$H saM~MvathsaqraH sa#M~Mvathsaqro mAsAq mAsA$H saM~MvathsaqraH sa#M~MvathsaqreNa# saM~MvathsaqreNa# saM~Mvathsaqro mAsAq mAsA$H saM~MvathsaqraH sa#M~MvathsaqreNa# | 
 (42)[P38] 5.4.8.2(34)-  saqM~MvaqthsaqraH | saqM~MvaqthsaqreNa# | eqva |
-saqM~MvaqthsaqraH sa#M~MvathsaqreNa# saM~MvathsaqreNa# saM~MvathsaqraH sa#M~MvathsaqraH sa#M~MvathsaqreNaiqvaiva sa#M~MvathsaqreNa# saM~MvathsaqraH sa#M~MvathsaqraH sa#M~MvathsaqreNaiqva | 
+saqM~MvaqthsaqraH sa#M~MvathsaqreNa# saM~MvathsaqreNa# saM~MvathsaqraH sa#M~MvathsaqraH sa#M~Mvathsaqre Naiqvaiva sa#M~MvathsaqreNa# saM~MvathsaqraH sa#M~MvathsaqraH sa#M~MvathsaqreNaiqva | 
 (43)[P38] 5.4.8.2(34)-  saqM~MvaqthsaqraH |
 saqM~Mvaqthsaqra iti# saM - vaqthsaqraH | 
 (44)[P38] 5.4.8.2(35)-  saqM~MvaqthsaqreNa# | eqva | aqsmaiq |
@@ -4366,7 +4365,7 @@ akShu#c caq cAkShuq dakShu#c ca me meq cAkShuq dakShu#c ca me |
 (55)[P38] 5.4.8.2(45)-  caq | meq | iti# |
 caq meq meq caq caq maq itIti# me ca ca maq iti# | 
 (56)[P38] 5.4.8.2(46)-  meq | iti# | Aqhaq |
-maq itIti# me maq ityA#hAqhe ti# me maq ityA#ha | 
+maq itIti# me maq ityA#hAqheti# me maq ityA#ha | 
 (57)[P38] 5.4.8.2(47)-  iti# | Aqhaq | eqtat |
 ityA#hAqhe tItyA#haiq tadeq tadAqhe tItyA# haiqtat | 
 (58)[P38] 5.4.8.2(48)-  Aqhaq | eqtat | vai |
@@ -4412,7 +4411,7 @@ vA annaqsyA nna#syaq vai vA anna#syaq yoniqr yoniq ranna#syaq vai vA anna#syaq y
 (18)[P39] 5.4.8.3(18)-  anna#sya | yoni#H | sayo#ni |
 anna#syaq yoniqr yoniq rannaqsyA nna#syaq yoniqH sayo#niq sayo#niq yoniq rannaqsyA nna#syaq yoniqH sayo#ni | 
 (19)[P39] 5.4.8.3(19)-  yoni#H | sayo#ni | eqva |
-yoniqH sayo#niq sayo#niq yoniqr yoniqH sayo$nyeq vaiva sayo#niq yoniqr yoniqH sayo$nyeqva | 
+yoniqH sayo#niq sayo#niq yoniqr yoniqH sayo$nyeqvaiva sayo#niq yoniqr yoniqH sayo$nyeqva | 
 (20)[P39] 5.4.8.3(20)-  sayo#ni | eqva | anna$m |
 sayo$ nyeqvaiva sayo#niq sayo$ nyeqvAnnaq manna# meqva sayo#niq sayo$ nyeqvAnna$m | 
 (21)[P39] 5.4.8.3(20)-  sayo#ni |
@@ -4488,7 +4487,7 @@ yaqj~jo vai vai yaqj~jo yaqj~jo vai ya#j~jAyuqdhAni# yaj~jAyuqdhAniq vai yaqj~jo
 (1)[P40] 5.4.8.4(1)-  vai | yaqj~jAqyuqdhAni# | yaqj~jam |
 vai ya#j~jAyuqdhAni# yaj~jAyuqdhAniq vai vai ya#j~jAyuqdhAni# yaqj~jaM ~Myaqj~jaM ~Mya#j~jAyuqdhAniq vai vai ya#j~jAyuqdhAni# yaqj~jam | 
 (2)[P40] 5.4.8.4(2)-  yaqj~jAqyuqdhAni# | yaqj~jam | eqva |
-yaqj~jAqyuqdhAni# yaqj~jaM ~Myaqj~jaM ~Mya#j~jAyuqdhAni# yaj~jAyuqdhAni# yaqj~ja meq vaiva yaqj~jaM ~Mya#j~jAyuqdhAni# yaj~jAyuqdhAni# yaqj~ja meqva | 
+yaqj~jAqyuqdhAni# yaqj~jaM ~Myaqj~jaM ~Mya#j~jAyuqdhAni# yaj~jAyuqdhAni# yaqj~ja meqvaiva yaqj~jaM ~Mya#j~jAyuqdhAni# yaj~jAyuqdhAni# yaqj~ja meqva | 
 (3)[P40] 5.4.8.4(2)-  yaqj~jAqyuqdhAni# |
 yaqj~jAqyuqdhAnIti# yaj~ja - AqyuqdhAni# | 
 (4)[P40] 5.4.8.4(3)-  yaqj~jam | eqva | ava# |
@@ -4518,11 +4517,11 @@ eqva yaqj~jaM ~Myaqj~ja meqvaiva yaqj~ja mavAva# yaqj~ja meqvaiva yaqj~ja mava# 
 (16)[P40] 5.4.8.4(14)-  yaqj~jam | ava# | ruqndheq |
 yaqj~ja mavAva# yaqj~jaM ~Myaqj~ja mava# rundhe ruqndhe &va# yaqj~jaM ~Myaqj~ja mava# rundhe | 
 (17)[P40] 5.4.8.4(15)-  ava# | ruqndheq | aqvaqBRuqthaH |
-ava# rundhe ruqndhe &vAva# rundhe &vaBRuqtho ??a#vaBRuqtho ruqndhe &vAva# rundhe &vaBRuqthaH | 
+ava# rundhe ruqndhe &vAva# rundhe &vaBRuqtho# &vaBRuqtho ruqndhe &vAva# rundhe &vaBRuqthaH | 
 (18)[P40] 5.4.8.4(16)-  ruqndheq | aqvaqBRuqthaH | caq |
-ruqndheq &vaqBRuqtho ??a#vaBRuqtho ru#ndhe rundhe &vaBRuqthaSca# cAvaBRuqtho ru#ndhe rundhe &vaBRuqthaSca# | 
+ruqndheq &vaqBRuqtho# &vaBRuqtho ru#ndhe rundhe &vaBRuqthaSca# cAvaBRuqtho ru#ndhe rundhe &vaBRuqthaSca# | 
 (19)[P40] 5.4.8.4(17)-  aqvaqBRuqthaH | caq | meq |
-aqvaqBRuqthaSca# cAvaBRuqtho ??a#vaBRuqthaSca# me me cAvaBRuqtho ??a#vaBRuqthaSca# me | 
+aqvaqBRuqthaSca# cAvaBRuqtho# &vaBRuqthaSca# me me cAvaBRuqtho# &vaBRuqthaSca# me | 
 (20)[P40] 5.4.8.4(17)-  aqvaqBRuqthaH |
 aqvaqBRuqtha itya#va - BRuqthaH | 
 (21)[P40] 5.4.8.4(18)-  caq | meq | svaqgAqkAqraH |
@@ -4558,7 +4557,7 @@ caq meq meq caq caq maq itIti# me ca ca maq iti# |
 (36)[P40] 5.4.8.4(31)-  meq | iti# | Aqhaq |
 maq itIti# me maq ityA# hAqheti# me maq ityA#ha | 
 (37)[P40] 5.4.8.4(32)-  iti# | Aqhaq | eqtat |
-ityA#hAqhe tItyA# haiqtadeq tadAqhe tItyA# haiqtat | 
+ityA#hAqhe tItyA# haiqta deqtadAqhe tItyA# haiqtat | 
 (38)[P40] 5.4.8.4(33)-  Aqhaq | eqtat | vai |
 Aqhaiqta deqta dA#hA haiqtad vai vA eqta dA#hA haiqtad vai | 
 (39)[P40] 5.4.8.4(34)-  eqtat | vai | braqhmaqvaqrcaqsasya# |
@@ -4570,7 +4569,7 @@ braqhmaqvaqrcaqsasya# rUqpa(gm) rUqpam bra#hmavarcaqsasya# brahmavarcaqsasya# rU
 (42)[P40] 5.4.8.4(36)-  braqhmaqvaqrcaqsasya# |
 braqhmaqvaqrcaqsasyeti# brahma - vaqrcaqsasya# | 
 (43)[P40] 5.4.8.4(37)-  rUqpam | rUqpeNa# | eqva |
-rUqpa(gm) rUqpeNa# rUqpeNa# rUqpa(gm) rUqpa(gm) rUqpeNaiq vaiva rUqpeNa# rUqpa(gm) rUqpa(gm) rUqpeNaiqva | 
+rUqpa(gm) rUqpeNa# rUqpeNa# rUqpa(gm) rUqpa(gm) rUqpeNaiqvaiva rUqpeNa# rUqpa(gm) rUqpa(gm) rUqpeNaiqva | 
 (44)[P40] 5.4.8.4(38)-  rUqpeNa# | eqva | braqhmaqvaqrcaqsam |
 rUqpeNaiq vaiva rUqpeNa# rUqpeNaiqva bra#hmavarcaqsam bra#hmavarcaqsa meqva rUqpeNa# rUqpeNaiqva bra#hmavarcaqsam | 
 (45)[P40] 5.4.8.4(39)-  eqva | braqhmaqvaqrcaqsam | ava# |
@@ -4596,7 +4595,7 @@ caq meq meq caq caq maq itIti# me ca ca maq iti# |
 (55)[P40] 5.4.8.4(48)-  meq | iti# | Aqhaq | (GS-5.4-28)
 maq itIti# me maq ityA# hAqheti# me maq ityA#ha | 
 (56)[P40] 5.4.8.4(49)-  iti# | Aqhaq | eqtat | (GS-5.4-28)
-ityA#hAqhe tItyA# haiqtadeq tadAqhe tItyA#haiqtat | 
+ityA#hAqhe tItyA# haiqta deqtadAqhe tItyA#haiqtat | 
 (57)[P40] 5.4.8.4(50)-  Aqhaq | eqtat | vai | (GS-5.4-28)
 Aqhaiq tadeq tadA#hA haiqtad vai vA eqtadA#hA haiqtad vai | 
 (1)[P41] 5.4.8.5(1)-  eqtat | vai | Canda#sAm | (GS-5.4-28)
@@ -4610,7 +4609,7 @@ rUqpa(gm) rUqpeNa# rUqpeNa# rUqpa(gm) rUqpa(gm) rUqpe Naiqvaiva rUqpeNa# rUqpa(g
 (5)[P41] 5.4.8.5(5)-  rUqpeNa# | eqva | CandA(gm)#si | (GS-5.4-33)
 rUqpeNaiqvaiva rUqpeNa# rUqpeNaiqva CandA(gm)#siq CandA(gg)#syeqva rUqpeNa# rUqpeNaiqva CandA(gm)#si | 
 (6)[P41] 5.4.8.5(6)-  eqva | CandA(gm)#si | ava# | (GS-5.4-33)
-eqva CandA(gm)#siq CandA(gg)# syeqvaiva cCandA(gm)#siqda vAvaq cCandA(gg)# syeqvaiva cCandA(gm)#siqda va# | 
+eqva CandA(gm)#siq CandA(gg)# syeqvaiva cCandA(gg)q syavAvaq cCandA(gg)# syeqvaiva cCandA(gm)#siqda va# | 
 (7)[P41] 5.4.8.5(7)-  CandA(gm)#si | ava# | ruqndheq | (GS-5.4-33)
 CandA(gg)qsyava vAvaq cCandA(gm)#siq CandA(gg)qsyava# rundhe ruqndhe &vaq cCandA(gm)#siq 
 CandA(gg)qsyava# rundhe | 
@@ -4631,7 +4630,7 @@ caq meq meq caq caq maq itIti# me ca ca maq iti# |
 (15)[P41] 5.4.8.5(15)-  meq | iti# | Aqhaq |
 maq itIti# me maq ityA# hAqheti# me maq ityA#ha | 
 (16)[P41] 5.4.8.5(16)-  iti# | Aqhaq | eqtat |
-ityA# hAqhe tItyA#haiq tadeq tadAqhe tItyA# haiqtat | 
+ityA# hAqhe tItyA# haiqta deqtadAqhe tItyA# haiqtat | 
 (17)[P41] 5.4.8.5(17)-  Aqhaq | eqtat | vai |
 Aqhaiq tadeq tadA#hA haiqtad vai vA eqta dA#hA haiqtad vai | 
 (18)[P41] 5.4.8.5(18)-  eqtat | vai | paqSUqnAm |
@@ -4666,9 +4665,9 @@ yuqgmaqdaqyuqje ju#hoti juhoti yugmadayuqje yu#gmadayuqje ju#hoti mithunaqtvAya#
 (32)[P41] 5.4.8.5(31)-  yuqgmaqdaqyuqje |
 yuqgmaqdaqyuqje iti# yugmat - aqyuqje | 
 (33)[P41] 5.4.8.5(32)-  juqhoqtiq | miqthuqnaqtvAya# | uqttaqrAva#tI |
-juqhoqtiq miqthuqnaqtvAya# mithunaqtvAya# juhoti juhoti mithunaqtvAyo$ ttaqrAva#tI uttaqrAva#tI mithunaqtvAya# juhoti juhoti mithunaqtvAyo$ ttaqrAva#tI | 
+juqhoqtiq miqthuqnaqtvAya# mithunaqtvAya# juhoti juhoti mithunaqtvA yo$ttaqrAva#tI uttaqrAva#tI mithunaqtvAya# juhoti juhoti mithunaqtvA yo$ttaqrAva#tI | 
 (34)[P41] 5.4.8.5(33)-  miqthuqnaqtvAya# | uqttaqrAva#tI | BaqvaqtaqH |
-miqthuqnaqtvAyo$ ttaqrAva#tI uttaqrAva#tI mithunaqtvAya# mithunaqtvAyo$ ttaqrAva#tI Bavato Bavata uttaqrAva#tI mithunaqtvAya# mithunaqtvAyo$ ttaqrAva#tI BavataH | 
+miqthuqnaqtvA yo$ttaqrAva#tI uttaqrAva#tI mithunaqtvAya# mithunaqtvA yo$ttaqrAva#tI Bavato Bavata uttaqrAva#tI mithunaqtvAya# mithunaqtvA yo$ttaqrAva#tI BavataH | 
 (35)[P41] 5.4.8.5(33)-  miqthuqnaqtvAya# |
 miqthuqnaqtvAyeti# mithuna - tvAya# | 
 (36)[P41] 5.4.8.5(34)-  uqttaqrAva#tI | BaqvaqtaqH | aqBikrA$ntyai |
@@ -4917,13 +4916,13 @@ BAqgaqdheyeqneti# BAga - dheye#na |
 (43)[P43] 5.4.9.1(38)-  sam | aqrddhaqyaqtiq | atho$ |
 sa ma#rddhaya tyarddhayatiq sa(gm) sa ma#rddhayaq tyathoq atho# arddhayatiq sa(gm) sa ma#rddhayaq tyatho$ | 
 (44)[P43] 5.4.9.1(39)-  aqrddhaqyaqtiq | atho$ | aqBiqSheqkaH |
-aqrddhaqyaqtyathoq atho# arddhayatya rddhayaq tyatho# aBiSheqko ??a#BiSheqko &tho# arddhayatya rddhayaq tyatho# aBiSheqkaH | 
+aqrddhaqyaq tyathoq atho# arddhaya tyarddhayaq tyatho# aBiSheqko# &BiSheqko &tho# arddhayatya rddhayaq tyatho# aBiSheqkaH | 
 (45)[P43] 5.4.9.1(40)-  atho$ | aqBiqSheqkaH | eqva |
-atho# aBiSheqko ??a#BiSheqko &thoq atho# aBiSheqka eqvai vABi#Sheqko &thoq atho# aBiSheqka eqva | 
+atho# aBiSheqko# &BiSheqko &thoq atho# aBiSheqka eqvai vABi#Sheqko &thoq atho# aBiSheqka eqva | 
 (46)[P43] 5.4.9.1(40)-  atho$ |
 athoq ityatho$ | 
 (47)[P43] 5.4.9.1(41)-  aqBiqSheqkaH | eqva | aqsyaq |
-aqBiqSheqka eqvai vABi#Sheqko ??a#BiSheqka eqvA syA$syaiq vABi#Sheqko ??a#BiSheqka eqvAsya# | 
+aqBiqSheqka eqvai vABi#Sheqko# &BiSheqka eqvA syA$syaiq vABi#Sheqko# &BiSheqka eqvAsya# | 
 (48)[P43] 5.4.9.1(41)-  aqBiqSheqkaH |
 aqBiqSheqka itya#Bi - seqkaH | 
 (49)[P43] 5.4.9.1(42)-  eqva | aqsyaq | saH |
@@ -4941,9 +4940,9 @@ juqhoqtiq saqpta saqpta ju#hoti juhoti saqpta grAqmyA grAqmyAH saqpta ju#hoti ju
 (55)[P43] 5.4.9.1(47)-  saqpta | grAqmyAH | oSha#dhayaH |
 saqpta grAqmyA grAqmyAH saqpta saqpta grAqmyA oSha#dhayaq oSha#dhayo grAqmyAH saqpta saqpta grAqmyA oSha#dhayaH | 
 (56)[P43] 5.4.9.1(48)-  grAqmyAH | oSha#dhayaH | saqpta |
-grAqmyA oSha#dhayaq oSha#dhayo grAqmyA grAqmyA oSha#dhayaH saqpta saqptau Sha#dhayo grAqmyA grAqmyA oSha#dhayaH saqpta | 
+grAqmyA oSha#dhayaq oSha#dhayo grAqmyA grAqmyA oSha#dhayaH saqpta saqptauSha#dhayo grAqmyA grAqmyA oSha#dhayaH saqpta | 
 (57)[P43] 5.4.9.1(49)-  oSha#dhayaH | saqpta | AqraqNyAH |
-oSha#dhayaH saqpta saqptau Sha#dhayaq oSha#dhayaH saqptAraqNyA A#raqNyAH saqptau Sha#dhayaq oSha#dhayaH saqptAraqNyAH | 
+oSha#dhayaH saqpta saqptauSha#dhayaq oSha#dhayaH saqptAraqNyA A#raqNyAH saqptauSha#dhayaq oSha#dhayaH saqptAraqNyAH | 
 (58)[P43] 5.4.9.1(50)-  saqpta | AqraqNyAH | uqBayI#ShAm |
 saqptAraqNyA A#raqNyAH saqpta saqptAraqNyA uqBayI#ShA muqBayI#ShA mAraqNyAH saqpta saqptAraqNyA uqBayI#ShAm | 
 (1)[P44] 5.4.9.2(1)-  AqraqNyAH | uqBayI#ShAm | ava#ruddhyai |
@@ -4961,15 +4960,17 @@ anna#syAnnaqsyetyanna#sya - aqnnaqsyaq |
 (7)[P44] 5.4.9.2(5)-  juqhoqtiq | anna#syAnnasya | ava#ruddhyai |
 juqhoq tyanna#syAnnaqsyA nna#syAnnasya juhoti juhoq tyanna#syAnnaqsyA va#ruddhyAq ava#ruddhyAq anna#syAnnasya juhoti juhoq tyanna#syAnnaqsyA va#ruddhyai | 
 (8)[P44] 5.4.9.2(6)-  anna#syAnnasya | ava#ruddhyai | audu#MbareNa |
-anna#syAnnaqsyA va#ruddhyAq ava#ruddhyAq anna#syAnnaqsyA nna#syAnnaqsyA va#ruddhyAq audu#MbareqNau du#MbareqNA va#ruddhyAq anna#syAnnaqsyA nna#syAnnaqsyA va#ruddhyAq audu#MbareNa | 
+anna#syAnnaqsyA va#ruddhyAq ava#ruddhyAq anna#syAnnaqsyA nna#syAnnaqsyA va#ruddhyAq audu#Mbareq
+Naudu#MbareqNA va#ruddhyAq anna#syAnnaqsyA nna#syAnnaqsyA va#ruddhyAq audu#MbareNa | 
 (9)[P44] 5.4.9.2(6)-  anna#syAnnasya |
 anna#syAnnaqsyetyanna#sya - aqnnaqsyaq | 
 (10)[P44] 5.4.9.2(7)-  ava#ruddhyai | audu#MbareNa | sruqveNa# |
-ava#ruddhyAq audu#MbareqNau du#MbareqNA va#ruddhyAq ava#ruddhyAq audu#MbareNa sruqveNa# sruqveNaudu#MbareqNA va#ruddhyAq ava#ruddhyAq audu#MbareNa sruqveNa# | 
+ava#ruddhyAq audu#Mbareq Naudu#MbareqNA va#ruddhyAq ava#ruddhyAq audu#MbareNa sruqveNa# sruqveNaudu#MbareqNA va#ruddhyAq ava#ruddhyAq audu#MbareNa sruqveNa# | 
 (11)[P44] 5.4.9.2(7)-  ava#ruddhyai |
 ava#ruddhyAq ityava# - ruqddhyaiq | 
 (12)[P44] 5.4.9.2(8)-  audu#MbareNa | sruqveNa# | juqhoqtiq |
-audu#MbareNa sruqveNa# sruqveNau du#MbareqNau du#MbareNa sruqveNa# juhoti juhoti sruqveNau du#MbareqNau du#MbareNa sruqveNa# juhoti | 
+audu#MbareNa sruqveNa# sruqve Naudu#Mbareq Naudu#MbareNa sruqveNa# juhoti juhoti sruqve Naudu#Mbareq
+Naudu#MbareNa sruqveNa# juhoti | 
 (13)[P44] 5.4.9.2(9)-  sruqveNa# | juqhoqtiq | Urk |
 sruqveNa# juhoti juhoti sruqveNa# sruqveNa# juhoq tyUrgUrg ju#hoti sruqveNa# sruqveNa# juhoq tyUrk | 
 (14)[P44] 5.4.9.2(10)-  juqhoqtiq | Urk | vai |
@@ -5039,7 +5040,7 @@ annaq manna$m |
 (46)[P44] 5.4.9.2(38)-  anna$m | iqvaq | Kalu# | (GS-5.4-29)
 anna# miveq vAnnaq manna# mivaq Kaluq KalviqvAnnaq manna# mivaq Kalu# | 
 (47)[P44] 5.4.9.2(39)-  iqvaq | Kalu# | vai | (GS-5.4-29)
-iqvaq Kaluq Kalvi#ve vaq Kaluq vai vai Kalvi#vevaq Kaluq vai | 
+iqvaq Kaluq Kalvi#vevaq Kaluq vai vai Kalvi#vevaq Kaluq vai | 
 (48)[P44] 5.4.9.2(40)-  Kalu# | vai | vaqrq.Sham | (GS-5.4-29)
 Kaluq vai vai Kaluq Kaluq vai vaqrq.ShaM ~Mvaqrq.ShaM ~Mvai Kaluq Kaluq vai vaqrq.Sham | 
 (49)[P44] 5.4.9.2(41)-  vai | vaqrq.Sham | yat | (GS-5.4-29)
@@ -5067,20 +5068,21 @@ aqnnAdyaqmitya#nna - adya$m |
 (60)[P44] 5.4.9.2(49)-  eqva | aqBi | uqpAva#rtate | (GS-5.4-30)
 eqvAByA$(1q)Bye#vai vAByu# pAva#rtata uqpAva#rtateq &Bye#vai vAByu# pAva#rtate | 
 (61)[P44] 5.4.9.2(50)-  aqBi | uqpAva#rtate | naktoqShAsA$ | (GS-5.4-30)
-aqByu#pAva#rtata uqpAva#rtateq &ByA$(1q)Byu# pAva#rtateq naktoqShAsAq naktoqShAsoq pAva#rtateq &ByA$(1q)Byu#pAva#rtateq naktoqShAsA$ | 
+aqByu#pAva#rtata uqpAva#rtateq &ByA$(1q)Byu# pAva#rtateq naktoqShAsAq naktoqShA soqpAva#rtateq &ByA$(1q)Byu#pAva#rtateq naktoqShAsA$ | 
 (1)[P45] 5.4.9.3(1)-  uqpAva#rtate | naktoqShAsA$ | iti# | (GS-5.4-30) 
-uqpAva#rtateq naktoqShAsAq naktoqShAsoq pAva#rtata uqpAva#rtateq naktoqShAse tItiq naktoqShAsoq pAva#rtata uqpAva#rtateq naktoqShAseti# | 
+uqpAva#rtateq naktoqShAsAq naktoqShA soqpAva#rtata uqpAva#rtateq naktoqShAse tItiq naktoqShA soqpAva#rtata uqpAva#rtateq naktoqShAseti# | 
 (2)[P45] 5.4.9.3(1)-  uqpAva#rtate | (GS-5.4-30)
 uqpAva#rtataq ityu#pa - Ava#rtate | 
 (3)[P45] 5.4.9.3(2)-  naktoqShAsA$ | iti# | kRuqShNAyai$ |
 naktoqShAsetItiq naktoqShAsAq naktoqShAseti# kRuqShNAyai# kRuqShNAyAq itiq naktoqShAsAq naktoqShAseti# kRuqShNAyai$ | 
-(4)[P45] 5.4.9.3(3)-  iti# | kRuqShNAyai$ | Sveqtava#thsAyaq |
-iti# kRuqShNAyai# kRuqShNAyAq itIti# kRuqShNAyai$ Sveqtava#thsAyaq Sveqtava#thsAyaq kRuqShNAyAq itIti# kRuqShNAyai$ Sveqtava#thsAyaq | 
-(5)[P45] 5.4.9.3(4)-  kRuqShNAyai$ | Sveqtava#thsAyaq | paya#sA |
-kRuqShNAyai$ Sveqtava#thsAyaq Sveqtava#thsAyaq kRuqShNAyai# kRuqShNAyai$ Sveqtava#thsAyaq paya#sAq paya#sA Sveqtava#thsAyaq kRuqShNAyai# kRuqShNAyai$ Sveqtava#thsAyaq paya#sA | 
-(6)[P45] 5.4.9.3(5)-  Sveqtava#thsAyaq | paya#sA | juqhoqtiq |
-Sveqtava#thsAyaq paya#sAq paya#sA Sveqtava#thsAyaq Sveqtava#thsAyaq paya#sA juhoti juhotiq paya#sA Sveqtava#thsAyaq Sveqtava#thsAyaq paya#sA juhoti | 
-(7)[P45] 5.4.9.3(5)-  Sveqtava#thsAyaq |
+(4)[P45] 5.4.9.3(3)-  iti# | kRuqShNAyai$ | Sveqtava#thsAyai |
+iti# kRuqShNAyai# kRuqShNAyAq itIti# kRuqShNAyai$ Sveqtava#thsAyai Sveqtava#thsAyai kRuqShNAyAq itIti# 
+kRuqShNAyai$ Sveqtava#thsAyai | 
+(5)[P45] 5.4.9.3(4)-  kRuqShNAyai$ | Sveqtava#thsAyai | paya#sA |
+kRuqShNAyai$ Sveqtava#thsAyai Sveqtava#thsAyai kRuqShNAyai# kRuqShNAyai$ Sveqtava#thsAyaiq paya#sAq paya#sA Sveqtava#thsAyai kRuqShNAyai# kRuqShNAyai$ Sveqtava#thsAyaiq paya#sA | 
+(6)[P45] 5.4.9.3(5)-  Sveqtava#thsAyai | paya#sA | juqhoqtiq |
+Sveqtava#thsAyaiq paya#sAq paya#sA Sveqtava#thsAyai Sveqtava#thsAyaiq paya#sA juhoti juhotiq paya#sA Sveqtava#thsAyai Sveqtava#thsAyaiq paya#sA juhoti | 
+(7)[P45] 5.4.9.3(5)-  Sveqtava#thsAyai |
 Sveqtava#thsAyAq iti# Sveqta - vaqthsAqyaiq | 
 (8)[P45] 5.4.9.3(6)-  paya#sA | juqhoqtiq | ahnA$ |
 paya#sA juhoti juhotiq paya#sAq paya#sA juhoq tyahnA &hnA# juhotiq paya#sAq paya#sA juhoq tyahnA$ | 
@@ -5151,7 +5153,7 @@ vA Ruqtava# Ruqtavoq vai vA Ruqtava# RuqtuSh-vRuqtuSh-vRuqtavoq vai vA Ruqtava# 
 (41)[P45] 5.4.9.3(33)-  Ruqtava#H | RuqtuShu# | eqva |
 Ruqtava# RuqtuSh-vRuqtuSh-vRuqtava# Ruqtava# Ruqtu Shveqvaiva r^^tuSh vRuqtava# Ruqtava# Ruqtu Shveqva | 
 (42)[P45] 5.4.9.3(34)-  RuqtuShu# | eqva | prati# |
-Ruqtu Shveqvaiva r^^tuShvRuq-tuShveqva pratiq pratyeqva r^^tuShvRuq-tuShveqva prati# | 
+Ruqtu Shveqvaiva r^^tu ShvRuqtu Shveqva pratiq pratyeqva r^^tu ShvRuqtu Shveqva prati# | 
 (43)[P45] 5.4.9.3(35)-  eqva | prati# | tiqShThaqtiq |
 eqva pratiq pratyeq vaiva prati# tiShThati tiShThatiq pratyeq vaiva prati# tiShThati | 
 (44)[P45] 5.4.9.3(36)-  prati# | tiqShThaqtiq | Buva#nasya |
@@ -5297,7 +5299,7 @@ Ahu#tI ravaqkalpa#te &vaqkalpa#taq Ahu#tIq rAhu#tI ravaqkalpa#te |
 (54)[P46] 5.4.9.4(51)-  Ahu#tIH |
 Ahu#tiqrityA - huqtiqH | 
 (55)[P46] 5.4.9.4(52)-  aqvaqkalpa#te ||
-aqvaqkalpa#taq itya#va - kalpa#te | 
+aqvaqkalpa#taq itya#va - kalpa#te |
 (1)[P47] 5.4.10.1(1)-  suqvaqrgAya# | vai | loqkAya# | 
 suqvaqrgAyaq vai vai su#vaqrgAya# suvaqrgAyaq vai loqkAya# loqkAyaq vai su#vaqrgAya# suvaqrgAyaq vai loqkAya# | 
 (2)[P47] 5.4.10.1(1)-  suqvaqrgAya# |
@@ -5421,9 +5423,9 @@ prAqtaqssaqvaqne$(1q) &Bya#Bi prA#tassavaqne prA#tassavaqne# &Bi mRu#Sati mRuSa 
 (61)[P47] 5.4.10.1(47)-  prAqtaqssaqvaqne | (GS-5.4-36)
 prAqtaqssaqvaqna iti# prAtaH - saqvaqne | 
 (62)[P47] 5.4.10.1(48)-  aqBi | mRuqSaqtiq | triqvRut | (GS-5.4-36)
-aqBi mRu#Sati mRuSa tyaqBya#Bi mRu#Sati triqvRut triqvRun mRu#Sa tyaqBya#Bi mRu#Sati triqvRut | 
+aqBi mRu#Sati mRuSa tyaqBya#Bi mRu#Sati triqvRut triqvRun?? mRu#Sa tyaqBya#Bi mRu#Sati triqvRut | 
 (63)[P47] 5.4.10.1(49)-  mRuqSaqtiq | triqvRut | vai | (GS-5.4-36)
-mRuqSaqtiq triqvRut triqvRun mRu#Sati mRuSati triqvRud vai vai triqvRun mRu#Sati mRuSati triqvRud vai | 
+mRuqSaqtiq triqvRut triqvRun?? mRu#Sati mRuSati triqvRud vai vai triqvRun?? mRu#Sati mRuSati triqvRud vai | 
 (64)[P47] 5.4.10.1(50)-  triqvRut | vai | aqgniH |
 triqvRud vai vai triqvRut triqvRud vA aqgni raqgnir vai triqvRut triqvRud vA aqgniH | 
 (65)[P47] 5.4.10.1(50)-  triqvRut |
@@ -5437,7 +5439,7 @@ yAvA#-neqvaiva yAvAqnq. yAvA#-neqvAgni raqgni reqva yAvAqnq. yAvA#-neqvAgniH |
 (4)[P48] 5.4.10.2(4)-  eqva | aqgniH | tam |
 eqvAgni raqgni reqvai vAgni stam ta maqgni reqvai vAgni stam | 
 (5)[P48] 5.4.10.2(5)-  aqgniH | tam | yuqnaqktiq |
-aqgnistam ta maqgni raqgni staM ~Myu#nakti yunaktiq ta maqgni raqgni staM ~Myu#nakti | 
+aqgni stam ta maqgni raqgni staM ~Myu#nakti yunaktiq ta maqgni raqgni staM ~Myu#nakti | 
 (6)[P48] 5.4.10.2(6)-  tam | yuqnaqktiq | yathA$ |
 taM ~Myu#nakti yunaktiq tam taM ~Myu#naktiq yathAq yathA# yunaktiq tam taM ~Myu#naktiq yathA$ | 
 (7)[P48] 5.4.10.2(7)-  yuqnaqktiq | yathA$ | ana#si |
@@ -5471,9 +5473,9 @@ pratiq stomAqH stomAqH pratiq pratiq stomAqH pratiq pratiq stomAqH pratiq pratiq
 (21)[P48] 5.4.10.2(19)-  stomA$H | prati# | uqkthAni# |
 stomAqH pratiq pratiq stomAqH stomAqH pratyuqkthA nyuqkthAniq pratiq stomAqH stomAqH pratyuqkthAni# | 
 (22)[P48] 5.4.10.2(20)-  prati# | uqkthAni# | yaqj~jAqyaqj~jiya#sya |
-pratyuqkthA nyuqkthAniq pratiq pratyuqkthAni# yaj~jAyaqj~jiya#sya yaj~jAyaqj~jiya#syoq kthAniq pratiq pratyuqkthAni# yaj~jAyaqj~jiya#sya | 
+pratyuqkthA nyuqkthAniq pratiq pratyuqkthAni# yaj~jAyaqj~jiya#sya yaj~jAyaqj~jiya# syoqkthAniq pratiq pratyuqkthAni# yaj~jAyaqj~jiya#sya | 
 (23)[P48] 5.4.10.2(21)-  uqkthAni# | yaqj~jAqyaqj~jiya#sya | stoqtre |
-uqkthAni# yaj~jAyaqj~jiya#sya yaj~jAyaqj~jiya#syoqkthA nyuqkthAni# yaj~jAyaqj~jiya#sya stoqtre stoqtre ya#j~jAyaqj~jiya#syoq kthAnyuqkthAni# yaj~jAyaqj~jiya#sya stoqtre | 
+uqkthAni# yaj~jAyaqj~jiya#sya yaj~jAyaqj~jiya# syoqkthA nyuqkthAni# yaj~jAyaqj~jiya#sya stoqtre stoqtre ya#j~jAyaqj~jiya# syoqkthA nyuqkthAni# yaj~jAyaqj~jiya#sya stoqtre | 
 (24)[P48] 5.4.10.2(22)-  yaqj~jAqyaqj~jiya#sya | stoqtre | dvAByA$m |
 yaqj~jAqyaqj~jiya#sya stoqtre stoqtre ya#j~jAyaqj~jiya#sya yaj~jAyaqj~jiya#sya stoqtre dvAByAqm dvAByA(gg)# stoqtre ya#j~jAyaqj~jiya#sya yaj~jAyaqj~jiya#sya stoqtre dvAByA$m | 
 (25)[P48] 5.4.10.2(23)-  stoqtre | dvAByA$m | aqBi |
@@ -5540,6 +5542,7 @@ apra#stutaqmityapra# - stuqtaqm |
 Bavaq tyathAthaq Bava#tiq Bavaq tyathAq Bya#Byathaq Bava#tiq Bavaq tyathAqBi | 
 (56)[P48] 5.4.10.2(50)-  atha# | aqBi | mRuqSaqtiq |
 athAq Bya#ByathA thAqBi mRu#Sati mRuSa tyaqByathA thAqBi mRu#Sati | 
+xxxx 1.52 hrs
 (1)[P49] 5.4.10.3(1)-  aqBi | mRuqSaqtiq | upa# |
 aqBi mRu#Sati mRuSa tyaqBya#Bi mRu#Saq tyupopa# mRuSa tyaqBya#Bi mRu#Saq tyupa# | 
 (2)[P49] 5.4.10.3(2)-  mRuqSaqtiq | upa# | eqnaqm |
