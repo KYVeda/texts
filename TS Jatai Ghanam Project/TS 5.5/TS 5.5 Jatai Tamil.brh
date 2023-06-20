@@ -114,13 +114,13 @@ A la#Byate laByataq A la#Byate |
 (57)[P1] 5.5.1.1(47)-  laqByaqteq | tasmA$t | (GS-5.5-01)
 laqByaqteq tasmAqt tasmA$l-laByate laByateq tasmA$t | 
 (58)[P1] 5.5.1.1(48)-  tasmA$t | yaqdriya~g# | (GS-5.5-01)
-tasmA$d yaqdriya~g# yaqdriyaq~g tasmAqt tasmA$d yaqdriya#~g | 
+tasmA$d yaqdriya~g# yaqdriyaq~g tasmAqt tasmA$d yaqdriya~g# | 
 (59)[P1] 5.5.1.1(49)-  yaqdriya~g# | vAqyuH | (GD-111)
 yaqdriya~g# vAqyur vAqyur yaqdriya~g# yaqdriya~g# vAqyuH | 
 (60)[P1] 5.5.1.1(50)-  vAqyuH | vAti# | (GD-111)
 vAqyur vAtiq vAti# vAqyur vAqyur vAti# | 
 (1)[P2] 5.5.1.2(1)-  vAti# | taqdriya~g# | (GD-111)
-vAti# taqdriya~g# taqdriyaq~g vAtiq vAti# taqdriya#~g | 
+vAti# taqdriya~g# taqdriyaq~g vAtiq vAti# taqdriya~g# | 
 (2)[P2] 5.5.1.2(2)-  taqdriya~g# | aqgniH |
 taqdriya#~g ~gaqgniraqgni staqdriya~g# taqdriya#~g ~gaqgniH | 
 (3)[P2] 5.5.1.2(3)-  aqgniH | daqhaqtiq |
@@ -194,7 +194,7 @@ sa ma#vartatAvartataq sa(gm) sa ma#vartata |
 (37)[P2] 5.5.1.2(29)-  aqvaqrtaqtaq | agre$ | (GS-5.5-03)
 aqvaqrtaq tAgreq agre# &vartatA vartaqtAgre$ | 
 (38)[P2] 5.5.1.2(30)-  agre$ | iti# | (JD-36,GS-5.5-03)
-agraq itItyagreq agraq iti# | 
+agraq itItyagre$ &graq iti# | 
 (39)[P2] 5.5.1.2(31)-  iti# | AqGAqram | (JD-36,GS-5.5-03)
 ityA#GAqra mA#GAqra mitItyA#GAqram | 
 (40)[P2] 5.5.1.2(32)-  AqGAqram | A | (GS-5.5-03)
@@ -821,12 +821,12 @@ yo mA# mAq yo yo mA$ |
 meqta iqto mA# meqtaH | 
 (23)[P8] 5.5.2.1(20)-  iqtaH | puna#H | (GS-5.5-09)
 iqtaH punaqH puna# riqta iqtaH puna#H | 
-(24)[P8] 5.5.2.1(21)-  puna#H | saqciMqnava#t | (GS-5.5-09)
-puna#H saqciMnava#th saqciMnavaqt punaqH puna#H saqciMnava#t | 
-(25)[P8] 5.5.2.1(22)-  saqciMqnava#t | iti# |
-saqciMnavaq ditIti# saqciMnava#th saqciMnavaqditi# | 
-(26)[P8] 5.5.2.1(22)-  saqciMqnava#t |
-saqciMqnavaqditi# saM - ciqnava#t | 
+(24)[P8] 5.5.2.1(21)-  puna#H | saq~jciqnava#t | (GS-5.5-09)
+puna#H saq~jcinava#th saq~jcinavaqt punaqH puna#H saq~jcinava#t | 
+(25)[P8] 5.5.2.1(22)-  saq~jciqnava#t | iti# |
+saq~jcinavaq ditIti# saq~jcinava#th saq~jcinavaqditi# | 
+(26)[P8] 5.5.2.1(22)-  saq~jciqnava#t |
+saq~jciqnavaqditi# saM - ciqnava#t | 
 (27)[P8] 5.5.2.1(23)-  iti# | tam |
 itiq tam ta mitItiq tam | 
 (28)[P8] 5.5.2.1(24)-  tam | deqvAH |
@@ -924,7 +924,7 @@ deqvA mA# mA deqvA deqvA mA$ |
 (17)[P9] 5.5.2.2(16)-  mAq | veqdaqnn |
 mAq veqdaqnq. veqdaqn mAq mAq veqdaqnn | 
 (18)[P9] 5.5.2.2(17)-  veqdaqnn | iti# |
-Veqdaqn-nitIti# vedan. Vedaqn-niti# | 
+Veqdaqn-nitIti# vedan. vedaqn-niti# | 
 (19)[P9] 5.5.2.2(18)-  iti# | vai |
 itiq vai vA itItiq vai | 
 (20)[P9] 5.5.2.2(19)-  vai | aqgniH |
@@ -1666,7 +1666,7 @@ braqhmaqvAqdino# vadanti vadanti brahmavAqdino$ brahmavAqdino# vadanti |
 (22)[P16] 5.5.3.2(20)-  braqhmaqvAqdina#H | (GS-5.5-19)
 braqhmaqvAqdinaq iti# brahma - vAqdina#H | 
 (23)[P16] 5.5.3.2(21)-  vaqdaqntiq | nya~g# | (GS-5.5-19)
-vaqdaqntiq nyA$(1q)~g nya~g# vadanti vadantiq nya#~g | 
+vaqdaqntiq nyA$(1q)~g nya~g# vadanti vadantiq nya~g# | 
 (24)[P16] 5.5.3.2(22)-  nya~g# | aqgniH | (GS-5.5-19)
 nya#~g~gaqgniraqgnir nyA$(1q)~g nya#~g~gaqgniH | 
 (25)[P16] 5.5.3.2(23)-  aqgniH | ceqtaqvyA(3)H | (GS-5.5-19)
