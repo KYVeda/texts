@@ -132,7 +132,7 @@ ciqnotiq na na ciqnoti# ciqnotiq na |
 nArtiq mArtiqn na nArti$m | 
 (11)[P2] 5.7.1.2(9)-  Arti$m | A |
 Artiq mA &&rtiq mArtiq mA | 
-(12)[P2] 5.7.1.2(10)-  A | RuqcCaqtiq | Corrected
+(12)[P2] 5.7.1.2(10)-  A | RuqcCaqtiq | 
 ArcCa# tyRucCaq tyArcCa#ti | 
 (13)[P2] 5.7.1.2(11)-  RuqcCaqtiq | aSvau$ |
 RuqcCaq tyaSvAq vaSvA# vRucCa tyRucCaq tyaSvau$ | 
@@ -202,7 +202,7 @@ ciqnoqtiq na na ci#noti cinotiq na |
 nArtiq mArtiqn na nArti$m | 
 (46)[P2] 5.7.1.2(37)-  Arti$m | A |
 Artiq mA &&rtiq mArtiq mA | 
-(47)[P2] 5.7.1.2(38)-  A | RuqcCaqtiq | Corrected
+(47)[P2] 5.7.1.2(38)-  A | RuqcCaqtiq | 
 ArcCa# tyRucCaq tyArcCa#ti | 
 (48)[P2] 5.7.1.2(39)-  RuqcCaqtiq | eqtat |
 RuqcCaq tyeqta deqta dRu#cCa tyRucCa tyeqtat | 
@@ -528,11 +528,11 @@ yena# deqvA deqvA yenaq yena# deqvAH |
 deqvA jyoti#ShAq jyoti#ShA deqvA deqvA jyoti#ShA | 
 (35)[P5] 5.7.2.2(31)-  jyoti#ShA | UqrddhvAH |
 jyoti# ShoqrddhvA UqrddhvA jyoti#ShAq jyoti# ShoqrddhvAH | 
-(36)[P5] 5.7.2.2(32)-  UqrddhvAH | uqdAyaqnn# |
+(36)[P5] 5.7.2.2(32)-  UqrddhvAH | uqdAyann# |
 UqrddhvA uqdAya#n-nuqdAya#n-nUqrddhvA UqrddhvA uqdAyann# | 
-(37)[P5] 5.7.2.2(33)-  uqdAyaqnn# | yena# |
+(37)[P5] 5.7.2.2(33)-  uqdAyann# | yena# |
 uqdAyaqnq. yenaq yenoqdAya#n-nuqdAyaqnq. yena# | 
-(38)[P5] 5.7.2.2(33)-  uqdAyaqnn# |
+(38)[P5] 5.7.2.2(33)-  uqdAyann# |
 uqdAyaqnnityu#t - Ayann# | 
 (39)[P5] 5.7.2.2(34)-  yena# | AqdiqtyAH |
 yenA#diqtyA A#diqtyA yenaq yenA#diqtyAH | 
@@ -582,11 +582,11 @@ yena# deqvA deqvA yenaq yena# deqvAH |
 deqvA jyoti#ShAq jyoti#ShA deqvA deqvA jyoti#ShA | 
 (6)[P6] 5.7.2.3(6)-  jyoti#ShA | uqrddhvAH |
 jyoti# ShoqrddhvA uqrddhvA jyoti#ShAq jyoti# ShoqrddhvAH | 
-(7)[P6] 5.7.2.3(7)-  uqrddhvAH | uqdAyaqnn# |
+(7)[P6] 5.7.2.3(7)-  uqrddhvAH | uqdAyann# |
 uqrddhvA uqdAya#n-nuqdAya#n-nuqrddhvA uqrddhvA uqdAyann# | 
-(8)[P6] 5.7.2.3(8)-  uqdAyaqnn# | iti# |
+(8)[P6] 5.7.2.3(8)-  uqdAyann# | iti# |
 uqdAyaqn-nitItyuq dAya#n-nuqdAyaqn-niti# | 
-(9)[P6] 5.7.2.3(8)-  uqdAyaqnn# |
+(9)[P6] 5.7.2.3(8)-  uqdAyann# |
 uqdAyaqnnityu#t - Ayann# | 
 (10)[P6] 5.7.2.3(9)-  iti# | uKya$m |
 ityuKyaq muKyaq mitItyuKya$m | 
@@ -932,11 +932,11 @@ eqtA Ahu#tIq rAhu#tI reqtA eqtA Ahu#tIH |
 Ahu#tIr juhoti juhoqtyA hu#tIq rAhu#tIr juhoti | 
 (63)[P8] 5.7.2.5(53)-  Ahu#tIH |
 Ahu#tIqrityA - huqtIqH | 
-(64)[P8] 5.7.2.5(54)-  juqhoqtiq | aqrddhaqmAqsAni |
-juqhoqtyaq rddhaqmAqsA nya#rddhamAqsAni ju#hoti juhotya rddhamAqsAni | 
-(65)[P8] 5.7.2.5(55)-  aqrddhaqmAqsAni | eqva |
-aqrddhaqmAqsA nye#vaivA rddha#mAqsA nya#rddhamAq sAnye#va | 
-(66)[P8] 5.7.2.5(55)-  aqrddhaqmAqsAni |
+(64)[P8] 5.7.2.5(54)-  juqhoqtiq | aqrddhaqmAqsAn |
+juqhoqtyaq rddhaqmAqsA na#rddhamAqsAni ju#hoti juhotya rddhamAqsAni | 
+(65)[P8] 5.7.2.5(55)-  aqrddhaqmAqsAn | eqva |
+aqrddhaqmAqsA ne#vaivA rddha#mAqsA na#rddhamAqsA ne#va | 
+(66)[P8] 5.7.2.5(55)-  aqrddhaqmAqsAn |
 aqrddhaqmAqsAnitya#rdha - mAqsAn | 
 (67)[P8] 5.7.2.5(56)-  eqva | mAsAn# |
 eqva mAsAqn mAsA#-neqvaiva mAsAn# | 
