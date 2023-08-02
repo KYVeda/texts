@@ -15,7 +15,7 @@ A deqvatA$Byo deqvatA$Byaq A deqvatA$ByaH |
 (8)[P1] 5.7.1.1(7)-  deqvatA$ByaH | vRuqScyaqteq |
 deqvatA$Byo vRuScyate vRuScyate deqvatA$Byo deqvatA$Byo vRuScyate | 
 (9)[P1] 5.7.1.1(8)-  vRuqScyaqteq | pApI#yAn |
-vRuqScyaqteq pApI#yAqn pApI#yAn. vRuScyate vRuScyateq pApI#yAn | 
+vRuqScyaqteq pApI#yAqn pApI#yAn vRuScyate vRuScyateq pApI#yAn | 
 (10)[P1] 5.7.1.1(9)-  pApI#yAn | Baqvaqtiq |
 pApI#yAn Bavati Bavatiq pApI#yAqn pApI#yAn Bavati | 
 (11)[P1] 5.7.1.1(10)-  Baqvaqtiq | yaH |
@@ -33,7 +33,7 @@ deqvatA$Byaq A deqvatA$Byo deqvatA$Byaq A |
 (17)[P1] 5.7.1.1(15)-  A | vRuqScyaqteq |
 A vRu#Scyate vRuScyataq A vRu#Scyate | 
 (18)[P1] 5.7.1.1(16)-  vRuqScyaqteq | vasI#yAn |
-vRuqScyaqteq vasI#yAqnq. vasI#yAn. vRuScyate vRuScyateq vasI#yAn | 
+vRuqScyaqteq vasI#yAqnq. vasI#yAn vRuScyate vRuScyateq vasI#yAn | 
 (19)[P1] 5.7.1.1(17)-  vasI#yAn | Baqvaqtiq |
 vasI#yAn Bavati Bavatiq vasI#yAqnq. vasI#yAn Bavati | 
 (20)[P1] 5.7.1.1(18)-  Baqvaqtiq | AqgneqyyA |
@@ -85,7 +85,7 @@ deqvatA$Byaq A deqvatA$Byo deqvatA$Byaq A |
 (43)[P1] 5.7.1.1(39)-  A | vRuqScyaqteq |
 A vRu#Scyate vRuScyataq A vRu#Scyate | 
 (44)[P1] 5.7.1.1(40)-  vRuqScyaqteq | vasI#yAn |
-vRuqScyaqteq vasI#yAqnq. vasI#yAn. vRuScyate vRuScyateq vasI#yAn | 
+vRuqScyaqteq vasI#yAqnq. vasI#yAn vRuScyate vRuScyateq vasI#yAn | 
 (45)[P1] 5.7.1.1(41)-  vasI#yAn | Baqvaqtiq |
 vasI#yAn Bavati Bavatiq vasI#yAqnq. vasI#yAn Bavati | 
 (46)[P1] 5.7.1.1(42)-  Baqvaqtiq | iDA#yai |
@@ -391,7 +391,7 @@ cityA$McityA mRuShaqBa mRu#ShaqBam cityA$McityAqm cityA$McityA mRuShaqBam |
 (25)[P4] 5.7.2.1(23)-  cityA$McityAm | (GS-5.7-03)
 cityA$McityAqmitiq cityA$M - ciqtyAqm | 
 (26)[P4] 5.7.2.1(24)-  RuqShaqBam | upa# | (JM-68,JD-70,GD-65,GS-5.7-03)
-RuqShaqBa mupopAr#. ShaqBa mRu#ShaqBa mupa# | 
+RuqShaqBa mupopA#. r^^ShaqBa mRu#ShaqBa mupa# | 
 (27)[P4] 5.7.2.1(25)-  upa# | daqdhAqtiq | (JM-68,JD-70,GD-65,GS-5.7-03)
 upa# dadhAti dadhAq tyupopa# dadhAti | 
 (28)[P4] 5.7.2.1(26)-  daqdhAqtiq | miqthuqnam | (GD-65,GS-5.7-03)
@@ -545,9 +545,9 @@ yena# ruqdrA ruqdrA yenaq yena# ruqdrAH |
 (43)[P5] 5.7.2.2(38)-  ruqdrAH ||
 ruqdrA iti# ruqdrAH | 
 (44)[P5] 5.7.2.2(39)-  yena# | a~ggi#rasaH |
-yenA~ggi#rasoq a~ggi#rasoq yenaq yenA~ggi#rasaH | 
+yenA~ggi#raqso &~ggi#rasoq yenaq yenA~ggi#rasaH | 
 (45)[P5] 5.7.2.2(40)-  a~ggi#rasaH | maqhiqmAna$m |
-a~ggi#raso mahiqmAna#m mahiqmAnaq ma~ggi#rasoq a~ggi#raso mahiqmAna$m | 
+a~ggi#raso mahiqmAna#m mahiqmAnaq ma~ggi#raqso &~ggi#raso mahiqmAna$m | 
 (46)[P5] 5.7.2.2(41)-  maqhiqmAna$m | AqnaqSuH |
 maqhiqmAna# mAnaqSu rA#naqSur ma#hiqmAna#m mahiqmAna# mAnaqSuH | 
 (47)[P5] 5.7.2.2(42)-  AqnaqSuH | tena# |
@@ -905,11 +905,11 @@ uqdaja#yaqnnityu#t - aja#yann |
 (49)[P8] 5.7.2.5(44)-  yat | RuqtuBya#H | (GS-5.7-09)
 yadRuqtuBya# RuqtuByoq yad yadRuqtuBya#H | 
 (50)[P8] 5.7.2.5(45)-  RuqtuBya#H | niqrvape$t | (GS-5.7-09)
-RuqtuByo# niqrvapen$ niqrvape# dRuqtuBya# RuqtuByo# niqrvape$t | 
+RuqtuByo# niqrvape$n niqrvape# dRuqtuBya# RuqtuByo# niqrvape$t | 
 (51)[P8] 5.7.2.5(45)-  RuqtuBya#H | (GS-5.7-09)
 RuqtuByaq ityRuqtu - ByaqH | 
 (52)[P8] 5.7.2.5(46)-  niqrvape$t | deqvatA$ByaH |
-niqrvape$d deqvatA$Byo deqvatA$Byo niqrvapen$ niqrvape$d deqvatA$ByaH | 
+niqrvape$d deqvatA$Byo deqvatA$Byo niqrvape$n niqrvape$d deqvatA$ByaH | 
 (53)[P8] 5.7.2.5(46)-  niqrvape$t |
 niqrvapeqditi# niH - vape$t | 
 (54)[P8] 5.7.2.5(47)-  deqvatA$ByaH | saqmada$m |
