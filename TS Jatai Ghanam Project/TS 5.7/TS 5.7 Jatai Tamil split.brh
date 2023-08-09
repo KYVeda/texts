@@ -4101,7 +4101,7 @@ mayi# gRuhNAmi gRuhNAmiq mayiq mayi# gRuhNAmi |
 (2)[P36] 5.7.9.1(2)-  gRuqhNAqmiq | agre$ | (GS-5.7-35)
 gRuqhNAq myagreq agre# gRuhNAmi gRuhNAq myagre$ | 
 (3)[P36] 5.7.9.1(3)-  agre$ | aqgnim | (GD-49,GS-5.7-35)
-agre# aqgni maqgni magre$ &gre aqgnim | 
+agre# aqgni maqgni magre &gre# aqgnim | 
 (4)[P36] 5.7.9.1(4)-  aqgnim | rAqyaH | (GD-49,GS-5.7-35)
 aqgni(gm) rAqyo rAqyo$ &gni maqgni(gm) rAqyaH | 
 (5)[P36] 5.7.9.1(5)-  rAqyaH | poShA#ya | (GD-49,GS-5.7-35)
@@ -4237,7 +4237,7 @@ mayi# gRuhNAmi gRuhNAmiq mayiq mayi# gRuhNAmi |
 (16)[P37] 5.7.9.2(15)-  gRuqhNAqmiq | agre$ |
 gRuqhNAq myagreq agre# gRuhNAmi gRuhNAq myagre$ | 
 (17)[P37] 5.7.9.2(16)-  agre$ | aqgnim |
-agre$ &gni maqgni magre$ &gre aqgnim | 
+agre$ &gni maqgni magre &gre# aqgnim | 
 (18)[P37] 5.7.9.2(17)-  aqgnim | iti# |
 aqgni mitItyaqgni maqgni miti# | 
 (19)[P37] 5.7.9.2(18)-  iti# | Aqhaq |
@@ -4271,9 +4271,9 @@ braqhmaqvAqdinaq iti# brahma - vAqdina#H |
 (33)[P37] 5.7.9.2(31)-  vaqdaqntiq | yat |
 vaqdaqntiq yad yad va#danti vadantiq yat | 
 (34)[P37] 5.7.9.2(32)-  yat | mRut | (GS-5.7-38)
-yan mRun mRud yad yan mRut | 
+yan mRuN mRud yad yan mRut | 
 (35)[P37] 5.7.9.2(33)-  mRut | caq | (GS-5.7-38)
-mRuc ca# caq mRun mRuc ca# | 
+mRuc ca# caq mRuN mRuc ca# | 
 (36)[P37] 5.7.9.2(34)-  caq | Apa#H | (GS-5.7-38)
 cApaq Apa# Scaq cApa#H | 
 (37)[P37] 5.7.9.2(35)-  Apa#H | caq | (GS-5.7-38)
@@ -4416,10 +4416,10 @@ athoq ityatho$ |
 iqyaM ~Mvai vA iqya miqyaM ~Mvai | 
 (51)[P38] 5.7.9.3(47)-  vai | aqgniH |
 vA aqgni raqgnir vai vA aqgniH | 
-(52)[P38] 5.7.9.3(48)-  aqgniH | vaiqSvAqnaqraqH |
-aqgnir vai$SvAnaro vaiSvAnaroq &gniraqgnir vai$SvAnaraH | 
-(53)[P38] 5.7.9.3(49)-  vaiqSvAqnaqraqH | yat |
-vaiqSvAqnaqroq yad yad vai$SvAnaro vaiSvAnaroq yat | 
+(52)[P38] 5.7.9.3(48)-  aqgniH | vaiqSvAqnaqraH |
+aqgnir vai$SvAnaqro vai$SvAnaqro$ &gni raqgnir vai$SvAnaqraH | 
+(53)[P38] 5.7.9.3(49)-  vaiqSvAqnaqraH | yat |
+vaiqSvAqnaqro yad yad vai$SvAnaqro vai$SvAnaqro yat | 
 (54)[P38] 5.7.9.3(50)-  yat | mRuqdA |
 yan mRuqdA mRuqdA yad yan mRuqdA | 
 (1)[P39] 5.7.9.4(1)-  mRuqdA | ciqnoti# |
@@ -4526,10 +4526,10 @@ aqnuqShTuBaqmitya#nu - stuBa$m |
 uqttaqraqtaH paq~gktim paq~gkti mu#ttaraqta u#ttaraqtaH paq~gktim | 
 (52)[P39] 5.7.9.4(46)-  uqttaqraqtaH |
 uqttaqraqta ityu#t - taqraqtaH | 
-(53)[P39] 5.7.9.4(47)-  paq~gktim | maddhya$ |
-paq~gktim maddhyaq maddhya# paq~gktim paq~gktim maddhya# | 
-(54)[P39] 5.7.9.4(48)-  maddhya$ | eqShaH |
-maddhyaiqSha eqSha maddhyaq maddhyaiqShaH | 
+(53)[P39] 5.7.9.4(47)-  paq~gktim | maddhye$ |
+paq~gktim maddhyeq maddhye# paq~gktim paq~gktim maddhye$ | 
+(54)[P39] 5.7.9.4(48)-  maddhye$ | eqShaH |
+maddhya# eqSha eqSha maddhyeq maddhya# eqShaH | 
 (55)[P39] 5.7.9.4(49)-  eqShaH | vai |
 eqSha vai vA eqSha eqSha vai | 
 (56)[P39] 5.7.9.4(50)-  vai | aqgniH |
@@ -4547,7 +4547,7 @@ ya eqva meqvaM ~Myo ya eqvam |
 (62)[P39] 5.7.9.4(55)-  eqvam | viqdvAn |
 eqvaM ~MviqdvAn. viqdvA-neqva meqvaM ~MviqdvAn | 
 (63)[P39] 5.7.9.4(56)-  viqdvAn | ciqnuqte |
-viqdvAn ci#nuqte ci#nuqte viqdvAn. viqdvAn ci#nuqte | 
+viqdvA(gg) Sci#nuqte ci#nuqte viqdvAn. viqdvA(gg) Sci#nuqte | 
 (64)[P39] 5.7.9.4(57)-  ciqnuqte | sarvA#su |
 ciqnuqte sarvA#suq sarvA#su cinuqte ci#nuqte sarvA#su | 
 (65)[P39] 5.7.9.4(58)-  sarvA#su | praqjAsu# |
