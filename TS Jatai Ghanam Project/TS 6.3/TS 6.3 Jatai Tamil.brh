@@ -1,7 +1,7 @@
 (1)[P1] 6.3.1.1(1)-  cAtvA#lAt | dhiShNi#yAn | (GS-6.3-01)
-cAtvA#lAqd dhiShNi#yAqn dhiShNi#yAq(gg)qS cAtvA#lAqc cAtvA#lAqd dhiShNi#yAn | 
+cAtvA#lAqd dhiShNi#yAqn dhiShNi#yAq(gg)q ScAtvA#lAqc cAtvA#lAqd dhiShNi#yAn | 
 (2)[P1] 6.3.1.1(2)-  dhiShNi#yAn | upa# | (GS-6.3-01)
-dhiShNi#yAqnu popaq dhiShNi#yAqn dhiShNi#yAqnupa# |  
+dhiShNi#yAq nupopaq dhiShNi#yAqn dhiShNi#yAqnupa# |  
 (3)[P1] 6.3.1.1(3)-  upa# | vaqpaqtiq |
 upa# vapati vapaq tyupopa# vapati | 
 (4)[P1] 6.3.1.1(4)-  vaqpaqtiq | yoni#H |
@@ -35,7 +35,7 @@ ta mAgnI$ddhrAq dAgnI$ddhrAqt tam ta mAgnI$ddhrAt |
 (18)[P1] 6.3.1.1(17)-  AgnI$ddhrAt | puna#H |
 AgnI$ddhrAqt punaqH punaq rAgnI$ddhrAq dAgnI$ddhrAqt puna#H | 
 (19)[P1] 6.3.1.1(17)-  AgnI$ddhrAt |
-AgnI$$ddhrAqdityAgni# - iqddhrAqt | 
+AgnI$ddhrAqdityAgni# - iqddhrAqt | 
 (20)[P1] 6.3.1.1(18)-  puna#H | apa# |
 punaq rapApaq punaqH punaq rapa# | 
 (21)[P1] 6.3.1.1(19)-  apa# | aqjaqyaqnn |
@@ -73,7 +73,7 @@ viqharaqtIti# vi - hara#ti |
 (37)[P1] 6.3.1.1(31)-  yat | eqva |
 yadeq vaiva yad yadeqva | 
 (38)[P1] 6.3.1.1(32)-  eqva | yaqj~jasya# |
-eqva yaqj~jasya# yaqj~jasyaiq vaiva yaqj~jasya# | 
+eqva yaqj~jasya# yaqj~jasyaiqvaiva yaqj~jasya# | 
 (39)[P1] 6.3.1.1(33)-  yaqj~jasya# | apa#rAjitam |
 yaqj~jasyA pa#rAjitaq mapa#rAjitaM ~Myaqj~jasya# yaqj~jasyA pa#rAjitam | 
 (40)[P1] 6.3.1.1(34)-  apa#rAjitam | tata#H |
@@ -91,11 +91,11 @@ puna# stanute tanuteq punaqH puna# stanute |
 (46)[P1] 6.3.1.1(39)-  taqnuqteq | paqrAqjitya# |
 taqnuqteq paqrAqjitya# parAqjitya# tanute tanute parAqjitya# | 
 (47)[P1] 6.3.1.1(40)-  paqrAqjitya# | iqvaq |
-paqrAqjitye# ve va parAqjitya# parAqjitye# va | 
+paqrAqji tye#veva parAqjitya# parAqjitye#va | 
 (48)[P1] 6.3.1.1(40)-  paqrAqjitya# |
 paqrAqjityeti# parA - jitya# | 
 (49)[P1] 6.3.1.1(41)-  iqvaq | Kalu# |
-iqvaq Kaluq Kalvi#ve vaq Kalu# | 
+iqvaq Kaluq Kalvi#vevaq Kalu# | 
 (50)[P1] 6.3.1.1(42)-  Kalu# | vai |
 Kaluq vai vai Kaluq Kaluq vai | 
 (51)[P1] 6.3.1.1(43)-  vai | eqte |
@@ -145,7 +145,7 @@ iti# yaqj~jaM ~Myaqj~ja mitIti# yaqj~jam |
 (13)[P2] 6.3.1.2(12)-  yaqj~jam | eqva |
 yaqj~ja meqvaiva yaqj~jaM ~Myaqj~ja meqva | 
 (14)[P2] 6.3.1.2(13)-  eqva | aqpaqjitya# |
-eqvA paqjityA# paqjityaiq vaivA paqjitya# | 
+eqvA paqjityA# paqji tyaiqvaivA paqjitya# | 
 (15)[P2] 6.3.1.2(14)-  aqpaqjitya# | puna#H |
 aqpaqjityaq punaqH puna# rapaqjityA# paqjityaq puna#H | 
 (16)[P2] 6.3.1.2(14)-  aqpaqjitya# |
@@ -155,7 +155,7 @@ puna# stanvAqnA sta#nvAqnAH punaqH puna# stanvAqnAH |
 (18)[P2] 6.3.1.2(16)-  taqnvAqnAH | yaqntiq |
 taqnvAqnA ya#nti yanti tanvAqnA sta#nvAqnA ya#nti | 
 (19)[P2] 6.3.1.2(17)-  yaqntiq | a~ggA#raiH |
-yaqntya~g gA#raiq ra~ggA#rair yanti yaqntya~ggA#raiH | 
+yaqntya~ggA#raiq ra~ggA#rair yanti yaqntya~ggA#raiH | 
 (20)[P2] 6.3.1.2(18)-  a~ggA#raiH | dve |
 a~ggA#raiqr dve dve a~ggA#raiq ra~ggA#raiqr dve | 
 (21)[P2] 6.3.1.2(19)-  dve | sava#ne |
@@ -251,13 +251,13 @@ te deqveShu# deqveShuq te te deqveShu# |
 (9)[P3] 6.3.1.3(7)-  deqveShu# | soqmaqpIqtham |
 deqveShu# somapIqtha(gm) so#mapIqtham deqveShu# deqveShu# somapIqtham | 
 (10)[P3] 6.3.1.3(8)-  soqmaqpIqtham | aiqcCaqntaq |
-soqmaqpIqtha mai$cCantai cCanta somapIqtha(gm) so#mapIqtha mai$cCanta | 
+soqmaqpIqtha mai$cCa ntaicCanta somapIqtha(gm) so#mapIqtha mai$cCanta | 
 (11)[P3] 6.3.1.3(8)-  soqmaqpIqtham |
 soqmaqpIqthamiti# soma - pIqtham | 
 (12)[P3] 6.3.1.3(9)-  aiqcCaqntaq | tAn |
-aiqcCaqntaq tA(gg) stAnai$ cCantai cCantaq tAn | 
+aiqcCaqntaq tA(gg) stAnai$ cCa ntaicCantaq tAn | 
 (13)[P3] 6.3.1.3(10)-  tAn | deqvAH | (GS-6.3-03)
-tAn deqvA deqvAstA(gg) stAn deqvAH | 
+tAn deqvA deqvA stA(gg) stAn deqvAH | 
 (14)[P3] 6.3.1.3(11)-  deqvAH | aqbruqvaqnn | (GS-6.3-03)
 deqvA a#bruvan-nabruvan deqvA deqvA a#bruvann | 
 (15)[P3] 6.3.1.3(12)-  aqbruqvaqnn | dvedve$ | (GS-6.3-03)
@@ -265,9 +265,9 @@ aqbruqvaqn dvedveq dvedve# abruvan-nabruvaqn dvedve$ |
 (16)[P3] 6.3.1.3(13)-  dvedve$ | nAma#nI |
 dvedveq nAma#nIq nAma#nIq dvedveq dvedveq nAma#nI | 
 (17)[P3] 6.3.1.3(13)-  dvedve$ |
-dve dveq itiq dve - dveq | 
+dve^^dveq itiq dve - dveq | 
 (18)[P3] 6.3.1.3(14)-  nAma#nI | kuqruqddhvaqm |
-nAma#nI kuruddhvam kuruddhvaqn nAma#nIq nAma#nI kuruddhvam | 
+nAma#nI kuruddhvam kuruddhvaqm nAma#nIq nAma#nI kuruddhvam | 
 (19)[P3] 6.3.1.3(14)-  nAma#nI |
 nAma#nIq itiq nAma#nI | 
 (20)[P3] 6.3.1.3(15)-  kuqruqddhvaqm | atha# |
@@ -285,7 +285,7 @@ na vA# vAq na na vA$ |
 (26)[P3] 6.3.1.3(21)-  vAq | iti# | (GS-6.3-04)
 vetIti# vAq veti# | 
 (27)[P3] 6.3.1.3(22)-  iti# | aqgnaya#H | (GS-6.3-04)
-ityaqgnayoq &gnayaq itItyaqgnaya#H | 
+ityaqgnayoq &gnayaq itI tyaqgnaya#H | 
 (28)[P3] 6.3.1.3(23)-  aqgnaya#H | vai | (GS-6.3-04)
 aqgnayoq vai vA aqgnayoq &gnayoq vai | 
 (29)[P3] 6.3.1.3(24)-  vai | atha# | (GS-6.3-04)
@@ -307,7 +307,7 @@ arddhu#kaq steShAqm teShAq marddhuqko &rddhu#kaq steShA$m |
 (37)[P3] 6.3.1.3(31)-  teShA$m | ye |
 teShAqM ~Mye ye teShAqm teShAqM ~Mye | 
 (38)[P3] 6.3.1.3(32)-  ye | nedi#ShTham |
-ye nedi#ShThaqn nedi#ShThaqM ~Mye ye nedi#ShTham | 
+ye nedi#ShThaqm nedi#ShThaqM ~Mye ye nedi#ShTham | 
 (39)[P3] 6.3.1.3(33)-  nedi#ShTham | paqryavi#Sann |
 nedi#ShTham paqryavi#San paqryavi#Saqn nedi#ShThaqn nedi#ShTham paqryavi#Sann | 
 (40)[P3] 6.3.1.3(34)-  paqryavi#Sann | te |
@@ -341,7 +341,7 @@ tasmAqt teShuq teShuq tasmAqt tasmAqt teShu# |
 (54)[P3] 6.3.1.3(44)-  teShu# | juqhvaqtiq |
 teShu# juhvati juhvatiq teShuq teShu# juhvati | 
 (55)[P3] 6.3.1.3(45)-  juqhvaqtiq | aqtiqhAya# |
-juqhvaq tyaqtiqhAyA#tiqhAya# juhvati juhva tyatiqhAya# | 
+juqhvaq tyaqtiqhAyA# tiqhAya# juhvati juhva tyatiqhAya# | 
 (56)[P3] 6.3.1.3(46)-  aqtiqhAya# | vaSha#T |
 aqtiqhAyaq vaShaqD vaSha# DatiqhAyA# tiqhAyaq vaSha#T | 
 (57)[P3] 6.3.1.3(46)-  aqtiqhAya# |
@@ -405,7 +405,7 @@ asu#rAq Asaqn-nAsaqn-nasu#rAq asu#rAq Asann# |
 (25)[P4] 6.3.1.4(23)-  Asann# | tAn |
 Asaqn tA(gg) stA-nAsaqn-nAsaqn tAn | 
 (26)[P4] 6.3.1.4(24)-  tAn | tABi#H |
-tA(gg)s tABiq stABiq stA(gg) stA(gg) stABi#H | 
+tA(gg) stABiq stABiq stA(gg) stA(gg) stABi#H | 
 (27)[P4] 6.3.1.4(25)-  tABi#H | apa# |
 tABiq rapApaq tABiq stABiq rapa# | 
 (28)[P4] 6.3.1.4(26)-  apa# | aqnuqdaqntaq |
@@ -423,7 +423,7 @@ Ahu#tayaq ityA - huqtaqyaqH |
 (34)[P4] 6.3.1.4(31)-  hUqyante$ | praqtya~g |
 hUqyante$ praqtya~g praqtya~g. hUqyante# hUqyante$ praqtya~g | 
 (35)[P4] 6.3.1.4(32)-  praqtya~g | AsI#naH |
-praqtya~g AsI#naq AsI#naH praqtya~g praqtya~g AsI#naH | 
+praqtya ~gAsI#naq AsI#naH praqtya~g praqtya ~gAsI#naH | 
 (36)[P4] 6.3.1.4(33)-  AsI#naH | dhiShNi#yAn |
 AsI#noq dhiShNi#yAqn dhiShNi#yAq-nAsI#naq AsI#noq dhiShNi#yAn | 
 (37)[P4] 6.3.1.4(34)-  dhiShNi#yAn | vyAGA#rayati |
@@ -509,15 +509,15 @@ nABiqr vai vai nABiqr nABiqr vai |
 (22)[P5] 6.3.1.5(18)-  vai | eqShA |
 vA eqShaiShA vai vA eqShA | 
 (23)[P5] 6.3.1.5(19)-  eqShA | yaqj~jasya# |
-eqShA yaqj~jasya# yaqj~jasyaiq ShaiShA yaqj~jasya# | 
+eqShA yaqj~jasya# yaqj~ja syaiqShaiShA yaqj~jasya# | 
 (24)[P5] 6.3.1.5(20)-  yaqj~jasya# | yat |
 yaqj~jasyaq yad yad yaqj~jasya# yaqj~jasyaq yat | 
 (25)[P5] 6.3.1.5(21)-  yat | hotA$ |
 yaddhotAq hotAq yad yaddhotA$ | 
 (26)[P5] 6.3.1.5(22)-  hotA$ | UqrddhvaH |
-hotoq rddhva Uqrddhvo hotAq hotoq rddhvaH | 
+hotoqrddhva Uqrddhvo hotAq hotoqrddhvaH | 
 (27)[P5] 6.3.1.5(23)-  UqrddhvaH | Kalu# |
-UqrddhvaH Kaluq KalUq rddhva UqrddhvaH Kalu# | 
+UqrddhvaH Kaluq KalUqrddhva UqrddhvaH Kalu# | 
 (28)[P5] 6.3.1.5(24)-  Kalu# | vai |
 Kaluq vai vai Kaluq Kaluq vai | 
 (29)[P5] 6.3.1.5(25)-  vai | nAByai$ |
@@ -537,7 +537,7 @@ aqpAqna itya#pa - aqnaH |
 (36)[P5] 6.3.1.5(30)-  yat | aqddhvaqryuH |
 yada#ddhvaqryu ra#ddhvaqryur yad yada#ddhvaqryuH | 
 (37)[P5] 6.3.1.5(31)-  aqddhvaqryuH | praqtya~g |
-aqddhvaqryuH praqtya~g praqtya~g~ga#ddhvaqryu ra#ddhvaqryuH praqtya~g | 
+aqddhvaqryuH praqtya~g praqtya~g ~ga#ddhvaqryu ra#ddhvaqryuH praqtya~g | 
 (38)[P5] 6.3.1.5(32)-  praqtya~g | hotA#ram |
 praqtya~g. hotA#raq(gm)q hotA#ram praqtya~g praqtya~g. hotA#ram | 
 (39)[P5] 6.3.1.5(33)-  hotA#ram | aqtiqsarpe$t |
@@ -597,9 +597,9 @@ sam pra pra sa(gm) sam pra |
 (3)[P6] 6.3.1.6(3)-  pra | yaqcCeqt |
 pra ya#cCed yacCeqt pra pra ya#cCet | 
 (4)[P6] 6.3.1.6(4)-  yaqcCeqt | uqpaqdAsu#kA |
-yaqcCeq duqpaqdAsu#ko paqdAsu#kA yacCed yacCe dupaqdAsu#kA | 
+yaqcCeq duqpaqdAsu# kopaqdAsu#kA yacCed yacCe dupaqdAsu#kA | 
 (5)[P6] 6.3.1.6(5)-  uqpaqdAsu#kA | aqsyaq |
-uqpaqdAsu#kA &syAsyo paqdAsu#ko paqdAsu#kA &sya | 
+uqpaqdAsu#kA &syAsyo paqdAsu# kopaqdAsu#kA &sya | 
 (6)[P6] 6.3.1.6(5)-  uqpaqdAsu#kA |
 uqpaqdAsuqketyu#pa - dAsu#kA | 
 (7)[P6] 6.3.1.6(6)-  aqsyaq | vAk |
@@ -623,13 +623,13 @@ asa(gg)#sthitaq ityasa$M - sthiqteq |
 (16)[P6] 6.3.1.6(13)-  some$ | aqddhvaqryuH |
 some$ &ddhvaqryu ra#ddhvaqryuH someq some$ &ddhvaqryuH | 
 (17)[P6] 6.3.1.6(14)-  aqddhvaqryuH | praqtya~g |
-aqddhvaqryuH praqtya~g praqtya~g~ga#ddhvaqryu ra#ddhvaqryuH praqtya~g | 
+aqddhvaqryuH praqtya~g praqtya~g ~ga#ddhvaqryu ra#ddhvaqryuH praqtya~g | 
 (18)[P6] 6.3.1.6(15)-  praqtya~g | sada#H |
-praqtya~gKsadaqH sada#H praqtya~g praqtya~gKsada#H | 
+praqtya~g KsadaqH sada#H praqtya~g praqtya~g Ksada#H | 
 (19)[P6] 6.3.1.6(16)-  sada#H | ati# | (GS-6.3-06)
 sado &tyatiq sadaqH sado &ti# | 
 (20)[P6] 6.3.1.6(17)-  ati# | iqyAqt | (GS-6.3-06)
-atI#yA diyAq datya tI#yAt | 
+atI#yA diyAq datyatI#yAt | 
 (21)[P6] 6.3.1.6(18)-  iqyAqt | atha# | (GS-6.3-06)
 iqyAq dathAthe# yAdiyAq datha# | 
 (22)[P6] 6.3.1.6(19)-  atha# | kaqthA | (GS-6.3-06)
@@ -665,13 +665,13 @@ ayA#maM ~MvAq vA &yA#maq mayA#maM ~MvA |
 (37)[P6] 6.3.1.6(34)-  vAq | anu# | (GS-6.3-07)
 vA &nvanu# vAq vA &nu# | 
 (38)[P6] 6.3.1.6(35)-  anu# | j~jAqsyaqntiq | (GS-6.3-07)
-anu# j~jAsyanti j~jAsyaqn tyanvanu# j~jAsyanti | 
+anu# j~jAsyanti j~jAsyaq ntyanvanu# j~jAsyanti | 
 (39)[P6] 6.3.1.6(36)-  j~jAqsyaqntiq | iti# | (GS-6.3-07)
-j~jAqsyaqntI tIti# j~jAsyanti j~jAsyaqn tIti# | 
+j~jAqsyaqntI tIti# j~jAsyanti j~jAsyaqntIti# | 
 (40)[P6] 6.3.1.6(37)-  iti# | utta#reNa | (GS-6.3-07)
-ityutta#reqNo tta#reqNe tItyu tta#reNa | 
+ityutta#req Notta#reqNe tItyutta#reNa | 
 (41)[P6] 6.3.1.6(38)-  utta#reNa | AgnI$ddhram |
-utta#reqNA gnI$ddhraq mAgnI$ddhraq mutta#reqNo tta#reqNA gnI$ddhram | 
+utta#reqNA gnI$ddhraq mAgnI$ddhraq mutta#req Notta#reqNA gnI$ddhram | 
 (42)[P6] 6.3.1.6(38)-  utta#reNa |
 utta#reqNetyut - taqreqNaq | 
 (43)[P6] 6.3.1.6(39)-  AgnI$ddhram | paqrItya# |
@@ -743,13 +743,13 @@ suqvaqrgAyaq vai vai su#vaqrgAya# suvaqrgAyaq vai |
 (2)[P7] 6.3.2.1(1)-  suqvaqrgAya# |
 suqvaqrgAyeti# suvaH - gAya# | 
 (3)[P7] 6.3.2.1(2)-  vai | eqtAni# |
-vA eqtAnyeq tAniq vai vA eqtAni# | 
+vA eqtA nyeqtAniq vai vA eqtAni# | 
 (4)[P7] 6.3.2.1(3)-  eqtAni# | loqkAya# |
-eqtAni# loqkAya# loqkAyaiq tAnyeq tAni# loqkAya# | 
+eqtAni# loqkAya# loqkAyaiq tAnyeqtAni# loqkAya# | 
 (5)[P7] 6.3.2.1(4)-  loqkAya# | hUqyaqnteq |
 loqkAya# hUyante hUyante loqkAya# loqkAya# hUyante | 
 (6)[P7] 6.3.2.1(5)-  hUqyaqnteq | yat |
-hUqyaqnteq yad yad-dhU#yante hUyanteq yat | 
+hUqyaqnteq yad yaddhU#yante hUyanteq yat | 
 (7)[P7] 6.3.2.1(6)-  yat | vaiqsaqrjaqnAni# |
 yad vai#sarjaqnAni# vaisarjaqnAniq yad yad vai#sarjaqnAni# | 
 (8)[P7] 6.3.2.1(7)-  vaiqsaqrjaqnAni# | dvAByA$m |
@@ -773,7 +773,7 @@ prati#ShThityAq AgnI$ddhraq AgnI$ddhreq prati#ShThityaiq prati#ShThityAq AgnI$dd
 (17)[P7] 6.3.2.1(13)-  prati#ShThityai |
 prati#ShThityAq itiq prati# - sthiqtyaiq | 
 (18)[P7] 6.3.2.1(14)-  AgnI$ddhre | juqhoqtiq |
-AgnI$ddhre juhoti juhoqtyAgnI$ddhraq AgnI$ddhre juhoti | 
+AgnI$ddhre juhoti juhoq tyAgnI$ddhraq AgnI$ddhre juhoti | 
 (19)[P7] 6.3.2.1(14)-  AgnI$ddhre |
 AgnI$ddhraq ityAgni# - iqddhreq | 
 (20)[P7] 6.3.2.1(15)-  juqhoqtiq | aqntari#kShe |
@@ -787,7 +787,7 @@ A kra#mate kramataq A kra#mate |
 (24)[P7] 6.3.2.1(19)-  kraqmaqteq | AqhaqvaqnIye$ |
 kraqmaqtaq AqhaqvaqnIya# AhavaqnIye$ kramate kramata AhavaqnIye$ | 
 (25)[P7] 6.3.2.1(20)-  AqhaqvaqnIye$ | juqhoqtiq |
-AqhaqvaqnIye# juhoti juhotyA havaqnIya# AhavaqnIye# juhoti | 
+AqhaqvaqnIye# juhoti juho tyAhavaqnIya# AhavaqnIye# juhoti | 
 (26)[P7] 6.3.2.1(20)-  AqhaqvaqnIye$ |
 AqhaqvaqnIyaq ityA$ - haqvaqnIye$ | 
 (27)[P7] 6.3.2.1(21)-  juqhoqtiq | suqvaqrgam |
@@ -817,7 +817,7 @@ loqkaM ~Myaqto yaqto loqkam ~MloqkaM ~MyaqtaH |
 (39)[P7] 6.3.2.1(31)-  yaqtaH | rakShA(gm)#si |
 yaqto rakShA(gm)#siq rakShA(gm)#si yaqto yaqto rakShA(gm)#si | 
 (40)[P7] 6.3.2.1(32)-  rakShA(gm)#si | aqjiqGAq(gm)qsaqnn |
-rakShA(gg)#syajiGA(gm)san-najiGA(gm)saqn rakShA(gm)#siq rakShA(gg)#syajiGA(gm)sann | 
+rakShA(gg)# syajiGA(gm)san-najiGA(gm)saqn rakShA(gm)#siq rakShA(gg)# syajiGA(gm)sann | 
 (41)[P7] 6.3.2.1(33)-  aqjiqGAq(gm)qsaqnn | te |
 aqjiqGAq(gm)qsaqn te te# &jiGA(gm)san-najiGA(gm)saqn te | 
 (42)[P7] 6.3.2.1(34)-  te | some#na |
@@ -873,7 +873,7 @@ apa#hatyAq ityapa# - haqtyaiq |
 (6)[P8] 6.3.2.2(5)-  tvam | soqmaq |
 tva(gm) so#ma somaq tvam tva(gm) so#ma | 
 (7)[P8] 6.3.2.2(6)-  soqmaq | taqnUqkRudBya#H |
-soqmaq taqnUqkRudBya#stanUqkRudBya#H soma soma tanUqkRudBya#H | 
+soqmaq taqnUqkRudBya# stanUqkRudBya#H soma soma tanUqkRudBya#H | 
 (8)[P8] 6.3.2.2(7)-  taqnUqkRudBya#H | iti# |
 taqnUqkRudByaq itIti# tanUqkRudBya# stanUqkRudByaq iti# | 
 (9)[P8] 6.3.2.2(7)-  taqnUqkRudBya#H |
@@ -883,7 +883,7 @@ ityA#hAqhe tItyA#ha |
 (11)[P8] 6.3.2.2(9)-  Aqhaq | taqnUqkRut |
 Aqhaq taqnUqkRut ta#nUqkRu dA#hAha tanUqkRut | 
 (12)[P8] 6.3.2.2(10)-  taqnUqkRut | hi |
-taqnUqkRud-dhi hi ta#nUqkRut ta#nUqkRud-dhi | 
+taqnUqkRuddhi hi ta#nUqkRut ta#nUqkRuddhi | 
 (13)[P8] 6.3.2.2(10)-  taqnUqkRut |
 taqnUqkRuditi# tanU - kRut | 
 (14)[P8] 6.3.2.2(11)-  hi | eqShaH |
@@ -895,7 +895,7 @@ dveSho$Byoq &nyakRu#teByoq &nyakRu#teByoq dveSho$Byoq dveSho$Byoq &nyakRu#teByaH
 (17)[P8] 6.3.2.2(13)-  dveSho$ByaH |
 dveSho$Byaq itiq dveSha#H - ByaqH | 
 (18)[P8] 6.3.2.2(14)-  aqnyakRu#teByaH | iti# |
-aqnyakRu#teByaq itItyaq nyakRu#teByoq &nyakRu#teByaq iti# | 
+aqnyakRu#teByaq itI tyaqnyakRu#teByoq &nyakRu#teByaq iti# | 
 (19)[P8] 6.3.2.2(14)-  aqnyakRu#teByaH |
 aqnyakRu#teByaq ityaqnya - kRuqteqByaqH | 
 (20)[P8] 6.3.2.2(15)-  iti# | Aqhaq |
@@ -903,7 +903,7 @@ ityA#hAqhe tItyA#ha |
 (21)[P8] 6.3.2.2(16)-  Aqhaq | aqnyakRu#tAni |
 AqhAq nyakRu#tA nyaqnyakRu#tA nyAhAhAq nyakRu#tAni | 
 (22)[P8] 6.3.2.2(17)-  aqnyakRu#tAni | hi |
-aqnyakRu#tAniq hi hya#nyakRu#tAnyaq nyakRu#tAniq hi | 
+aqnyakRu#tAniq hi hya#nyakRu#tA nyaq nyakRu#tAniq hi | 
 (23)[P8] 6.3.2.2(17)-  aqnyakRu#tAni |
 aqnyakRu#tAqnItyaqnya - kRuqtAqniq | 
 (24)[P8] 6.3.2.2(18)-  hi | rakShA(gm)#si |
@@ -925,7 +925,7 @@ AqhoqrU$(1q)rvA#hA hoqru |
 (32)[P8] 6.3.2.2(26)-  uqru | naqH | (GS-6.3-11)
 uqru No# na uqrU#ru Na#H | 
 (33)[P8] 6.3.2.2(27)-  naqH | kRuqdhiq | (GS-6.3-11)
-naqs kRuqdhiq kRuqdhiq noq naqs kRuqdhiq | 
+naq skRuqdhiq kRuqdhiq noq naq skRuqdhiq | 
 (34)[P8] 6.3.2.2(28)-  kRuqdhiq | iti# | (GS-6.3-11)
 kRuqdhI tIti# kRudhi kRuqdhIti# | 
 (35)[P8] 6.3.2.2(29)-  iti# | vAva | (GS-6.3-11)
@@ -999,7 +999,7 @@ A na#yanti nayaqntyA na#yanti |
 (11)[P9] 6.3.2.3(10)-  naqyaqntiq | anu# |
 naqyaqn tyanvanu# nayanti nayaqn tyanu# | 
 (12)[P9] 6.3.2.3(11)-  anu# | anA(gm)#si |
-anvanAq(gg)q syanAq(gg)q syanvan vanA(gm)#si | 
+anvanAq(gg)q syanAq(gg)q syan van vanA(gm)#si | 
 (13)[P9] 6.3.2.3(12)-  anA(gm)#si | pra | (GS-6.3-12)
 anA(gm)#siq pra prANAq(gg)q syanA(gm)#siq pra | 
 (14)[P9] 6.3.2.3(13)-  pra | vaqrtaqyaqntiq | (GS-6.3-12)
@@ -1011,7 +1011,7 @@ yAva# deqvaiva yAvaqd yAva# deqva |
 (17)[P9] 6.3.2.3(16)-  eqva | aqsyaq |
 eqvAsyA$ syaiqvai vAsya# | 
 (18)[P9] 6.3.2.3(17)-  aqsyaq | asti# |
-aqsyA styastya# syAqsyAsti# | 
+aqsyA styastya# syAq syAsti# | 
 (19)[P9] 6.3.2.3(18)-  asti# | tena# |
 astiq tenaq tenA styastiq tena# | 
 (20)[P9] 6.3.2.3(19)-  tena# | saqha |
@@ -1025,13 +1025,13 @@ suqvaqrgamiti# suvaH - gam |
 (24)[P9] 6.3.2.3(22)-  loqkam | eqtiq |
 loqka me$tyeti loqkam ~Mloqka me#ti | 
 (25)[P9] 6.3.2.3(23)-  eqtiq | naya#vatyA |
-eqtiq naya#vatyAq naya#vatyai tyetiq naya#vatyA | 
+eqtiq naya#vatyAq naya#va tyaityetiq naya#vatyA | 
 (26)[P9] 6.3.2.3(24)-  naya#vatyA | RuqcA |
-naya#vatyaq rca rcA naya#vatyAq naya#vatyaq rcA | 
+naya#vatyaq r^^ca r^^cA naya#vatyAq naya#vatyaq r^^cA | 
 (27)[P9] 6.3.2.3(24)-  naya#vatyA |
 naya#vaqtyetiq naya# - vaqtyAq | 
 (28)[P9] 6.3.2.3(25)-  RuqcA | AgnI$ddhre |
-RuqcA &&gnI$ddhraq AgnI$ddhra RuqcarcA &&gnI$ddhre | 
+RuqcA &&gnI$ddhraq AgnI$ddhra Ruqca r^^cA &&gnI$ddhre | 
 (29)[P9] 6.3.2.3(26)-  AgnI$ddhre | juqhoqtiq |
 AgnI$ddhre juhoti juhoq tyAgnI$ddhraq AgnI$ddhre juhoti | 
 (30)[P9] 6.3.2.3(26)-  AgnI$ddhre |
@@ -1069,15 +1069,15 @@ vi hi hi vi vi hi |
 (46)[P9] 6.3.2.3(38)-  hi | eqnaqm |
 hye#na menaq(gm)q hi hye#nam | 
 (47)[P9] 6.3.2.3(39)-  eqnaqm | taiH |
-eqnaqm taistai re#na menaqm taiH | 
+eqnaqm tai stai re#na menaqm taiH | 
 (48)[P9] 6.3.2.3(40)-  taiH | gRuqhNate$ |
-tair gRuqhNate# gRuqhNateq taistair gRuqhNate$ | 
+tair gRuqhNate# gRuqhNateq tai stair gRuqhNate$ | 
 (49)[P9] 6.3.2.3(41)-  gRuqhNate$ | yat |
 gRuqhNateq yad yad gRuqhNate# gRuqhNateq yat | 
 (50)[P9] 6.3.2.3(42)-  yat | saqha |
 yath saqha saqha yad yath saqha | 
 (51)[P9] 6.3.2.3(43)-  saqha | uqpaqvAqsaye$t |
-saqho pa#vAqsaye# dupavAqsaye$th saqha saqho pa#vAqsaye$t | 
+saqhopa#vAqsaye# dupavAqsaye$th saqha saqhopa#vAqsaye$t | 
 (52)[P9] 6.3.2.3(44)-  uqpaqvAqsaye$t | aqpuqvAqyeta# | (GS-6.3-13)
 uqpaqvAqsaye# dapuvAqyetA# puvAqyeto# pavAqsaye# dupavAqsaye# dapuvAqyeta# | 
 (53)[P9] 6.3.2.3(44)-  uqpaqvAqsaye$t | (GS-6.3-13)
@@ -1085,9 +1085,9 @@ uqpaqvAqsayeqdityu#pa - vAqsaye$t |
 (54)[P9] 6.3.2.3(45)-  aqpuqvAqyeta# | sauqmyA | (GS-6.3-13)
 aqpuqvAqyeta# sauqmyA sauqmyA &pu#vAqyetA# puvAqyeta# sauqmyA | 
 (55)[P9] 6.3.2.3(46)-  sauqmyA | RuqcA | (GS-6.3-13)
-sauqmya rca rcA sauqmyA sauqmya rcA | 
+sauqmya r^^ca r^^cA sauqmyA sauqmya r^^cA | 
 (56)[P9] 6.3.2.3(47)-  RuqcA | pra | (GS-6.3-13)
-RuqcA pra prA rca rcA pra | 
+RuqcA pra prA r^^ca r^^cA pra | 
 (57)[P9] 6.3.2.3(48)-  pra | pAqdaqyaqtiq | (GS-6.3-13)
 pra pA#dayati pAdayatiq pra pra pA#dayati | 
 (58)[P9] 6.3.2.3(49)-  pAqdaqyaqtiq | svayA$ | (GS-6.3-13)
@@ -1117,7 +1117,7 @@ sadaq A sadaqH sadaq A |
 (11)[P10] 6.3.2.4(11)-  A | sIqdaq |
 A sI#da sIqdA sI#da | 
 (12)[P10] 6.3.2.4(12)-  sIqdaq | iti# |
-sIqde tIti# sIda sIqde ti# | 
+sIqde tIti# sIda sIqdeti# | 
 (13)[P10] 6.3.2.4(13)-  iti# | Aqhaq |
 ityA#hAqhe tItyA#ha | 
 (14)[P10] 6.3.2.4(14)-  Aqhaq | yaqthAqyaqjuH |
@@ -1127,15 +1127,15 @@ yaqthAqyaqju reqvaiva ya#thAyaqjur ya#thAyaqju reqva |
 (16)[P10] 6.3.2.4(15)-  yaqthAqyaqjuH |
 yaqthAqyaqjuriti# yathA - yaqjuH | 
 (17)[P10] 6.3.2.4(16)-  eqva | eqtat |
-eqvai tadeq tadeq vaivai tat | 
+eqvaita deqta deqvai vaitat | 
 (18)[P10] 6.3.2.4(17)-  eqtat | yaja#mAnaH |
 eqtad yaja#mAnoq yaja#mAna eqta deqtad yaja#mAnaH | 
 (19)[P10] 6.3.2.4(18)-  yaja#mAnaH | vai |
 yaja#mAnoq vai vai yaja#mAnoq yaja#mAnoq vai | 
 (20)[P10] 6.3.2.4(19)-  vai | eqtasya# |
-vA eqtasyaiq tasyaq vai vA eqtasya# | 
+vA eqta syaiqtasyaq vai vA eqtasya# | 
 (21)[P10] 6.3.2.4(20)-  eqtasya# | puqrA |
-eqtasya# puqrA puqraitasyaiq tasya# puqrA | 
+eqtasya# puqrA puqraita syaiqtasya# puqrA | 
 (22)[P10] 6.3.2.4(21)-  puqrA | goqptA |
 puqrA goqptA goqptA puqrA puqrA goqptA | 
 (23)[P10] 6.3.2.4(22)-  goqptA | Baqvaqtiq |
@@ -1181,11 +1181,11 @@ soqmaq deqvo deqvaH so#ma soma deqvaH |
 (43)[P10] 6.3.2.4(41)-  deqvaH | deqvAn |
 deqvo deqvAn deqvAn deqvo deqvo deqvAn | 
 (44)[P10] 6.3.2.4(42)-  deqvAn | upa# |
-deqvAnu popa# deqvAn deqvAnupa# | 
+deqvAnupopa# deqvAn deqvAnupa# | 
 (45)[P10] 6.3.2.4(43)-  upa# | aqgAqH |
 upA#gA agAq upopA#gAH | 
 (46)[P10] 6.3.2.4(44)-  aqgAqH | iti# |
-aqgAq itItya#gA agAq iti# | 
+aqgAq itI tya#gA agAq iti# | 
 (47)[P10] 6.3.2.4(45)-  iti# | Aqhaq |
 ityA#hAqhe tItyA#ha | 
 (48)[P10] 6.3.2.4(46)-  Aqhaq | deqvaH |
@@ -1198,6 +1198,7 @@ hye#Sha eqSha hi hye#ShaH |
 eqSha san thsan-neqSha eqSha sann | 
 (52)[P10] 6.3.2.4(50)-  sann | deqvAn |
 san deqvAn deqvAn thsan thsan deqvAn | 
+xxxxxxxx
 (1)[P11] 6.3.2.5(1)-  deqvAn | uqpaiti# |
 deqvAnuq paityuqpaiti# deqvAn deqvAnuq paiti# | 
 (2)[P11] 6.3.2.5(2)-  uqpaiti# | iqdam |
