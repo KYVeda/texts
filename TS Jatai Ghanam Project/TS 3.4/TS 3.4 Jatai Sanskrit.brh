@@ -259,7 +259,7 @@ nArtiq mArtiqm na nArti$m |
 14)	3.4.1.3(11)-  Arti$m | A |
 Artiq mA &&rtiq mArtiq mA | 
 15)	3.4.1.3(12)-  A | RuqcCaqtiq |
-ArcCa# tyRucCa tyArcCati | 
+ArcCa# tyRucCaq tyArcCa#ti | 
 16)	3.4.1.3(13)-  RuqcCaqtiq | yaja#mAnaH |
 RuqcCaqtiq yaja#mAnoq yaja#mAna RucCa tyRucCatiq yaja#mAnaH | 
 17)	3.4.1.3(14)-  yaja#mAnaH | Basma#nA |
@@ -316,11 +316,11 @@ nA vaqdye da#vaqdyen na nAvaqdyet |
 aqvaqdyet paqSoH paqSo ra#vaqdye da#vaqdyet paqSoH | 
 43)	3.4.1.3(36)-  aqvaqdyet | (GS-3.4-4)
 aqvaqdyeditya#va - dyet | 
-44)	3.4.1.3(37)-  paqSoH | Ala#bdhaqsya |
-paqSo rAla#bdhaqsyA la#bdhaqsya paqSoH paqSo rAla#bdhaqsya | 
-45)	3.4.1.3(38)-  Ala#bdhaqsya | na |
-Ala#bdhaqsya na nAla#bdhaqsyA la#bdhaqsya na | 
-46)	3.4.1.3(38)-  Ala#bdhaqsya |
+44)	3.4.1.3(37)-  paqSoH | Ala#bdhasya |
+paqSo rAla#bdhaqsyA la#bdhasya paqSoH paqSo rAla#bdhasya | 
+45)	3.4.1.3(38)-  Ala#bdhasya | na |
+Ala#bdhasyaq na nAla#bdhaqsyA la#bdhasyaq na | 
+46)	3.4.1.3(38)-  Ala#bdhasya |
 Ala#bdhaqsyetyA - laqbdhaqsyaq | 
 47)	3.4.1.3(39)-  na | ava# |
 nAvAvaq na nAva# | 
@@ -1021,7 +1021,7 @@ BUti#m gamayati gamayatiq BUtiqm BUti#m gamayati |
 9)	3.4.3.3(8)-  gaqmaqyaqtiq | dyAqvAqpRuqthiqvyA$m |
 gaqmaqyaqtiq dyAqvAqpRuqthiqvyA$m dyAvApRuthiqvyA$m gamayati gamayati dyAvApRuthiqvyA$m |
 10)	3.4.3.3(9)-  dyAqvAqpRuqthiqvyA$m | A |
-dyAqvAqpRuqthiqvyA# mA mA dyA#vApRuthiqvyA$m dyAvApRuthiqvyA# mA |
+dyAqvAqpRuqthiqvyA# mA dyA#vApRuthiqvyA$m dyAvApRuthiqvyA# mA |
 11)	3.4.3.3(9)-  dyAqvAqpRuqthiqvyA$m |
 dyAqvAqpRuqthiqvyA#miti# dyAvA - pRuqthiqvyA$m | 
 12)	3.4.3.3(10)-  A | laqBeqtaq |
@@ -1055,7 +1055,7 @@ roqhaqntiq saqmarddhu#ka(gm) saqmarddhu#ka(gm) rohanti rohanti saqmarddhu#kam |
 26)	3.4.3.3(23)-  saqmarddhu#kam | aqsyaq |
 saqmarddhu#ka masyAsya saqmarddhu#ka(gm) saqmarddhu#ka masya | 
 27)	3.4.3.3(23)-  saqmarddhu#kam |
-saqmad^^rdhu#kaqmiti# saM - arddhu#kam | 
+saqmarddhu#kaqmiti# saM - arddhu#kam | 
 28)	3.4.3.3(24)-  aqsyaq | saqsyam |
 aqsyaq saqsya(gm) saqsya ma#syAsya saqsyam | 
 29)	3.4.3.3(25)-  saqsyam | Baqvaqtiq |
@@ -1626,10 +1626,10 @@ prAS~jI#yA daS~jIyAqt pra prA S~jI#yAt |
 aqS~jIqyAq diqndriqya mi#ndriqya ma#S~jIyA daS~jIyA dindriqyam | 
 28)	3.4.3.8(22)-  iqndriqyam | eqva |
 iqndriqya meqvaivendriqya mi#ndriqya meqva | 
-29)	3.4.3.8(23)-  eqva | Aqtman |
-eqvAtma-nAqtma-neqvaivAtman | 
-30)	3.4.3.8(24)-  Aqtman | dhaqtteq |
-Aqtman dha#tte dhatta Aqtma-nAqtman dha#tte | 
+29)	3.4.3.8(23)-  eqva | Aqtmann |
+eqvAtman-nAqtma-neqvaivAtmann | 
+30)	3.4.3.8(24)-  Aqtmann | dhaqtteq |
+Aqtman dha#tte dhatta Aqtman-nAqtman dha#tte | 
 31)	3.4.3.8(25)-  dhaqtteq | sA |
 dhaqtteq sA sA dha#tte dhatteq sA | 
 32)	3.4.3.8(26)-  sA | vai |
@@ -1640,11 +1640,11 @@ vA eqShaiShA vai vA eqShA |
 eqShA tra#yAqNAm tra#yAqNA meqShaiShA tra#yAqNAm | 
 35)	3.4.3.8(29)-  traqyAqNAm | eqva |
 traqyAqNA meqvaiva tra#yAqNAm tra#yAqNA meqva | 
-36)	3.4.3.8(30)-  eqva | ava#ruqddhA |
-eqvA va#ruqddhA &va#ruqddhaivaivA va#ruqddhA | 
-37)	3.4.3.8(31)-  ava#ruqddhA | saqM~Mvaqthsaqraqsada#H |
-ava#ruqddhA sa#M~Mvathsaraqsada#H saM~Mvathsaraqsado &va#ruqddhA &va#ruqddhA sa#M~Mvathsaraqsada#H | 
-38)	3.4.3.8(31)-  ava#ruqddhA |
+36)	3.4.3.8(30)-  eqva | ava#ruddhA |
+eqvA va#ruqddhA &va#ruddhaiqvaivA va#ruddhA | 
+37)	3.4.3.8(31)-  ava#ruddhA | saqM~Mvaqthsaqraqsada#H |
+ava#ruddhA saM~Mvathsaraqsada#H saM~Mvathsaraqsado &va#ruqddhA &va#ruddhA saM~Mvathsaraqsada#H | 
+38)	3.4.3.8(31)-  ava#ruddhA |
 ava#ruqddhetyava# - ruqddhAq | 
 39)	3.4.3.8(32)-  saqM~Mvaqthsaqraqsada#H | saqhaqsraqyAqjina#H |
 saqM~Mvaqthsaqraqsada#H sahasrayAqjina#H sahasrayAqjina#H saM~Mvathsaraqsada#H saM~Mvathsaraqsada#H sahasrayAqjina#H | 
@@ -2350,13 +2350,13 @@ aqPsaqrasa# Aqyuva# Aqyuvo$ &Psaqraso$ &Psaqrasa# Aqyuva#H |
 Aqyuva#H suShuqmnaH su#Shuqmna Aqyuva# Aqyuva#H suShuqmnaH | 
 35)	3.4.7.1(31)-  Aqyuva#H |
 Aqyuvaq ityA$ - yuva#H | 
-36)	3.4.7.1(32)-  suqShuqmnaH | sUrya#raSmi |
-suqShuqmnaH sUrya#raSmiq sUrya#raSmi suShuqmnaH su#ShuqmnaH sUrya#raSmi | 
+36)	3.4.7.1(32)-  suqShuqmnaH | sUrya#raSmiH |
+suqShuqmnaH sUrya#raSmiqH sUrya#raSmiH suShuqmnaH su#ShuqmnaH sUrya#raSmiH | 
 37)	3.4.7.1(32)-  suqShuqmnaH |
 suqShuqmna iti# su - suqmnaH | 
-38)	3.4.7.1(33)-  sUrya#raSmi | caqndramA$H |
-sUrya#raSmi caqndramA$ ScaqndramAqH sUrya#raSmiq sUrya#raSmi caqndramA$H | 
-39)	3.4.7.1(33)-  sUrya#raSmi |
+38)	3.4.7.1(33)-  sUrya#raSmiH | caqndramA$H |
+sUrya#raSmi ScaqndramA$ ScaqndramAqH sUrya#raSmiqH sUrya#raSmi ScaqndramA$H | 
+39)	3.4.7.1(33)-  sUrya#raSmiH |
 sUrya#raSmiqritiq sUrya# - raqSmiqH | 
 40)	3.4.7.1(34)-  caqndramA$H | gaqndhaqrvaH |
 caqndramA# gandhaqrvo ga#ndhaqrva ScaqndramA$ ScaqndramA# gandhaqrvaH | 
@@ -2381,7 +2381,7 @@ yaqj~jo ga#ndhaqrvo ga#ndhaqrvo yaqj~jo yaqj~jo ga#ndhaqrvaH |
 50)	3.4.7.1(43)-  gaqndhaqrvaH | tasya# |
 gaqndhaqrva stasyaq tasya# gandhaqrvo ga#ndhaqrva stasya# | 
 51)	3.4.7.1(44)-  tasya# | dakShi#NAH |
-tasyaq dakShi#NAq dakShi#Naq stasyaq tasyaq dakShi#NAH | 
+tasyaq dakShi#NAq dakShi#NAq stasyaq tasyaq dakShi#NAH | 
 52)	3.4.7.1(45)-  dakShi#NAH | aqPsaqrasa#H |
 dakShi#NA aPsaqraso$ &Psaqrasoq dakShi#NAq dakShi#NA aPsaqrasa#H | 
 53)	3.4.7.1(46)-  aqPsaqrasa#H | staqvAH |
@@ -2471,7 +2471,7 @@ paqraqmeq ShTh^^yadhi#patiq radhi#patiH parameqShThI pa#rameq ShTh^^yadhi#patiH 
 36)	3.4.7.2(32)-  adhi#patiH | mRuqtyuH |
 adhi#patir mRuqtyur mRuqtyu radhi#patiq radhi#patir mRuqtyuH | 
 37)	3.4.7.2(32)-  adhi#patiH |
-adhi#paqtirityadhi# - paqtiqH | 
+adhi#patiqrityadhi# - paqtiqH | 
 38)	3.4.7.2(33)-  mRuqtyuH | gaqndhaqrvaH |
 mRuqtyur ga#ndhaqrvo ga#ndhaqrvo mRuqtyur mRuqtyur ga#ndhaqrvaH | 
 39)	3.4.7.2(34)-  gaqndhaqrvaH | tasya# |
@@ -3091,9 +3091,9 @@ Aqyata#ne Samayati SamayatyAq yata#na Aqyata#ne Samayati |
 2)	3.4.8.5(1)-  Aqyata#ne |
 Aqyata#naq ityA$ - yata#ne | 
 3)	3.4.8.5(2)-  Saqmaqyaqtiq | aqBiqcara#tA |
-Saqmaqyaq tyaqBiqca#ratA &Biqca#ratA Samayati Samaya tyaBiqca#ratA | 
+Saqmaqyaq tyaqBiqcara#tA &Biqcara#tA Samayati Samaya tyaBiqcara#tA | 
 4)	3.4.8.5(3)-  aqBiqcara#tA | praqtiqloqmam |
-aqBiqca#ratA pratiloqmam pra#tiloqma ma#Biqca#ratA &Biqca#rtA pratiloqmam | 
+aqBiqcara#tA pratiloqmam pra#tiloqma ma#Biqcara#tA &Biqcara#tA pratiloqmam | 
 5)	3.4.8.5(3)-  aqBiqcara#tA |
 aqBiqcaraqtetya#Bi - cara#tA | 
 6)	3.4.8.5(4)-  praqtiqloqmam | hoqtaqvyA$H |
@@ -3195,7 +3195,7 @@ tAqja gArtiq mArti#m tAqjak tAqja gArti$m |
 54)	3.4.8.5(45)-  Arti$m | A |
 Artiq mA &&rtiq mArtiq mA | 
 55)	3.4.8.5(46)-  A | RuqcCaqtiq |
-ArcCa# tyRucCa tyArcCati | 
+ArcCa# tyRucCaq tyArcCa#ti | 
 56)	3.4.8.5(47)-  RuqcCaqtiq | yasya# |
 RuqcCaqtiq yasyaq yasya# r^^cCa tyRucCatiq yasya# | 
 57)	3.4.8.5(48)-  yasya# | kAqmaye#ta |
@@ -3385,9 +3385,9 @@ varShma# samAqnAnA(gm)# samAqnAnAqM ~MvarShmaq varShma# samAqnAnA$m |
 28)	3.4.8.7(22)-  saqmAqnAnA$m | gaqmaqyaqtiq |
 saqmAqnAnA$m gamayati gamayati samAqnAnA(gm)# samAqnAnA$m gamayati | 
 29)	3.4.8.7(23)-  gaqmaqyaqtiq | catu#SSarAvaH |
-gaqmaqyaqtiq catu#SsarAvaq Scatu#SSarAvo gamayati gamayatiq catu#SSarAvaH | 
+gaqmaqyaqtiq catu#SSarAvaq Scatu#SSarAvo gamayati gamayatiq catu#SSarAvaH | 
 30)	3.4.8.7(24)-  catu#SSarAvaH | Baqvaqtiq |
-catu#SSarAvo Bavati Bavatiq catu#SsarAvaq Scatu#SSarAvo Bavati | 
+catu#SSarAvo Bavati Bavatiq catu#SSarAvaq Scatu#SSarAvo Bavati | 
 31)	3.4.8.7(24)-  catu#SSarAvaH |
 catu#SSarAvaq itiq catu#H - SaqrAqvaqH | 
 32)	3.4.8.7(25)-  Baqvaqtiq | diqkShu |
@@ -3501,9 +3501,9 @@ eqva tenaq tenaiqvaiva tena# |
 28)	3.4.9.1(24)-  tena# | kaqroqtiq |
 tena# karoti karotiq tenaq tena# karoti | 
 29)	3.4.9.1(25)-  kaqroqtiq | anu# |
-Kaqroq tyanvanu# karoti karoq tyanu# | 
+kaqroq tyanvanu# karoti karoq tyanu# | 
 30)	3.4.9.1(26)-  anu# | eqva |
-Anveq vaivAn vanveqva | 
+anveq vaivAn vanveqva | 
 31)	3.4.9.1(27)-  eqva | aqsmaiq |
 eqvAsmA# asmA eqvai vAsmai$ | 
 32)	3.4.9.1(28)-  aqsmaiq | anu#matiH |
@@ -4253,7 +4253,7 @@ niqruqpyantaq iti# niH - uqpyante$ |
 71)	3.4.9.7(55)-  tam | eqva | (GS-3.4-34)
 ta meqvaiva tam ta meqva | 
 72)	3.4.9.7(56)-  eqva | AqBiqH | (GS-3.4-34)
-eqvABi#r Abi reqvai vABi#H | 
+eqvABi#r ABi reqvai vABi#H | 
 73)	3.4.9.7(57)-  AqBiqH | upa# | (GS-3.4-34)
 AqBiq rupopA# BirABiq rupa# | 
 74)	3.4.9.7(58)-  upa# | Aqpnoqtiq || (GS-3.4-34)
@@ -4555,7 +4555,7 @@ nArtiq mArtiqm na nArti$m |
 28)	3.4.10.3(22)-  Arti$m | A |
 Artiq mA &&rtiq mArtiq mA | 
 29)	3.4.10.3(23)-  A | RuqcCaqtiq |
-ArcCa# tyRucCa tyArcCati | 
+ArcCa# tyRucCaq tyArcCa#ti | 
 30)	3.4.10.3(24)-  RuqcCaqtiq | yaja#mAnaH |
 RuqcCaqtiq yaja#mAnoq yaja#mAna RucCa tyRucCatiq yaja#mAnaH | 
 31)	3.4.10.3(25)-  yaja#mAnaH | yat |
@@ -4739,7 +4739,7 @@ yoni#r. Ruqtviya# Ruqtviyoq yoniqr yoni#r. Ruqtviya#H |
 60)	3.4.10.4(47)-  Ruqtviya#H | iti# |
 Ruqtviyaq itI tyRuqtviya# Ruqtviyaq iti# | 
 61)	3.4.10.4(48)-  iti# | aqraNyo$H |
-Ityaq raNyo# raqraNyoq ritI tyaqraNyo$H | 
+ityaq raNyo# raqraNyoq ritI tyaqraNyo$H | 
 62)	3.4.10.4(49)-  aqraNyo$H | saqmAro#hayati |
 aqraNyo$H saqmAro#hayati saqmAro#haya tyaqraNyo#raq raNyo$H saqmAro#hayati | 
 63)	3.4.10.4(50)-  saqmAro#hayati | eqShaH |
@@ -4811,7 +4811,7 @@ yaqj~jiyA# taqnU staqnUr yaqj~jiyA# yaqj~jiyA# taqnUH |
 32)	3.4.10.5(28)-  taqnUH | tayA$ | (GS-3.4-42)
 taqnU stayAq tayA# taqnU staqnU stayA$ | 
 33)	3.4.10.5(29)-  tayA$ | A | (GS-3.4-42)
-tayA &&tayAq tayA$ | 
+tayA &&tayAq tayA | 
 34)	3.4.10.5(30)-  A | iqhiq | (GS-3.4-42)
 ehIq hye hi# | 
 35)	3.4.10.5(31)-  iqhiq | A | (GS-3.4-42)
@@ -5389,9 +5389,9 @@ tvotoq na na tvotaq stvotoq na |
 47)	3.4.11.5(43)-  na | eqnaqm | (GS-3.4-51)
 naina# menaqm na naina$m | 
 48)	3.4.11.5(44)-  eqnaqm | a(gm)ha#H | (GS-3.4-51)
-eqnaq ma(gm)ho# &(gm)ha# ena menaq ma(gm)ha#H | 
+eqnaq ma(gm)ho &(gm)ha# ena menaq ma(gm)ha#H | 
 49)	3.4.11.5(45)-  a(gm)ha#H | aqS~joqtiq | (GS-3.4-51)
-a(gm)ho# aS~jo tyaS~joq tya(gm)ho# &(gm)ho# aS~joti | 
+a(gm)ho# aS~jo tyaS~joq tya(gm)ho &(gm)ho# aS~joti | 
 50)	3.4.11.5(46)-  aqS~joqtiq | anti#taH | (GS-3.4-51)
 aqS~joq tyanti#toq anti#to aS~jo tyaS~joq tyanti#taH | 
 51)	3.4.11.5(47)-  anti#taH | na | (GS-3.4-51)
