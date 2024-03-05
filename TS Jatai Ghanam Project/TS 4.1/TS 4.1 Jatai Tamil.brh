@@ -313,7 +313,7 @@ hastA%B4yAm gA3ya/trENa+ gA3ya/trENa/ hastA%B4yA/(gm)/ hastA%B4yAm gA3ya/trENa+ 
 51)	4.1.1.3(43)-  gA/3ya/trENa+ | Ca2~nda+3sA |
 gA/3ya/trENa/ Ca2~nda+3sA/ Ca2~nda+3sA gA3ya/trENa+ gA3ya/trENa/ Ca2~nda+3sA | 
 52)	4.1.1.3(44)-  Ca2~nda+3sA | A | (G4S-4.1-4)
-Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda+3sA | 
+Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda/3sA | 
 53)	4.1.1.3(45)-  A | da/3dE/3 | (G4S-4.1-4)
 A da+3dE3 da3da/3 A da+3dE3 | 
 54)	4.1.1.3(46)-  da/3dE/3 | a/~ggi/3ra/svat | (G4S-4.1-4)
@@ -349,7 +349,7 @@ traiShTu+BE4na tvA tvA/ traiShTu+BE4na/ traiShTu+BE4na tvA |
 11)	4.1.1.4(10)-  tvA/ | Ca2~nda+3sA |
 tvA/ Ca2~nda+3sA/ Ca2~nda+3sA tvA tvA/ Ca2~nda+3sA | 
 12)	4.1.1.4(11)-  Ca2~nda+3sA | A |
-Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda+3sA | 
+Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda/3sA | 
 13)	4.1.1.4(12)-  A | da/3dE/3 |
 A da+3dE3 da3da/3 A da+3dE3 | 
 14)	4.1.1.4(13)-  da/3dE/3 | a/~ggi/3ra/svat |
@@ -387,7 +387,7 @@ jAga+3tEna tvA tvA/ jAga+3tEna/ jAga+3tEna tvA |
 30)	4.1.1.4(28)-  tvA/ | Ca2~nda+3sA |
 tvA/ Ca2~nda+3sA/ Ca2~nda+3sA tvA tvA/ Ca2~nda+3sA | 
 31)	4.1.1.4(29)-  Ca2~nda+3sA | A |
-Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda+3sA | 
+Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda/3sA | 
 32)	4.1.1.4(30)-  A | da/3dE/3 |
 A da+3dE3 da3da/3 A da+3dE3 | 
 33)	4.1.1.4(31)-  da/3dE/3 | a/~ggi/3ra/svat |
@@ -433,7 +433,7 @@ Anu+ShTuBE/4nEtyAnu+ - stu/BE/4na/ |
 53)	4.1.1.4(49)-  tvA/ | Ca2~nda+3sA |
 tvA/ Ca2~nda+3sA/ Ca2~nda+3sA tvA tvA/ Ca2~nda+3sA | 
 54)	4.1.1.4(50)-  Ca2~nda+3sA | A |
-Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda+3sA | 
+Ca2~nda/3sA&& cCa2~nda+3sA/ Ca2~nda/3sA | 
 55)	4.1.1.4(51)-  A | da/3dE/3 |
 A da+3dE3 da3da/3 A da+3dE3 | 
 56)	4.1.1.4(52)-  da/3dE/3 | a/~ggi/3ra/svat ||
@@ -589,7 +589,7 @@ sva/stiga+3vyUti/riti+ sva/sti - ga/3vyU/ti/H |
 19)	4.1.2.2(15)-  aBa+4yAni | kRu/Nvann ||
 aBa+4yAni kRu/Nvan kRu/Nvan-naBa+4yA/ ~nyaBa+4yAni kRu/Nvann | 
 20)	4.1.2.2(16)-  kRu/Nvann ||
-kRu/Nvanniti+ kRu/Nvan | 
+kRu/Nvanniti+ kRu/Nvann | 
 21)	4.1.2.2(17)-  pU/ShNA | sa/yujA% |
 pU/ShNA sa/yujA+ sa/yujA+ pU/ShNA pU/ShNA sa/yujA% | 
 22)	4.1.2.2(18)-  sa/yujA% | sa/ha ||
@@ -1029,7 +1029,7 @@ a/d3B4ya itya+t - B4yaH |
 68)	4.1.2.5(59)-  tvam | aSma+naH |
 tva maSma+nO/ aSma+na/ stvam tva maSma+naH | 
 69)	4.1.2.5(60)-  aSma+naH | pari+ ||
-aSma+na/H pari/ paryaSma+nO/ aSma+na/H pari+ | 
+aSma+na/ spari/ paryaSma+nO/ aSma+na/ spari+ | 
 70)	4.1.2.5(61)-  pari+ ||
 parIti/ pari+ | 
 71)	4.1.2.5(62)-  tvam | vanE%B4yaH |
@@ -1143,7 +1143,7 @@ a/g3nim Ba+4ri/Shyad3 Ba+4ri/Shya da/3g3ni ma/g3nim Ba+4ri/Shyat |
 44)	4.1.3.1(37)-  Ba/4ri/Shyat | apa+rAvapiShTha2m || (G4S-4.1-18)
 Ba/4ri/Shya da3pa+rAvapi/ShTha2 mapa+rAvapiShTha2m Ba4ri/Shyad3 Ba+4ri/Shya da3pa+rAvapiShTha2m | 
 45)	4.1.3.1(38)-  apa+rAvapiShTha2m ||
-pa+rAvapiShTha/2mityapa+rA - va/pi/ShTha/2m | 
+apa+rAvapiShTha/2mityapa+rA - va/pi/ShTha/2m | 
 46)	4.1.3.1(39)-  vard3dha+4mAnam | ma/haH |
 vard3dha+4mAnam ma/hO ma/hO vard3dha+4mAna/M ~Mvard3dha+4mAnam ma/haH | 
 47)	4.1.3.1(40)-  ma/haH | A |
@@ -1183,7 +1183,7 @@ ba/3hu/lE u/BE4 u/BE4 ba+3hu/lE ba+3hu/lE u/BE4 |
 7)	4.1.3.2(5)-  ba/3hu/lE |
 ba/3hu/lE iti+ ba3hu/lE | 
 8)	4.1.3.2(6)-  u/BE4 ||
-u/BE4 itu/BE4 | 
+u/BE4 ityu/BE4 | 
 9)	4.1.3.2(7)-  vyaca+svatI | sam |
 vyaca+svatI/ sa(gm) saM ~Mvyaca+svatI/ vyaca+svatI/ sam | 
 10)	4.1.3.2(7)-  vyaca+svatI |
@@ -1267,7 +1267,7 @@ viSva+sya vA/Ga4tO+ vA/Ga4tO/ viSva+sya/ viSva+sya vA/Ga4ta+H |
 49)	4.1.3.2(43)-  vA/Ga4ta+H ||
 vA/Ga4ta/ iti+ vA/Ga4ta+H | 
 50)	4.1.3.2(44)-  tam | u/ |
-ta mU/ tam ta mu+ | 
+ta mu/ tam ta mu+ | 
 51)	4.1.3.2(45)-  u/ | tvA/ |
 u/ tvA/ tva/ vu/ tvA/ | 
 52)	4.1.3.2(46)-  tvA/ | da/3d3dh4ya~g |
@@ -1289,7 +1289,7 @@ vRu/tra/haNa/miti+ vRutra - hana%m |
 4)	4.1.3.3(3)-  pu/ra/~nda/3ram ||
 pu/ra/~nda/3ramiti+ puraM - da/3ram | 
 5)	4.1.3.3(4)-  tam | u/ |
-ta mU/ tam ta mu+ | 
+ta mu/ tam ta mu+ | 
 6)	4.1.3.3(5)-  u/ | tvA/ |
 u/ tvA/ tva/ vu/ tvA/ | 
 7)	4.1.3.3(6)-  tvA/ | pA/th2yaH |
@@ -1311,7 +1311,7 @@ dha/4na/~jja/yamiti+ dha4naM - ja/yam |
 15)	4.1.3.3(13)-  raNE+raNE ||
 raNE+raNa/ iti/ raNE% - ra/NE/ | 
 16)	4.1.3.3(14)-  sIda+3 | hO/ta/H |
-sIda+3 hOtO hOta/H sIda/3 sIda+3 hOtaH | 
+sIda+3 hOtar hOta/H sIda/3 sIda+3 hOtaH | 
 17)	4.1.3.3(15)-  hO/ta/H | svE |
 hO/ta/H svE svE hO+tO hOta/H svE | 
 18)	4.1.3.3(16)-  svE | u/ |
@@ -1371,7 +1371,7 @@ a/sa/da/3th2 su/da3kSha+H su/da3kShO+ asada3 da3sada3th2 su/da3kSha+H |
 45)	4.1.3.3(40)-  su/da3kSha+H ||
 su/da3kSha/ iti+ su - da3kSha+H | 
 46)	4.1.3.3(41)-  ada+3b3dha4vratapramatiH | vasi+ShTha2H |
-ada+3b3dha4vratapramati/r vasi+ShThO/2 vasi/ShThO2 &da+3b3dha4vratapramati/ rada+3b3dha4vratapramati/r vasi+ShTha2H | 
+ada+3b3dha4vratapramati/r vasi+ShThO/2 vasi+ShThO/2 ada+3b3dha4vratapramati/ rada+3b3dha4vratapramati/r vasi+ShTha2H | 
 47)	4.1.3.3(41)-  ada+3b3dha4vratapramatiH |
 ada+3b3dha4vrata pramati/rityada+3b3dha4vrata - pra/ma/ti/H | 
 48)	4.1.3.3(42)-  vasi+ShTha2H | sa/ha/sra/MBa/4raH |
@@ -1569,7 +1569,7 @@ su/Sa/stiBi/4riti+ suSa/sti - Bi/4H |
 1)	4.1.4.2(1)-  U/rd3dh4vaH | u/ | (J2D3-5,G4D3-46,G4S-4.1-23)
 U/rd3dh4va u+ vu vU/rd3dh4va U/rd3dh4va u+ | 
 2)	4.1.4.2(2)-  u/ | su | ~na/H | (J2D3-5,G4D3-46,G4S-4.1-23)
-U/ Shu NO+ ~na/H sU Shu Na+H | 
+U/ Shu NO+ ~na/H sU# Shu Na+H | 
 3)	4.1.4.2(3)-  su | ~na/H | (J2D3-5,G4D3-46,G4S-4.1-23)
 su nO+ ~na/H su su na+H | 
 4)	4.1.4.2(4)-  ~na/H | U/tayE% | (J2D3-5,G4D3-46,G4S-4.1-23)
@@ -1896,11 +1896,11 @@ Sarma+Ni syA(gg) syA/(gm)/ Sarma+Ni/ Sarma+Ni syAm |
 syA/ ma/g3nE ra/g3nEH syA(gg)+ syA ma/g3nEH | 
 14)	4.1.5.1(13)-  a/g3nEH | a/ham |
 a/g3nEra/ha ma/ha ma/g3nE ra/g3nE ra/ham | 
-15)	4.1.5.1(14)-  a/ham | su/hava/sya |
-a/ha(gm) su/hava/sya su/hava/syAha ma/ha(gm) su/hava/sya | 
-16)	4.1.5.1(15)-  su/hava/sya | praNI+tau ||
-su/hava/sya praNI+tau/ praNI+tau su/hava/sya su/hava/sya praNI+tau | 
-17)	4.1.5.1(15)-  su/hava/sya |
+15)	4.1.5.1(14)-  a/ham | su/hava+sya |
+a/ha(gm) su/hava+sya su/hava+syA/ha ma/ha(gm) su/hava+sya | 
+16)	4.1.5.1(15)-  su/hava+sya | praNI+tau ||
+su/hava+sya/ praNI+tau/ praNI+tau su/hava+sya su/hava+sya/ praNI+tau | 
+17)	4.1.5.1(15)-  su/hava+sya |
 su/hava/syEti+ su - hava+sya | 
 18)	4.1.5.1(16)-  praNI+tau ||
 praNI+tA/viti/ pra - ~nI/tau/ | 
@@ -2511,7 +2511,7 @@ a/~ggi/3ra/svat pa+ca~ntu paca~ntva~ggi3ra/sva da+3~ggi3ra/svat pa+ca~ntu |
 43)	4.1.6.2(35)-  pa/ca/~ntu/ | u/KE/2 ||
 pa/ca/~ntU/KE/2 u/KE/2 pa/ca/~ntu/ pa/ca/~ntU/KE/2 | 
 44)	4.1.6.2(36)-  u/KE/2 ||
-u/KE/2 ityu+KE2 | 
+u/Ka/2 ityu+KE2 | 
 45)	4.1.6.2(37)-  mitra+ | E/tAm |
 mitrai/tA mE/tAm mitra/ mitrai/tAm | 
 46)	4.1.6.2(38)-  E/tAm | u/KA2m |
@@ -2627,7 +2627,7 @@ tvamiti/ tvam |
 43)	4.1.6.3(40)-  vasa+vaH | tvA/ |
 vasa+va stvA tvA/ vasa+vO/ vasa+va stvA | 
 44)	4.1.6.3(41)-  tvA/ | A |
-tvA &&tvA% tvA | 
+tvA &&tvA/ tvA | 
 45)	4.1.6.3(42)-  A | C2Ru/~nda/3~ntu/ |
 A cC2Ru+~nda3~ntu C2Ru~nda/3n tvA C2Ru+~nda3~ntu | 
 46)	4.1.6.3(43)-  C2Ru/~nda/3~ntu/ | gA/3ya/trENa+ |
@@ -2641,7 +2641,7 @@ a/~ggi/3ra/svad3 ru/d3rA ru/d3rA a+~ggi3ra/sva da+3~ggi3ra/svad3 ru/d3rAH |
 50)	4.1.6.3(47)-  ru/d3rAH | tvA/ |
 ru/d3rA stvA% tvA ru/d3rA ru/d3rA stvA% | 
 51)	4.1.6.3(48)-  tvA/ | A |
-tvA &&tvA% tvA | 
+tvA &&tvA/ tvA | 
 52)	4.1.6.3(49)-  A | C2Ru/~nda/3~ntu/ |
 A cC2Ru+~nda3~ntu C2Ru~nda/3n tvA C2Ru+~nda3~ntu | 
 53)	4.1.6.3(50)-  C2Ru/~nda/3~ntu/ | traiShTu+BE4na |
@@ -2655,7 +2655,7 @@ a/~ggi/3ra/sva dA+3di/3tyA A+di/3tyA a+~ggi3ra/sva da+3~ggi3ra/sva dA+3di/3tyAH 
 57)	4.1.6.3(54)-  A/di/3tyAH | tvA/ |
 A/di/3tyA stvA% tvA &&di/3tyA A+di/3tyA stvA% | 
 58)	4.1.6.3(55)-  tvA/ | A |
-tvA &&tvA% tvA | 
+tvA &&tvA/ tvA | 
 59)	4.1.6.3(56)-  A | C2Ru/~nda/3~ntu/ |
 A cC2Ru+~nda3~ntu C2Ru~nda/3~ntvA cC2Ru+~nda3~ntu | 
 60)	4.1.6.3(57)-  C2Ru/~nda/3~ntu/ | jAga+3tEna |
@@ -2694,12 +2694,12 @@ tvA/ &g3nE/ a/g3nE/ tvA/ tvA/ &g3nE/ |
 a/g3na/ Ru/tava+ Ru/tavO+ ag3nE ag3na Ru/tava+H | 
 4)	4.1.7.1(4)-  Ru/tava+H | va/rd3dha/4ya/~ntu/ |
 Ru/tavO+ vard3dha4ya~ntu vard3dha4yan tvRu/tava+ Ru/tavO+ vard3dha4ya~ntu | 
-5)	4.1.7.1(5)-  va/rd3dha/4ya/~ntu/ | sa/~MvaM/th2sa/rAH |
-va/rd3dha/4ya/~ntu/ sa/~MvaMth2sa/rAH sa/~MvaMth2sa/rA va+rd3dha4ya~ntu vard3dha4ya~ntu sa/~MvaMth2sa/rAH | 
+5)	4.1.7.1(5)-  va/rd3dha/4ya/~ntu/ | sa/~Mva/th2sa/rAH |
+va/rd3dha/4ya/~ntu/ sa/M~Mva/th2sa/rAH sa+M~Mvath2sa/rA va+rd3dha4ya~ntu vard3dha4ya~ntu sa+M~Mvath2sa/rAH | 
 6)	4.1.7.1(6)-  sa/~MvaM/th2sa/rAH | RuSha+yaH |
-sa/~MvaMth2sa/rA RuSha+ya/ RuSha+yaH sa/~MvaMth2sa/rAH sa/~MvaMth2sa/rA RuSha+yaH | 
-7)	4.1.7.1(6)-  sa/~MvaM/th2sa/rAH |
-sa/~MvaM/th2sa/rA iti+ saM - va/th2sa/rAH | 
+sa/M~Mva/th2sa/rA RuSha+ya/ RuSha+yaH saM~Mvath2sa/rAH sa+M~Mvath2sa/rA RuSha+yaH | 
+7)	4.1.7.1(6)-  sa/M~Mva/th2sa/rAH |
+sa/M~Mva/th2sa/rA iti+ saM - va/th2sa/rAH | 
 8)	4.1.7.1(7)-  RuSha+yaH | yAni+ |
 RuSha+yO/ yAni/ yAnyRuSha+ya/ RuSha+yO/ yAni+ | 
 9)	4.1.7.1(8)-  yAni+ | sa/tyA ||
@@ -2927,9 +2927,9 @@ aci+tti/ matya tyaci+tti/ maci+tti/ mati+ |
 6)	4.1.7.3(6)-  ati+ | arA+tim | (G4S-4.1-40)
 atyarA+ti/ marA+ti/ matya tyarA+tim | 
 7)	4.1.7.3(7)-  arA+tim | a/g3nE/ ||
-arA+ti mag3nE a/g3nE arA+ti/ marA+ti mag3nE | 
+arA+ti mag3nE ag3nE/ arA+ti/ marA+ti mag3nE | 
 8)	4.1.7.3(8)-  a/g3nE/ ||
-a/g3na itya+g3nE | 
+ag3/na/ itya+g3nE | 
 9)	4.1.7.3(9)-  viSvA% | hi |
 viSvA/ hi hi viSvA/ viSvA/ hi | 
 10)	4.1.7.3(10)-  hi | a/g3nE/ |
@@ -3445,7 +3445,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 5)	4.1.8.4(5)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 6)	4.1.8.4(6)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 7)	4.1.8.4(7)-  yaH | prA/Na/taH |
 yaH prA+Na/taH prA+Na/tO yO yaH prA+Na/taH | 
 8)	4.1.8.4(8)-  prA/Na/taH | ~ni/mi/Sha/taH |
@@ -3491,7 +3491,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 28)	4.1.8.4(23)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 29)	4.1.8.4(24)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 30)	4.1.8.4(25)-  yaH | A/tma/dA3H |
 ya A%tma/dA3 A%tma/dA3 yO ya A%tma/dA3H | 
 31)	4.1.8.4(26)-  A/tma/dA3H | ba/3la/dA3H |
@@ -3535,7 +3535,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 50)	4.1.8.4(41)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 51)	4.1.8.4(42)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 52)	4.1.8.4(43)-  yasya+ | i/mE |
 yasyE/ma i/mE yasya/ yasyE/mE | 
 53)	4.1.8.4(44)-  i/mE | hi/mava+~ntaH |
@@ -3579,7 +3579,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 11)	4.1.8.5(9)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 12)	4.1.8.5(10)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 13)	4.1.8.5(11)-  yam | kra~nda+3sI |
 yam kra~nda+3sI/ kra~nda+3sI/ yaM ~Myam kra~nda+3sI | 
 14)	4.1.8.5(12)-  kra~nda+3sI | ava+sA |
@@ -3593,7 +3593,7 @@ ta/sta/BA/4nE a/B4yaikShE+tA ma/B4yaikShE+tAM tastaBA/4nE ta+staBA/4nE a/B4yaikS
 18)	4.1.8.5(14)-  ta/sta/BA/4nE | (J2M-34)
 ta/sta/BA/4nE iti+ tastaBA/4nE | 
 19)	4.1.8.5(15)-  a/B4yaikShE+tAM | mana+sA | (J2M-34)
-a/B4yaikShE+tA/M mana+sA/ mana+sA a/B4yaikShE+tA ma/B4yaikShE+tA/M mana+sA | 
+a/B4yaikShE+tA/M mana+sA/ mana+sA/ &B4yaikShE+tA ma/B4yaikShE+tA/M mana+sA | 
 20)	4.1.8.5(15)-  a/B4yaikShE+tAM | (J2M-34)
 a/B4yaikShE+tA/mitya+Bi4 - aikShE+tAM | 
 21)	4.1.8.5(16)-  mana+sA | rEja+mAnE ||
@@ -3621,7 +3621,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 32)	4.1.8.5(25)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 33)	4.1.8.5(26)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 34)	4.1.8.5(27)-  yEna+ | d3yauH |
 yEna/ d3yaur d3yaur yEna/ yEna/ d3yauH | 
 35)	4.1.8.5(28)-  d3yauH | u/g3rA |
@@ -3663,7 +3663,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 53)	4.1.8.5(44)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 54)	4.1.8.5(45)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 55)	4.1.8.5(46)-  Apa+H | ha/ | (G4S-4.1-48)
 ApO+ ha/ hA pa/ ApO+ ha | 
 56)	4.1.8.5(47)-  ha/ | yat | (G4S-4.1-48)
@@ -3703,7 +3703,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 14)	4.1.8.6(14)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 15)	4.1.8.6(15)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 16)	4.1.8.6(16)-  yaH | ci/t |
 yaSci+c ci/d3 yO yaSci+t | 
 17)	4.1.8.6(17)-  ci/t | Apa+H |
@@ -3743,7 +3743,7 @@ dE/3vAya+ ha/viShA+ ha/viShA+ dE/3vAya+ dE/3vAya+ ha/viShA% |
 34)	4.1.8.6(33)-  ha/viShA% | vi/dhE/4ma/ ||
 ha/viShA+ vidhE4ma vidhE4ma ha/viShA+ ha/viShA+ vidhE4ma | 
 35)	4.1.8.6(34)-  vi/dhE/4ma/ ||
-vi/dhE/4mati+ vidhE4ma | 
+vi/dhE/4mEti+ vidhE4ma | 
 1)	4.1.9.1(1)-  AkU+tim | a/g3nim |
 AkU+ti ma/g3ni ma/g3ni mAkU+ti/ mAkU+ti ma/g3nim | 
 2)	4.1.9.1(1)-  AkU+tim |
@@ -4057,7 +4057,7 @@ vi BA+4hi BA4hi/ vi vi BA+4hi |
 44)	4.1.9.3(39)-  BA/4hi/ ||
 BA/4hIti+ BA4hi | 
 45)	4.1.9.3(40)-  a/~ntaH | a/g3nE/ |
-a/~nta ra+g3nE ag3nE/ &~nta ra/~nta ra+g3nE | 
+a/~nta ra+g3nE ag3nE+ a/~nta ra/~nta ra+g3nE | 
 46)	4.1.9.3(41)-  a/g3nE/ | ru/cA |
 a/g3nE/ ru/cA ru/cA &g3nE+ ag3nE ru/cA | 
 47)	4.1.9.3(42)-  ru/cA | tvam |
@@ -4316,11 +4316,11 @@ u/tEtyu/ta |
 hanU%B4yA(gg) stE/nAn th2stE/nAn. hanU%B4yA/(gm)/ hanU%B4yA(gg) stE/nAn | 
 43)	4.1.10.2(37)-  hanU%B4yAm |
 hanU%B4yA/miti/ hanu+ - B4yA/m | 
-44)	4.1.10.2(38)-  stE/nAn | Ba/4ga/3va+H |
-stE/nAn Ba+4ga/3vO+ Ba4ga/3va+H stE/nAn th2stE/nAn Ba+4ga/3va+H | 
-45)	4.1.10.2(39)-  Ba/4ga/3va+H | tAn |
-Ba/4ga/3va+ stA(gg) stAn Ba+4ga/3vO+ Ba4ga/3va+ stAn | 
-46)	4.1.10.2(39)-  Ba/4ga/3va+H |
+44)	4.1.10.2(38)-  stE/nAn | Ba/4ga/3va/H |
+stE/nAn Ba+4ga3vO Ba4ga3vaH stE/nAn th2stE/nAn Ba+4ga3vaH | 
+45)	4.1.10.2(39)-  Ba/4ga/3va/H | tAn |
+Ba/4ga/3va/ stA(gg) stAn Ba+4ga3vO Ba4ga3va/ stAn | 
+46)	4.1.10.2(39)-  Ba/4ga/3va/H |
 Ba/4ga/3va/ iti+ Ba4ga3 - va/H | 
 47)	4.1.10.2(40)-  tAn | tvam |
 tA(gg) stvam tvam tA(gg) stA(gg) stvam | 
@@ -4909,7 +4909,7 @@ rA/ti ra+stvastu rA/tI rA/ti ra+stu |
 19)	4.1.11.3(16)-  a/stu/ ||
 a/stvitya+stu | 
 20)	4.1.11.3(17)-  tE/ | a/va/rd3dha/4~nta/ | (G4S-4.1-64)
-tE/ &va/rd3dha/4~ntA/ va/rd3dha/4~nta/ tE/ tE/ &va/rd3dha/4~nta/ | 
+tE+ &vard3dha4~ntA vard3dha4~nta/ tE tE+ &vard3dha4~nta | 
 21)	4.1.11.3(18)-  a/va/rd3dha/4~nta/ | svata+vasaH | (G4S-4.1-64)
 a/va/rd3dha/4~nta/ svata+vasa/H svata+vasO &vard3dha4~ntA vard3dha4~nta/ svata+vasaH | 
 22)	4.1.11.3(19)-  svata+vasaH | ma/hi/tva/nA | (G4S-4.1-64)
