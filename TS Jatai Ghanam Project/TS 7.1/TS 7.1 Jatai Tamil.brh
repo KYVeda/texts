@@ -3721,11 +3721,11 @@ anveqtI(3) eqtI(3) anvanveqtI(3) |
 (23)[P32] 7.1.7.4(19)-  eqtI(3) | saqhaqsraqtaqmIm |
 eqtI(3) sa#hasrataqmI(gm) sa#hasrataqmI meqtI(3) e#tI(3) sa#hasrataqmIm | 
 (24)[P32] 7.1.7.4(20)-  saqhaqsraqtaqmIm | saqhasrA(3)m |
-saqhaqsraqtaqmI(gm) saqhasrA(3)m saqhasrA(3)m sa#hasrataqmI(gm) sa#hasrataqmI(gm) saqhasrA(3)m | 
+saqhaqsraqtaqmI(gm) saqhasrA(3)(gm) saqhasrA(3)(gm) sa#hasrataqmI(gm) sa#hasrataqmI(gm) saqhasrA(3)m | 
 (25)[P32] 7.1.7.4(20)-  saqhaqsraqtaqmIm |
 saqhaqsraqtaqmImiti# sahasra - taqmIm | 
 (26)[P32] 7.1.7.4(21)-  saqhasrA(3)m | iti# |
-saqhasrA(3) mitIti# saqhasrA(3)m saqhasrA(3) miti# | 
+saqhasrA(3) mitIti# saqhasrA(3)(gm) saqhasrA(3) miti# | 
 (27)[P32] 7.1.7.4(22)-  iti# | yat |
 itiq yad yaditItiq yat | 
 (28)[P32] 7.1.7.4(23)-  yat | prAcI$m |
@@ -3761,7 +3761,7 @@ suqvaqrgamiti# suvaH - gam |
 (43)[P32] 7.1.7.4(34)-  loqkam | na |
 loqkan na na loqkam ~Mloqkan na | 
 (44)[P32] 7.1.7.4(35)-  na | pra |
-na pra pra na na pra | 
+na pra pra Na na pra | 
 (45)[P32] 7.1.7.4(36)-  pra | jAqnIqyAqt |
 pra jA#nIyAj jAnIyAqt pra pra jA#nIyAt | 
 (46)[P32] 7.1.7.4(37)-  jAqnIqyAqt | praqtIcI$m |
@@ -3889,11 +3889,11 @@ A &jA#yantA jAyaqntA &jA#yanta |
 (32)[P33] 7.1.8.1(27)-  aqjAqyaqntaq | suho#tA |
 aqjAqyaqntaq suho#tAq suho#tA &jAyantA jAyantaq suho#tA | 
 (33)[P33] 7.1.8.1(28)-  suho#tA | sU$d^gAtA |
-suhoqtA sU$d^gAqtA sU$d^gAtAq suho#tAq suhoqtA sU$d^gAtA | 
+suho#tAq sU$d^gAtAq sU$d^gAtAq suho#tAq suho#tAq sU$d^gAtA | 
 (34)[P33] 7.1.8.1(28)-  suho#tA |
 suhoqtetiq su - hoqtAq | 
 (35)[P33] 7.1.8.1(29)-  sU$d^gAtA | sva#ddhvaryuH |
-sU$d^gAtAq sva#ddhvaryuqH sva#ddhvaqryuH sU$d^gAqtA sU$d^gAtAq sva#ddhvaryuH | 
+sU$d^gAtAq sva#ddhvaryuqH sva#ddhvaryuqH sU$d^gAtAq sU$d^gAtAq sva#ddhvaryuH | 
 (36)[P33] 7.1.8.1(29)-  sU$d^gAtA |
 sU$d^gAqtetiq su - uqd^gAqtAq | 
 (37)[P33] 7.1.8.1(30)-  sva#ddhvaryuH | susa#BeyaH |
@@ -3927,11 +3927,11 @@ vIqrA jA#yante jAyante vIqrA vIqrA jA#yante |
 (51)[P33] 7.1.8.1(41)-  jAqyaqnteq | suho#tA |
 jAqyaqnteq suho#tAq suho#tA jAyante jAyanteq suho#tA | 
 (52)[P33] 7.1.8.1(42)-  suho#tA | sU$d^gAtA |
-suhoqtA sU$d^gAqtA sU$d^gAtAq suho#tAq suhoqtA sU$d^gAtA | 
+suho#tAq sU$d^gAtAq sU$d^gAtAq suho#tAq suho#tAq sU$d^gAtA | 
 (53)[P33] 7.1.8.1(42)-  suho#tA |
 suhoqtetiq su - hoqtAq | 
 (54)[P33] 7.1.8.1(43)-  sU$d^gAtA | sva#ddhvaryuH |
-sU$d^gAtAq sva#ddhvaryuqH sva#ddhvaqryuH sU$d^gAqtA sU$d^gAtAq sva#ddhvaryuH | 
+sU$d^gAtAq sva#ddhvaryuqH sva#ddhvaryuqH sU$d^gAtAq sU$d^gAtAq sva#ddhvaryuH | 
 (55)[P33] 7.1.8.1(43)-  sU$d^gAtA |
 sU$d^gAqtetiq su - uqd^gAqtAq | 
 (56)[P33] 7.1.8.1(44)-  sva#ddhvaryuH | susa#BeyaH |
@@ -4003,7 +4003,7 @@ sa eqtA-neqtAn thsa sa eqtAn |
 (23)[P34] 7.1.8.2(19)-  eqtAn | caqtura#H |
 eqtA(gg) Scaqtura# Scaqtura# eqtA-neqtA(gg) Scaqtura#H | 
 (24)[P34] 7.1.8.2(20)-  caqtura#H | catu#ShTomAn | (GS-7.1-30)
-caqturaq Scatu#ShTomAq(gg)q Scatu#ShTomAn caqtura# Scaqturaq Scatu#ShTomAn | 
+caqturaq Scatu#ShTomAq(gg)q Scatu#ShTomA(gg) Scaqtura# Scaqturaq Scatu#ShTomAn | 
 (25)[P34] 7.1.8.2(21)-  catu#ShTomAn | somAn# | (GS-7.1-30)
 catu#ShTomAqn thsomAqn thsomAq(gg)q?? Scatu#ShTomAq(gg)q Scatu#ShTomAqn thsomAn# | 
 (26)[P34] 7.1.8.2(21)-  catu#ShTomAn | (GS-7.1-30)
