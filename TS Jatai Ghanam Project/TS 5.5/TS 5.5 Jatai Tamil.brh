@@ -194,7 +194,7 @@ sa ma+vartatA vartata/ sa(gm) sa ma+vartata |
 (37)[P2] 5.5.1.2(29)-  a/va/rta/ta/ | ag3rE% | (G4S-5.5-03)
 a/va/rta/ tAg3rE/ ag3rE+ &vartatA varta/tAg3rE% | 
 (38)[P2] 5.5.1.2(30)-  ag3rE% | iti+ | (J2D3-36,G4S-5.5-03)
-ag3ra/ itItyag3rE% &g3ra/ iti+ | 
+ag3ra/ itItyag3rE &g3ra/ iti+ | 
 (39)[P2] 5.5.1.2(31)-  iti+ | A/GA/4ram | (J2D3-36,G4S-5.5-03)
 ityA+GA/4ra mA+GA/4ra mitI tyA+GA/4ram | 
 (40)[P2] 5.5.1.2(32)-  A/GA/4ram | A | (G4S-5.5-03)
@@ -461,13 +461,13 @@ yadA%3g3nAvaiShNa/va mA%g3nAvaiShNa/vaM ~Myad3 yadA%3g3nAvaiShNa/vam |
 A/g3nA/vai/ShNa/va mEkA+da3SakapAla/ mEkA+da3SakapAla mAg3nAvaiShNa/va mA%g3nAvaiShNa/va mEkA+da3SakapAlam | 
 (53)[P4] 5.5.1.4(47)-  A/g3nA/vai/ShNa/vam |
 A/g3nA/vai/ShNa/vamityA%g3nA - vai/ShNa/vam | 
-(54)[P4] 5.5.1.4(48)-  EkA+da3SakapAlam | ~ni/rvapa/ti |
-EkA+da3SakapAlan ~ni/rvapa/ti ~ni/rvapa/ tyEkA+da3SakapAla/ mEkA+da3SakapAlan ~ni/rvapa/ti | 
+(54)[P4] 5.5.1.4(48)-  EkA+da3SakapAlam | ~ni/rvapa+ti |
+EkA+da3SakapAlan ~ni/rvapa+ti ~ni/rvapa/ tyEkA+da3SakapAla/ mEkA+da3SakapAlan ~ni/rvapa+ti | 
 (55)[P4] 5.5.1.4(48)-  EkA+da3SakapAlam |
 EkA+da3SakapAla/mityEkA+da3Sa - ka/pA/la/m | 
-(56)[P4] 5.5.1.4(49)-  ~ni/rvapa/ti | dE/3vatA%H |
-~ni/rvapa/ti dE/3vatA+ dE/3vatA+ ~ni/rvapa/ti ~ni/rvapa/ti dE/3vatA%H | 
-(57)[P4] 5.5.1.4(49)-  ~ni/rvapa/ti |
+(56)[P4] 5.5.1.4(49)-  ~ni/rvapa+ti | dE/3vatA%H |
+~ni/rvapa+ti dE/3vatA+ dE/3vatA+ ~ni/rvapa+ti ~ni/rvapa+ti dE/3vatA%H | 
+(57)[P4] 5.5.1.4(49)-  ~ni/rvapa+ti |
 ~ni/rvapa/tIti+ ~niH - vapa+ti | 
 (58)[P4] 5.5.1.4(50)-  dE/3vatA%H | E/va |
 dE/3vatA+ E/vaiva dE/3vatA+ dE/3vatA+ E/va | 
@@ -576,7 +576,7 @@ G4Ru/taM ~MviShNO/r viShNO%r G4Ru/tam G4Ru/taM ~MviShNO%H |
 (52)[P5] 5.5.1.5(48)-  viShNO%H | ta/NDu/3lAH |
 viShNO% staNDu/3lA sta+NDu/3lA viShNO/r viShNO% staNDu/3lAH | 
 (53)[P5] 5.5.1.5(49)-  ta/NDu/3lAH | tasmA%t |
-ta/NDu/3lA stasmA/t tasmA%t taNDu/3lA sta+Ndu/3lA stasmA%t | 
+ta/NDu/3lA stasmA/t tasmA%t taNDu/3lA sta+NDu/3lA stasmA%t | 
 (54)[P5] 5.5.1.5(50)-  tasmA%t | ca/ruH |
 tasmA%c ca/ru Sca/ru stasmA/t tasmA%c ca/ruH | 
 (1)[P6] 5.5.1.6(1)-  ca/ruH | kA/rya+H |
@@ -812,7 +812,7 @@ a/b3ra/vI/ d3Ru/d3dh4nava+ d3Ru/d3dh4nava+ da3b3ravI da3b3ravI d3Ru/d3dh4nava+t 
 (18)[P8] 5.5.2.1(15)-  Ru/d3dh4nava+t | it | (G4S-5.5-09)
 Ru/d3dh4nava/ di3di3 d3Ru/d3dh4nava+ d3Ru/d3dh4nava/ di3t | 
 (19)[P8] 5.5.2.1(16)-  it | saH | (G4S-5.5-09)
-ith2 sa sEdi3th2 saH | 
+ith2 sa sa idi3th2 saH | 
 (20)[P8] 5.5.2.1(17)-  saH | yaH | (G4S-5.5-09)
 sa yO yaH sa sa yaH | 
 (21)[P8] 5.5.2.1(18)-  yaH | mA/ | (G4S-5.5-09)
@@ -924,7 +924,7 @@ dE/3vA mA+ mA dE/3vA dE/3vA mA% |
 (17)[P9] 5.5.2.2(16)-  mA/ | vE/da/3nn |
 mA/ vE/da/3n/. vE/da/3n mA/ mA/ vE/da/3nn | 
 (18)[P9] 5.5.2.2(17)-  vE/da/3nn | iti+ |
-VE/da/3n-nitIti+ vEda3n. vEda/3n-niti+ | 
+vE/da/3n-nitIti+ vEda3n. vEda/3n-niti+ | 
 (19)[P9] 5.5.2.2(18)-  iti+ | vai |
 iti/ vai vA itIti/ vai | 
 (20)[P9] 5.5.2.2(19)-  vai | a/g3niH |
@@ -1595,11 +1595,11 @@ puna/H pra pra puna/H puna/H pra |
 pra yu+~gktE yu~gktE/ pra pra yu+~gktE | 
 (42)[P15] 5.5.3.1(39)-  yu/~gktE/ | tEna+ |
 yu/~gktE/ tEna/ tEna+ yu~gktE yu~gktE/ tEna+ | 
-(43)[P15] 5.5.3.1(40)-  tEna+ | ayA+tayA/mnI |
-tEnA yA+tayA/ mnyayA+tayA/mnI tEna/ tEnAyA+tayA/mnI | 
-(44)[P15] 5.5.3.1(41)-  ayA+tayA/mnI | yaH |
-ayA+tayA/mnI yO yO &yA+tayA/ mnyayA+tayA/mnI yaH | 
-(45)[P15] 5.5.3.1(41)-  ayA+tayA/mnI |
+(43)[P15] 5.5.3.1(40)-  tEna+ | ayA+tayAmnI |
+tEnA yA+tayA/ mnyayA+tayAmnI/ tEna/ tEnAyA+tayAmnI | 
+(44)[P15] 5.5.3.1(41)-  ayA+tayAmnI | yaH |
+ayA+tayAmnI/ yO yO &yA+tayA/ mnyayA+tayAmnI/ yaH | 
+(45)[P15] 5.5.3.1(41)-  ayA+tayAmnI |
 ayA+tayA/mnItyayA+ta - yA/mnI/ | 
 (46)[P15] 5.5.3.1(42)-  yaH | vai |
 yO vai vai yO yO vai | 
@@ -2336,12 +2336,12 @@ asu+varg3ya masyA/syA su+varg3ya/ masu+varg3ya masya |
 asu+varg3ya/mityasu+vaH - g3ya/m | 
 (33)[P21] 5.5.4.4(28)-  a/sya/ | tat |
 a/sya/ tat tada+3syAsya/ tat | 
-(34)[P21] 5.5.4.4(29)-  tat | su/va/g3ya+H |
-tath2 su+va/g3ya+H suva/g3ya+ stat tath2 su+va/g3ya+H | 
-(35)[P21] 5.5.4.4(30)-  su/va/g3ya+H | a/g3niH |
-su/va/g3yO% &g3ni ra/g3niH su+va/g3ya+H suva/g3yO% &g3niH | 
-(36)[P21] 5.5.4.4(30)-  su/va/g3ya+H |
-su/va/g3ya+ iti+ suvaH - g3ya+H | 
+(34)[P21] 5.5.4.4(29)-  tat | su/va/rg3ya+H |
+tath2 su+va/rg3ya+H suva/rg3ya+ stat tath2 su+va/rg3ya+H | 
+(35)[P21] 5.5.4.4(30)-  su/va/rg3ya+H | a/g3niH |
+su/va/rg3yO% &g3ni ra/g3niH su+va/rg3ya+H suva/rg3yO% &g3niH | 
+(36)[P21] 5.5.4.4(30)-  su/va/rg3ya+H |
+su/va/rg3ya+ iti+ suvaH - g3ya+H | 
 (37)[P21] 5.5.4.4(31)-  a/g3niH | citi%m |
 a/g3ni Sciti/m citi+ ma/g3ni ra/g3ni Sciti%m | 
 (38)[P21] 5.5.4.4(32)-  citi%m | u/pa/dhA4ya+ | (G4S-5.5-20)
@@ -2898,14 +2898,14 @@ sva/ya/mA/tRu/NNA di/3kShu di/3kShu sva+yamAtRu/NNAH sva+yamAtRu/NNA di/3kShu |
 sva/ya/mA/tRu/NNA iti+ svayaM - A/tRu/NNAH | 
 (52)[P25] 5.5.5.4(44)-  di/3kShu | u/pa/da3dhA+4ti |
 di/3kShU+ pa/da3dhA%4 tyupa/da3dhA+4ti di/3kShu di/3kShU+ pa/da3dhA+4ti | 
-(53)[P25] 5.5.5.4(45)-  u/pa/da3dhA+4ti | sarvata+ScakShuShA |
-u/pa/da3dhA+4ti/ sarvata+ScakShuShA/ sarvata+ScakShuShO pa/da3dhA%4 tyupa/da3dhA+4ti/ sarvata+ScakShuShA | 
+(53)[P25] 5.5.5.4(45)-  u/pa/da3dhA+4ti | sa/rvata+ScakShuShA |
+u/pa/da3dhA+4ti sa/rvata+ScakShuShA sa/rvata+ScakShuShO pa/da3dhA%4 tyupa/da3dhA+4ti sa/rvata+ScakShuShA | 
 (54)[P25] 5.5.5.4(45)-  u/pa/da3dhA+4ti |
 u/pa/da3dhA/4tItyu+pa - da3dhA+4ti | 
-(55)[P25] 5.5.5.4(46)-  sarvata+ScakShuShA | E/va |
-sarvata+ScakShu Shai/vaiva sarvata+ScakShuShA/ sarvata+ScakShuShai/va | 
-(56)[P25] 5.5.5.4(46)-  sarvata+ScakShuShA |
-sarvata+ScakShu/ShEti+ sa/rvata+H - ca/kShu/ShA/ | 
+(55)[P25] 5.5.5.4(46)-  sa/rvata+ScakShuShA | E/va |
+sa/rvata+ScakShu Shai/vaiva sa/rvata+ScakShuShA sa/rvata+ScakShuShai/va | 
+(56)[P25] 5.5.5.4(46)-  sa/rvata+ScakShuShA |
+sa/rvata+ScakShu/ShEti+ sa/rvata+H - ca/kShu/ShA/ | 
 (57)[P25] 5.5.5.4(47)-  E/va | tat |
 E/va tat tadE/3 vaiva tat | 
 (58)[P25] 5.5.5.4(48)-  tat | a/g3ninA% |
@@ -2995,7 +2995,7 @@ sami+d3dha/4 iti/ saM - i/d3dhE/4 |
 (36)[P26] 5.5.6.1(35)-  E/va | a/smi/nn |
 E/vAsmi+n-nasmin-nE/vai vAsminn+ | 
 (37)[P26] 5.5.6.1(36)-  a/smi/nn | i/~nd3ri/yam |
-A/smi/n-ni/~nd3ri/ya mi+~nd3ri/ya ma+smin-nasmin-ni~nd3ri/yam | 
+a/smi/n-ni/~nd3ri/ya mi+~nd3ri/ya ma+smin-nasmin-ni~nd3ri/yam | 
 (38)[P26] 5.5.6.1(37)-  i/~nd3ri/yam | da/3dhA/4ti/ |
 i/~nd3ri/yam da+3dhA4ti da3dhA4tI~nd3ri/ya mi+~nd3ri/yam da+3dhA4ti | 
 (39)[P26] 5.5.6.1(38)-  da/3dhA/4ti/ | a/g3nEH |
@@ -3058,11 +3058,11 @@ yA/tayA%mnIra/nyA a/nyA yA/tayA%mnIr yA/tayA%mnI ra/nyAH |
 yA/tayA%mnI/riti+ yA/ta - yA/mnI/H | 
 (17)[P27] 5.5.6.2(14)-  a/nyAH | iShTa+kAH |
 a/nyA iShTa+kA/ iShTa+kA a/nyA a/nyA iShTa+kAH | 
-(18)[P27] 5.5.6.2(15)-  iShTa+kAH | ayA+tayA/mnI |
-iShTa+kA/ ayA+tayA/ mnyayA+tayA/ mnIShTa+kA/ iShTa+kA/ ayA+tayA/mnI | 
-(19)[P27] 5.5.6.2(16)-  ayA+tayA/mnI | lO/ka/MpRu/NA |
-ayA+tayA/mnI lO+kaMpRu/NA lO+kaMpRu/NA &yA+tayA/ mnyayA+tayA/mnI lO+kaMpRu/NA | 
-(20)[P27] 5.5.6.2(16)-  ayA+tayA/mnI |
+(18)[P27] 5.5.6.2(15)-  iShTa+kAH | ayA+tayAmnI |
+iShTa+kA/ ayA+tayA/ mnyayA+tayA/ mnIShTa+kA/ iShTa+kA/ ayA+tayAmnI | 
+(19)[P27] 5.5.6.2(16)-  ayA+tayAmnI | lO/ka/MpRu/NA |
+ayA+tayAmnI lOkaMpRu/NA lO+kaMpRu/NA &yA+tayA/ mnyayA+tayAmnI lOkaMpRu/NA | 
+(20)[P27] 5.5.6.2(16)-  ayA+tayAmnI |
 ayA+tayA/mnItyayA+ta - yA/mnI/ | 
 (21)[P27] 5.5.6.2(17)-  lO/ka/MpRu/NA | iti+ |
 lO/ka/MpRu/NEtIti+ lOkaMpRu/NA lO+kaMpRu/NEti+ | 
@@ -3843,7 +3843,7 @@ E/ShA vai vA E/ShaiShA vai |
 (57)[P33] 5.5.7.5(52)-  vai | a/g3nEH |
 vA a/g3nE ra/g3nEr vai vA a/g3nEH | 
 (58)[P33] 5.5.7.5(53)-  a/g3nEH | Apti+H |
-A/g3nE rApti/ rApti+ ra/g3nE ra/g3nE rApti+H | 
+a/g3nE rApti/ rApti+ ra/g3nE ra/g3nE rApti+H | 
 (59)[P33] 5.5.7.5(54)-  Apti+H | tayA% |
 Apti/ stayA/ tayA &&pti/ rApti/ stayA% | 
 (60)[P33] 5.5.7.5(55)-  tayA% | E/va |
@@ -4305,7 +4305,7 @@ tasyA% stE tE/ tasyA/ stasyA% stE |
 (34)[P37] 5.5.9.1(33)-  tE/ | ~nama+H |
 tE/ ~namO/ ~nama+ stE tE/ ~nama+H | 
 (35)[P37] 5.5.9.1(34)-  ~nama+H | tasyA%H |
-Nama/ stasyA/ stasyA/ ~namO/ ~nama/ stasyA%H | 
+nama/ stasyA/ stasyA/ ~namO/ ~nama/ stasyA%H | 
 (36)[P37] 5.5.9.1(35)-  tasyA%H | tE/ |
 tasyA% stE tE/ tasyA/ stasyA% stE | 
 (37)[P37] 5.5.9.1(36)-  tE/ | upa+ |
@@ -4459,7 +4459,7 @@ sa/ha ~namO/ ~nama+H sa/ha sa/ha ~nama+H |
 (5)[P39] 5.5.9.3(5)-  tE/ | a/stu/ |
 tE/ a/stva/stu/ tE/ tE/ a/stu/ | 
 (6)[P39] 5.5.9.3(6)-  a/stu/ | mA |
-a/stu/ mA mA a+stvastu/ mA | 
+a/stu/ mA mA &stva+stu/ mA | 
 (7)[P39] 5.5.9.3(7)-  mA | mA/ |
 mA mA+ mA/ mA mA mA% | 
 (8)[P39] 5.5.9.3(8)-  mA/ | hi/(gm)/sI/H |
@@ -4470,11 +4470,11 @@ hi/(gm)/sI/ rapApa+ hi(gm)sIr. hi(gm)sI/ rapa+ |
 apa/ vai vA apApa/ vai | 
 (11)[P39] 5.5.9.3(11)-  vai | E/tasmA%t |
 vA E/tasmA+ dE/3tasmA/d3 vai vA E/tasmA%t | 
-(12)[P39] 5.5.9.3(12)-  E/tasmA%t | prA/NaH |
-E/tasmA%t prA/NaH prA/Na E/tasmA+ dE/3tasmA%t prA/NaH | 
-(13)[P39] 5.5.9.3(13)-  prA/NaH | krA/ma/~nti/ |
-prA/NaH krA+ma~nti krAma~nti prA/NaH prA/NaH krA+ma~nti | 
-(14)[P39] 5.5.9.3(13)-  prA/NaH |
+(12)[P39] 5.5.9.3(12)-  E/tasmA%t | prA/NAH |
+E/tasmA%t prA/NAH prA/NA E/tasmA+ dE/3tasmA%t prA/NAH | 
+(13)[P39] 5.5.9.3(13)-  prA/NAH | krA/ma/~nti/ |
+prA/NAH krA+ma~nti krAma~nti prA/NAH prA/NAH krA+ma~nti | 
+(14)[P39] 5.5.9.3(13)-  prA/NAH |
 prA/NA iti+ pra - a/nAH | 
 (15)[P39] 5.5.9.3(14)-  krA/ma/~nti/ | yaH |
 krA/ma/~nti/ yO yaH krA+ma~nti krAma~nti/ yaH | 
@@ -4888,14 +4888,14 @@ tasyA% stE tE/ tasyA/ stasyA% stE |
 tE/ varu+NO/ varu+Na stE tE/ varu+NaH | 
 (14)[P43] 5.5.10.2(11)-  varu+NaH | adhi+4patiH |
 varu/NO &dhi+4pati/ radhi+4pati/r varu+NO/ varu/NO &dhi+4patiH | 
-(15)[P43] 5.5.10.2(12)-  adhi+4patiH | ti/raSva+rAjiH |
-adhi+4pati sti/raSva+rAji sti/raSva+rAji/ radhi+4pati/ radhi+4pati sti/raSva+rAjiH | 
+(15)[P43] 5.5.10.2(12)-  adhi+4patiH | ti/raSca+rAjiH |
+adhi+4pati sti/raSca+rAji sti/raSca+rAji/ radhi+4pati/ radhi+4pati sti/raSca+rAjiH | 
 (16)[P43] 5.5.10.2(12)-  adhi+4patiH |
 adhi+4pati/rityadhi+4 - pa/ti/H | 
-(17)[P43] 5.5.10.2(13)-  ti/raSva+rAjiH | adhi+4patnI |
-ti/raSva+rAji/ radhi+4pa/tnya dhi+4patnI ti/raSva+rAji sti/raSva+rAji/ radhi+4patnI | 
-(18)[P43] 5.5.10.2(13)-  ti/raSva+rAjiH |
-ti/raSva+rAji/riti+ ti/raSva+ - rA/ji/H | 
+(17)[P43] 5.5.10.2(13)-  ti/raSca+rAjiH | adhi+4patnI |
+ti/raSca+rAji/ radhi+4pa/tnya dhi+4patnI ti/raSca+rAji sti/raSca+rAji/ radhi+4patnI | 
+(18)[P43] 5.5.10.2(13)-  ti/raSca+rAjiH |
+ti/raSca+rAji/riti+ ti/raSca+ - rA/ji/H | 
 (19)[P43] 5.5.10.2(14)-  adhi+4patnI | ~nAma+ |
 adhi+4patnI/ ~nAma/ ~nAmA dhi+4pa/tnya dhi+4patnI/ ~nAma+ | 
 (20)[P43] 5.5.10.2(14)-  adhi+4patnI |
@@ -5770,11 +5770,11 @@ kRuShNO/ rAtri+yai/ rAtri+yai/ kRuShNa/H kRuShNO/ rAtri+yai |
 rAtri+yai pi/kaH pi/kO rAtri+yai/ rAtri+yai pi/kaH | 
 (14)[P53] 5.5.15.1(12)-  pi/kaH | kShvi~gkA% |
 pi/kaH kShvi~gkA/ kShvi~gkA+ pi/kaH pi/kaH kShvi~gkA% | 
-(15)[P53] 5.5.15.1(13)-  kShvi~gkA% | ~nIla+SI/rShNI |
-kShvi~gkA/ ~nIla+SI/rShNI ~nIla+SI/rShNI kShvi~gkA/ kShvi~gkA/ ~nIla+SI/rShNI | 
-(16)[P53] 5.5.15.1(14)-  ~nIla+SI/rShNI | tE |
-~nIla+SI/rShNI tE tE ~nIla+SI/rShNI ~nIla+SI/rShNI tE | 
-(17)[P53] 5.5.15.1(14)-  ~nIla+SI/rShNI |
+(15)[P53] 5.5.15.1(13)-  kShvi~gkA% | ~nIla+SIrShNI |
+kShvi~gkA/ ~nIla+SIrShNI. ~nIla+SIrShNI/ kShvi~gkA/ kShvi~gkA/ ~nIla+SIrShNI | 
+(16)[P53] 5.5.15.1(14)-  ~nIla+SIrShNI | tE |
+~nIla+SIrShNI/ tE tE ~nIla+SIrShNI/ ~nIla+SIrShNI/ tE | 
+(17)[P53] 5.5.15.1(14)-  ~nIla+SIrShNI |
 ~nIla+SI/rShNIti/ ~nIla+ - SI/rShNI/ | 
 (18)[P53] 5.5.15.1(15)-  tE | a/rya/mNE |
 tE% &rya/mNE% &rya/mNE tE tE% &rya/mNE | 
