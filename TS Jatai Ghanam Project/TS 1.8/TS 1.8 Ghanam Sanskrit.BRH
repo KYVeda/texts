@@ -625,11 +625,11 @@ nir va#pati vapatiq nir Nir va#pati piqtRuBya#H piqtRuByo# vapatiq nir Nir va#pa
 8)	1.8.5.1(6)-  vaqpaqtiq | piqtRuBya#H | baqrq.hiqShadBya#H |
 vaqpaqtiq piqtRuBya#H piqtRuByo# vapati vapati piqtRuByo# bar.hiqShadByo# bar.hiqShadBya#H piqtRuByo# vapati vapati piqtRuByo# bar.hiqShadBya#H | 
 9)	1.8.5.1(7)-  piqtRuBya#H | baqrq.hiqShadBya#H | dhAqnAH | (GS1.8-6)
-piqtRuByo# bar.hiqShadByo# bar.hiqShadBya#H piqtRuBya#H piqtRuByo# bar.hiqShadByo# dhAqnA dhAqnA ba#r.hiqShadBya#H piqtRuBya#H piqtRuByo# bar.hiqShadByo# dhAqnAH | 
+piqtRuByo# bar.hiqShadByo# bar.hiqShadBya#H piqtRuBya#H piqtRuByo# bar.hiqShadByo# dhAqnA dhAqnA ba#rhiqShadBya#H piqtRuBya#H piqtRuByo# bar.hiqShadByo# dhAqnAH | 
 10)	1.8.5.1(7)-  piqtRuBya#H | (GS1.8-6)
 piqtRuByaq iti# piqtRu - ByaqH | 
 11)	1.8.5.1(8)-  baqrq.hiqShadBya#H | dhAqnAH | piqtRuBya#H | (GS1.8-6)
-baqrq.hiqShadByo# dhAqnA dhAqnA ba#r.hiqShadByo# bar.hiqShadByo# dhAqnAH piqtRuBya#H piqtRuByo# dhAqnA ba#r.hiqShadByo# bar.hiqShadByo# dhAqnAH piqtRuBya#H | 
+baqrq.hiqShadByo# dhAqnA dhAqnA ba#rhiqShadByo# bar.hiqShadByo# dhAqnAH piqtRuBya#H piqtRuByo# dhAqnA ba#rhiqShadByo# bar.hiqShadByo# dhAqnAH piqtRuBya#H | 
 12)	1.8.5.1(8)-  baqrq.hiqShadBya#H | (GS1.8-6)
 baqr.qhiqShadByaq iti# bar.hiqShad - ByaqH | 
 13)	1.8.5.1(9)-  dhAqnAH | piqtRuBya#H | aqgniqShvAqtteBya#H | (GS1.8-6)
@@ -4808,9 +4808,9 @@ somA#ruqdretiq somA$ - ruqdrAq |
 30)	1.8.22.5(27)-  yuqvam | eqtAni# | aqsme |
 yuqva meqtAnyeqtAni# yuqvaM ~Myuqva meqtA nyaqsme aqsme eqtAni# yuqvaM ~Myuqva meqtA nyaqsme | 
 31)	1.8.22.5(28)-  eqtAni# | aqsme | viSvA$ |
-eqtA nyaqsme aqsme eqtA nyeqtA nyaqsme viSvAq viSvA# aqsme eqtA nyeqtA nyaqsme viSvA$ | 
+eqtA nyaqsme aqsme eqtA nyeqtA nyaqsme viSvAq viSvAq&sme eqtA nyeqtA nyaqsme viSvA$ | 
 32)	1.8.22.5(29)-  aqsme | viSvA$ | taqnUShu# |
-aqsme viSvAq viSvA# aqsme aqsme viSvA# taqnUShu# taqnUShuq viSvA# aqsme aqsme viSvA# taqnUShu# | 
+aqsme viSvAq viSvAq&sme aqsme viSvA# taqnUShu# taqnUShuq viSvAq&sme aqsme viSvA# taqnUShu# | 
 33)	1.8.22.5(29)-  aqsme |
 aqsme ityaqsme | 
 34)	1.8.22.5(30)-  viSvA$ | taqnUShu# | BeqShaqjAni# |
@@ -4908,7 +4908,7 @@ soqmAqpUqShaByAqmiti# somApUqSha - ByAqm |
 80)	1.8.22.5(74)-  jaqnaqt | uqsriyA#su ||
 jaqnaq duqsriyA#sUq sriyA#su janaj jana duqsriyA#su | 
 81)	1.8.22.5(75)-  uqsriyA#su ||
-uqsriqyAqsvityuqsriyA#su | 
+uqsriyAqsvityuqsriyA#su | 
 ====== SuBam=====
 
 Summary stats:
