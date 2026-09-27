@@ -122,7 +122,7 @@ vasu#Byaq itiq vasu# - ByaqH |
 (3)[P2] 4.4.1.2(2)-  tvAq | vasUn# |
 tvAq vasUqnq. vasU$n tvA tvAq vasUn# | 
 (4)[P2] 4.4.1.2(3)-  vasUn# | jiqnvaq |
-vasU$n jinva jinvaq vasUqnq. vasU$n jinva | 
+vasU$~j jinva jinvaq vasUqnq. vasU$~j jinva | 
 (5)[P2] 4.4.1.2(4)-  jiqnvaq | praqkeqtaH |
 jiqnvaq praqkeqtaH pra#keqto ji#nva jinva prakeqtaH | 
 (6)[P2] 4.4.1.2(5)-  praqkeqtaH | aqsiq |
@@ -136,7 +136,7 @@ ruqdreBya# stvA tvA ruqdreByo# ruqdreBya# stvA |
 (10)[P2] 4.4.1.2(8)-  tvAq | ruqdrAn |
 tvAq ruqdrAn ruqdrAn tvA$ tvA ruqdrAn | 
 (11)[P2] 4.4.1.2(9)-  ruqdrAn | jiqnvaq |
-ruqdrAn ji#nva jinva ruqdrAn ruqdrAn ji#nva | 
+ruqdrA~j ji#nva jinva ruqdrAn ruqdrA~j ji#nva | 
 (12)[P2] 4.4.1.2(10)-  jiqnvaq | suqdIqtiH |
 jiqnvaq suqdIqtiH su#dIqtir ji#nva jinva sudIqtiH | 
 (13)[P2] 4.4.1.2(11)-  suqdIqtiH | aqsiq |
@@ -150,7 +150,7 @@ AqdiqtyeBya# stvA tvA &&diqtyeBya# AdiqtyeBya# stvA |
 (17)[P2] 4.4.1.2(14)-  tvAq | AqdiqtyAn |
 tvAq &&diqtyA-nA#diqtyAn tvA$ tvA &&diqtyAn | 
 (18)[P2] 4.4.1.2(15)-  AqdiqtyAn | jiqnvaq |
-AqdiqtyAn ji#nva jinvAdiqtyA-nA#diqtyAn ji#nva | 
+AqdiqtyA~j ji#nva jinvAdiqtyA-nA#diqtyA~j ji#nva | 
 (19)[P2] 4.4.1.2(16)-  jiqnvaq | oja#H |
 jiqnvaujaq ojo# jinva jiqnvauja#H | 
 (20)[P2] 4.4.1.2(17)-  oja#H | aqsiq |
@@ -164,7 +164,7 @@ piqtRuByaq iti# piqtRu - ByaqH |
 (24)[P2] 4.4.1.2(20)-  tvAq | piqtRUn | (GS-4.4-3)
 tvAq piqtRUn piqtRU(gg)s tvA$ tvA piqtRUn | 
 (25)[P2] 4.4.1.2(21)-  piqtRUn | jiqnvaq | (GS-4.4-3)
-piqtRUn ji#nva jinva piqtRUn piqtRUn ji#nva | 
+piqtRU~j ji#nva jinva piqtRUn piqtRU~j ji#nva | 
 (26)[P2] 4.4.1.2(22)-  jiqnvaq | tantu#H |
 jiqnvaq tantuq stantu#r jinva jinvaq tantu#H | 
 (27)[P2] 4.4.1.2(23)-  tantu#H | aqsiq |
@@ -194,7 +194,7 @@ paqSuByaq iti# paqSu - ByaqH |
 (39)[P2] 4.4.1.2(32)-  tvAq | paqSUn |
 tvAq paqSUn paqSUn tvA$ tvA paqSUn | 
 (40)[P2] 4.4.1.2(33)-  paqSUn | jiqnvaq |
-paqSUn ji#nva jinva paqSUn paqSUn ji#nva | 
+paqSU~j ji#nva jinva paqSUn paqSU~j ji#nva | 
 (41)[P2] 4.4.1.2(34)-  jiqnvaq | reqvat |
 jiqnvaq reqvad reqvaj ji#nva jinva reqvat | 
 (42)[P2] 4.4.1.2(35)-  reqvat | aqsiq |
@@ -2852,11 +2852,11 @@ taqnUqpA viqrAjA# viqrAjA# tanUqpA sta#nUqpA viqrAjA$ |
 (35)[P24] 4.4.8.1(26)-  taqnUqpAH |
 taqnUqpA iti# tanU - pAH | 
 (36)[P24] 4.4.8.1(27)-  viqrAjA$ | jyoti#ShmAn |
-viqrAjAq jyoti#ShmAqn jyoti#ShmAn. viqrAjA# viqrAjAq jyoti#ShmAn | 
+viqrAjAq jyoti#ShmAq~j jyoti#ShmAn. viqrAjA# viqrAjAq jyoti#ShmAn | 
 (37)[P24] 4.4.8.1(27)-  viqrAjA$ |
 viqrAjeti# vi - rAjA$ | 
 (38)[P24] 4.4.8.1(28)-  jyoti#ShmAn | brahma#NA |
-jyoti#ShmAqn brahma#NAq brahma#NAq jyoti#ShmAqn jyoti#ShmAqn brahma#NA | 
+jyoti#ShmAqn brahma#NAq brahma#NAq jyoti#ShmAq~j jyoti#ShmAqn brahma#NA | 
 (39)[P24] 4.4.8.1(29)-  brahma#NA | soqmaqpAH |
 brahma#NA somaqpAH so#maqpA brahma#NAq brahma#NA somaqpAH | 
 (40)[P24] 4.4.8.1(30)-  soqmaqpAH | goBi#H |
