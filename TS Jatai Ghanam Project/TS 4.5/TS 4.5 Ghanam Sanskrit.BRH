@@ -181,11 +181,11 @@ BiqShagiti# BiqShak |
 34)	4.5.1.2(31)-  ahIn# | caq | sarvAn$ | (GS-4.5-4)
 ahI(gg)#Scaq cAhIq nahI(gg)#Scaq sarvAqn thsarvAq(gg)qScAhIq nahI(gg)#Scaq sarvAn# | 
 35)	4.5.1.2(32)-  caq | sarvAn$ | jaqMBayann# | (GS-4.5-4)
-caq sarvAqn thsarvA(gg)#Sca caq sarvA$n jaqMBaya#n jaqMBayaqn thsarvA(gg)#Sca caq sarvA$n jaqMBayann# | 
+caq sarvAqn thsarvA(gg)#Sca caq sarvA$~j jaqMBaya#~j jaqMBayaqn thsarvA(gg)#Sca caq sarvA$~j jaqMBayann# | 
 36)	4.5.1.2(33)-  sarvAn$ | jaqMBayann# | sarvA$H | 
-sarvA$n jaqMBaya#n jaqMBayaqn thsarvAqn thsarvA$n jaqMBayaqn thsarvAqH sarvA# jaqMBayaqn thsarvAqn thsarvA$n jaqMBayaqn thsarvA$H | 
+sarvA$~j jaqMBaya#~j jaqMBayaqn thsarvAqn thsarvA$~j jaqMBayaqn thsarvAqH sarvA# jaqMBayaqn thsarvAqn thsarvA$~j jaqMBayaqn thsarvA$H | 
 37)	4.5.1.2(34)-  jaqMBayann# | sarvA$H | caq | 
-jaqMBayaqn thsarvAqH sarvA# jaqMBaya#n jaqMBayaqn thsarvA$Sca caq sarvA# jaqMBaya#n jaqMBayaqn thsarvA$Sca | 
+jaqMBayaqn thsarvAqH sarvA# jaqMBaya#~j jaqMBayaqn thsarvA$Sca caq sarvA# jaqMBaya#~j jaqMBayaqn thsarvA$Sca | 
 38)	4.5.1.2(35)-  sarvA$H | caq | yAqtuqdhAqnya#H ||
 sarvA$Sca caq sarvAqH sarvA$Sca yAtudhAqnyo# yAtudhAqnya#Scaq sarvAqH sarvA$Sca yAtudhAqnya#H | 
 39)	4.5.1.2(36)-  caq | yAqtuqdhAqnya#H ||
@@ -424,9 +424,9 @@ teq dhanuqr dhanu# ste teq dhanu#H |
 45)	4.5.1.4(36)-  dhanu#H ||
 dhanuqritiq dhanu#H | 
 46)	4.5.1.4(37)-  tayA$ | aqsmAn | viqSvata#H |
-tayAq &smA naqsmAn tayAq tayAq &smAn. viqSvato# viqSvato# aqsmAn tayAq tayAq &smAn. viqSvata#H | 
+tayAq &smA naqsmAn tayAq tayAq &smAn viqSvato# viqSvato# aqsmAn tayAq tayAq &smAn viqSvata#H | 
 47)	4.5.1.4(38)-  aqsmAn | viqSvata#H | tvam |
-aqsmAn. viqSvato# viqSvato# aqsmA naqsmAn. viqSvataq stvam tvaM ~MviqSvato# aqsmA naqsmAn. viqSvataq stvam | 
+aqsmAn viqSvato# viqSvato# aqsmA naqsmAn viqSvataq stvam tvaM ~MviqSvato# aqsmA naqsmAn viqSvataq stvam | 
 48)	4.5.1.4(39)-  viqSvata#H | tvam | aqyaqkShmayA$ |
 viqSvataq stvam tvaM ~MviqSvato# viqSvataq stva ma#yaqkShmayA# &yaqkShmayAq tvaM ~MviqSvato# viqSvataq stva ma#yaqkShmayA$ | 
 49)	4.5.1.4(40)-  tvam | aqyaqkShmayA$ | pari# |
@@ -2700,9 +2700,9 @@ viqviddhya#ntiq pAtre#Shuq pAtre#Shu viqviddhya#nti viqviddhya#ntiq pAtre#Shuq p
 50)	4.5.11.1(40)-  viqviddhya#nti |
 viqviddhyaqntIti# vi - viddhya#nti | 
 51)	4.5.11.1(41)-  pAtre#Shu | piba#taH | janAn# ||
-pAtre#Shuq piba#taqH piba#taqH pAtre#Shuq pAtre#Shuq piba#toq janAqn janAqn piba#taqH pAtre#Shuq pAtre#Shuq piba#toq janAn# | 
+pAtre#Shuq piba#taqH piba#taqH pAtre#Shuq pAtre#Shuq piba#toq janAq~j janAqn piba#taqH pAtre#Shuq pAtre#Shuq piba#toq janAn# | 
 52)	4.5.11.1(42)-  piba#taH | janAn# ||
-piba#toq janAqn janAqn piba#taqH piba#toq janAn# | 
+piba#toq janAq~j janAqn piba#taqH piba#toq janAn# | 
 53)	4.5.11.1(43)-  janAn# ||
 janAqnitiq janAn# | 
 54)	4.5.11.1(44)-  ye | paqthAm | paqthiqrakSha#yaH |
