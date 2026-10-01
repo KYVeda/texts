@@ -1,3 +1,5 @@
+ver 1.0 dt 30 Sep 2026
+
 (1)[P21] 7.5.1.1(1)-  gA3va+H | vai |
 gA3vO/ vai vai gA3vO/ gA3vO/ vai | 
 (2)[P21] 7.5.1.1(2)-  vai | E/tat |
@@ -608,12 +610,12 @@ yadE/3ta E/tE yad3 yadE/3tE |
 E/tE stOmA/H stOmA+ E/ta E/tE stOmA%H | 
 (57)[P25] 7.5.1.5(47)-  stOmA%H | Ba4va+~nti |
 stOmA/ Ba4va+~nti/ Ba4va+~nti/ stOmA/H stOmA/ Ba4va+~nti | 
-(58)[P25] 7.5.1.5(48)-  Ba4va+~nti | da/3va/yAnE+na |
-Ba4va+~nti da3va/yAnE+na da3va/yAnE+na/ Ba4va+~nti/ Ba4va+~nti da3va/yAnE+na | 
-(59)[P25] 7.5.1.5(49)-  da/3va/yAnE+na | E/va |
-da/3va/yAnE+ ~nai/vaiva da+3va/yAnE+na da3va/yAnE+ ~nai/va | 
-(60)[P25] 7.5.1.5(49)-  da/3va/yAnE+na |
-da/3va/yAnE/nEti+ dE3va - yAnE+na | 
+(58)[P25] 7.5.1.5(48)-  Ba4va+~nti | dE/3va/yAnE+na |
+Ba4va+~nti dE3va/yAnE+na dE3va/yAnE+na/ Ba4va+~nti/ Ba4va+~nti dE3va/yAnE+na | 
+(59)[P25] 7.5.1.5(49)-  dE/3va/yAnE+na | E/va |
+dE/3va/yAnE+ ~nai/vaiva dE+3va/yAnE+na dE3va/yAnE+ ~nai/va | 
+(60)[P25] 7.5.1.5(49)-  dE/3va/yAnE+na |
+dE/3va/yAnE/nEti+ dE3va - yAnE+na | 
 (61)[P25] 7.5.1.5(50)-  E/va | tat |
 E/va tat tadE/3vaiva tat | 
 (1)[P26] 7.5.1.6(1)-  tat | pa/thA2 |
@@ -3019,7 +3021,7 @@ Ba/4va/~nti/ ~na/vaBi+4r ~na/vaBi+4r Ba4va~nti Ba4va~nti ~na/vaBi+4H |
 (13)[P224] 7.5.8.2(10)-  ~na/vaBi+4H |
 ~na/vaBi/4riti+ ~na/va - Bi/4H | 
 (14)[P224] 7.5.8.2(11)-  a/d3dh4va/ryuH | ut |
-a/d3dh4va/ry urudu3 da+3d3dh4va/ryu ra+d3dh4va/ryu rut | 
+a/d3dh4va/ryu rudu3 da+3d3dh4va/ryu ra+d3dh4va/ryu rut | 
 (15)[P224] 7.5.8.2(12)-  ut | gA/3ya/ti/ |
 ud3 gA+3yati gA3ya/ tyudu3d3 gA+3yati | 
 (16)[P224] 7.5.8.2(13)-  gA/3ya/ti/ | ~nava+ |
@@ -3445,7 +3447,7 @@ A/sa/~ndI3 mu+d3^gA/3 tOd3^gA/3tA &&sa/~ndI3 mA+sa/~ndI3 mu+d3^gA/3tA |
 (34)[P227] 7.5.8.5(25)-  A/sa/~ndI3m | (G4S-7.5-18)
 A/sa/~ndI3mityA% - sa/~ndI3m | 
 (35)[P227] 7.5.8.5(26)-  u/d3^gA/3tA | A rO/ha/ti/ | (J2M-5,G4S-7.5-18)
-u/d3^gA/3 &&rO+hati rOha tyOd3^gA/3tA tOd3^gA/3tA &&rO+hati | 
+u/d3^gA/3tA &&rO+hati rOha tyOd3^gA/3tA tOd3^gA/3tA &&rO+hati | 
 (36)[P227] 7.5.8.5(26)-  u/d3^gA/3tA | (J2M-5,G4S-7.5-18)
 u/d3^gA/3tEtyu+t - gA/3tA | 
 (37)[P227] 7.5.8.5(27)-  A | rO/ha/ti/ | (J2M-5,G4S-7.5-18)
@@ -4650,9 +4652,10 @@ GO4ShA+ya tvA tvA/ GO4ShA+ya/ GO4ShA+ya tvA |
 tvA/ pOShA+ya/ pOShA+ya tvA tvA/ pOShA+ya | 
 (38)[P237] 7.5.13.1(33)-  pOShA+ya | tvA/ |
 pOShA+ya tvA tvA/ pOShA+ya/ pOShA+ya tvA | 
-(39)[P237] 7.5.13.1(34)-  tvA/ | A/rA/d3G4^O/ShAya+ |
-tvA/ &&rA/d3G4^O/ShAyA+ rAd3G4^O/ShAya+ tvA tvA &&rAd3G4^O/ShAya+ | 
-(40)[P237] 7.5.13.1(35)-  A/rA/d3G4^O/ShAya+ | tvA/ |
+(39)[P237] 7.5.13.1(34)-  tvA/ | A/rA/d3G4O/ShAya+ |
+tvA/ &&rA/d3G4O/ShAyA+ rAd3G4O/ShAya+ tvA tvA 
+&&rAd3G4O/ShAya+ | 
+(40)[P237] 7.5.13.1(35)-  A/rA/d3G4O/ShAya+ | tvA/ |
 A/rA/d3^GO/4ShAya+ tvA tvA &&rAd3^GO/4ShAyA+ rAd3^GO/4ShAya+ tvA | 
 (41)[P237] 7.5.13.1(35)-  A/rA/d3^GO/4ShAya+ |
 A/rA/d3^GO/4ShAyEtyA+rAt - GO/4ShAya+ | 
@@ -5847,7 +5850,7 @@ d3yAvA+pRuthi/2vIB4yA+ ma(gm)hO/mug3B4yA+ ma(gm)hO/mug3B4yA/m d3yAvA+pRuthi/2vIB
 (46)[P249] 7.5.22.1(28)-  d3yAvA+pRuthi/2vIB4yA%m |
 d3yAvA+pRuthi/2vIB4yA/miti/ d3yAvA% - pRu/thi/2vIB4yA%m | 
 (47)[P249] 7.5.22.1(29)-  a/(gm)/hO/mug3B4yA%m | d3vi/ka/pA/laH ||
-a/(gm)/hO/mug3B4yA%m d3vikapA/lO d3vi+kapA/lO &(gm)hO/mug3B4yA+ ma(gm)hO/mug3B4yA%m d3vikapA/laH | 
+a/(gm)/hO/mug3B4yA%m d3vikapA/lO d3vi+kapA/lO &(gm)+hO/mug3B4yA+ ma(gm)hO/mug3B4yA%m d3vikapA/laH | 
 (48)[P249] 7.5.22.1(29)-  a/(gm)/hO/mug3B4yA%m |
 a/(gm)/hO/mug3B4yA/mitya(gm)+hO/muk - B4yA/m | 
 (49)[P249] 7.5.22.1(30)-  d3vi/ka/pA/laH ||
@@ -6413,7 +6416,7 @@ vA/jI ga+3~ndha/4rvAn ga+3~ndha/4rvAn. vA/jI vA/jI ga+3~ndha/4rvAn |
 (56)[P254] 7.5.25.2(54)-  ga/3~ndha/4rvAn | aSva+H |
 ga/3~ndha/4rvA-naSvO &SvO+ ga3~ndha/4rvAn ga+3~ndha/4rvA-naSva+H | 
 (57)[P254] 7.5.25.2(55)-  aSva+H | ma/nu/ShyAn+ |
-aSvO+ manu/ShyA%n manu/ShyA/-naSvO &SvO+ manu/ShyAn+ | 
+aSvO+ manu/ShyA%n manu/ShyA+naSvO &SvO+ manu/ShyAn+ | 
 (58)[P254] 7.5.25.2(56)-  ma/nu/ShyAn+ | sa/mu/d3raH |
 ma/nu/ShyA%n th2samu/d3raH sa+mu/d3rO ma+nu/ShyA%n manu/ShyA%n th2samu/d3raH | 
 (59)[P254] 7.5.25.2(57)-  sa/mu/d3raH | vai |
