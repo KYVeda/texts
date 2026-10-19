@@ -1,3 +1,5 @@
+ver 2.0 dt 31st Oct 2026
+
 (1)[P21] 4.6.1.1(1)-  aSmann+ | Urja%m |
 aSma/n-nUrja/-mUrja/-maSma/n-naSma/n-nUrja%m | 
 (2)[P21] 4.6.1.1(2)-  Urja%m | parva+tE |
@@ -333,9 +335,9 @@ va/na/sadE/3 vaD3 vaD3 va+na/sadE+3 vana/sadE/3 vaT |
 (5)[P24] 4.6.1.4(3)-  va/na/sadE%3 | (G4S-4.6-7)
 va/na/sada/3 iti+ vana - sadE%3 | 
 (6)[P24] 4.6.1.4(4)-  vaT | ba/3r/.hi/ShadE%3 | (G4S-4.6-7)
-vaD3 ba+3r.hi/ShadE+3 ba3r.hi/ShadE/3 vaD3 vaD3 ba+3r.hi/ShadE%3 | 
+vaD3 ba+3rhi/ShadE+3 ba3r.hi/ShadE/3 vaD3 vaD3 ba+3rhi/ShadE%3 | 
 (7)[P24] 4.6.1.4(5)-  ba/3r/.hi/ShadE%3 | vaT | (G4S-4.6-7)
-ba/3r/.hi/ShadE/3 vaD3 vaD3 ba+3r.hi/ShadE+3 ba3r.hi/ShadE/3 vaT | 
+ba/3r/.hi/ShadE/3 vaD3 vaD3 ba+3rhi/ShadE+3 ba3r.hi/ShadE/3 vaT | 
 (8)[P24] 4.6.1.4(5)-  ba/3r/.hi/ShadE%3 | (G4S-4.6-7)
 ba/3r/.hi/Shada/3 iti+ ba3r.hi - sadE%3 | 
 (9)[P24] 4.6.1.4(6)-  vaT | su/va/rvidE%3 | (G4S-4.6-7)
@@ -706,10 +708,10 @@ a/smA/ RuSha+ya/ RuSha+yO asmA asmA/ RuSha+yaH |
 RuSha+ya/H pUrvE/ pUrva/ RuSha+ya/ RuSha+ya/H pUrvE% | 
 (20)[P27] 4.6.2.2(18)-  pUrvE% | ja/ri/tAra+H |
 pUrvE+ jari/tArO+ jari/tAra/H pUrvE/ pUrvE+ jari/tAra+H | 
-(21)[P27] 4.6.2.2(19)-  ja/ri/tAra+H | ~na/ |
-ja/ri/tArO+ ~na ~na jari/tArO+ jari/tArO+ ~na | 
-(22)[P27] 4.6.2.2(20)-  ~na/ | BU/4nA ||
-~na/ BU/4nA BU/4nA ~na+ ~na BU/4nA | 
+(21)[P27] 4.6.2.2(19)-  ja/ri/tAra+H | ~na |
+ja/ri/tArO/ ~na ~na jari/tArO+ jari/tArO/ ~na | 
+(22)[P27] 4.6.2.2(20)-  ~na | BU/4nA ||
+~na BU/4nA BU/4nA ~na ~na BU/4nA | 
 (23)[P27] 4.6.2.2(21)-  BU/4nA ||
 BU/4nEti+ BU/4nA | 
 (24)[P27] 4.6.2.2(22)-  a/sUrtA% | sUrtA% | (J2M-14,G4D3-24,G4S-4.6-12)
@@ -2181,7 +2183,7 @@ satva+nAm mAma/kAnA%m mAma/kAnA/(gm)/ satva+nA/(gm)/ satva+nAm mAma/kAnA%m |
 (18)[P219] 4.6.4.4(16)-  mA/ma/kAnA%m | mahA(gm)+si ||
 mA/ma/kAnA/m mahA(gm)+si/ mahA(gm)+si mAma/kAnA%m mAma/kAnA/m mahA(gm)+si | 
 (19)[P219] 4.6.4.4(17)-  mahA(gm)+si ||
-mahA(gm)+sIti/ mahA(gm)+si | 
+mahA/(gm)/sIti/ mahA(gm)+si | 
 (20)[P219] 4.6.4.4(18)-  ut | vRu/tra/ha/nn |
 ud3 vRu+trahan vRutraha/n-nudu3d3 vRu+trahann | 
 (21)[P219] 4.6.4.4(19)-  vRu/tra/ha/nn | vA/jinA%m |
@@ -2983,7 +2985,7 @@ E/tA/d3RukShA+sa u vu vEtA/d3RukShA+sa EtA/d3RukShA+sa u |
 (36)[P226] 4.6.5.6(29)-  u/ | su | ~na/H | (J2D3-5,G4D3-35,G4S-4.6-43)
 U/ Shu NO+ ~na/H sU+ Shu Na+H | 
 (37)[P226] 4.6.5.6(30)-  su | ~na/H | (J2D3-5,G4D3-35,G4S-4.6-43)
-su NO+ ~na/H su su Na+H | 
+su nO+ ~na/H su su na+H | 
 (38)[P226] 4.6.5.6(31)-  ~na/H | sa/d3RukShA+saH | (J2D3-5,G4D3-35,G4S-4.6-43)
 ~na/H sa/d3RukShA+saH sa/d3RukShA+sO ~nO ~naH sa/d3RukShA+saH | 
 (39)[P226] 4.6.5.6(32)-  sa/d3RukShA+saH | prati+sad3RukShAsaH | (G4S-4.6-43)

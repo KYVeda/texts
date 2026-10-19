@@ -1,4 +1,4 @@
-ver 1.0 dt 31st May 2024
+ver 2.0 dt 31st Oct 2026
 
 (1)[P1] 4.6.1.1(1)-  aSmann# | Urja$m |
 aSmaqn nUrjaq mUrjaq maSmaqn naSmaqn nUrja$m | 
@@ -335,9 +335,9 @@ vaqnaqsadEq vaD vaD va#naqsadE# vanaqsadEq vaT |
 (5)[P4] 4.6.1.4(3)-  vaqnaqsadE$ | (GS-4.6-7)
 vaqnaqsadaq iti# vana - sadE$ | 
 (6)[P4] 4.6.1.4(4)-  vaT | baqrq.hiqShadE$ | (GS-4.6-7)
-vaD ba#r.hiqShadE# bar.hiqShadEq vaD vaD ba#r.hiqShadE$ | 
+vaD ba#rhiqShadE# bar.hiqShadEq vaD vaD ba#rhiqShadE$ | 
 (7)[P4] 4.6.1.4(5)-  baqrq.hiqShadE$ | vaT | (GS-4.6-7)
-baqrq.hiqShadEq vaD vaD ba#r.hiqShadE# bar.hiqShadEq vaT | 
+baqrq.hiqShadEq vaD vaD ba#rhiqShadE# bar.hiqShadEq vaT | 
 (8)[P4] 4.6.1.4(5)-  baqrq.hiqShadE$ | (GS-4.6-7)
 baqrq.hiqShadaq iti# bar.hi - sadE$ | 
 (9)[P4] 4.6.1.4(6)-  vaT | suqvaqr^vidE$ | (GS-4.6-7)
@@ -708,10 +708,10 @@ aqsmAq RuSha#yaq RuSha#yO asmA asmAq RuSha#yaH |
 RuSha#yaqH pUr^vEq pUr^vaq RuSha#yaq RuSha#yaqH pUr^vE$ | 
 (20)[P7] 4.6.2.2(18)-  pUr^vE$ | jaqriqtAra#H |
 pUr^vE# jariqtArO# jariqtAraqH pUr^vEq pUr^vE# jariqtAra#H | 
-(21)[P7] 4.6.2.2(19)-  jaqriqtAra#H | naq |
-jaqriqtArO# na na jariqtArO# jariqtArO# na | 
-(22)[P7] 4.6.2.2(20)-  naq | BUqnA ||
-naq BUqnA BUqnA na# na BUqnA | 
+(21)[P7] 4.6.2.2(19)-  jaqriqtAra#H | na |
+jaqriqtArOq na na jariqtArO# jariqtArOq na | 
+(22)[P7] 4.6.2.2(20)-  na | BUqnA ||
+na BUqnA BUqnA na na BUqnA | 
 (23)[P7] 4.6.2.2(21)-  BUqnA ||
 BUqnEti# BUqnA | 
 (24)[P7] 4.6.2.2(22)-  aqsUrtA$ | sUrtA$ | (JM-14,GD-24,GS-4.6-12)
@@ -2183,7 +2183,7 @@ satva#nAm mAmaqkAnA$m mAmaqkAnAq(gm)q satva#nAq(gm)q satva#nAm mAmaqkAnA$m |
 (18)[P19] 4.6.4.4(16)-  mAqmaqkAnA$m | mahA(gm)#si ||
 mAqmaqkAnAqm mahA(gm)#siq mahA(gm)#si mAmaqkAnA$m mAmaqkAnAqm mahA(gm)#si | 
 (19)[P19] 4.6.4.4(17)-  mahA(gm)#si ||
-mahA(gm)#sItiq mahA(gm)#si | 
+mahAq(gm)qsItiq mahA(gm)#si | 
 (20)[P19] 4.6.4.4(18)-  ut | vRuqtraqhaqnn |
 ud vRu#trahan vRutrahaqn nudud vRu#trahann | 
 (21)[P19] 4.6.4.4(19)-  vRuqtraqhaqnn | vAqjinA$m |
@@ -2985,7 +2985,7 @@ EqtAqdRukShA#sa u vu vEtAqdRukShA#sa EtAqdRukShA#sa u |
 (36)[P26] 4.6.5.6(29)-  uq | su | naqH | (JD-5,GD-35,GS-4.6-43)
 Uq Shu NO# naqH sU# Shu Na#H | 
 (37)[P26] 4.6.5.6(30)-  su | naqH | (JD-5,GD-35,GS-4.6-43)
-su NO# naqH su su Na#H | 
+su nO# naqH su su na#H | 
 (38)[P26] 4.6.5.6(31)-  naqH | saqdRukShA#saH | (JD-5,GD-35,GS-4.6-43)
 naqH saqdRukShA#saH saqdRukShA#sO nO naH saqdRukShA#saH | 
 (39)[P26] 4.6.5.6(32)-  saqdRukShA#saH | prati#sadRukShAsaH | (GS-4.6-43)
