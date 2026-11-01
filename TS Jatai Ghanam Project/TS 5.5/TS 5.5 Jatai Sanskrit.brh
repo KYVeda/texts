@@ -1024,9 +1024,9 @@ mAq puru#ShAqH puru#ShA mA mAq puru#ShAH |
 (14)[P10] 5.5.2.3(13)-  puru#ShAH | upa# |
 puru#ShAq upopaq puru#ShAqH puru#ShAq upa# | 
 (15)[P10] 5.5.2.3(14)-  upa# | jIqvAqn |
-upa# jIvAn jIvAqnupopa# jIvAn | 
+upa# jIvA~j jIvAqnupopa# jIvAn | 
 (16)[P10] 5.5.2.3(15)-  jIqvAqn | iti# |
-jIqvAq nitIti# jIvAn jIvAqniti# | 
+jIqvAq nitIti# jIvA~j jIvAqniti# | 
 (17)[P10] 5.5.2.3(16)-  iti# | vai |
 itiq vai vA itItiq vai | 
 (18)[P10] 5.5.2.3(17)-  vai | aqgniH |
@@ -1346,7 +1346,7 @@ praivaiva pra praiva |
 (13)[P13] 5.5.2.6(11)-  eqva | jAqyaqteq |
 eqva jA#yate jAyata eqvaiva jA#yate | 
 (14)[P13] 5.5.2.6(12)-  jAqyaqteq | tAn |
-jAqyaqteq tA(gg) stAn jA#yate jAyateq tAn | 
+jAqyaqteq tA(gg) stA~j jA#yate jAyateq tAn | 
 (15)[P13] 5.5.2.6(13)-  tAn | ruqdrAH |
 tAn ruqdrA ruqdrA stA(gg) stAn ruqdrAH | 
 (16)[P13] 5.5.2.6(14)-  ruqdrAH | aqbruqvaqnn |
@@ -1412,7 +1412,7 @@ praivaiva pra praiva |
 (46)[P13] 5.5.2.6(42)-  eqva | jAqyaqteq |
 eqva jA#yate jAyata eqvaiva jA#yate | 
 (47)[P13] 5.5.2.6(43)-  jAqyaqteq | tAn |
-jAqyaqteq tA(gg) stAn jA#yate jAyateq tAn | 
+jAqyaqteq tA(gg) stA~j jA#yate jAyateq tAn | 
 (48)[P13] 5.5.2.6(44)-  tAn | AqdiqtyAH |
 tAnA#diqtyA A#diqtyA stA(gg) stAnA#diqtyAH | 
 (49)[P13] 5.5.2.6(45)-  AqdiqtyAH | aqbruqvaqnn |
@@ -2245,7 +2245,7 @@ saqmuqdrasya# vaqyuna#sya vaqyuna#sya samuqdrasya# samuqdrasya# vaqyuna#sya |
 (49)[P20] 5.5.4.3(39)-  vaqyuna#sya | patmann# |
 vaqyuna#syaq patmaqn patma#n. vaqyuna#sya vaqyuna#syaq patmann# | 
 (50)[P20] 5.5.4.3(40)-  patmann# | juqhomi# |
-patma#n juqhomi# juqhomiq patmaqn patma#n juqhomi# | 
+patma#~j juqhomi# juqhomiq patmaqn patma#~j juqhomi# | 
 (51)[P20] 5.5.4.3(41)-  juqhomi# | viqSvaka#rmaNe |
 juqhomi# viqSvaka#rmaNe viqSvaka#rmaNe juqhomi# juqhomi# viqSvaka#rmaNe | 
 (52)[P20] 5.5.4.3(42)-  viqSvaka#rmaNe | viSvA$ |
@@ -3211,9 +3211,9 @@ eqvAvA vaiqvai vAva# |
 (26)[P28] 5.5.6.3(25)-  ava# | ruqndheq |
 ava# rundhe ruqndhe &vAva# rundhe | 
 (27)[P28] 5.5.6.3(26)-  ruqndheq | janmann# |
-ruqndheq janmaqn janma#n rundhe rundheq janmann# | 
+ruqndheq janmaq~j janma#n rundhe rundheq janmann# | 
 (28)[P28] 5.5.6.3(27)-  janmann# | deqvAnA$m |
-janma#n deqvAnA$m deqvAnAqm janmaqn janma#n deqvAnA$m | 
+janma#n deqvAnA$m deqvAnAqm janmaq~j janma#n deqvAnA$m | 
 (29)[P28] 5.5.6.3(28)-  deqvAnA$m | viSa#H |
 deqvAnAqM ~MviSoq viSo# deqvAnA$m deqvAnAqM ~MviSa#H | 
 (30)[P28] 5.5.6.3(29)-  viSa#H | triqShu |
@@ -3237,7 +3237,7 @@ eqvAsmA# asmA eqvai vAsmai$ |
 (39)[P28] 5.5.6.3(38)-  aqsmaiq | loqkAn |
 aqsmaiq loqkAn ~MloqkA na#smA asmai loqkAn | 
 (40)[P28] 5.5.6.3(39)-  loqkAn | jyoti#ShmataH |
-loqkAn jyoti#Shmatoq jyoti#Shmato loqkAn ~MloqkAn jyoti#ShmataH | 
+loqkA~j jyoti#Shmatoq jyoti#Shmato loqkAn ~MloqkA~j jyoti#ShmataH | 
 (41)[P28] 5.5.6.3(40)-  jyoti#ShmataH | kaqroqtiq |
 jyoti#ShmataH karoti karotiq jyoti#Shmatoq jyoti#ShmataH karoti | 
 (42)[P28] 5.5.6.3(41)-  kaqroqtiq | yaH |
